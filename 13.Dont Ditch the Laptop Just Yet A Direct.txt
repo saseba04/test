@@ -28,7 +28,7 @@ Heather L. Urry1, Chelsea S. Crittle1, Victoria A. Floerke1, Michael Z. Leonard1
 Erica R. Albert1, Avram J. Block1, Caroline Ackerley Bollinger1, Emily M. Bowers1, Renee S. Brody1, Kelly C. Burk1, Ally Burnstein1, Allissa K. Chan1, Petrina C. Chan1, Lena J. Chang1, Emily Chen1, Chakrapand Paul Chiarawongse1, Gregory Chin1, Kathy Chin1,
 Ben G. Cooper1, Katherine Adele Corneilson1, Amanda M. Danielson1, Elizabeth S. Davis1, Ycar Devis1, Melissa Dong1, Elizabeth K. Dossett1, Nick Dulchin1, Vincent N. Duong1, Ben Ewing1, Julia Mansfield Fuller1, Thomas E. Gartman1, Chad R. Goldberg1, Jesse Greenfield1,
 Selena Groh1, Ross A. Hamilton1, Will Hodge1, Dylan Van Hong1, Joshua E. Insler1,2, Aava B. Jahan1, Jessica Paola Jimbo1,
-Emma M. Kahn1, Daniel Knight1, Grace E. Konstantin1, Caitlin Kornick1, Zachary J. Kramer1, Meghan S. Lauzé1, Misha S. Linnehan1, Tommaso Lombardi1, Hayley Long1,
+Emma M. Kahn1, Daniel Knight1, Grace E. Konstantin1, Caitlin Kornick1, Zachary J. Kramer1, Meghan S. LauzÃ©1, Misha S. Linnehan1, Tommaso Lombardi1, Hayley Long1,
 Alec J. Lotstein1, Myrna-Nahisha A. Lyncee1, Monica Gabriella Lyons1, Eli Maayan1, Nicole Marie May1, Elizabeth C. McCall1,
 Rhea Ann Charlotte Montgomery-Walsh1, Michael C. Morscher1, Amelia D. Moser1,3, Alexandra S. Mueller1, Christin A. Mujica1, Elim Na1,4, Isabelle R. Newman1, Meghan K. O'Brien1, Katherine Alexandra Ochoa Castillo1, Zaenab Ayotola Onipede1, Danielle A. Pace1, Jasper H. Park1, Angeliki Perdikari1,
 Catherine E. Perloff1, Rachel C. Perry1, Akash A. Pillai1, Avni Rajpal1, Emma Ranalli1, Jillian E. Schreier1, Justin R. Shangguan1,
@@ -295,7 +295,84 @@ Table 1. Analysis-of-Variance Results (Type III Sums of Squares): Effect of Note
 Measure and study	MSE   F(1, 4)   ? 2	p
 
 
-Factual recall (z index score)Mueller and Oppenheimer Study 10.220.05.00.84Replication study-all observations0.090.13.00.74Replication study-excluding influential observations0.070.00.00.98Conceptual application (z index score)Mueller and Oppenheimer Study 10.048.08.20.05Replication study-all observations0.080.59.02.48Replication study-excluding influential observations0.032.68.05.18Factual recall (proportion correct)Mueller and Oppenheimer Study 10.010.04.00.86Replication study-all observations0.000.07.00.81Replication study-excluding influential observations0.000.02.00.91Conceptual application (proportion correct)Mueller and Oppenheimer Study 10.009.40.34.04Replication study-all observations0.010.35.02.59Replication study-excluding influential observations0.002.34.04.20Note: The fixed effects of condition on factual-recall and conceptual-application performance in Mueller and Oppenheimer's Study 1 were F(1, 4.01) ? 0.046, p ? .841, and F(1, 4.09) ? 8.05, p ? .046, respectively, based on the UNIANOVA command in SPSS (see the files for Mueller and Oppenheimer's 2018 Corrigendum at https://osf.io/t43ua/). We report results from the corresponding analysis in R using the afex::aov_4 command. The values differ slightly because of differences in how SPSS and afex handle random effects, but substantive conclusions remain the same.
+Factual recall (z index score)
+
+Mueller and Oppenheimer Study 1
+0.22
+0.05
+.00
+.84
+Replication study-all observations
+0.09
+0.13
+.00
+.74
+Replication study-excluding influential observations
+0.07
+0.00
+.00
+.98
+Conceptual application (z index score)
+
+
+
+
+Mueller and Oppenheimer Study 1
+0.04
+8.08
+.20
+.05
+Replication study-all observations
+0.08
+0.59
+.02
+.48
+Replication study-excluding influential observations
+0.03
+2.68
+.05
+.18
+Factual recall (proportion correct)
+
+
+
+
+Mueller and Oppenheimer Study 1
+0.01
+0.04
+.00
+.86
+Replication study-all observations
+0.00
+0.07
+.00
+.81
+Replication study-excluding influential observations
+0.00
+0.02
+.00
+.91
+Conceptual application (proportion correct)
+
+
+
+
+Mueller and Oppenheimer Study 1
+0.00
+9.40
+.34
+.04
+Replication study-all observations
+0.01
+0.35
+.02
+.59
+Replication study-excluding influential observations
+0.00
+2.34
+.04
+.20
+Note: The fixed effects of condition on factual-recall and conceptual-application performance in Mueller and Oppenheimer's Study 1 were F(1, 4.01) ? 0.046, p ? .841, and F(1, 4.09) ? 8.05, p ? .046, respectively, based on the UNIANOVA command in SPSS (see the files for Mueller and Oppenheimer's 2018 Corrigendum at https://osf.io/t43ua/). We report results from the corresponding analysis in R using the afex::aov_4 command. The values differ slightly because of differences in how SPSS and afex handle random effects, but substantive conclusions remain the same.
 
 
 of performance. As shown, removing influential observa- tions from the replication data had little effect on conclu- sions; thus, results below include all observations.
@@ -542,7 +619,7 @@ H. L. Urry is the professor who taught the course. C. S. Crittle, V. A. Floerke,
 H. L. Urry acquired funds; curated the data; conducted
 
 formal analysis, visualization (preparation of figures), and validation (verification of analytic reproducibility); and wrote the original manuscript draft. H. L. Urry, C. S. Crittle,
-V. A. Floerke, M. Z. Leonard, and C. S. Perry, III, developed methodology, handled project administration, and provided supervision. All undergraduate authors contributed to inves- tigation (data collection). H. L. Urry, V. A. Floerke, C. S. Crittle, R. S. Brody, J. P. Jimbo, E. M. Kahn, M. S. Lauzé,
+V. A. Floerke, M. Z. Leonard, and C. S. Perry, III, developed methodology, handled project administration, and provided supervision. All undergraduate authors contributed to inves- tigation (data collection). H. L. Urry, V. A. Floerke, C. S. Crittle, R. S. Brody, J. P. Jimbo, E. M. Kahn, M. S. LauzÃ©,
 M. G. Lyons, A. D. Moser, C. A. Mujica, S. M. Vervoordt, and D. T. Zarrella reviewed and edited the manuscript. A number of undergraduate student authors could not be reached for inclusion in the review and editing process and to approve the final manuscript for submission; they are not, thus, listed as authors on this version of the manuscript. All the listed authors approved the final man- uscript for submission.
 Declaration of Conflicting Interests
 The author(s) declared that there were no conflicts of interest with respect to the authorship or the publication of this article.
@@ -584,8 +661,8 @@ Holstead, C. E. (2015). The benefits of no-tech note taking. The Chronicle of Hi
 Jansen, R. S., Lakens, D., & IJsselsteijn, W. A. (2017). An integrative review of the cognitive costs and ben- efits of note-taking. Educational Research Review, 22, 223-233.
 *Kirkland, K. M. (2016). The effect of note taking media and preference on the cognitive processes involved in learning [Undergraduate honors thesis]. https://scholar.colorado
 .edu/honr_theses/1244
-Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník,
-Š., Bernstein, M. J., Bocian, K., Brandt, M. J., Brooks, B., Brumbaugh, C. C., Cemalcilar, Z., Chandler, J., Cheong, W., Davis, W. E., Devos, T., Eisner, M., Frankowska, N., Furrow, D., Galliani, E. M., . . . Nosek, B. A. (2014). Investigating variation in replicability: A "Many Labs" rep- lication project. Social Psychology, 45(3), 142-152. https:// doi.org/10.1027/1864-9335/a000178
+Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., BahnÃ­k,
+ÂŠ., Bernstein, M. J., Bocian, K., Brandt, M. J., Brooks, B., Brumbaugh, C. C., Cemalcilar, Z., Chandler, J., Cheong, W., Davis, W. E., Devos, T., Eisner, M., Frankowska, N., Furrow, D., Galliani, E. M., . . . Nosek, B. A. (2014). Investigating variation in replicability: A "Many Labs" rep- lication project. Social Psychology, 45(3), 142-152. https:// doi.org/10.1027/1864-9335/a000178
 Lakens, D. (2017). Equivalence tests: A practical primer for t tests, correlations, and meta-analyses. Social Psychological and  Personality  Science,  8(4),  355-362.  https://doi
 .org/10.1177/1948550617697177
 Lakens, D., Scheel, A. M., & Isager, P. M. (2018). Equivalence testing for psychological research: A tutorial. Advances
