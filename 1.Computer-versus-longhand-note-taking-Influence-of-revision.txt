@@ -1,0 +1,2230 @@
+Instructional Science
+https://doi.org/10.1007/s11251-022-09605-5
+ORIGINAL RESEARCH
+
+Computer versus longhand note taking: Influence of revision
+Abraham E. Flanigan1
+
+· Kenneth A. Kiewra2 · Junrong Lu3 · Dzhovid Dzhuraev3
+
+Received: 23 February 2021 / Accepted: 13 October 2022
+© The Author(s), under exclusive licence to Springer Nature B.V. 2022
+
+Abstract
+Many college students believe that typing lecture notes on computers produces better notes
+and higher achievement than handwritten lecture notes on paper. The few studies investigating computer versus longhand note taking yielded mixed note-taking and achievement findings. The present study investigated computer versus longhand note taking but
+permitted note takers to revise or recopy notes during pauses interspersed throughout the
+lecture. Moreover, the present study analyzed notes recorded while a lecture was ongoing and following revision pauses to determine if lecture ideas and images were recorded
+completely or partially. Findings did not support the belief that computers aid note taking
+and achievement and, instead, favored longhand note taking and revision. Computer and
+longhand note takers recorded a comparable number of complete and partial ideas in notes
+while the lecture was ongoing, but longhand note takers recorded more lecture images.
+Among note revisers, longhand note takers added three-times-as-many complete ideas to
+their notes during revision as computer note takers—an important finding because note
+completeness predicted achievement. Achievement results showed that longhand note takers who revised notes scored more than half a letter grade higher on a lecture posttest than
+computer note takers who revised notes. Present findings suggest that college instructors
+should provide students with revision pauses to improve note taking and achievement and
+encourage students to record and revise notes using the longhand method. Finally, regarding the computer versus longhand note-taking debate, the need to investigate further the
+interplay between note-taking medium and lesson material is discussed.
+Keywords Note taking · Lecture learning · Computers · College success · Learning
+environments
+Although most college students never receive formal note-taking training (Morehead et al.,
+2019a), most take and review lecture notes as their primary test preparation strategy (Blasiman et al., 2017; Morehead et al., 2019a; Witherby & Tauber, 2019). Students are wise to
+do so, because the number of lecture ideas recorded in notes (e.g., Bligh, 2000; Kiewra
+et al., 1991a) and reviewed (e.g., Bui et al., 2012; Kiewra et al., 1991a; Knight & McKelvie, 1986) is positively associated with lecture test performance (Bui et al., 2012; Flanigan
+& Titsworth, 2020; Morehead et al., 2019a). Moreover, when students are tested, many
+* Abraham E. Flanigan
+aflanigan@georgiasouthern.edu
+Extended author information available on the last page of the article
+
+13
+
+Vol.:(0123456789)
+
+A. E. Flanigan et al.
+
+recall as few as 5% of the lecture ideas not recorded in their notes (Einstein et al., 1985;
+Howe, 1970). Such findings indicate that students are most likely to commit lecture information to memory after it has been recorded in notes and reviewed. Unfortunately, college
+students often fail to record many of the ideas and images conveyed during lectures (Bui
+et al., 2012; Flanigan & Titsworth, 2020), leading researchers to examine factors impacting lecture note taking and subsequent achievement. Some contributing factors recently
+examined include note-taking medium—whether notes are recorded using longhand or
+computer mediums (e.g., Bui et al., 2012; Luo et al., 2018; Morehead et al., 2019a; Mueller & Oppenheimer, 2014), note completeness—whether notes are recorded completely or
+partially (Flanigan & Titsworth, 2020; Peverly et al., 2007; Reddington et al., 2015), and
+note revision—the opportunity to add or complete noted ideas during or following the lecture (Luo et al., 2016). The present study is the first to address all three of these factors
+concomitantly. In doing so, the present study provides insight into whether incorporating
+revision pauses during lectures—a practical strategy that can be easily implemented within
+college classrooms or when students learn from recorded lectures—differentially affects
+note completeness and achievement for students who type or hand write lecture notes.
+
+Note‑taking medium
+College students have traditionally taken lecture notes using a longhand (i.e., paper–pencil)
+medium. However, the rise of mobile technology has led many students to instead type
+notes on computers (Morehead et al., 2019b; Ragan et al., 2014; Ravizza et al., 2017).
+Most students who type notes believe that doing so makes it easier to take notes during
+class (Kay & Lauricella, 2011; Morehead et al., 2019b). As shown in Table 1, research
+supports the notion that computers make it easier to note lesson ideas. Most students type
+faster than they write (Brown, 1988), and those who type tend to record about 35% more
+words (Mueller & Oppenheimer, 2014) and 20% more ideas (Bui et al., 2012; Flanigan &
+Titsworth, 2020) in their notes than those who write (Bui et al., 2012; Flanigan & Titsworth, 2020; Luo et al., 2018; Mueller & Oppenheimer, 2014).
+Despite the speed advantage of typing, computer note takers do not consistently outperform longhand note takers on lecture learning assessments. As summarized in Table 1,
+studies comparing note-taking mediums have produced mixed findings for a variety of
+learning outcomes. When notes were recorded but not reviewed, one study found that students who took handwritten notes outperformed those who typed their notes on application
+items (Mueller & Oppenheimer, 2014). Another study showed that students who typed their
+notes earned higher scores on a posttest taken immediately following a video lesson (Bui
+et al., 2012). Yet, other studies favored neither medium on lecture posttest performance
+(Luo et al., 2018; Morehead et al., 2019a). Similar inconsistencies emerged when notes
+were reviewed before testing. Some studies showed that longhand note takers prevailed on
+test items assessing factual and conceptual understanding (Mueller & Oppenheimer, 2014)
+and on items comprising total score (Luo et al., 2018; Mueller & Oppenheimer, 2014).
+Other research showed that computer note takers prevailed on total posttest score (Fiorella
+& Mayer, 2017). And some studies found that neither medium prevailed on items assessing
+factual and conceptual understanding (Morehead et al., 2019a) nor on total posttest score
+(Flanigan & Titsworth, 2020; Morehead et al., 2019a). Such inconsistent findings conflict
+with the widely held student belief that typing lecture notes on computers improves learning beyond longhand note taking (Houle et al., 2013; Morehead et al., 2019b).
+
+13
+
+Computer
+Computer
+–
+Computer
+–
+Longhand
+Longhand
+–
+–
+
+Computer
+Computer
+–
+
+Computer
+–
+
+Computer
+–
+
+–
+–
+
+Mueller and Oppenheimer (2014)
+
+Table cells identify superior note-taking medium for each outcome variable
+
+Words
+Ideas
+Images
+Note-taking style
+Verbatim strings
+Idea completeness
+Text-related achievement
+Notes not reviewed
+Notes reviewed
+Image-related achievement
+Notes not reviewed
+Notes reviewed
+
+Note-taking quantity
+
+Bui et al. (2012)
+
+Table 1  Six studies comparing computer versus longhand note-taking mediums
+
+–
+Computer
+
+–
+Computer
+
+–
+–
+
+Computer
+Computer
+Longhand
+
+Fiorella and Mayer
+(2017)
+
+Computer
+No Difference
+
+No Difference
+Longhand
+
+Computer
+–
+
+Computer
+Computer
+Longhand
+
+Luo et al. (2018)
+
+–
+–
+
+No Difference
+No Difference
+
+Computer
+–
+
+Computer
+Computer
+–
+
+Morehead et al.,
+(2019a)
+
+–
+–
+
+–
+No Difference
+
+–
+No Difference
+
+Computer
+Computer
+Longhand
+
+Flanigan and
+Titsworth
+(2020)
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+13
+
+A. E. Flanigan et al.
+
+Researchers have identified three potential detriments to computer note taking. First,
+despite the speed advantage of typing notes, computer note takers still record fewer than
+half of the idea units presented during lectures (Bui et al., 2012; Flanigan & Titsworth,
+2020; Morehead et al., 2019b). Second, many computer note takers use their speed advantage to transcribe lecture ideas in a verbatim fashion (Luo et al., 2018; Morehead et al.,
+2019a; Mueller & Oppenheimer, 2014), indicative of shallow, non-meaningful processing. Longhand notetakers, meanwhile, record more paraphrased notes (Luo et al., 2018;
+Morehead et al., 2019a; Mueller & Oppenheimer, 2014), indicative of deep, meaningful
+processing (Craik & Lockhart, 1972). Longhand note taking has long been associated with
+generative processing (e.g., Di Vesta & Gray, 1972; Luo et al., 2016), the meaningful integration of lesson ideas with previous knowledge (Wittrock, 1974). Third, the functionality
+of a computer’s word processing programs makes it difficult for those who type notes to
+record lecture-relevant images such as charts, graphs, and illustrations (Mosleh et al., 2016;
+Reimer et al., 2009). In fact, those who type notes sometimes record no images during lectures (Flanigan & Titsworth, 2020; Luo et al., 2018).
+In summary, although computers make it easier to record lecture ideas than hand-writing notes, typing notes has apparent downsides. Moreover, the inconsistent achievement
+differences between computer and longhand note takers led researchers to conclude that
+it is too early to declare one note-taking medium superior to the other (Morehead et al.,
+2019a).
+
+Note completeness
+Most note-completeness investigations focus on the total number of lecture idea units
+recorded in notes and their impact on achievement (Bui et al., 2012; Kiewra et al., 1991a;
+Kiewra, 1985a, 1985b; Titsworth & Kiewra, 2004). According to Blohm and Colwell
+(1983), an idea unit is a propositional statement that communicates meaning (e.g., causeeffect relationships, compare-contrast statements, examples, and independent facts). When
+scoring lesson notes, credit is usually given for recording the full essence of the targeted
+propositional statement. For instance, Morehead et al. (2019b) had college students
+take notes during a video lecture and scored participants notes this way: “Each idea unit
+included in the notes that was correct based on information in the video was given one
+point” (p. 11). A flaw inherent in this and other note-scoring systems is their binary nature:
+either a lesson idea is noted or it is not, despite its relative completeness.
+Kiewra and colleagues have dug deeper into the note completeness issue by investigating what type or level of note is recorded, resulting in a more qualitative evaluation of
+notes. In one study, Kiewra and Benton (1988) found that college students recorded 63% of
+a lesson’s main ideas but only 33% of all information presented. This occurred because students failed to record many supporting ideas and details. In a related study (Kiewra et al.,
+1987), lesson information was classified into level 1–4 information, with level 1 ideas
+being most general and superordinate and levels 2–4 being progressively more detailed
+and subordinate. College students recorded 37% of all lesson ideas but progressively fewer
+ideas by level: level 1, 91%; level 2, 60%; level 3, 35%; and level 4, 11%. The conclusion
+was that the quality of students’ notes is good where main ideas are concerned but weak
+where subordinate details are concerned.
+Some researchers have also recognized that students often record partial ideas and
+images in notes and have begun scoring noted ideas and images as complete or partial
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+(Flanigan & Titsworth, 2020; Peverly et al., 2007; Reddington et al., 2015). For instance,
+Flanigan and Titsworth (2020) had college students view a video lesson on the theory of
+plate tectonics containing 143 complete ideas. The researchers reported that the statement,
+“The earth’s crust is 25 miles thick underneath the continental surface,” represented one
+complete idea unit that fully communicated the crust’s depth underneath the continental
+surface. However, some note takers only captured part of that idea unit, such as “Crust = 25
+miles,” omitting the rest of the idea— “underneath the continental surface.” Because the
+depth of the crust differs underneath the continental (i.e., 25 miles thick) and seafloor (i.e.,
+3–5 miles) surfaces, a student later reviewing this partially noted idea might be unable to
+recall the surface to which this depth refers. In such cases, students’ notes were scored as
+partially complete.
+Based on McDougall’s (1904) threshold hypothesis, Flanigan and Titsworth (2020)
+explored whether partially noted ideas would fall below the threshold needed to help students recall the complete idea unit from memory while later reviewing notes. Note-taking
+results indicated that students, on average and regardless of note-taking medium, recorded
+just 35% of lesson ideas, and that 20% of those noted ideas were partial notes. However, the
+number of partially noted ideas was neither positively nor negatively predictive of achievement—as measured by total posttest score following the video lesson—nor was note-taking
+medium. Rather, only the number of complete ideas recorded in notes predicted posttest
+performance. Thus, Flanigan and Titsworth contended that finding ways to make partial
+notes more complete could improve achievement. They proposed that providing students
+with opportunities to add missed ideas to notes and to finish partially recorded ideas to
+increase the number of complete ideas recorded could improve note taking and achievement. Such an opportunity is available when students revise the original lecture notes they
+record.
+
+Revision
+Providing revision pauses during or following lectures improves note taking and achievement (Luo et al., 2016). Revision occurs between note taking and review and involves
+learners making changes to their notes, such as when they add missing ideas or elaborate upon noted ideas. Luo and associates (2016) conducted two experiments to investigate how revision affects longhand note taking and achievement. In Experiment 1, students
+either revised or recopied their lecture notes following an audio lesson. Recopying notes
+is a common learning strategy used by college students to review notes (Jairam & Kiewra, 2010; Karpicke et al., 2009). Those who revised their notes recorded more lesson
+ideas and learned more relationships than did those who recopied their notes. Experiment
+2 revealed that revising notes multiple times throughout the lesson led to more complete
+notes and higher achievement than did revising notes just once after the lesson ended, with
+revision time equal for all. Moreover, it was evident that students completed some partial
+ideas during revision by adding missed information to noted ideas—a process referred to
+as extension. The researchers, however, did not assess the number of extensions revisers
+made during revision nor their impact on achievement. Moreover, Luo and associates only
+investigated how revision affected longhand note taking. It remains unknown how computer note takers might benefit from revision opportunities and whether revision differentially affects note completeness and achievement across note-taking mediums.
+
+13
+
+A. E. Flanigan et al.
+
+The revision benefits uncovered by Luo and associates (2016) led them to propose that
+note taking is best conceptualized as a three-stage process: recording, revising, and reviewing. To date, all known investigations comparing computer and longhand note-taking mediums have conceptualized note taking as a one-stage recording process (Bui et al., 2012,
+Experiments 1 and 2; Morehead et al., 2019a, Experiments 1 and 2; Mueller & Oppenheimer, 2014, Experiments 1 and 2) or two-stage recording and reviewing process (Bui et al.,
+2012, Experiment 3; Flanigan & Titsworth, 2020; Luo et al., 2018; Morehead et al., 2019a,
+Experiment 3; Mueller & Oppenheimer, 2014; Experiment 3). However, because students
+take relatively incomplete notes while lectures are ongoing (Flanigan & Titsworth, 2020;
+Luo et al., 2016; Titsworth, 2004), offering revision opportunities should help students
+record and review more notes. The present study is the first to include all three note-taking
+stages from Luo and associates’ (2016) three-stage framework when comparing outcomes
+for computer and longhand note takers. Researchers have previously struggled to reach a
+consensus regarding whether the computer or longhand medium is better for taking notes
+(e.g., Morehead et al., 2019b). It is plausible that these mixed findings stem from prior
+investigations including an incomplete accounting of the note-taking process.
+
+Factors affecting retrieval during revision
+Educational researchers have proposed that taking notes serves two potential functions for
+learners: (a) encoding incoming information into memory as notes are recorded (i.e., the
+encoding function) and (b) having an external record of lecture ideas that are reviewed and
+committed to memory after the lecture ends (i.e., the external storage function) (e.g., Di
+Vesta & Gray, 1972; Kiewra et al., 1991a, 1991b). Learners who take and review notes—
+the external-storage function—typically score higher on achievement tests than learners
+who take but do not review notes—the encoding function (e.g., Carter & Van Matre, 1975;
+Luo et al., 2018; Robinson & Kiewra, 1995). The cognitive demands placed on learners
+during lecture learning (e.g., continuously listening, identifying and interpreting incoming information, and recording notes) seems to leave few cognitive resources available
+for the kind of generative processing needed to learn (Peters, 1972). Thus, the maximum
+benefit of recording lecture notes seems to emerge after students review notes. Moreover,
+the benefit of reviewing notes is naturally increased when notes are more complete (e.g.,
+Kiewra, 1985a, 1985b; Luo et al., 2016). Revision is a means for increasing note completeness. Revision is an often-overlooked stage within the note-taking process that falls
+between recording and reviewing notes (Luo et al., 2016). Although revision is an avenue
+for increasing note quantity (Luo et al., 2016), its benefit depends on learners recalling
+and adding missing lecture ideas to their notes when revising. As discussed by Luo et al.
+(2016), lecture ideas recorded in learners’ notes can serve as retrieval cues (Thomson &
+Tulving, 1970; Tulving & Osler, 1968) during revision to prompt recall of lecture ideas
+that went unrecorded during the lecture. However, prior research suggests that two factors
+might affect how well lecture notes serve as retrieval cues during revision: note completeness and note-taking medium.
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+Note completeness, retrieval, and revision
+It is plausible that the completeness of the idea units recorded in students’ lecture notes
+affects the utility of using those notes as retrieval cues. For instance, after examining the
+presence of partial and complete idea units in student notes and their relationship with
+learning, Flanigan and Titsworth (2020) postulated that partially recorded idea units might
+serve as effective retrieval cues because they surpass McDougall’s (1904) recognition
+threshold necessary to recall the complete idea unit. For instance, a student revising the
+partially recorded idea, “Hanging wall up” might be cued to recall the complete idea, “The
+hanging wall moves upward in a reverse fault.” If so, partial notes should provide ample
+cues for recalling and noting the complete lecture idea during the revision process.
+Complete ideas stored within student notes might also serve as effective retrieval cues
+during revision, in this case helping students to recall and note other lecture ideas not originally recorded. Through the process of spreading activation (Anderson, 1990), reviewing complete ideas can activate recall of other related lecture ideas. Similarly, Tulving
+and Patterson (1968) discussed the notion of functional units—conceptually-related idea
+units that stimulate retrieval of one another from memory. For instance, the completely
+recorded idea, “The hanging wall moves upward in a reverse fault,” could cue the recall of
+the related but unnoted idea, “Reverse faults are caused by compressional stress.” In this
+instance, the presence of one idea related to reverse faults within a student’s notes facilitates recall of another reverse fault idea during revision. Thus, complete idea units could
+plausibly serve as effective retrieval cues by facilitating activation and recall of other functionally related ideas.
+As discussed, both partially and completely recorded lecture ideas should facilitate
+retrieval of originally non-noted lecture ideas during the revision process. If so, revision
+could improve both the completeness of partially recorded notes and the recording of
+related lecture ideas not originally recorded in notes. However, what remains unknown is
+the extent to which revisers finish the partial ideas and images recorded in their notes. Do
+revisers naturally try to complete the partial ideas and images contained in their notes? Do
+they focus most of their revision efforts on adding missing ideas and images? To date, the
+relationship between revision and note completeness remains understudied, making it difficult for researchers and practitioners to recommend how students can improve their revision strategies. Thus, an overarching goal of the present study is to address this literature
+gap by embedding revision pauses into an ongoing lecture.
+
+Note‑taking medium, retrieval, and revision
+Note completeness is not the only factor that can affect revision. The theoretical assumptions of Craik and Lockhart’s (1972) depth of processing framework suggest that note-taking medium also affects the utility of using one’s lecture notes as retrieval cues. Craik and
+Lockhart suggested that memory for learned information is a function of the depth to which
+that information was processed. Mueller and Oppenheimer (2014) proposed that longhand
+note taking engages learners in deeper processing of incoming information than typing lecture notes. The researchers contend that because longhand note takers cannot record lecture
+ideas as quickly as students who type their notes, longhand note takers tend to be more
+selective about which ideas they note and tend to paraphrase noted ideas more often, reflective of deep and meaningful processing (Luo et al., 2018; Mueller & Oppenheimer, 2014).
+Computer users, meanwhile, tend to transcribe lecture ideas in a verbatim form, potentially
+
+13
+
+A. E. Flanigan et al.
+
+reflective of shallow processing (Luo et al., 2018; Mueller & Oppenheimer, 2014). Such
+findings support the notion that longhand notes provide learners with a more meaningful
+record of lecture ideas to review and commit to memory. When these findings are extrapolated to a revision session, it is plausible that the more meaningful notes generated by longhand note takers would make those notes more effective retrieval cues.
+
+The present study
+Many college students take relatively incomplete lecture notes regardless of their note-taking medium (Flanigan & Titsworth, 2020; Luo et al., 2018; Morehead et al., 2019b), which
+is problematic considering students’ reliance on taking and reviewing notes as their primary test-preparation strategies (Blasiman et al., 2017; Witherby & Tauber, 2019) and considering the positive correlation between note completeness and achievement (Bui et al.,
+2012; Flanigan & Titsworth, 2020; Morehead et al., 2019a). The purpose of the present
+study was to investigate whether note completeness and achievement could be bolstered by
+providing longhand and computer note takers with revision pauses throughout an ongoing
+lecture. We predicted that revision would benefit longhand note takers more than computer
+note takers. Researchers have suggested that the speed deficit experienced by longhand
+note takers actually prompts them to be more deliberate, selective, and generative while
+taking notes compared to computer note takers (Mueller & Oppenheimer, 2014) who often
+type verbatim notes mechanically with minimal meaningful processing (Luo et al., 2018;
+Mueller & Oppenheimer, 2014). Because of this more deliberate, thoughtful note-taking
+process, we believed longhand notes would more easily surpass McDougall’s (1904) recognition threshold and act as better retrieval cues during revision than typed notes. Thus,
+we predicted that longhand note takers would add more new ideas and images to their
+notes during revision and finish more of the partial ideas and images they had recorded
+previously than computer note takers. Furthermore, partially recorded ideas should serve
+as effective retrieval cues during revision because they surpass the recognition threshold
+(McDougall, 1904) needed to recall the complete idea. Thus, we predicted that most of
+the complete idea units gained during revision pauses would occur through completion of
+partial idea units.
+The interplay among note-taking medium, revision, note completeness, and achievement remains unknown. All previous investigations comparing computer and longhand
+note-taking mediums conceptualized note taking as either a one-step (record-only) or twostep (record and review) process. The present study is the first to add the intermediary
+stage of revision and compare computer and longhand mediums across all three note-taking stages of the note-taking framework proposed by Luo and associates (2016). Addressing this literature gap should empower educators to make more well-informed decisions
+about using revision pauses during their lessons, recommending whether students use computer or longhand mediums to take notes, and helping students improve their revision strategies to enhance note completeness.
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+Methods
+Participants and design
+One hundred and eighty-nine college students enrolled in an educational psychology
+course at a large Midwestern university in the U.S. were assigned randomly to one of two
+Table 2  Group demographic information
+Longhand
+(Revision)
+n = 50
+
+Longhand
+(Copy Notes)
+n = 44
+
+Computer
+(Revision)
+n = 48
+
+Computer
+(Copy Notes)
+n = 47
+
+16
+14
+10
+10
+
+9
+18
+8
+9
+
+13
+13
+11
+11
+
+8
+16
+13
+10
+
+30
+2
+4
+0
+10
+4
+
+30
+0
+2
+0
+6
+6
+
+32
+3
+3
+1
+8
+1
+
+27
+2
+4
+0
+7
+7
+
+27
+12
+5
+6
+
+22
+12
+5
+5
+
+20
+17
+4
+7
+
+23
+10
+10
+4
+
+27
+11
+9
+3
+
+25
+11
+4
+4
+
+28
+11
+5
+4
+
+27
+9
+6
+5
+
+11
+38
+
+10
+33
+
+6
+42
+
+6
+41
+
+13
+14
+12
+9
+1
+
+5
+17
+10
+6
+5
+
+8
+20
+15
+4
+1
+
+15
+10
+18
+4
+0
+
+13
+35
+
+16
+27
+
+27
+21
+
+25
+22
+
+Age
+18
+19
+20
+21+
+Ethnicity
+White
+Hispanic/Latino
+Black
+Native American
+Asian
+Other
+Class standing
+Freshman
+Sophomore
+Junior
+Senior
+Preferred note-taking method
+Longhand
+Laptop
+Prefer both
+Other
+Prior plate tectonics course
+Yes
+No
+Prior knowledge of lecture content
+Almost None
+A little
+Some
+Most
+Almost All
+Alignment with preferred note-taking method
+Yes
+No
+Cell values refer to total participants (n = 189)
+
+13
+
+A. E. Flanigan et al.
+
+note-taking groups (longhand or computer) and one of two revision groups (revision or
+no revision) resulting in four groups: longhand/revision (n = 50), longhand/no revision
+(n = 44), computer/revision (n = 48), and computer/no revision (n = 47). Most participants
+were age 20 or younger (78%), Caucasian (63%), male (64%), and in their first two years
+of college (75%). Most had a cumulative grade-point average (GPA) of 3.0 or higher on a
+four-point scale (71%) and were concentrated in these four majors: business, finance, marketing, and undecided (50%). Table 2 presents complete participant demographic information. Permission for this study was granted by the university’s Institutional Review Board.
+Participants received two credit hours of research participation to help satisfy a four-hour
+research participation requirement in their educational psychology course.
+
+Materials
+
+Materials included an audio-visual lesson and note-taking materials.
+The audio-visual lesson was on the topic of plate tectonics. The approximately 21-min
+lesson contained 2,236 spoken words and was presented at a rate of 107 words per minute
+by an adult male reading from a teleprompter script. The lesson also contained 17 images
+vital to understanding the spoken lesson. Throughout the lesson, an image was shown most
+of the time. Only four times did the lecturer appear instead, and only for about two minutes
+in total. The lesson was divided into three fairly equal-length segments. The first segment
+lasted 5 min and 30 s and included these sections: Introduction, The Earth’s Layers, and
+Tectonic Plates (and three images). The second segment lasted 7 min and 30 s and included
+these sections: Convergent Boundary, Divergent Boundary, and Transform Boundary (and
+seven images). The third segment lasted 7 min and included these sections: Fault Blocks
+and Types of Faults (and seven images). Appendix 1 shows an image from each lesson segment and the spoken words that accompanied each image.
+Note-taking materials were paper- or computer-based. Longhand note takers were given
+three sheets of lined paper, each marked for one of the three lecture segments, and a black
+pen for note taking. Longhand note takers in the revision group were also given a red pen
+for revising their notes so that lesson notes and revision notes could later be identified and
+assessed. Computer note takers recorded notes in a Word document on a Desktop PC with
+a 21-inch screen. The note-taking document had three labeled sections, one for each lecture
+segment. Computer note takers in the revision group accessed the Track Changes function to
+make revisions so that lesson notes and revision notes could later be identified and assessed.
+Computer note takers were briefly trained to use Track Changes prior to the beginning of the
+study. Participants in the no revision (copy notes) groups were given additional paper (longhand note takers) or access to an additional Word document screen (computer note takers)
+to copy lesson notes. Note copying also served as the experimental control in the Luo et al.
+study (2016). Note copying was used in both cases because it is a common student practice
+following lectures (Jairam & Kiewra, 2010; Karpicke et al., 2009), and because it prevents
+students from revising or studying notes during the revision pause.
+
+Measures
+Measures included a vocabulary task, test, and survey.
+An 8-item vocabulary task was used as an interpolated task to clear working memory
+between note review and testing. Here is a sample item:
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+Biological clocks are of such ____ adaptive value to living organisms, that we would
+expect most organisms to ____ them.
+a. Clear; avoid
+b. Meager; evolve
+c. Significant; eschew
+d. Obvious; possess
+e. Ambivalent; develop
+The plate tectonic test contained 30 multiple-choice items. The internal consistency for
+the entire posttest, as measured by Cronbach’s Alpha, was 0.843. Twelve items assessed
+factual knowledge (e.g., Convergent boundaries result in ______stress on tectonic plates.).
+Internal consistency for factual items was 0.693. Eleven items assessed knowledge of relationships not explicitly stated in the lesson (e.g., Which two types of fault planes involve
+horizontal movement of fault blocks?). Internal consistency for relationship items was
+0.648. And seven items assessed concept knowledge (recognition of new examples) (e.g.,
+Which tectonic plate process does the [new] image below represent?). Internal consistency
+for concept items was 0.641. Posttest internal consistencies exceeded recommendations for
+reliability of teacher-made tests (Frisbie, 1988). Item difficulty and discrimination indices
+are provided for each item and for the complete test in Table 3.
+The survey was used to collect demographic information about age, gender, race, year
+in college, grade-point average, college major, typical note-taking medium (computer or
+longhand), and prior knowledge about plate tectonics using varying formats: multiple
+choice, open-ended, or Likert-like scale.
+
+Procedure
+On Day 1, participants in each of six different sections of the same educational psychology course, each meeting at a different time of day, met in their regular classrooms where
+they were assigned randomly to one of the four experimental groups. Those assigned to
+the longhand note-taking group remained in their regular classroom, and those assigned to
+the computer note-taking group went to a nearby computer lab. The lab was a closed classroom with 20 desktop computers used only for the experiment.
+Following introductory remarks about the experiment’s purpose (to investigate note taking) and about general and group-specific procedures, all participants viewed the tectonic
+plates lesson, which was shown on a large screen in the front of each room, and recorded
+notes as directed (longhand or computer) and “in a way that is most helpful to you.” Prior
+to the beginning of the video lesson, participants were informed that they would review
+their notes and be tested over the video lesson in two days.
+At the end of each of the three lesson segments, there was a 3-min pause. Those in the
+revise groups were instructed: “During each pause, try to add to your notes from the previous lesson segment by making notes more complete and more meaningful to you. As you
+read your existing notes, try to recall and record any lecture information you failed to note
+during the lecture. Try to add missing terms, details, and examples.” Longhand note takers revised with a red pen; computer note takers revised using Tracked Changes. Those
+in the no revise (copy notes) groups were instructed: “During each pause, copy the notes
+that you took during the part of the lecture that preceded the pause. You should copy the
+notes word-for-word. You are not allowed to add, correct, or leave out any information
+
+13
+
+A. E. Flanigan et al.
+Table 3  Posttest item difficulty
+and discrimination indices
+
+Item
+
+Item difficulty
+
+Item discrimination
+
+Item-type
+
+1
+
+0.73
+
+0.55
+
+Factual
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Average
+
+0.39
+0.80
+0.48
+0.49
+0.38
+0.69
+0.53
+0.79
+0.43
+0.78
+0.69
+0.66
+0.61
+0.75
+0.22
+0.58
+0.54
+0.48
+0.61
+0.44
+0.69
+0.35
+0.60
+0.60
+0.61
+0.77
+0.77
+0.57
+0.79
+0.59
+
+0.22
+0.28
+0.41
+0.22
+0.25
+0.20
+0.10
+0.35
+0.39
+0.41
+0.35
+0.20
+0.27
+0.14
+0.20
+0.45
+0.49
+0.33
+0.31
+0.37
+0.43
+0.31
+0.33
+0.45
+0.27
+0.31
+0.31
+0.31
+0.43
+0.32
+
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Factual
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Relational
+Concept
+Concept
+Concept
+Concept
+Concept
+Concept
+Concept
+
+as you copy your notes. If you finish before the 3-min pause is over, just continue copying your notes again from the start of that lecture segment.” These were similar to the
+recopy instructions used by Luo and colleagues (2016). Longhand note takers copied notes
+on paper; computer note takers re-typed notes in a new Word document on their computer
+screen. Following the tectonic plates lesson, experimenters collected all notes, and participants were instructed to return in two days—during their regularly scheduled class time—
+to complete the experiment.
+On Day 2, two days later, participants returned to their classrooms or computer lab
+as before. Notes were returned, along with revisions for revision groups, via paper or
+computer, depending on condition. Participants studied their notes for 15 min in preparation for the test. They were instructed not to mark their notes but were given blank
+paper or a blank computer page to write additional information if desired. After the
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+review period, all participants worked on the vocabulary task for two minutes. Next,
+they completed the 30-item test, and all participants finished within 20 min. Finally,
+participants completed the survey in about 5 min before being dismissed. Day 1 and
+Day 2 activities each took about 40 min.
+
+Data analysis
+All lecture notes were scored for idea unit completeness using a scoring sheet that included
+all 198 lecture ideas. A lecture idea unit, according to Blohm and Cowell (1983), is a single
+proposition that communicates meaning (e.g., cause-effect relationships, comparisons, examples, or isolated facts). A sample idea unit in the present study was: “The hanging wall moves
+downward in a normal dip-slip fault.” Participants received one point for each complete idea
+unit contained in their notes. However, because students often record partial ideas in their
+notes (e.g., Flanigan & Titsworth, 2020; Peverly et al., 2007; Reddington et al., 2015), we followed Flanigan and Titsworth’s (2020) procedure of scoring notes as being either partial (i.e.,
+“concept-identification only” or “concept-identification + incomplete details”) or complete.
+Table 4 provides an example of partial and complete ideas. As discussed by Flanigan and
+Titsworth (2020), because the full meaning of one idea unit can often be derived from other
+noted information (i.e., headings, signals), ideas were only scored as partial if their meaning
+could not be derived from other information within the participant’s notes. Using these scoring mediums, revision notes were scored for the number of complete ideas added, partial ideas
+finished, and partial ideas added.
+All notes were also scored for the complete or partial recording of the 17 lecture images.
+Images were scored as complete if they contained all discernable information contained in the
+image that was presented during the video lesson—such as all layers and labels of the earth’s
+lithosphere. Images were scored as partial if they lacked discernable information contained in
+the image—such as missing layers or labels for the earth’s lithosphere. Revision notes were
+scored for the number of complete images added, partial images finished, and partial images
+added.
+Two members of the research team independently scored one-fifth of participants’ notes to
+establish reliability for the note-scoring procedures. Interrater agreement between the two note
+scorers was 0.81 for ideas and 0.87 for images, both of which represent strong levels of agreement (Cohen, 1988). Disagreements were resolved by discussion. Each scorer then scored half
+of the remaining notes independently. Raters also independently confirmed that participants in
+the copy notes groups followed directions and did not edit their notes.
+Posttest items were scored using an objective scoring sheet. Each item had one correct
+answer based on the information presented during the video lesson. A total posttest score was
+generated, and posttests were also scored by item type: factual, relationship, and concept. Participants received one point for each item answered correctly—for a total of 30 points.
+All statistical analyses used the cutoff value of p < .05 as the significance threshold. Analysis of variance (ANOVA) and multivariate analysis of variance (MANOVA) were used to
+examine group differences across note-taking and achievement outcomes. Linear regression
+models examined whether note-taking outcomes accounted for statistically detectable variance
+in total posttest scores. Partial eta squared (ηp2) is reported as the effect size for ANOVA and
+MANOVA analyses. As discussed by Cohen (1988) and Richardson (2011), observed ηp2 values of 0.01, 0.06, and 0.14 or higher are indicative of small, medium, and large effect sizes,
+respectively. Adjusted ­R2 is reported as the proportion of variance in the outcome variables
+accounted for by the regression models.
+
+13
+
+A. E. Flanigan et al.
+Table 4  Examples of idea units scored as complete and partial
+Lecture idea
+
+Complete idea unit
+
+“The hanging wall moves down- “Hanging
+ward in a normal dip-slip fault.”
+wall = down in
+normal dip-slip”
+
+Partial idea units
+Concept-identification only
+
+Concept-identification + incomplete details
+
+“Hanging wall”
+
+“Hanging wall = down”
+
+Results
+Results pertain to preliminary analyses, note-taking outcomes, and achievement. Notes
+taken while the lesson was ongoing and during revision pauses were scored. Table 5 presents means and standard deviations across note-taking medium (computer or longhand)
+and revision (revision or no revision), and Table 6 presents means and standard deviations
+across the four note-taking groups: longhand/no revision, computer/no revision, longhand/
+revision, and computer/revision.
+
+Preliminary analyses
+Chi-square and ANOVA tests were conducted for demographic variables, prior knowledge,
+and preferred note-taking medium. Appendix 2 provides group statistics for these analyses. There was a statistically detectable difference among the four note-taking groups on
+the alignment between their preferred note-taking medium (typing or writing notes) and
+the medium they were assigned in the present study (p = .012). Specifically, longhand note
+takers experienced misalignment more than computer note takers. When the covariate and
+the experimental effect are not independent, the treatment effect is obscured and spurious
+treatment effects can arise and compromise analysis of covariance interpretation (Miller &
+Chapman, 2001; Wildt & Ahtola, 1978). Thus, note-taking alignment was not treated as a
+covariant and was instead included within subsequent analyses as an independent variable.
+There were no statistically detectable differences among the four note-taking groups on any
+other demographic, prior knowledge, or note-taking variables.
+
+Does note‑taking medium impact note completeness prior to revision?
+Participant notes were scored for total number of complete and partial ideas recorded and
+for complete and partial images recorded while the lesson was ongoing. Table 7 summarizes the findings of each note completeness analysis.
+
+Complete ideas
+Across the four note-taking groups, participants fully recorded between 20–24% of the
+198 ideas presented while the lesson was ongoing. However, the number of complete ideas
+recorded in notes while the lesson was ongoing differed as a function of revision process.
+A three-way ANOVA including note-taking medium, revision process, and note-taking
+alignment revealed a statistically detectable main effect for revision, F(1, 178) = 4.240,
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+Table 5  Note taking and posttest outcomes across note-taking medium and revision
+Longhand
+
+Computer
+
+Revision
+
+No-revision
+
+0.76
+(1.20)
+41.93
+(11.67)
+
+1.17
+(1.44)
+43.89
+(15.97)
+
+1.12
+(1.34)
+44.69
+(14.22)
+
+0.80
+(1.32)
+41.06
+(13.66)
+
+4.89
+(3.95)
+11.86
+(4.74)
+
+4.35
+(3.81)
+11.58
+(4.67)
+
+5.10
+(4.41)
+12.89
+(4.51)
+
+4.09
+(3.17)
+10.45
+(4.59)
+
+Revision notes
+Incorrect ideas
+
+2.97
+(3.13)
+1.62
+(1.94)
+
+0.04
+(0.29)
+0.00
+(0.00)
+
+1.40
+(2.65)
+0.72
+(1.42)
+
+1.57
+(2.64)
+0.89
+(1.74)
+
+–
+
+–
+
+–
+
+Complete ideas
+Added
+
+0.48
+(0.93)
+
+–
+
+–
+
+–
+
+Finished
+
+–
+
+–
+
+2.20
+(2.87)
+1.58
+(1.75)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Complete images (finished)
+
+–
+
+–
+
+Partial images
+
+–
+
+–
+
+20.10
+(5.97)
+
+17.96
+(6.10)
+
+Lecture notes
+Incorrect ideas
+Complete ideas
+Partial ideas
+Identification-only
+Identification + incomplete details
+Images
+Complete
+Partial
+
+Partial ideas
+Identification-only
+Identification + incomplete details
+Images
+Complete images (added)
+
+Achievement
+Total posttest score
+
+0.26
+(0.67)
+1.70
+(1.81)
+0.29
+(0.82)
+0.07
+(0.33)
+0.34
+(0.97)
+19.44
+(6.32)
+
+–
+
+–
+–
+
+–
+–
+–
+
+18.53
+(6.57)
+
+Cell values represent average number of ideas or images recorded in participant notes and average test score
+earned. Standard deviations provided in parentheses
+
+p = .041, ηp2 = .023. Revisers recorded more complete ideas while the lecture was ongoing
+(M = 44.7) than did copiers (M = 41.1). No statistically detectable main effects for medium,
+F(1, 178) = 0.720, p = .397, ηp2 = .004, or note-taking alignment, F(1, 178) = 0., p = .509,
+ηp2 = .002, were uncovered. Finally, no three-way interaction effect, F(1, 178) = 0.154,
+p = .695, ηp2 = .001, nor simple two-way interactions (p > .05 for all) were detected.
+
+13
+
+A. E. Flanigan et al.
+Table 6  Note-taking and posttest outcomes across note-taking groups
+Longhand
+Computer
+Longhand
+Computer
+(no-revision) (no-revision) (revise notes) (revise notes)
+Lecture notes
+Incorrect ideas
+
+0.61
+(1.20)
+40.91
+(12.12)
+
+0.98
+(1.42)
+41.62
+(15.21)
+
+0.90
+(1.20)
+42.96
+(11.35)
+
+1.32
+(1.44)
+46.55
+(16.46)
+
+4.54
+(3.57)
+Concept-identification + incomplete details 10.41
+(4.71)
+Images
+Complete
+3.20
+(3.02)
+Partial
+1.82
+(2.12)
+Revision notes
+Incorrect ideas
+–
+
+3.62
+(2.69)
+10.43
+(4.49)
+
+4.98
+(4.27)
+13.14
+(4.47)
+
+5.06
+(4.62)
+12.79
+(4.62)
+
+0.00
+(0.00)
+0.00
+(0.00)
+
+2.78
+(3.20)
+1.56
+(1.89)
+
+0.08
+(0.41)
+0.00
+(0.00)
+
+–
+
+Complete ideas
+Added
+
+1.56
+(1.89)
+
+1.82
+(2.13)
+
+–
+
+–
+
+Finished
+
+–
+
+–
+
+3.22
+(3.45)
+1.84
+(1.48)
+
+1.02
+(1.28)
+1.28
+(1.96)
+
+–
+
+–
+
+Concept-identification + incomplete details –
+
+–
+
+0.32
+(0.65)
+2.14
+(1.95)
+
+0.21
+(0.69)
+1.21
+(1.50)
+
+0.62
+(1.08)
+0.16
+(0.47)
+0.70
+(1.28)
+
+0.00
+(0.00)
+0.00
+(0.00)
+0.00
+(0.00)
+
+19.98
+(6.20)
+
+18.52
+(6.57)
+
+Complete ideas
+Partial ideas
+Concept-identification only
+
+Partial ideas
+Concept-identification only
+
+Images
+Complete images (added)
+
+–
+
+–
+
+Complete images (finished)
+
+–
+
+–
+
+Partial images
+
+–
+
+–
+
+19.81
+(5.93)
+
+17.38
+(5.60)
+
+Achievement
+Total posttest score
+
+Cell values represent average number of ideas or images recorded in participant notes and average test score
+earned. Standard deviations provided in parentheses
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+Table 7  Overview of lesson notes completeness
+Note-taking medium
+
+Revision
+
+Interaction
+
+Complete ideas recorded
+
+Longhand = computer
+
+Revisers = copiers
+
+No
+
+Partial ideas recorded
+Concept-identification only
+Concept -identification + incomplete details
+Images recorded
+
+Longhand = computer
+
+Revisers > copiers
+Revisers = copiers
+Revisers > copiers
+
+Yes
+
+Longhand > computer
+
+Revisers = copiers
+
+No
+
+Partial ideas
+Across the four note-taking groups, participants partially recorded between 8–11% of
+the 198 ideas presented while the lesson was ongoing. A three-way MANOVA revealed
+a significant three-way interaction among note-taking medium, revision process, and
+note-taking alignment for the recording of partial ideas (“concept-identification only”
+and “concept-identification + incomplete details”) while the lesson was ongoing, F(2,
+177) = 3.641, Pillai’s Trace = .040, p = .028, ηp2 = .040, but no simple two-way interactions
+(p > .05 for all) were detected. The three-way interaction effect was statistically detectable
+for the recording of “concept-identification only” partial ideas, F(1, 178) = 6.755, p = .010,
+ηp2 = .037, but not for the recording of “concept-identification + incomplete details” partial
+ideas, F(1, 178) = 0.399, p = .528, ηp2 = .002. As shown in Fig. 1, the relationship between
+note-taking medium and revision process for recording “concept-identification only” partial ideas differed based on whether note-taking medium aligned with participants’ preferences. For participants assigned to the longhand note-taking groups, misalignment
+increased the number of these partial ideas recorded in notes for revisers relative to copiers. Conversely, for participants assigned to the computer note-taking groups, alignment
+increased the number of these partial ideas recorded in notes while the lecture was ongoing
+for revisers relative to copiers. This means that, regardless of the note-taking medium they
+were assigned to, participants who preferred to type their notes tended to record more of
+these partial ideas in their notes.
+Significant main effects also emerged. A main effect for note-taking process was
+detected, F(2, 177) = 7.802, Pillai’s Trace = .081, p = .001, ηp2 = .081. Analysis of simple main effects revealed that revisers recorded more “concept-identification only,” F(1,
+178) = 5.004, p = .027, ηp2 = .027, and more “concept-identification + incomplete details,”
+F(1, 178) = 11.352, p = .001, ηp2 = .060, partial ideas that copiers. A main effect for notetaking alignment was also detected, F(2, 177) = 4.882, Pillai’s Trace = .052, p = .009,
+ηp2 = .052. Analysis of simple main effects revealed that participants recorded more
+“concept-identification + incomplete details” idea units while the lecture was ongoing
+when their note-taking medium aligned with their preference versus when it did not, F(1,
+178) = 9.394, p = .003, ηp2 = .050. No main effect was detected for note-taking medium,
+F(2, 177) = 0.140, Pillai’s Trace = .002, p = .869, ηp2 = .002.
+Regardless of note-taking medium or revision process, participants recorded a considerable number of partial ideas in their notes while the lesson was ongoing. About 30% of the
+ideas that participants recorded were partial ideas. On average, participants noted about 17
+partial ideas and 43 complete ideas. Most of the partial ideas (70%) were “concept-identification + incomplete details” ideas—meaning participants recorded more than just the main
+idea but omitted key details.
+
+13
+
+A. E. Flanigan et al.
+
+Images
+Across the four note-taking groups, participants recorded relatively few of the 17 images
+presented during the lesson in their notes. Of the 17 images presented during the lesson,
+longhand note takers fully recorded about 3 of those images and partially recorded about
+2 of those images, on average. Meanwhile, only two computer users recorded any images
+at all during the lesson, and each computer user recorded two complete images. A threeway MANOVA that included the totals for complete and partial images recorded while
+the lesson was ongoing as dependent variables revealed a statistically detectable main
+effect for note-taking medium on the number of images recorded during the lesson, F(2,
+176) = 43.714, Pillai’s Trace = .332, p < .001, ηp2 = .332. Analysis of simple main effects
+revealed that longhand note takers recorded more complete images, F(1, 177) = 67.084,
+p < .001, ηp2 = .275, and partial images, F(1, 177) = 59.538, p < .001, ηp2 = .252, in notes
+during the lesson than computer note takers. There was no main effect for revision, F(2,
+176) = 0.715, Pillai’s Trace = .008, p = .490, ηp2 = .008, or note-taking alignment, F(2,
+176) = 1.318, Pillai’s Trace = .015, p = .270, ηp2 = .015. Finally, no three-way interaction
+effect, F(2, 176) = 0.230, Pillai’s Trace = .003, p = .795, ηp2 = .003, and no two-way interactions (p > .05 for all) were detected.
+
+Does note‑taking medium impact revision?
+Notes taken by the revision groups were scored for the total number of complete and partial ideas and images that were either added or finished during the revision pauses. Table 8
+summarizes the findings of each note revision analysis.
+
+Complete ideas
+Longhand revisers (M = 5.06) were more effective than computer revisers (M = 2.30)
+at using revision pauses to increase the total number of complete ideas contained in
+
+Fig. 1  Three-way interaction among medium, process, and alignment for ID-only partial ideas
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+Table 8  Overview of revision
+notes completeness
+
+Note-taking medium
+Complete ideas gained
+
+Longhand > computer
+
+Complete ideas added
+Partial ideas finished
+Partial ideas gained
+Concept- identification only added
+Concept-identification + incomplete details
+added
+Images gained
+Complete images added
+Partial images finished
+Partial images added
+
+Longhand > computer
+Longhand = computer
+Longhand > computer
+Longhand = computer
+Longhand > computer
+Longhand > computer
+Longhand > computer
+Longhand = computer
+Longhand > computer
+
+their notes. A two-way MANOVA including revision group and note-taking alignment
+revealed a statistically detectable main effect for revision group, F(2, 91) = 7.359, Pillai’s
+Trace = .139, p = .001, ηp2 = .139. Simple main effects revealed that longhand revisers were
+better than computer note takers at adding complete ideas to their notes during revision
+pauses, F(1, 92) = 14.357, p < .001, ηp2 = .135. On average, longhand revisers added three
+times as many complete ideas as computer revisers—3.22 versus 1.02 complete ideas,
+respectively. The two revision groups did not differ in their completion of partial ideas
+already contained in their notes, F(1, 92) = 2.829, p = .096, ηp2 = .030. No main effect for
+note-taking alignment, F(2, 91) = 0.388, Pillai’s Trace = .008, p = .680, ηp2 = .008, and no
+interaction effect, F(2, 91) = 0.272, Pillai’s Trace = .006, p = .762, ηp2 = .006, were detected
+regarding an increase in the number of complete ideas contained in notes.
+
+Partial ideas
+Longhand revisers (M = 2.46) added more partial ideas to their notes during the revision
+pauses than computer revisers (M = 1.41). A two-way MANOVA revealed a statistically
+detectable main effect for revision group, F(2, 91) = 3.315, Pillai’s Trace = .068, p = .041,
+ηp2 = .068. Simple main effects revealed that longhand revisers added more “conceptidentification + incomplete details” ideas during revision than computer revisers, F(1,
+92) = 6.662, p = .011, ηp2 = .068. On average, longhand revisers (M = 2.14) added about
+twice as many “concept-identification + incomplete details” ideas as computer revisers
+(M = 1.21). The two revision groups did not differ in their addition of “concept-identification only” ideas during revision, F(1, 92) = .289, p = .592, ηp2 = .003. Both groups added
+less than one “concept-identification only” idea during revision on average. No main effect
+for note-taking alignment, F(2, 91) = 0.143, Pillai’s Trace = .003, p = .867, ηp2 = .003, and
+no interaction effect, F(2, 91) = 2.077, Pillai’s Trace = .044, p = .131, ηp2 = .044, were
+detected.
+
+Images
+Longhand revisers (M = 0.76) were more effective than computer revisers (M = 0.00) at
+using revision pauses to increase the total number of complete ideas contained in their
+notes. A two-way MANOVA revealed a statistically detectable main effect for revision
+
+13
+
+A. E. Flanigan et al.
+
+group, F(3, 90) = 3.471, Pillai’s Trace = .104, p = .019, ηp2 = .104. Simple main effects
+revealed that longhand revisers added more complete images, F(1, 92) = 8.791, p = .004,
+ηp2 = .087, and more partial images, F(1, 92) = 6.633, p = .012, ηp2 = .067, during revision
+than computer revisers. No group difference emerged for finishing partial images during
+revision, F(1, 92) = 2.016, p = .159, ηp2 = .021. However, neither group added or finished
+many images during revision. On average, longhand revisers added less than one complete (M = 0.62) or partial image (M = 0.70) during revision and finished virtually no partial images (M = 0.16). No computer revisers added or completed images during revision.
+No main effect for note-taking alignment, F(3, 90) = 1.609, Pillai’s Trace = .051, p = .193,
+ηp2 = .051, and no interaction effect, F(3, 90) = 1.609, Pillai’s Trace = .051, p = .193,
+ηp2 = .051, were detected.
+
+Revision strategies
+Notes were examined to quantify how many ideas and lecture images were added and finished during revision. Regarding ideas, participants collectively netted 368 complete ideas
+through revision. Of those, about 60% were added after being missed entirely during the
+video lecture. The other 40% of the complete ideas netted through revision were gained by
+finishing ideas that had been partially recorded during the lecture. Revisers also commonly
+added partial ideas to their notes. Nearly 85% of the 190 partial ideas added during revision
+were classified as “concept-identification + incomplete details”—suggesting that revisers
+often recorded fragments of complete ideas during revision. There were considerably fewer
+instances of participants only identifying an idea unit during revision without including
+details related to that idea unit.
+Regarding lecture images, almost 85% of the 39 complete images netted through revision were newly drawn images that had not been drawn at all while the video lesson was
+ongoing. There were only 8 instances of participants completing partial images during
+revision. Finally, participants added 35 partial images during revision, an amount on par
+with the number of complete images added during revision.
+
+Grand note‑taking totals
+Grand total complete and partial ideas and complete and partial images were calculated by
+summing participants’ lesson and revision note totals. Table 9 summarizes the findings of
+each grand note-taking totals analysis.
+
+Grand total complete ideas Although there were no group differences while the lesson
+was ongoing, the number of complete ideas contained in participants’ notes differed across
+Table 9  Overview of grand total note-taking completeness
+Note-taking medium
+
+Revision
+
+Interaction
+
+Complete ideas recorded
+
+Longhand = computer
+
+Revisers > copiers
+
+No
+
+Partial ideas recorded
+Concept-identification only
+Concept-identification + incomplete details
+Images recorded
+
+Longhand = computer
+
+Revisers > copiers
+Revisers = copiers
+Revisers > copiers
+
+Yes
+
+Longhand > computer
+
+Revisers = copiers
+
+No
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+groups after all note-taking activities ended. Specifically, a three-way ANOVA revealed that
+participants who revised finished with more complete ideas in their notes than participants
+who did not revise, F(1, 178) = 13.650, p < .001, ηp2 = .071. Revisers finished with about
+7% more of the total lecture ideas completely recorded in their notes than participants who
+did not revise. No main effects were uncovered for note-taking medium, F(1, 178) = 0.030,
+p = .862, ηp2 < .001, or note-taking alignment, F(1, 178) = 0.289, p = .591, ηp2 = .002.
+Finally, no three-way interaction, F(1, 178) = 0.103, p = .748, ηp2 = .001, nor simple twoway interaction effects (p > .05 for all) were detected.
+
+Grand total partial ideas A three-way MANOVA revealed a significant three-way inter-
+
+action among note-taking medium, revision process, and note-taking alignment for the
+number of partial ideas contained in notes after all note-taking activities ended, F(2,
+177) = 4.351, Pillai’s Trace = .046, p = .015, ηp2 = .046. The three-way interaction effect
+was statistically detectable for the grand total of “concept-identification only” partial ideas,
+F(1, 178) = 8.550, p = .004, ηp2 = .046, but not for “concept-identification + incomplete
+details” partial ideas, F(1, 178) = 0.301, p = .584, ηp2 = .002. No two-way interactions were
+detected (p > .05 for all). As shown in Fig. 2, note-taking alignment for longhand note takers
+decreased the disparity in number of “concept-identification only” partial ideas recorded
+when notes were revised versus recopied. Conversely, for computer note takers, note-taking
+alignment increased the disparity in number of “concept-identification only” partial ideas
+recorded when notes were revised versus recopied. This interaction suggests that participants who preferred to type their notes tended to record more of these partial ideas into their
+notes relative to participants who preferred to take longhand notes.
+Significant main effects also emerged. A main effect for note-taking process was
+detected, F(2, 177) = 6.630, Pillai’s Trace = .070, p = .002, ηp2 = .070. Analysis of simple main effects revealed that revisers recorded more “concept-identification + incomplete details” partial ideas than copiers, F(1, 178) = 11.688, p = .001, ηp2 = .062. A main
+effect for note-taking alignment was detected, F(2, 177) = 5.628, Pillai’s Trace = .060,
+p = .004, ηp2 = .060. Analysis of simple main effects revealed that participants recorded
+more “concept-identification only” idea units while the lecture was ongoing when their
+note-taking medium aligned with their preferred medium than when it did not, F(1,
+178) = 11.317, p = .001, ηp2 = .060. No main effect was detected for note-taking medium,
+F(2, 177) = 0.288, Pillai’s Trace = .003, p = .750, ηp2 = .003.
+
+Grand total images The number of images contained in notes differed across groups after
+all note-taking activities ended. A three-way MANOVA revealed a statistically detectable
+main effect for note-taking medium, F(2, 177) = 50.896, Pillai’s Trace = .365, p < .001,
+ηp2 = .365. Univariate follow-up tests revealed that longhand note takers recorded more
+complete images, F(1, 178) = 75.439, p < .001, ηp2 = .298, and more partial images, F(1,
+178) = 71.782, p < .001, ηp2 = .287, than computer users. On average, longhand note takers finished with about 3 complete and 2 partial images in notes. Only two computer users
+recorded any images at all, and each recorded two total images. There were no main effects
+for revision, F(2, 177) = 0.054, Pillai’s Trace = .001, p = .948, ηp2 = .001, or note-taking
+alignment, F(2, 177) = 1.639, Pillai’s Trace = .018, p = .197, ηp2 = .018. Finally, no threeway interaction effect, F(2, 177) = 0.666, Pillai’s Trace = .007, p = .515, ηp2 = .007, or simple
+two-way interaction effects (p > .05 for all), were detected.
+
+13
+
+A. E. Flanigan et al.
+
+Fig. 2  Three-way interaction for grand total of ID-only partial ideas
+
+How do note‑taking medium and revision affect achievement?
+Posttest achievement differed across the four note-taking groups. Specifically, a three-way
+MANOVA—medium (computer versus longhand) by revision (revision versus no-revision) by alignment with preferred note-taking method (yes versus no)—revealed a main
+effect for note-taking medium on the 30-item posttest score, F(3, 176) = 4.315, p = .006,
+ηp2 = .069. On average, longhand note takers answered 66% of the posttest questions correctly, whereas computer note takers answered 60% of the questions correctly—which
+equates to a difference of more than one-half of a letter grade. Univariate follow-up
+analyses revealed that longhand note takers outperformed computer note takers on test
+items that assessed factual knowledge, F(1, 178) = 8.468, p = .004, ηp2 = .045, and concept knowledge, F(1, 178) = 6.192, p = .014, ηp2 = .034, but not relationship knowledge,
+F(1, 178) = 0.135, p = .714, ηp2 = .001. There were no main effects for revision, F(3,
+176) = 0.738, Pillai’s Trace = .012, p = .531, ηp2 = .012, or note-taking alignment, F(3,
+176) = 0.635, Pillai’s Trace = .011, p = .593, ηp2 = .011. Finally, no three-way interaction
+effect, F(3, 176) = 1.229, p = 0.091, ηp2 = .033, nor two-way interaction effects (p > .05 for
+all) were detected.
+Three multiple regression analyses were conducted to investigate the relationship
+between note-taking outcomes and posttest achievement to determine whether the completeness of idea units and images recorded in notes predicted achievement. All regression
+statistics appear in Table 10.
+The first multiple regression model predicted total posttest score from the grand total
+number of complete and partial ideas recorded in notes. The model accounted for a statistically detectable proportion of variance in total test scores, F(2, 186) = 15.849, p < .001, adj.
+R2 = .136. Only the total number of complete ideas recorded in notes added to the prediction of total test score, p < .001.
+A second model predicted total posttest score from the total number of complete ideas
+recorded during the lesson, added during revision, and finished during revision. This model
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+Table 10  Predicting posttest score from note-taking outcomes
+B
+
+β
+
+t
+
+p
+
+Model 1
+Total complete ideas
+Total partial ideas
+Model 2
+Complete ideas added during lesson
+Complete ideas added during revision
+Partial ideas finished during revision
+Model 3
+Complete images
+Partial images
+
+0.141
+0.085
+
+0.340
+0.106
+
+4.836
+1.510
+
+< .001
+.133
+
+0.127
+0.415
+0.511
+
+0.291
+0.156
+0.123
+
+4.237
+2.043
+1.577
+
+< .001
+.042
+.116
+
+0.282
+− 0.452
+
+0.132
+− 0.130
+
+1.389
+− 1.364
+
+.166
+.174
+
+R2
+
+Adj. R2
+
+.146
+
+.136
+
+.161
+
+.148
+
+.012
+
+.002
+
+determined whether the timing of when a complete idea unit was recorded—either while
+the lesson was ongoing or during revision—accounted for variance in total test scores. The
+model accounted for a statistically detectable proportion of the variance in total test scores,
+F(3, 185) = 11.846, p < .001, adj. R2 = .148. The total number of complete ideas recorded
+while the lesson was ongoing, p < .001, and added during revision, p = .042, added to the
+prediction of posttest score. The number of partial ideas finished during revision did not
+add to the model’s predictive ability, p = .116, potentially because participants finished relatively few of the partial ideas recorded in their notes.
+The first two regression models investigated how well the number of idea units recorded
+in notes predicted total test scores. A third model predicted total posttest score from the
+total number of complete and partial images recorded in notes. The model did not account
+for a statistically detectable proportion of variance in participants’ total test scores, F(2,
+186) = 1.155, p = .317, adj. R2 = .002.
+
+Discussion
+The rapid emergence of mobile technology has led many college students to believe that
+computers make it easier to take lecture notes (Kay & Lauricella, 2011; Witherby & Tauber, 2019) and to learn (Houle et al., 2013; Morehead et al., 2019a, 2019b). Previous
+research yielded inconsistent note-taking and achievement differences between longhand
+and computer note takers (e.g., Flanigan & Titsworth, 2020; Luo et al., 2018; Morehead
+et al., 2019a, 2019b). However, those prior studies conceptualized note taking as either a
+one-stage (i.e., recording-only) or two-stage (i.e., recording and reviewing) process. The
+present study is the first to compare computer and longhand note-taking mediums across
+three note-taking stages (i.e., recording, revising, and reviewing). Because note taking
+might be best conceptualized according to this three-stage process (Luo et al., 2016), it
+is plausible that inconsistencies across previous investigations stemmed from this incomplete framing of the note-taking process. Perhaps one note-taking medium is superior to
+the other after accounting for all three note-taking stages. The present study addressed
+this shortcoming and was the first to investigate systematically the main and interactive
+effects of note-taking medium (computer, longhand) and revision (revision, no revision)
+on college students’ note taking—complete and partial lesson ideas and images—and
+
+13
+
+A. E. Flanigan et al.
+
+achievement. Next, findings are discussed with respect to note completeness prior to and
+during revision and to posttest achievement.
+
+Does note‑taking medium impact note completeness prior to revision?
+Findings from the present study do not support the notion that computers improve
+note-taking outcomes. Regardless of note-taking medium, participants failed to record
+most of the ideas presented during the lesson. Across note-taking groups, participants
+recorded about 30% of lesson ideas with about 20% of lesson ideas being completely
+recorded and almost 10% of lesson ideas being partially recorded while the video lesson
+was ongoing. The sum of complete and partial notes recorded was on par with previous
+research (e.g., Bui et al., 2012; Flanigan & Titsworth, 2020; Luo et al., 2018; Morehead
+et al., 2019a, 2019b) showing that students commonly record just one-third of lesson
+ideas. In the present study, though, it is evident that a statistically detectable portion of
+noted ideas are incomplete transcriptions.
+That longhand and computer note takers recorded a similar number of ideas while
+the lesson was ongoing is surprising. Previous studies found that students who type
+their notes record more lecture ideas than students who write their notes (e.g., Bui et al.,
+2012; Luo et al., 2018; Mueller & Oppenheimer, 2014)—presumably because most students can type faster than they can write (Brown, 1988). It is plausible that the intermittent pauses embedded within the video lesson helped longhand note takers stave off
+fatigue and write more than if the lecture was continuous. Future research should further investigate how lecture pauses and other instructional aids differentially affect computer and longhand note taking.
+As to why students recorded a high percentage of partial ideas in their notes, we propose
+two possible explanations. First, students might feel rushed while taking notes and are unable to completely record all the ideas they intend to record in notes. Even though the rate of
+speech for the present study’s lesson was a modest 107 words per minute (wpm) (whereas
+most lecture rates are about 175 wpm, Simonds et al., 2006), most college students only
+write about 20 wpm (Connelly et al., 2005) and type about 50 wpm (Dhakal et al., 2018),
+making it likely that students felt rushed while taking notes. Second, as discussed by Flanigan and Titsworth (2020), students might intuitively believe that partially recorded idea
+units overcome McDougall’s (1904) recognition threshold and aid recall of the complete
+idea while later reviewing notes. Thus, students might intentionally record partial ideas
+in their notes intending to use them as retrieval cues later for recalling and perhaps noting
+missing information. Regardless of the explanation, research investigating the prevalence
+of partial ideas in student notes is still in its infancy. Only one other known study (Flanigan
+& Titsworth, 2020) indexed the number of partial ideas in student notes. Thus, it would
+be useful for future research to explain the presence of partial ideas in lesson notes. Such
+research could guide interventions designed to help students record more complete notes.
+Longhand note takers did record more images in their notes while the lesson was
+ongoing than computer note takers. Despite having at least one image displayed on the
+screen during approximately 90% of the video lesson, only two computer users recorded
+any lesson-related images in their notes—and these students only recorded two of the 17
+images apiece. The images that computer users did record in notes were relatively simple
+images—such as two arrows pointing toward each other to represent a convergent plate
+boundary. The functionality of word processing programs likely made it difficult for computer users to note more complex images (Mosleh et al., 2016; Reimer et al., 2009). The
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+observed effect size comparing the number of images recorded by computer and longhand
+note takers while the lesson was ongoing was large (ηp2 = .361). However, this effect size
+itself does not capture the practical finding that longhand note takers were not much better
+at recording images in notes than computer users, as the former only fully recorded about
+20% of the displayed images and partially recorded another 10% of the displayed images
+while the lesson was ongoing.
+Overall, it was evident that students recorded a small percentage of lecture ideas and
+images in notes, regardless of note-taking medium. Although the absence of noted images
+by computer note takers likely drove the large effect size uncovered for this analysis, present findings cannot explain why longhand note takers recorded so few images as well.
+Findings do suggest that students, in general, place more emphasis on recording text-based
+information than images in notes. Evidently, students need instruction in recognizing the
+value of and recording lesson images.
+Lesson note taking was affected when students knew they would intermittently revise
+their notes. Revisers recorded about three more partial ideas while the lesson was ongoing
+than participants who knew they would intermittently recopy their notes. A tentative explanation, mentioned earlier, is that revisers intentionally adapted their in-lecture note-taking
+strategy so as to record partial ideas in notes to use as retrieval cues later while studying or
+with the intention of finishing them during revision. More research is needed to determine
+if this is a deliberate strategy or a spurious finding.
+Overall, findings revealed many similarities in the notes taken by longhand and computer note takers while the lesson was ongoing. Both groups completely recorded about
+20% of the ideas presented during the lesson, while partially capturing another 10% of
+the lesson ideas. Students who type their notes tend to transcribe lecture ideas in a verbatim fashion, which has been associated with shallower information processing relative to
+taking handwritten notes (Luo et al., 2018; Mueller & Oppenheimer, 2014), but present
+findings indicate that both note-taking methods yield incomplete notes while lectures are
+ongoing. Although longhand note takers recorded more images in their notes than computer note takers, many of those images were also partially recorded. Moreover, longhand
+note takers only completely recorded about one-third of the images presented during the
+lesson. Overall, it was evident that students recorded a small percentage of lecture ideas
+and images in notes while the lesson was ongoing, regardless of note-taking medium. This
+finding aligns with long-standing literature on the relative incompleteness of lecture notes
+when students are not afforded the opportunity to revise notes during lessons (Austin et al.,
+2004; Titsworth, 2004).
+Note-taking alignment affected the number of partial ideas recorded in notes while
+the lesson was ongoing. For the longhand note-taking groups, misalignment with preferred note-taking medium increased the number of partial ideas recorded in notes relative
+to alignment. Specifically, participants who preferred to type their notes, but who were
+assigned to one of the longhand note-taking groups, recorded more “concept-identification
+only” partial ideas than participants assigned to one of the longhand note-taking groups
+who preferred to take longhand notes. Yet, for the computer note-taking groups, alignment
+with preferred note-taking medium increased the number of these partial ideas recorded
+in notes relative to misalignment. Taken together, these findings suggest that students who
+prefer to type their lecture notes also tend to record more partial ideas into their notes.
+Such findings contradict the claim that computer users transcribe complete lecture ideas
+verbatim (Luo et al., 2018; Mueller & Oppenheimer, 2014). However, none of these prior
+studies scored for the number of partial ideas contained in notes, and the present study
+did not assess verbatim transcription as did studies making this claim. Going forward, we
+
+13
+
+A. E. Flanigan et al.
+
+recommend that investigations into computer versus longhand note-taking account for the
+presence of partial ideas in participant notes to attain a more comprehensive view of the
+notes taken by computer users.
+
+Does note‑taking medium impact note completeness during revision?
+Revision improved the quantity (i.e., number of ideas and images) and completeness of
+lecture notes. Regarding lecture ideas, the revision group finished with about four more
+complete ideas and four more partial ideas in their notes than the no-revision group. Revision group participants also recorded more partial ideas in their notes while the lesson
+was ongoing than the no-revision group, perhaps knowing they would have an opportunity to add to their notes later. Longhand note takers particularly benefited from revision
+pauses. Longhand note takers added three-times-as-many complete ideas (ηp2 = .143) and
+two-times-as-many partial ideas (ηp2 = .073) to their notes during revision as computer
+note takers. These note-taking outcomes and large effect sizes supported our prediction
+that revision pauses would benefit longhand note takers more than computer note takers.
+One possible explanation for this finding is depth of processing theory (Craik & Lockhart,
+1972). It has been established that students who type their notes tend to transcribe lecture
+ideas verbatim, which is representative of shallow processing; whereas longhand note takers tend to paraphrase lecture ideas, which is representative of deeper, more meaningful
+processing (e.g., Luo et al., 2018; Mueller & Oppenheimer, 2014). It is plausible, then, that
+deeper processing by longhand note takers during the lecture makes it easier for them, than
+for computer notetakers, to use their notes as retrieval cues during revision. Future research
+should investigate whether deeper processing by longhand note takers produces notes more
+likely to surpass the recognition threshold (McDougall, 1904) than typed notes and better
+prompt recall of other lecture ideas during revision. Such research could challenge or support the notion that typing notes leads to shallower information processing during lecture
+learning than does handwriting notes.
+Contrary to our prediction, revisers devoted most of their revision efforts to adding
+ideas they missed entirely while the lesson was ongoing instead of finishing the partial
+ideas contained in their notes. In total, revisers netted 368 complete ideas during revision,
+and 60% of these were the addition of missed ideas, and 40% of these were partial ideas
+that had been finished during revision. However, given that revisers were more likely than
+non-revisers to record partial ideas while the lesson was ongoing—knowing they would
+have time to revise their notes later—the tendency of revisers to finish partial ideas during
+revision seems to support the notion that partial ideas act as retrieval cues for recalling and
+perhaps noting the complete lesson idea. However, revisers only finished about 11% of the
+partial ideas contained in their notes—leaving a considerable number of ideas unfinished.
+Thus, although finishing partial ideas was a common strategy among revisers, many partial
+ideas remained unfinished in their notes. Consequently, present and previous (Luo et al.,
+2016) findings support revision as a viable strategy for helping college students record
+more complete lecture notes, but notes will remain far from complete until note-taking and
+revision methods are improved.
+Findings from the present study and from prior research suggest that some of these
+improvements can come from encouraging students to take longhand notes (e.g., Luo
+et al., 2018; Mueller & Oppenheimer, 2014), identifying ways to help students record more
+complete notes while lectures are ongoing (e.g., Luo et al., 2018; Morehead et al., 2019a),
+allowing time for revision during or after lessons (e.g., Luo et al., 2016), and letting
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+students compare notes with a partner to increase note quantity and completeness (Luo
+et al., 2016). Such strategies have been shown to improve either note-taking quantity, completeness, or both.
+It was surprising that most idea units gained during revision came by adding idea units
+that had gone completely un-noted while the lesson was ongoing. Contrary to our prediction, it appears that revisers devoted most of their revision efforts toward recalling missing idea units and not toward finishing partially recorded idea units, even though partially
+noted ideas should easily overcome the recognition threshold (McDougall, 1904) and aid
+retrieval of complete idea units. Although tentative, present findings support Flanigan and
+Titsworth’s (2020) proposition that students believe—either accurately or inaccurately—
+that partial ideas serve as adequate retrieval cues while studying notes later and, therefore, need not be completed during revision. If this proposition is accurate, then it perhaps explains why participants committed most of their revision efforts toward recalling
+and adding idea units that were missing from their notes rather than completing partial
+idea units. Yet, when taken together, present and prior findings (Flanigan & Titsworth,
+2020) uncovered no relationship—either positive or negative—between the number of partial ideas recorded in notes and posttest achievement. Thus, it remains too early to claim
+whether partially recorded idea units surpass the recognition threshold (McDougall, 1904)
+and whether recording and reviewing partial ideas hinders or facilitates lecture recall.
+Given that the primary advantage comes in the review of notes than in their recording
+(i.e., note taking’s external-storage function), the presence of partially recorded ideas and
+images might undermine the utility of reviewing notes if partially recorded information
+falls below the recognition threshold. As previously mentioned, future research should
+determine why students record partial notes, why they leave the bulk of them unfinished,
+and how partial notes impact lesson information retrieval during revision across note-taking mediums and, ultimately, achievement.
+Regarding the noting of lecture-related images, longhand note taking was superior to
+computer note taking. No computer users added or finished lecture-related images during
+revision. Previous research showed that computer users struggle to record lecture-related
+images while lessons are ongoing (Flanigan & Titsworth, 2020; Luo et al., 2018). The present study is the first to show that these struggles for computer users extend to revision
+pauses. However, longhand note takers did not devote much effort toward improving the
+number of images contained in their notes either. Although a large effect size (ηp2 = .174)
+was observed for note-taking medium (Cohen, 1988), this large effect might be misleading because both longhand and computer note takers actually added few images during
+revision. On average, longhand revisers added less than one image to their notes during
+revision—and practically none of them finished partial images. These findings suggest that
+revisers either (a) prioritized ideas over images or (b) had difficulty recalling and recording
+images during revision. Hopefully, future research can uncover techniques that help students—particularly computer users—add or finish more images during revision in order to
+improve the quantity and completeness of lecture notes.
+Furthermore, future research should examine how lesson content affects note completeness and the benefit of revision pauses across different note-taking mediums. Present
+and previous research included lesson content containing quite a bit of imagery—such as
+the theory of plate tectonics in the present study and reinforcement schedules in previous
+research (Luo et al., 2016). Because typing notes is usually faster than hand writing them
+(Brown, 1988), it is plausible that revision benefits are lessened for computer note takers
+when lesson content contains more images. Future research should continue to investigate
+
+13
+
+A. E. Flanigan et al.
+
+the interplay among note-taking medium, revision pauses, and note completeness across
+lessons that include varying amounts of imagery.
+
+How do note‑taking medium and revision impact achievement?
+Many students believe that typing notes makes it easier to learn than writing notes (e.g.,
+Morehead et al., 2019b). However, previous research has not consistently supported this
+belief, as shown in the summary of previous findings presented in Table 1. Present findings
+also contradict this belief. Longhand note takers scored more than one-half of a letter grade
+higher (ηp2 = .063) on the posttest than computer note takers—regardless of whether notes
+were revised, with achievement advantages particularly resident for fact and concept learning. Although a medium-sized effect was observed (Cohen, 1988), the practical interpretation (i.e., computer users scored one-half letter grade lower on the posttest) seems most
+relevant for educational researchers and practitioners. The lack of support for the popular
+belief that computers make learning easier stemming from present and prior research (e.g.,
+Flanigan & Titsworth, 2020; Luo et al., 2018; Mueller & Oppenheimer, 2014) suggests
+that educators should counsel students about the research literature comparing longhand
+and computer note-taking mediums and help dispel this myth. As previously suggested,
+although it is plausible that lesson content is the best determinant for whether typing or
+hand writing notes is most beneficial, present and previous findings suggest that typing
+one’s lecture notes does not consistently improve learning like many college students
+believe (Houle et al., 2013; Morehead et al., 2019a).
+Posttest performance was predicted by the number of complete ideas contained in
+student notes after all note-taking activities had finished. The number of complete ideas
+recorded while the lesson was ongoing and added during revision accounted for about 15%
+of the variance in posttest scores. Previous research also showed that giving students time
+to revise their notes during a lesson improved note taking and achievement (Luo et al.,
+2016). Based on previous and present findings, educators should provide lecture pauses
+for note revision and advocate that students pause prerecorded lectures they watch on their
+own in order to revise their notes (see also Kiewra et al., 1991b).
+The number of partial ideas contained in student notes did not predict posttest achievement. However, this finding does not imply that partially noted ideas cannot be leveraged
+to improve student learning. Because the present study and previous research (Flanigan &
+Titsworth, 2020; Luo et al., 2018; Mueller & Oppenheimer, 2014) found a positive relationship between the number of complete ideas recorded and achievement, it seems plausible that training students to identify and finish partial ideas during revision could boost
+achievement. Our participants finished only a small number of the partial ideas in their
+notes. Failure to transform so many ideas from partial to complete could explain why the
+revision group did not outperform the no-revision group on the posttest.
+
+Limitations and future research
+The present study had limitations that could be addressed in future research. The first pertains
+to lecture content. The theory of plate tectonics topic was chosen because it was correctly
+anticipated that most participants would report little prior knowledge about this topic. However, because the topic was unrelated to the educational psychology course from which participants were recruited, it is possible that some participants lacked motivation to learn about
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+this topic. Future research could address this limitation by providing participants with lesson
+topics relevant to the course(s) from which they were recruited or also by assessing student’s
+motivation while completing the experiment. A second limitation was that desktop computers
+were used to type notes rather than laptop computers as in previous research (e.g., Bui et al.,
+2012; Flanigan & Titsworth, 2020; Luo et al., 2018; Mueller & Oppenheimer, 2014). It was
+not feasible to provide participants with laptop computers, and we did not want them using
+their own laptop in order to standardize note-taking functions. To ensure that all potential participants had the opportunity to participate, data collection was held in a university computer
+laboratory where participants were provided with readily available desktop computers to take
+notes. Future studies might issue standard laptops to all students or allow them to use their
+own. A third limitation, perhaps, is that computer note takers revised notes using the tracked
+changes function of the Word processing program. This function might have been unfamiliar
+to some users or have produced a revised document that was difficult to read and process.
+Future studies might explore other revision mediums for computer note taking. A fourth limitation is that participants revised notes on their own. Previous research found that revision
+improved note-taking quantity most when participants revised notes during lecture pauses
+with a partner (Luo et al., 2016). However, that research did not account for the considerable
+number of partial ideas and images contained in students’ lesson notes. Future research could
+determine if revising with a partner particularly helps students recall and finish more of these
+partial ideas and images. A final limitation pertains to the ecological validity of the research
+procedures. Participants were not provided access to the PowerPoint slides used in the video
+lecture while they took notes, although some instructors do make these materials available to
+their students (Witherby & Tauber, 2019). Making such slides available could affect students’
+note-taking strategies (e.g., the need to record images into their own notes). Furthermore, students might record lecture notes on devices not used in the present study, such as a mobile
+phone, stylus, or tablet. Although present findings demonstrated how note-taking medium
+affects recording of ideas and images, the present study procedures could not align with how
+all instructors deliver lessons or how all students take notes.
+
+Conclusion
+Recent research investigating the note-taking and achievement outcomes for longhand versus
+computer note taking has yielded mixed findings as shown in Table 1. Such inconsistencies in
+the literature led Morehead and associates (2019a) to conclude that it was too early to declare
+one note-taking medium superior to the other. The present study sought to add clarity to the
+debate over the longhand and computer note-taking mediums by embedding note revision
+pauses into the lesson to determine the main and interactive effects of note-taking medium
+(computer versus longhand note taking) and note revision (revision versus no revision) on note
+taking (complete and partial ideas and images) and achievement. Foremost, present findings
+contribute to the mounting evidence (e.g., Flanigan & Titsworth, 2020; Luo et al., 2018; Mueller & Oppenheimer, 2014) that computer note taking does not consistently lead to the learning benefits that many college students surmise. When revision pauses are embedded within
+ongoing lectures, present findings suggest that writing notes longhand is more advantageous
+for note completeness and achievement than typing notes on a computer. Thus, this round in
+the computer versus longhand note-taking debate goes to the combination of longhand note
+taking and revision, which resulted in more notes and higher achievement than computer note
+taking with revision.
+
+13
+
+A. E. Flanigan et al.
+
+Appendix 1
+An Image and Accompanying Text from Each of the Three Lesson Segments in Turn.
+
+According to the theory of plate tectonics, below the grass and soil that we can see,
+the earth is composed of multiple layers. The earth’s outermost layer is known as the
+lithosphere, which is composed of the earth’s crust and upper mantle. The crust is the
+earth’s outer shell. The crust is made up of the top layer of soil, plants, rocks, trees, and
+bodies of water people see every day. The crust on land is called the continental crust.
+The crust in the ocean is called oceanic crust. In total, continental crust is about 25
+miles thick and oceanic crust is about 3–5 miles thick. The upper mantle extends about
+60 miles downward underneath the oceanic and continental crusts.
+
+When two oceanic plates or an oceanic and continental plate collide, the denser of
+the two plates dives underneath the other. This process is known as subduction. Because
+oceanic plates are denser than continental plates, they always subduct, go lower, upon
+convergence with a continental plate, creating a subduction zone. When the subducting plate dives deep into the earth’s interior, molten magma is created. Over time,
+this magma oozes up through the crust and the earth’s surface. As a result, a chain of
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+
+volcanoes are often created through the process of subduction during tectonic plate
+convergence.
+
+Strike-slip faults are created when two or more fault blocks move in a horizontal direction relative to each other, such that one area of land is offset horizontally to the left or
+right of the other. As an example of movement along a strike-slip fault, imagine you are
+standing in front of that house again. If a strike-slip fault were to occur in-between you and
+the house, the house would be shifted to either your left or your right.
+
+Appendix 2
+See Table 11.
+
+Table 11  Demographic
+differences across four notetaking groups
+
+Chi Square Tests
+
+Analysis of
+Variance
+
+χ2
+
+p
+
+F
+
+p
+
+Gender
+
+6.097
+
+.107
+
+Class standing
+Preferred note-taking medium
+Alignment with preferred notetaking medium
+Prior plate tectonics course
+Prior plate tectonic knowledge
+Cumulative GPA
+
+7.344
+23.830
+10.924
+
+.601
+.780
+.012
+
+3.354
+
+.340
+
+1.808
+1.831
+
+.147
+.143
+
+13
+
+A. E. Flanigan et al.
+Funding None.
+Data availability Dataset and materials are not publicly available.
+Code availability Not applicable.
+
+Declarations
+Conflict of interest The authors declare that they have no conflict of interest.
+
+References
+Anderson, J. R. (1990). Cognitive psychology and its implications (3rd ed.). Freeman.
+Austin, J. L., Lee, M., & Carr, J. P. (2004). The effects of guided notes on undergraduate students’ recording
+of lecture content. Journal of Instructional Psychology, 31, 314–320.
+Blasiman, R. N., Dunlosky, J., & Rawson, K. A. (2017). The what, how much, and when of study strategies:
+Comparing intended versus actual study behavior. Memory, 25(6), 784–792.
+Bligh, D. A. (2000). What’s the use of lectures? Jossey-Bass.
+Blohm, P. J., & Colwell, C. G. (1983). Effects of readers’ cognitive style, text structure and signaling on different patterns in social studies content. Paper presented at the National Reading Conference, Austin,
+Texas, USA
+Brown, C. M. (1988). Comparison of typing and handwriting in “two finger typists.” Proceedings of Human
+Factors Society, 32, 381–385.
+Bui, D. C., Myerson, J., & Hale, S. (2012). Note-taking with computers: Exploring alternative strategies for
+improved recall. Journal of Educational Psychology, 105(2), 299–309.
+Carter, J. F., & Van Matre, N. H. (1975). Note taking versus note having. Journal of Educational Psychology, 67(6), 900–904.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum
+Associates.
+Connelly, V., Dockrell, J. E., & Barnett, J. (2005). The slow handwriting of undergraduate students constrains overall performance in exam essays. Educational Psychology, 25(1), 99–107.
+Craik, F. I., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. Journal of
+Verbal Learning and Verbal Behavior, 11(6), 671–684.
+Dhakal, V., Feit, A. M., Kristensson, P. O., & Oulasvirta, A. (2018). Observations on typing from 136 million keystrokes. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+[pp. 1–12]. ACM. https://​doi.​org/​10.​1145/​31735​74.​31742​20
+Di Vesta, F. J., & Gray, S. G. (1972). Listening and note taking. Journal of Educational Psychology, 63(1),
+8–14. https://​doi.​org/​10.​1037/​h0032​243
+Einstein, G. O., Morris, J., & Smith, S. (1985). Notetaking, individual differences, and memory for lecture
+information. Journal of Educational Psychology, 77, 522–532.
+Fiorella, L., & Mayer, R. E. (2017). Spontaneous spatial strategy use in learning from scientific text. Contemporary Educational Psychology, 49, 66–79.
+Flanigan, A. E., & Titsworth, S. (2020). The impact of digital distraction on lecture note taking and student
+learning. Instructional Science. https://​doi.​org/​10.​1007/​s11251-​020-​09517-2
+Frisbie, D. A. (1988). Reliability of scores from teacher-made tests. Educational Measurement: Issues and
+Practice, 7(1), 25–35.
+Houle, P. A., Reed, D., Vaughan, A. G., & Clayton, S. R. (2013). Using laptop computers in class: A student
+motivation perspective. Journal of Learning in Higher Education, 9(2), 83–92.
+Howe, M. J. A. (1970). Using students’ note to examine the role of the individual learner in acquiring meaningful subject matter. Journal of Educational Research, 64, 61–63.
+Jairam, D., & Kiewra, K. A. (2010). Helping students soar to success on computers: An investigation of the
+SOAR study method for computer-based learning. Journal of Educational Psychology, 102, 601–614.
+https://​doi.​org/​10.​1037/​a0019​137
+Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student learning: Do
+students practice retrieval when they study on their own? Memory, 17, 471–479. https://​doi.​org/​10.​
+1080/​09658​21080​26470​09
+
+13
+
+Computer versus longhand note taking: Influence of revision﻿	
+Kay, R., & Lauricella, S. (2011). Exploring the benefits and challenges of using laptop computers in higher
+education classrooms: A formative analysis. Canadian Journal of Learning and Technology, 37(1),
+83–92.
+Kiewra, K. A. (1985a). Investigating notetaking and review: A depth of processing alternative. Educational
+Psychologist, 20, 23–32.
+Kiewra, K. A. (1985b). Providing the instructor’s notes: An effective addition to student notetaking. Educational Psychologist, 20(1), 33–39.
+Kiewra, K. A., & Benton, S. L. (1988). The relationship between information-processing ability and notetaking. Contemporary Educational Psychology, 13, 33–44.
+Kiewra, K. A., Benton, S. L., & Lewis, L. B. (1987). Qualitative aspects of notetaking and their relationship
+with information processing ability. Journal of Instructional Psychology, 14, 110–117.
+Kiewra, K. A., DuBois, N. F., Christian, D., McShane, A., Meyerhoffer, M., & Roskelley, D. (1991a). Notetaking functions and techniques. Journal of Educational Psychology, 83(2), 240–245. https://​doi.​org/​
+10.​1037/​0022-​0663.​83.2.​240
+Kiewra, K. A., Mayer, R. E., Christensen, M., Kim, S. I., & Risch, N. (1991b). Effects of repetition on
+recall and note-taking: Strategies for learning from lectures. Journal of Educational Psychology, 83(1),
+120–123.
+Knight, L. J., & McKelvie, S. J. (1986). Effects of attendance, note-taking, and review on memory for
+a lecture: Encoding vs. external storage functions of notes. Canadian Journal of Behavioural Science, 18(1), 52–61. https://​doi.​org/​10.​1037/​h0079​957
+Luo, L., Kiewra, K. A., Flanigan, A. E., & Peteranetz, M. S. (2018). Laptop versus longhand note taking:
+Effects on lecture notes and achievement. Instructional Science, 46(6), 947–971.
+Luo, L., Kiewra, K. A., & Samuelson, L. (2016). Revising lecture notes: How revision, pauses, and partners affect note taking and achievement. Instructional Science, 44(1), 45–67.
+McDougall, R. (1904). Recognition and recall. Journal of Philosophical and Scientific Methods, 1,
+229–233.
+Miller, G. A., & Chapman, J. P. (2001). Misunderstanding analysis of covariance. Journal of Abnormal
+Psychology, 110(1), 40–48.
+Morehead, K., Dunlosky, J., & Rawson, K. A. (2019a). How much mightier is the pen than the keyboard
+for note-taking? A replication and extension of Mueller and Oppenheimer (2014). Educational Psychology Review, 31, 753–780.
+Morehead, K., Dunlosky, J., Rawson, K. A., Blasiman, R., & Hollis, R. B. (2019b). Note-taking habits of 21st century college students: Implications for student learning, memory, and achievement.
+Memory, 27(6), 807–819.
+Mosleh, M. A., Baba, M. S., Malek, S., & Alhussein, M. A. (2016). Challenges of digital note taking. In H.
+Sulaiman, M. Othman, M. Othman, Y. Rahim, & N. Pee (Eds.), Advanced computer and communication engineering technology (pp. 211–231). Springer.
+Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of
+longhand over laptop note taking. Psychological Science, 25(6), 1159–1168.
+Peters, D. L. (1972). Effects of notetaking and rate of presentation on short-term objective test performance. Journal of Educational Psychology, 63, 276–280.
+Peverly, S. T., Ramaswamy, V., Brown, C., Sumowski, J., Alidoost, M., & Garner, J. (2007). What predicts skill in lecture note taking? Journal of Educational Psychology, 99(1), 167–180.
+Ragan, E. D., Jennings, S. R., Massey, J. D., & Doolittle, P. E. (2014). Unregulated use of laptops over
+time in large lecture halls. Computers & Education, 78, 78–86.
+Ravizza, S. M., Uitvlugt, M. G., & Fenn, K. M. (2017). Logged in and zoned out: How laptop internet
+use relates to classroom learning. Psychological Science, 28(2), 171–180.
+Reddington, L. A., Peverly, S. T., & Block, C. J. (2015). An examination of some of the cognitive and
+motivation variables related to gender differences in lecture note-taking. Reading and Writing,
+28(8), 1155–1185.
+Reimer, Y. J., Brimhall, E., Cao, C., & O’Reilly, K. (2009). Empirical user studies inform the design of
+an e-notetaking and information assimilation system for students in higher education. Computers &
+Education, 52(4), 893–913.
+Richardson, J. T. (2011). Eta squared and partial eta squared as measures of effect size in educational
+research. Educational Research Review, 6(2), 135–147.
+Robinson, D. H., & Kiewra, K. A. (1995). Visual argument: Graphic organizers are superior to outlines
+in improving learning from text. Journal of Educational Psychology, 87(3), 455–467.
+Simonds, B. K., Meyer, K. R., Quinlan, M. M., & Hunt, S. K. (2006). Effects of instructor speech rate on
+student affective learning, recall, and perceptions of nonverbal immediacy, credibility, and clarity.
+Communication Research Reports, 23(3), 187–197.
+
+13
+
+A. E. Flanigan et al.
+Thomson, D. M., & Tulving, E. (1970). Associative encoding and retrieval: Weak and strong cues. Journal of Experimental Psychology, 86, 255–262. https://​doi.​org/​10.​1037/​h0029​997
+Titsworth, B. S. (2004). Students’ note taking: The effects of teacher immediacy and clarity. Communication Education, 53, 305–320.
+Titsworth, B. S., & Kiewra, K. A. (2004). Spoken organizational lecture cues and student notetaking as
+facilitators of student learning. Contemporary Educational Psychology, 29(4), 447–461.
+Tulving, E., & Osler, S. (1968). Effectiveness of retrieval cues in memory for words. Journal of Experimental Psychology, 77(4), 593–601.
+Tulving, E., & Patterson, R. D. (1968). Functional units and retrieval processes in free recall. Journal of
+Experimental Psychology, 77(2), 239–248.
+Wildt, A. R., & Ahtola, O. T. (1978). Quantitative applications in the social sciences: Analysis of covariance. Sage.
+Witherby, A. E., & Tauber, S. K. (2019). The current status of students’ note-taking: Why and how do
+students take notes? Journal of Applied Research in Memory and Cognition, 8(2), 139–153.
+Wittrock, M. C. (1974). Learning as a generative process. Educational Psychologist, 11(2), 87–95.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under
+a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of such publishing agreement and applicable
+law.
+
+Authors and Affiliations
+Abraham E. Flanigan1
+
+· Kenneth A. Kiewra2 · Junrong Lu3 · Dzhovid Dzhuraev3
+
+Kenneth A. Kiewra
+kkiewra1@unl.edu
+Junrong Lu
+junrong0309@gmail.com
+Dzhovid Dzhuraev
+ddzhuraev2@huskers.unl.edu
+1
+
+Department of Curriculum, Foundations, and Reading, Georgia Southern University, 2101 College
+of Education Building, Statesboro, GA 30460, USA
+
+2
+
+Department of Educational Psychology, University of Nebraska-Lincoln, 240 Teachers College
+Hall, Lincoln, NE 68588, USA
+
+3
+
+Department of Educational Psychology, University of Nebraska-Lincoln, 114 Teachers College
+Hall, Lincoln, NE 68588, USA
+
+13
+
+
