@@ -1,0 +1,288 @@
+
+Southern Communication Journal
+
+
+
+
+
+
+ISSN: 1041-794X (Print) 1930-3203 (Online) Journal homepage: https://www.tandfonline.com/loi/rsjc20
+
+
+Is the Pencil Mightier than the Keyboard? A Meta- Analysis Comparing the Method of Notetaking Outcomes
+
+Mike Allen, Luke LeFebvre, Leah LeFebvre & John Bourhis
+
+To cite this article: Mike Allen, Luke LeFebvre, Leah LeFebvre & John Bourhis (2020): Is the Pencil Mightier than the Keyboard? A Meta-Analysis Comparing the Method of Notetaking Outcomes, Southern Communication Journal, DOI: 10.1080/1041794X.2020.1764613
+To link to this article: https://doi.org/10.1080/1041794X.2020.1764613
+
+
+
+ Published online: 20 May 2020.  Submit your article to this journal
+
+
+View related articles 
+
+
+
+ View Crossmark data
+
+
+
+
+
+
+
+
+
+         Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rsjc20
+
+
+SOUTHERN COMMUNICATION JOURNAL
+https://doi.org/10.1080/1041794X.2020.1764613
+
+
+
+Is the Pencil Mightier than the Keyboard? A Meta-Analysis Comparing the Method of Notetaking Outcomes
+Mike Allena, Luke LeFebvre b, Leah LeFebvrec, and John Bourhisd
+aDepartment of Communication, University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, USA; bDepartment of Communication, Texas Technological University, Lubbock, Texas, USA; cDepartment of Communication, University of Alabama, Tuscaloosa, Alabama, USA; dDepartment of Communication, Missouri State University, Springfield, Missouri, USA
+
+KEYWORDS
+Notetaking; laptop; handwriting; retention; distraction; instructional strategies
+
+
+
+
+
+
+
+
+
+
+Notetaking1 occurs in a variety of contexts for a number of educational purposes (Piolat et al., 2005), and many collegiate classrooms highlight observable and prevalent notetaking behaviors. The ability to create an organized system of notes based on a presentation becomes paramount for learners. The product of notetaking offers a means of creating a record of the lecture or discussion. Often learners then turn to created notes to recall knowledge or to assimilate and improve knowledge retention. The notetaking task during a presentation appears straightforward. Notetaking engages the learner to select and produce a written record of relevant information in a format that triggers recognition of shared content for reference, review, and analysis. The ability to create an organized system of notes based on an oral and/or visual presentation describes a task that should improve learning. The product and action simultaneously permit learners to examine and store information for short- and long-term memories. The inclusion of notetaking by a message receiver operates as a part of understanding the development of effective listening skills. Most often communication research in education focuses on the message sender rather than on how the message receiver listens and processes the message sent by the communicator. This perspective reflects the normal message sender bias in much of communication research. The focus on notetaking highlights the message receiver.
+  This study compares two methods of notetaking on educational outcomes: (a) longhand and (b) electronic. Each notetaking method considers potential issues facing how students attempt to store, recall, and review information shared by instructors. Notetaking represents an intracell communica- tion aspect in the instructional process of learning that is capable of modification and improvement. The involvement of the instructor in generating appropriate models and procedures for relevant notetaking remains an underdeveloped and underexplored part of the process. The purpose of this meta-analytic review is to determine what effect method of notetaking has on learning outcomes in the college classroom.
+
+
+CONTACT Mike Allen	mikealle@uwm.edu	Department of Communication, University of Wisconsin-Milwaukee, Milwaukee, WI 53222
+(c) 2020 Southern States Communication Association
+
+
+Notetaking
+Published research about the effectiveness of notetaking in the classroom date back to the early twentiethth century (Crawford, 1925). The impacts and limitations of notetaking represent an area subjected to a number of meta-analyses (Henk & Stahl, 1985; Kobayashi, 2005, 2006). Reed et al. (2016) meta-analysis pointed out improvements in notetaking through intervention and training. Another meta-analysis' findings indicated that providing advanced organizers to guide the process of notes linked to the structure of the lecture improved educational outcomes (Preiss & Gayle, 2006). However, few studies investigate the most effective method for notetaking.
+
+
+Methods of notetaking
+Longhand notetaking primarily occurs as a physical activity of handwriting notes. However, the advancement of easily accessible technology and affordability of laptop computers (referred to as laptops), smartphones, iPads, etc., introduced a new form of notetaking to the college classroom - electronic notetaking (Fried, 2008; Ravizza et al., 2016). With the integration of laptop (or other electronic devices)2 longhand notes are commonly replaced with laptop notetaking. For example, the laptop notetaker can move blocks of text around, insert text, add comments, adjust font sizes, colors, styles, and create alternative formats as well as outline a number of options in the document (including inserting hyperlinks). Additionally, given the development of various electronic or cloud- based storage options, losing the notes is less likely and more likely to create an easier means of preserving the record and including additional material. Moreover, other laptop notetaking features permit inclusion and annotation of pictures, video, and other materials as well as the ability to edit as necessary. Digital links to hypertext to external materials permit the link to access to more material to define or highlight elements of the notes. Laptop notes, theoretically, create an advantage for notetaking permitting easy reorganization, restructuring, and sharing.
+
+
+To write or type
+The fundamental question still remains which notetaking method, longhand notetaking by use of writing utensil (e.g., pen, pencil) or laptop device (e.g., computer, tablet, smartphone) represents an improvement for student learning, and in turn may offer better educational outcomes. Essentially, the notetaking activity represents a muscle memory that the mind performs without much concen- tration (Stewart, 1989). Stewart suggested that the amount of cognitive load devoted to the effort of writing occurs with minimal effort. Distractions exist in the learning environment (e.g., lighting) or individually (e.g., working on a different assignment). As such, the assumption associated with the longhand method is that it minimizes distraction. The hand-writer need only focus on the message transference process of writing notes leaving only physical or physiological distractions to interfere with the transfer of information.
+  The use of laptop notetaking provides two elements that differ from longhand notetaking: (1) different motor functions involved and (2) the possibility of multitasking or distraction from the presentation due to other laptop applications and functions. The motor functions necessary and the cognitive requirements of the laptop are different and require more intensity than the longhand written notetaking. The usual process of written longhand notetaking involves rereading and filling in missing gaps and rewriting, whereas a laptop notetaking involves various reorganization such as cut and paste that requires minimal additional cognitive work (Jarmon, 2008). The additional recall or learning that occurs in longhand notes simply takes less time, and the increased efficiency results in more learning (paying attention to the presentation content as opposed to operating the computer application). Thus, the argument advances that the method of notetaking using the laptop represents a less efficient method of taking notes, and consequently generates lower levels of cognitive learning.
+
+
+  The second element of difference involves the existence of the potential to multitask or distract using the accompanying features of laptops. The introduction of WiFi and the wireless connections of electronic devices and combined downloaded applications make devices multifunctional. Students may become distracted and effectively multitask with laptops during the class, which divides attention or distracts students. Pop-ups that inform students of new messages or some breaking news story create an environment full of potential personal distractions. The excess cognitive capacity of the mind capable of processing at a much faster rate than the speed of the presentation permits the search for additional stimuli (Chiu et al., 2013). The finding or acceptance of that additional material may ultimately serve to distract.
+  The issue over notetaking, particularly with the use of laptops represents a serious concern of college instructors. One instructor (see McCreary, 2009) talks about banning laptops from the classroom, at least in some areas or zones. The argument made revolves around the desire of some students to have a space free of electronic distraction. Students may not be using a device but suffer from distraction from other students that are using a device linked to some application unrelated to the course. At least two empirical investigations (see Aguilar-Roca et al., 2012; Sana et al., 2013) supported the effectiveness of the inclusion of laptop-free zones in a college classroom. For instance, laptops have the potential to hinder or reduce learning of nearby peers. The result may require a kind of segregated classroom based on the use of technology and subsequent notetaking practices. Faculty in previous articles reported implementing bans on device use in the classroom, arguing for a negative consequence on the process of education. From a practical standpoint, understanding the impact of electronic devices to take notes may sway instructors to regulate or ban the devices entirely.
+  The adaptation of technology often calls into question commonplace route processes - that question the methods behind the processes. Similarly, the set of skills for longhand written and laptop notetaking operate distinctly and differently, and as such - scholars and educators have developed inquiries to determine if the pencil or keyboard is mightier for educational outcomes. Therefore, this investigation conducts a meta-analysis to consider educational outcomes associated with handwritten versus laptop notetaking for the college classroom.
+
+
+Methods
+Literature search procedure
+The literature search started with a search of electronic databases like EBSCO Host (including various databases such as Educational Resource Information Clearinghouse or ERIC, PsychINFO, Dissertations and Theses Global, MedLine, Communication and Mass Media Complete). The search used a combination of keywords: "notetaking in college" and "electronic notetaking," "handwriting" "laptop" "mobile phone," and "computer." The search was conducted in March of 2020. In addition, reviews of the literature on notetaking were examined, including various meta-analyses (Henk & Stahl, 1985; Kobayashi, 2005, 2006; Reed et al., 2016). The development of electronic notetaking using a laptop is a fairly recent development (less than 20 years). All articles obtained were searched for additional information in the references section. The search found a total of 144 manuscripts requiring examination for possible inclusion. Studies were not included for a variety of reasons (e.g., including only one form of notetaking, employing qualitative analysis, examining only an interven- tion or training of some kind).
+  For this meta-analysis, 24 estimates were included. Inclusion criteria consisted of empirical study examining a comparison of notetaking by hand using a writing implement (pencil or pen) recorded on paper to the taking of notes using an electronic device (most often a laptop computer). The comparison of the effectiveness involved some measurement of learning (e.g., test, grade) that involved an evaluation of student ability to meet a learning objective.
+  Studies examining the perceptions about use of the technology in the classroom (e.g., Baker et al., 2012), relying on qualitative approaches (e.g., Jeong et al., 2015), student use of technology outside of
+
+
+the classroom (e.g., Junco, 2011; Wambaugh, 1991) did not include an appropriate dependent measure of learning or student perception (e.g., Gehlen-Baum & Weinberger, 2012; Gehlen-Baum et al., 2014; Wurst et al., 2008) or were unrecoverable from the statistics presents (Quade, 1996). A complete list of studies and reasons for exclusion is available from the first author.
+
+Coding for potential moderating conditions
+Design of investigation
+The designs employed either used: experimental designs or surveys. An experimental design provided a control over the technology. For instance, investigators examined the actual use of an electronic system for which notes were assigned. Experimental designs were often using a random assignment to particular conditions. Survey asked the participants about their use of electronic devices and relied on self-report. For these designs, participants reported on the use of electronic devices as assigned or self-selected. In these conditions, survey, or self-selected proce- dures provided more naturalistic design because students report the use of their own recording technique(s).
+
+Outcome measures
+The dependent outcome was one of two measures used: grade or course satisfaction. Grades could be either for a single exam or for the entire course. The use of self-reports provided a measure of the instruction satisfaction or the expression of how much a student believes learning took place.
+
+Course content
+Examination of the investigations only revealed two groups for classification. One group dealt with courses in the natural sciences, mathematics, or statistics. The other courses came from either the social sciences or humanities. The split reflects an underlying belief or assumption about the "objectivity" of the courses where the natural sciences/statistics grouping would reflect courses with arguments over answers or material considered more structured when compared to other parts of the academy.
+
+Level of students
+The question of what level of college course becomes of interest. The incoming or entry level of course may or may not involves advanced level of students with years of experience taking notes in a college-level course. Examination of the available data indicated three types of course levels in the data set: entry, advanced, and mixed-level courses. Entry-level courses are commonly enrolled by first-year students or those beginning their college career at the lowest discipline level. Upper-class students may be taking the course to fulfill a general educational requirement but the material, relative to the discipline of study is considered at the lowest level. The advanced courses were considered those taken only by students as part of a major and courses related to junior or senior standing. The mixed classes indicate the expectation that the course would involve both students beginning and those with experience in college.
+
+Statistical analysis
+Statistical analysis proceeded largely using the recommendations of Schmidt and Hunter (2014) for a random effects meta-analysis using psychometric correction of effects. The procedure has estimates from each investigation converted to a common metric, in this case the correlation coefficient, and then each effect corrected for the existence of any artifact or statistical bias (error of measurement, restriction in range, etc.).
+  The individual estimates become used to estimate an average effect using the sample size of the investigation. The average effect generated is then used to assess the variability among the individual
+
+
+effects to determine whether or not some additional source of variance may exist among those effects beyond that expected due to sampling error. A significant chi-square indicates a potential moderator variable serving a means of explanation for the excess variability in the observed investigations. The choice of the particular procedure reflects a comparison indicating a general desirability of the Schmidt and Hunter approach compared to other random effects methods (Anker et al., 2010).
+
+Results
+Overall
+The overall effect was based on 24 investigations and observed an average negative effect, average r = - .124 [95% CI, -.092, -.154], k = 24, N = 4,553 based on a homogeneous set of correlations, ?2 (23, N = 4553) = 33.11, p > .05. The overall correlation displays an effect that suggests using electronic forms of notetaking reduce the observed effect. While moderator analysis will be con- ducted, the overall average was based on a set of studies whose variability represents that expected by sampling error and therefore no additional source of variability may exist.
+
+Design of investigation
+The investigations used two basic types of designs: (a) experimental or manipulations or (b) a survey of information. The observation for the investigations using an experimental design demonstrated a negative average effect, average r = - .121[95% CI, -.079, -.163], k = 16, N = 2764 based on a homogeneous set of correlations, ?2 (16, N = 2764) = 23.27, p > .05.
+  The designs using surveys to generate estimates demonstrate a negative correlation, average r = - .129 [95% CI, -.082, -.176], k = 8, N = 1,789 based on a homogeneous set of correlations, ?2 (7, N = 1,789) = 9.98, p > .05. A comparison of the average effects using a z-test indicates no significant difference between the average effects based on the type of design employed, p > .05. The available data indicates that the type of design does not differentiate the findings; the findings are essentially the same regardless of the design employed by the investigators.
+
+Outcome measure
+The only combination with more than three investigations involved using course grade and exams as measurement. The average effect was negative, average r = - .108 [95% CI, -.071, -.145], k = 19, N = 2,805 based on a homogeneous set of correlations, ?2 (9 = 18, N = 2,805) = 26.99, p > .05. The outcome measure demonstrates that as students use the electronic forms of notetaking the grade earned by the student reduces. Using a one-sample t-test, the comparison of this average to the overall average effect demonstrates no significant difference, p > .05, indicating no difference in the observed estimates exists.
+
+Discipline of the course
+The type of disciplines included broke down into two basic types: natural sciences and statistics and other disciplines. The average effect was negative for studies that included data from the natural sciences and statistics, average r = - .165 [95% CI, -.107, -.223], k = 12, N = 1,119 based on a heterogeneous set of correlations, ?2 (11, N = 1,119) = 20.88, p < .05.
+  Studies that employed samples outside of the natural sciences and statistics demonstrated a negative correlation, average r = - .109 [95% CI, -.073, -.145], k = 10, N = 3,289 based on a homogeneous set of correlations, ?2 (9, N = 3,289) = 9.29, p > .05. The results indicate that the use of electronic notetaking devices reduces the educational outcomes measured when compared to traditional manual techniques using paper and pencil (pen).
+
+
+  A comparison of the two average effects indicates a significant difference between the two average estimates, z = 8.33 p > .05. The difference indicates that taking notes by hand has a larger advantage considering natural science and statistic course compared to other courses (psychology, education, communication, etc.).
+
+Notetaking design
+The studies used three basic design types for assigning notetaking for students: self-report, experi- mental assignment, and quasi-experimental design. The self-reports for notetaking procedure report a negative correlation, average r = - .139 [95% CI, -.089, -.189], k = 7, N = 1,692 based on a homogeneous set of correlations, ?2 (6, N = 1,692) = 8.45, p > .05. Studies using experimental design report a negative correlation, average r = - .084 [95% CI, -.026, -.142], k = 9, N = 1,189, based on a homogeneous set of correlations, ?2 (8, N = 1,189) = 11.61, p > .05. Quasi-experimental designs demonstrate a negative association with use of electronic notetaking, average r = - .150 [95% CI, -.097, -.203], k = 4, N = 1,334, based on a homogeneous set of correlations, ?2 (3, N = 1,334) = 8.46, p > .05. A one-way ANOVA demonstrates no significant difference existed among the means using the design to classify, p > .05.
+
+Course level
+The level of the course received a code as: entry, advanced, or mixed levels. The entry-level courses demonstrate a negative association with the use of electronic notetaking and outcome, average r = - .138 [95% CI, -.089, -.187], k = 6, N = 1,591 based on a homogeneous set of correlations, ?2 (6, N = 1,591) = 12.42, p > .05.
+  Advanced, average r = - .088 [95% CI, -.036, -.140], k = 11, N = 1,530, based on a homogeneous set of correlations, ?2 (13, N = 1,530) = 11.85, p > .05. The advanced courses were courses that usually were enrolled by juniors or seniors. The average effect was negative, indicating that the advanced courses demonstrated an association such that use of electronic notetaking devices were associated with lower course outcomes.
+  Mixed, average r = - .152 [95% CI, -.098, -.206], k = 5, N = 1,322 based on a homogeneous set of correlations, ?2 (4, N = 1,322) = 5.69, p > .05. The correlation indicates that studies combining across a set of sections using a variety of courses at multiple levels indicates that the use of electronic devices was associated with a reduce outcome.
+  A one-way ANOVA procedure used to examine the difference among the means demonstrated significant difference among the groups, F (2, 14) = 4.37 p > .05. A post hoc analysis of the means indicates no significant difference (p > .05) between the mixed and beginning level courses. However, the post hoc indicates significant differences (p < .05) between the advanced average and the mixed and beginning level courses.
+
+Discussion
+The results indicate that students' taking notes employing longhand written notes scored better on exams and course grades then students using laptop or electronic systems to take notes. The findings imply that permitting students to use a laptop or other electronic means of taking notes may result in less (or lower) learning compared to other means of generating a record of the content discussed during class time. A comparison of moderators revealed that notetaking by hand demonstrated a greater advantage in natural science courses and less advantage for advanced level courses. The reason for this remains unclear, but may have to do with some element of processing related to the technical and precise information relating to math and formulas and the experience of the student with college. Essentially, regardless of setting or method, the observed effect indicates a universal preference in outcome for the use of handwritten notetaking during a course.
+
+
+Table 1. BESD examination of average effects considering an average correlation of -.12.
+Educational Measure% Scores Above the Mean% Scores Below the MeanElectronic Notetaking5644Handwritten Notetaking4456
+The impact of moving from handwritten to electronic notetaking indicates a decline of 21% of scores 56% to 44% of scores above the mean.
+
+
+Table 2. Changes in grades related to notetaking method.
+F (50)D (60)C (70)B (80)A (90)Laptop70 (7%)240 (24%)380 (38%)240 (24%)70 (7%)Handwriting20 (2%)200 (20%)370 (37%)300 (30%)110 (10%)
+Assumes mean score of 75 with standard deviation of 10 and sample of 1000; Laptop students as basis to compare to handwriting students and effect size of r = -.12 (favoring handwriting notes method).
+
+
+  The size of the average effect r = - .14, might be viewed as small using the procedure of squaring the average correlation coefficient and regarding a small percentage "variance accounted for" value 1.96%. But as Abelson (1985) pointed out that such small values may have substantial impact, particularly in situations where the replication of a practice accumulates. Rosenthal (1991) using the Binomial Effect Size Display, provided in Table 1, indicates that the impact of the choice of notetaking increases the number of individuals scoring past the mean by 25% for a correlation of r = - .14. Another view is to examine what happens to a scoring system using grades based on test scores for 1,000 students compared on the basis of notetaking method displayed in Table 2. The impact of notetaking method demonstrates a substantial effect that increases the number of A grades by slightly more than 50%. One of the implications of shifting an average score becomes a more substantial impact at the tails of a normal distribution, so what might be considered small mean impacts have greater effects at the extremes of the distribution (in this case F and A grades).
+  The reason for the distinction still remains a bit unknown. Current data identified the effect of notetaking choice but not the reason why a difference occurs. If the process of taking notes on an electronic device requires greater effort and steps, then the current technology inherently provides a means of notetaking that remains less effective. However, the research does not isolate the difference due to the process of taking notes. That stated using an electronic device requires a different cognitive and/or psychomotor response or elements involved in the notetaking process. The alternative could imply that the result instead becomes associated with multitasking when a device is linked or permitted to link via some WiFi network. The result is an exposure to distracting elements involved in using the Internet. For example, the existence of Facebook, instant messaging, e-mail, and/or other means of distraction reduce the focus on the task in the classroom and therefore decrease cognitive learning.
+
+
+Practical implications
+The act of using a laptop migrates student focus away from participation and discussion surrounding the classroom content. Therefore, the learner begins to view classroom activities as something passive and the discussion background noise to the central focus of what is occurring on the laptop screen. The laptop computer or mobile phone may simply increase the perception of psychological distance from the discussion and reduce the sense of immediacy and involvement on the part of the student(s).
+  Meiediercks (2005) described the darkside of the "laptop" university as one where the normal assumptions of interaction and engagement in a face-to-face setting become muted. The laptop provides access to the distraction of Yahoo, Google, Facebook, Twitter, and e-mail. Even when the
+
+
+student acts responsibly the focus on the screen means that the instructor(s) are not the center of attention, the eyes of the student may be on the screen instead. Whether the process involves taking of notes or some other distraction, the physical focus moves away from the person-to-person communication typically sought during a small group discussion. Essentially, the distractions end up working actively to pull the learner away from the current context, instructional communication, and learning-taking place in the classroom. The ability to make eye contact or the need becomes reduced, if not simply eliminated - all of which aids the learner to be further removed cognitively from the instructional experience.
+
+Multitasking
+If the reason for the difference relates to the multitasking then the functionality of the device requires modification. One solution would be to install WiFi suppression systems within the class- room. Such a system would not permit laptop notetakers to connect to an external server. Alternatively, designing the course so that the use of the Internet and the laptop plays an essential role in participation makes the device a vital element of the process as opposed to a distraction in the process.
+  Redesigning a course to be laptop inclusive embraces has the potential to be an essential element of lectures and enhances participation provided the technology reduces distraction. One investiga- tion (Sung et al., 2016) reported a course design that required participation with constant attention to a mobile application. The coursework, even in the face-to-face classroom required constant attention to an electronic device. The creativity of this pedagogical design retools the purpose of the electronic device to the central learning activities. However, the burden for adapting technology for the classroom becomes part of the instructor's responsibility, which has not proven to be fruitful for technology adaptation for classroom instruction. Many teachers may reject or resist a mandatory technological change in instruction (Cuban, 1986).
+
+
+Pedagogical implications
+The issue of the inclusion or permitting of laptop electronic devices deserves consideration in terms of the educational impact. Just because technology exists does not necessarily mean instant use of or inclusion of the technology provides a benefit to the user or to all settings. The traditional classroom lecture may not provide the environment that permits effective use of the laptop. The classroom redesign for the assumption and inclusion of electronic devices, such as a laptop, creates a demand for the student to use the laptop as a tool within the classroom as part of the lecture or learning exercises. A redesign could aid in making students unable to effectively multitask and creates a higher cognitive demand on the student, while reducing the boredom or lack of capacity.
+
+Cognitive load
+A potential alternative is the redesign of the teacher/student interaction. The distributive model where teachers provide information to the passive student may need to be reconsidered. The average speed of speaking represents a typical word per minute rate of 190 and the mind is capable of grasping or thinking in terms of more than 400 words per minute (Kim et al., 2019). The student- seeking stimulus simply reflects the unused portion of the mental processes and the desire to fill that portion of the mind. The indictment may not involve an issue of the device but instead the setting in which the device becomes placed. Student use of applications during lectures represents a lack of connection or boredom following the course content that leads students to seek additional stimulus (easily provided via the laptop with a network connection). Mueller and Oppenheimer point to the need to incorporate electronic devices as part of the classroom experience to increase cognitive focus, but that students may not have adequate training on the use of the tool.
+
+
+  May and Elder (2018) point out that the issues of dividing attention and switching attention should work to lower academic performance. The impact creates a scattered attention results in deficits of cognitive control and increases the probability of errors (Uncapher et al., 2016). Cognitive load issues become more complex and difficult if the problems stem from multitasking as opposed to a simple comparison between alternative methods of generating notes (handwriting versus typing on electronic keyboard). In the case of multitasking, the key is to reduce the number of tasks a student engages in that distracts from the course content or lecture, which may lead to the second option, classroom regulation.
+
+Classroom regulations
+The most obvious solution is laptop or device banning from the classroom. Such a step, may be perceived as a teacher misbehavior; however, such a solution demonstrates some merit. Current research suggests laptop use, for whatever reason, lowers student grades and exam scores. The use of laptop devices for notetaking proves less effective than methods that involve paper and a writing utensil. Laptop banning may be the simplest solution for lecture notetaking; however, such a solution creates a stark distinction between the classroom space and all other spaces involving electronic devices. The decision to prohibit laptops creates disparity between typical student practices with their use of laptops. The long-term consequence of laptop restrictions may led to student frustration as evidenced in course evaluations or even enrollment reduction for given instructors. A compromise would allow for the moderation of laptop notetaking to help learners engage more actively with the course content and material during given lectures. Regulation may create student resistance, especially in large lecture classrooms, to ignore or find ways around the rules would remain a problem. The disruption and need to create behavioral enforcement might prove as big a distraction for the course as much as the use of the device. A more efficient use of the instructor's time would be to advise students to use electronic products that include handwriting that allows written or sketched notes to be digitized in a reusable notebook (i.e., erasable or
+digital notebooks) or consider regulation of laptops for particular activities or spaces.
+
+Limitations and future directions
+Future research should focus on examining how to best take notes via a laptop device for increased cognitive recall. Training learners for how best to use technology for notetaking appears to be the gap. Something as simple as disconnecting the network connection to the laptop computer may be a workable solution. The question of whether or not the reduced effectiveness stems from a processing issue (comparison of writing versus typing) or a distraction issue (ability to multitask) remains an open question. A processing issue may be minimized through additional training and practice; however, if distraction serves as the cause, no amount of training or practice will probably reduce significantly the negative impact.
+  A number of the averages for groups in the moderator analysis (see experimental designs or advanced courses) demonstrate average effects that may evidence different with larger data pools that would increase the power of the test to determine differences. The current overall data pool indicates handwritten notetaking provides a superior method of generating a record that improves educational outcome. While the effects were larger for beginning courses and natural science/ statistics course, what changed was the magnitude of the effect, not the valence. What continued focus on moderators would simply differentiate between conditions where the use of electronic notetaking is simply more negative to educational goals over other circumstances rather than changing the valence of the outcome.
+  Another interesting avenue would be to study how the brain cognitively processes and stores longhand notetaking versus laptop notetaking. Learners may store information differently due to the process of how the content was recorded. The problem with the current analysis, even if accurately portraying the relationship, still treats the process as a kind of "black box" without providing an
+
+
+understanding of what is taking place when notes are generated on the part of the student. The assumptions about cognitive processing and cognitive load require more direct examination and test in future research to generate the full utility of the findings. The problem with findings illustrating differences in outcomes, while important, provides often little direct information in terms of explanations. The focus on process may articulate an understanding of the observed moderating features.
+
+
+Conclusion
+This meta-analysis highlights how the message receiver (students) listens and processes the message sent by the communicator (instructors). By examining the message receivers' process, the pencil appears to be significantly mightier than the keyboard for classroom notetaking. Particularly the process of longhand notetaking requires students to be more cognitively engaged with the learning outcomes of the course. The classroom space may need to be one where behaviors and regulations regarding technology become negotiated (Hassoun, 2014). Instructor attitudes differ from the need to be proactive, preventive or to indifference (Forkosh-Baruch & Meishar-Tal, 2016). The question of what will take place and the boundaries of permissible behavior rely on the attitude and beliefs of the instructors as well as the practices inside the classroom. Whether or not the inclusion of electronic notetaking ultimately improves educational practice becomes placed in doubt, the urgency of generating understanding and finding solutions grows.
+
+Notes
+1. This term is correctly spelled utilizing either note taking or notetaking.
+2. For the sake of brevity, the term "laptop" will be used to describe all means or forms of notetaking that uses some form of electronic device.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+
+ORCID
+Luke LeFebvre  http://orcid.org/0000-0001-7578-1102
+
+
+
+References
+Abelson, R. P. (1985). A variance explanation paradox: When a little is a lot. Psychological Bulletin, 97(1), 129-133. https://doi.org/http://dx.doi.org.ezproxy.lib.uwm.edu/10.1037/0033-2909.97.1.129
+*Aguilar-Roca, N. M., Williams, A. E., & O'Dowd, D. K. (2012). The impact of laptop-free zones on student performance and attitudes in large lectures. Computers & Education, 59(4), 1300-1308. https://doi.org/10.1016/j. compedu.2012.05.002
+Anker, A. E., Reinhart, A. M., & Feeley, T. H. (2010). Meta-analysis of meta-analyses in communication: Comparing fixed effects and random effects analysis models. Communication Quarterly, 58(3), 257-278. https://doi.org/10. 1080/01463373.2010.503154
+*Artz, B., Johnson, M., Robson, D., & Taengnoi, S. (2020). Taking notes in the digital age: Evidence from classroom random control trials. Journal of Economic Education, 51(2), 103-115. https://doi.org/10.1080/00220485.2020.1731386
+Baker, W. M., Lusk, E. J., & Neuhauser, K. L. (2012). On the use of cell phones and other electronic devices in the classroom: Evidence from a survey of faculty and students. Journal of Education for Business, 87(5), 275-289. https://doi.org/10.1080/08832323.2011.622814
+*Burak, L. (2012). Multitasking in the university classroom. International Journal for the Scholarship of Teaching and Learning, 6(2), 14. Article 8 (online). https://doi.org/10.20429/ijsotl.2012.060208
+
+SOUTHERN COMMUNICATION JOURNAL    11
+
+*Calderwood, C., Ackerman, P. L., & Conklin, E. M. (2014). What else doe college students "do" while studying? An investigation of multitasking. Computers & Education, 75 (2), 19-29. https://doi.org/http://dx.doi.org/10.1016/j. compedu.2014.02.004
+*Carter, S. P., Greenberg, K., & Walker, M. S. (2017). The impact of computer usage on academic performance from a randomized trial at the United State military academy. Economics of Education Review, 56 (2), 118-132. https:// doi.org/http://dx.doi.org/10.1016/j.econedurev.2016.12.005
+*Chiaraluce, B. (2019, May). Effects of distraction on memory while handwriting or typing notes [Unpublished Masters Thesis, Southern Connecticut University]. Retrieved April 2, 2020, from EBSCO library database.
+Chiu, C. H., Wu, C. Y., & Cheng, H. W. (2013). Integrating reviewing strategies into shared electronic note-taking: Questioning, summarizing and note reading. Computers & Education, 67 (9), 229-238. https://doi.org/10.1016/j. compedu.2012.09.002
+Crawford, C. C. (1925). Some experimental studies of the results of college note-taking. Journal of Educational Research, 12(5), 379-386. https://doi.org/10.1080/00220671.1925.10879612
+Cuban, L. (1986). Teachers and machines: The classroom use of technology since 1920. Teachers College Press.
+*Desselle, S. P., & Shane, P. A. (2018). Laptop versus longhand note taking in a professional doctorate course: Performance, attitudes, and behaviors. INNOVATIONS in Pharmacy, 9(3), 15. article 15. https://doi.org/10. 24926/iip.v9i3.1392
+*Ehrlick, S. P. (2014). Managing digital distraction: A pedagogical approach for dealing with wireless devices in the classroom. Journal of Teaching and Education, 3(3), 207-216. https://doi.org/10.1080/03634523.2016.1159317
+*Ellis, Y., Daniels, B., & Jauregui, A. (2016). The effect of multitasking on the grade performance of business students.
+Research in Higher Education Journal, 8(online), 1-10. http://www.aabri.com/manuscripts/10498.pdf
+*Farley, H., Murphy, A., Johnson, C., Carter, B., Lane, M., Midgley, W., Hafeez-Baig, A., Dekeyser, S., & Koronios, A. (2015). How do students use their mobile devices to support learning? A case study from an Australian regional university. Journal of Interactive Media in Education, 14(1), 1-13. http://doi.org/10.5334/jime.ar
+Forkosh-Baruch, A., & Meishar-Tal, H. (2016). Proactive, preventive or indifference? Reactions modes of faculty towards use of personal mobile devices in courses. International Journal of Mobile and Blended Learning, 8(2), 72-84. https://doi.org/10.4018/IJMBL.2016040106
+*Fried, C. B. (2008). In-class laptop use and its effects on student learning. Computers & Education, 50(3), 906-914. https://doi.org/10.1016/j.compedu.2006.09.006
+Gehlen-Baum, V., & Weinberger, A. (2012). Notebook or Facebook? How students actually use mobile devices in large lectures. In A. Ravenscroft, S. Lindstaedt, C. Delgado-Kloos, & D. Hernández-Leo (Eds.), Proceedings of the 7th European conference of technology enhance learning (pp. 103-112). Springer Verlag.
+Gehlen-Baum, V., Weinberger, A., Pohl, A., & Bry, F. (2014). Technology use in lectures in enhance students' attention. In C. Rensing, S. de Freitas, T. Ley, & P. J. Muñoz-Merino (Eds.), Open learning and teaching in educational communities (pp. 125-137). Springer. https://doi.org/10.1007/978-3-319-11200-8_10
+*Gurley, D. L. (2018). The relationship between note-taking method and grade point average when controlling for act score and self-regulation ability in undergraduate students [Unpublished doctoral dissertation, University of Mississippi]. Retrieved April 2, 2020, from ProQuest #10747687.
+Hassoun, D. (2014). "All over the place": A case study of classroom multitasking and attentional performance. New Media & Society, 17(10), 1680-1695. https://doi.org/10.1177/1461444814531756
+*Hembrooke, H., & Gay, G. (2003). The laptop and the lecture: The effects of multitasking in learning environments. Journal of Computing in Higher Education, 15(1), 46-64. Retrieved on May, 2019 from ERIC #EJ666465. https://doi. org/10.1007/BF02940852
+Henk, W. A., & Stahl, N. A. (1985, May). A meta-analysis of the effect of notetaking on learning from lecture. College Reading and Assistance Technical Report 85-5. Georgia State University. ERIC Document #258 533. https://files. eric.ed.gov/fulltext/ED258533.pdf
+*Horowitz, S. M. (2017). Is note-taking more effective with a keyboard or a pen? [Unpublished Master's Thesis, University of Colorado]. Retrieved February, 2019, from https://pdfs.semanticscholar.org/4305/ e14d943af7415f87b28f91af172d293e6fa6.pdf
+Jarmon, A. L. (2008). Multitasking helpful or harmful? Student Lawyer, 38(8), 1-3.
+*Jeong, S., Shin, W. S., & Park, I. (2015). Students' use of notebook computers in the college classroom: Benefits and pitfalls. Educational Technology International, 16, 31-57.
+Junco, R. (2011). Too much face and not enough books: The relationship between multiple indices of Facebook use and academic performance. Computers in Human Behavior, 59(1), 1-12. https://doi.org/10.1016/j.chb.2011.08.026
+*Kennedy, D. R. (2019). The effect of banning computers on examination performance on a first year pathophysiology class. American Journal of Pharmaceutical Education, 83(10), 2080-2084. * indicates manuscript provided data used in the analysis.
+Kim, S. Y., Allen, M., & Preiss, R. (2019). Meta-analysis of the curvilinear relationship between rate of delivery and message persuasiveness. Communication, Society, and Media, 2(1), 1-25. https://doi.org/10.22158/csm.v2n1p1
+Kobayashi, K. (2005). What limits the encoding effect of note-taking? A meta-analytic examination. Contemporary Educational Psychology, 30(2), 242-262. https://doi.org/10.1016/j.cedpsych.2004.10.001
+
+
+Kobayashi, K. (2006). Combined effects of note-taking/-reviewing on learning and the enhancement through inter- ventions: A meta-analytic review. Educational Psychology, 26(3), 459-477. https://doi.org/10.1080/ 01443410500342070
+*Kraushaar, J. M., & Novak, D. C. (2010). Examining the affects of student multitasking with laptops during the lecture. Journal of Information Systems Education, 21, 241-251. Retrieved on February, 2019 from ERIC #EJ893903.
+*Kuznekoff, J. H., & Titsworth, S. (2013). The impact of mobile phone usage on student learning. Communication Education, 62, 233-252. https://doi.org/10.1080/03634523.2013.7679173
+*Lohnes, S., & Kinzer, C. (2007). Questioning assumptions about students' expectations for technology in college classrooms. Innovate: Journal of Online Education, 3(5). article 2. http://nsuworks.nova.edu/innovate/vol3/iss5/2
+*Luo, L., Kiewra, K. A., Flanigan, A. E., & Peteranetz, M. S. (2018). Laptop versus longhand note taking: Effects on lecture notes and achievement. Instructional Science, 46(6), 947-971. https://doi.org/10.1007/s11251-018-9458-0 May, K. E., & Elder, A. D. (2018). Efficient, helpful, or distracting? A literature review of media multitasking in
+relation to academic performance. International Journal of Educational Technology in Higher Education, 15(1). article 13. https://doi.org/10.1186/s41239-018-0096-z
+McCreary, J. R. (2009). The laptop-free zone. Valpariso Law Review, 43(3), 989-1044. https://pdfs.semanticscholar.org/ ee13/752a72b01603ceadf5b8962f8c7a6ec7f0d7.pdf
+Meiediercks, K. (2005). The dark side of the laptop university. Journal of Information Ethics, 14(1), 9-11. https://doi. org/10.3172/JIE.14.1.9
+*Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. Psychological Science, 25(6), 1159-1168. https://doi.org/10.1177/0956797614524581
+Piolat, A., Thierry, O., & Kellogg, R. T. (2005). Cognitive effort during note taking. Applied Cognitive Psychology, 19(3), 291-312. https://doi.org/10.1002/acp.1086
+Preiss, R. W., & Gayle, B. M. (2006). A meta-analysis of the educational benefits of employing advanced organizers. In
+B. M. Gayle, R. W. Preiss, N. Burrell, & M. Allen (Eds.), Classroom communication and instructional processes: Advances through meta-analysis (pp. 329-344). Lawrence Erlbaum.
+Quade, A. M. (1996). An assessment of retention and depth of processing associated with notetaking using traditional pencil and paper and an on-line notepad during computer delivered instruction. Proceedings of selected research and development at the 1996 national convention of the association for educational communications and technology. Indianapolis, IN: ERIC Document #397 825.
+Ravizza, S. M., Uitvlugt, M. G., & Fenn, K. M. (2016). Logged in and zoned out: How laptop internet use relates to classroom learning. Psychological Science, 28(2), 171-180. https://doi.org/10.1177/0956797616677314
+Reed, D. K., Rimel, H., & Hallett, A. (2016). Note-taking interventions for college students: A synthesis and meta-analysis of the literature. Journal of Research on Educational Effectiveness, 9(3), 307-333. https://doi.org/10. 1080/19345747.2015.1105894
+*Rosen, L. D., Lim, A. F., Carrier, L. M., & Cheever, N. A. (2011). An empirical examination of the educational impact of text message-induced task switching in the classroom: Educational implication and strategies to enhance learning. Piscologiá Educativa, 17(2), 163-177. https://doi.org/http://dx.doi.org/10.5093/ed2011v17n2a4
+Rosenthal, R. (1991). Effect sizes: Pearson's correlation, its display via the BESD, and alternative indices. American Psychologist, 46(10), 1086-1087. https://doi.org/10.1037/0003-066X.46.10.1086
+Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. Computers & Education, 62, 24-31. https://doi.org/10.1016/j.compedu.2012.10.003
+Schmidt, F., & Hunter, J. E. (2014). Methods of meta-analysis: Correcting for artifact and bias in behavioral research. Sage.
+Stewart, R. A. (1989). Interaction effects of teacher enthusiasm and student notetaking on recall and recognition of lecture content. Communication Research Reports, 6(2), 84-89. https://doi.org/10.1080/08824098909359838
+Sung, Y.-T., Chang, K.-E., & Liu, T.-C. (2016). The effects of integrating mobile devices with teaching and learning on students' learning and performance: A meta-analysis and research synthesis. Computers & Education, 94, 252-275. https://doi.org/10.1016/j.compedu.2015.11.008
+Uncapher, M. R., Thieu, M. K., & Wagner, A. D. (2016). Media multitasking and memory: Differences in working memory and long-term memory. Psychonomic Bulletin and Review, 23(2), 483-490. https://doi.org/10.3758/s13423- 015-0907-3
+Wambaugh, R. J. (1991). The effects of computerized notetaking on achievement [Unpublished doctoral dissertation, Pennsylvania State University, State College].
+*Wei, F. F., Wang, Y. K., & Fass, W. (2014). An experimental study of online chatting and notetaking techniques on college students' cognitive learning from a lecture. Computers in Human Behavior, 34, 148-156. https://doi.org/10. 1016/j.chb.2014.01.019
+*Wood, E., Zivcakova, L., Gentile, P., Archer, K., De Pasquale, D., & Nosko, A. (2012). Examining the impact of off-task multi-tasking with technology on real-time classroom learning. Computers & Education, 58 (8), 365-374. https://doi.org/10.1016/j.compedu.2011.08.029
+Wurst, C., Smarkola, C., & Gaffney, M. A. (2008). Ubiquitos laptop usage in higher education: Effects on student achievement, student satisfaction, and constructivist measures in honors and traditional classrooms. Computers & Education, 51(4), 1766-1783. https://doi.org/10.1016/j.compedu.2008.05.006
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,468 @@
+
+Claremont Colleges
+Scholarship @ Claremont
+
+Pitzer Senior Theses	Pitzer Student Scholarship
+
+
+2012
+Effects of Method and Context of Note-taking on Memory: Handwriting versus Typing in Lecture and Textbook-Reading Contexts
+Ian Schoen
+Pitzer College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommended Citation
+Schoen, Ian, "Effects of Method and Context of Note-taking on Memory: Handwriting versus Typing in Lecture and Textbook- Reading Contexts" (2012). Pitzer Senior Theses. Paper 20.
+http://scholarship.claremont.edu/pitzer_theses/20
+
+
+This Open Access Senior Thesis is brought to you for free and open access by the Pitzer Student Scholarship at Scholarship @ Claremont. It has been accepted for inclusion in Pitzer Senior Theses by an authorized administrator of Scholarship @ Claremont. For more information, please contact scholarship@cuc.claremont.edu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effects of Method and Context of Note-taking on Memory: Handwriting versus Typing in Lecture and Textbook-Reading Contexts
+
+
+Ian Schoen Pitzer College
+
+
+Correspondence concerning this thesis should be addressed to Ian Schoen at 1050
+
+N. Mills Ave. Box #920, Claremont, California, 91711. E-mail: icschoen@gmail.com
+
+Abstract
+
+Both electronic note-taking (typing) and traditional note-taking (handwriting) are being utilized by college students to retain information. The effects of the method of note- taking and note-taking context were examined to determine if handwriting or typing notes and whether a lecture context or a textbook-reading context influenced retention. Pitzer College and Scripps College students were assigned to either handwrite or type notes on a piece of academic material presented in either a lecture or textbook context and were given a test to assess their retention. The results demonstrated that there was a significant main effect for typing notes such that typing notes produced higher retention scores than handwriting notes. The results also indicated that there was an interaction between method of note-taking and context such that the lowest scores were achieved in the condition in which participants handwrote notes during a lecture. In total, these findings suggest that typing as a method of note-taking may by an influential factor in memory retention, particularly in a lecture context.
+
+Effects of Method and Context of Note-taking on Memory
+
+      Note-taking is a useful external memory device in today's world. Utilized broadly across professional, academic, and personal spheres, note-taking has demonstrated its role as a systematic cue and aid for retention (Kiewra, 1989). As a practical way to capture information from a transient source, note-taking affords a medium to preserve semantic and episodic information, going beyond the limited information processing capacity of working memory alone (Miller, 1956). Note-taking is an important asset and choosing the most appropriate method is critical to best acquire and retain information while saving time and effort. Note-taking is changing with advances in modern technology. With the increasing frequency of electronic note-taking, we must consider the medium in which we take notes.
+      It is clear that students today rely heavily on technological resources to complete many academic tasks (Reimer, Brimhall, Cao, O'Reilly, 2009). Of various academic duties, note-taking has a significant role in the acquisition of information, as most college students take notes in many of their classes (Hartley & Marshall, 1974). Evidence about the method by which most college students take notes is inconsistent. Igo, Bruning, and McCrudden (2004) and Washull (2001) claim that the new wave of studying has shifted from traditional pencil and paper notes to an electronic format, while in a survey of college students, Reimer et al. (2009) found that pencil and paper note-taking remains a common method for many students in higher education. In colleges today, there is no single preference for note-taking method. Some prefer handwriting notes while others prefer typing notes electronically.
+
+College students self-report pros and cons of both handwriting and typing notes.
+
+In an interview study of college students, Reimer et al. (2009) found that the major reported benefits of handwriting notes were the flexibility and control allowed over the spatial layout of notes and the ability to incorporate many different formats and special notations. In addition, students claimed that they retain more information when they handwrite notes. Students' main concerns regarding handwriting notes included the risk of losing notes and handouts, the lack of durability of paper and notebooks, the time consuming nature of writing notes, and a subjective feeling of disorganization. The major reported benefits of typing notes were the ease of organization and modification and their readability. Students' main concern elicited for typing was its inflexibility due to the lack of spatial freedom offered by most word processing formats.
+      This is one of the first generations in which accurate comparisons between handwriting and typing notes can be examined due to the recently acquired facility of the contemporary college student in both handwriting and computer typing (Piolat, Olive, & Kellogg, 2005). Having the opportunity to use computer typing in high school, most modern college students have gained typing proficiency.
+      To my knowledge, there are no empirical studies comparing the effect of handwriting notes and typing notes electronically. The present research thus adds to the literature on note-taking by comparing handwriting and typing notes in both lecture and textbook-reading contexts. Despite this gap in the literature, a number of studies that examined the generative nature of note-taking and transcription fluency shed light on whether handwriting or typing notes is better for retention.
+
+
+
+Prior Research
+
+       Past research has studied note-taking effects more broadly. Research by Einstein, Morris, and Smith (1985) and Kiewra and Fletcher (1984) suggested that note-taking has a positive impact on retention and demonstrated that information that is noted is much more likely to be remembered later than is content that is not noted. It is possible to conjecture a number of ways in which note-taking can influence retention (for example, through a kinesthetic function), yet only the generative theory of note-taking has gained a substantial hold in investigation and has prompted further empirical study.
+      The generative theory of note-taking holds that the procedure of taking notes itself is a cognitively active process that encourages cognitive restructuring of information in a way that promotes memory preservation (Peper & Mayer, 1978, 1986). The generative theory utilizes two well-established retention mechanisms established in cognitive psychology: levels of processing theory and the self-reference effect. According to the levels of processing theory, deeper (more semantic) levels of processing allow for richer encoding and later retention through the creation of associations between newly acquired information and past knowledge (Roediger, Gallo, & Garcia, 2002). In addition, information is better remembered when it is associated with one's self during encoding (Burns, 2006). Together, the generative nature of note-taking results from these active retention strategies to deeply encode information. Studies by Brazeau (2006), Castello and Monereo (2005), and DiVesta and Gray (1972), examining retention in a lecture- based context, showed that participants who generated their own notes had greater
+
+retention by relating the presented information to previously acquired knowledge and by relating the presented information to their own personal knowledge.
+      Additionally, generating notes has been proposed to enhance retention through greater organizational processing. In a study of college students, Einstein et al. (1985) compared retention in a note-taking group against retention in a listen-only group, both of which were presented with a lecture. Based on analysis of text meaning established by Kintsch (1974), the findings demonstrated that note-takers recalled many more high- importance propositions than low-importance propositions while non-note-takers recalled an equal number of high and low-importance propositions. The retention of proportionally more high-importance propositions than low-importance propositions by the note-taking group suggests that note-taking organized the lecture information such that subjects in the note-taking group could more readily recall important information.
+Lastly, the generative theory of note-taking has been supported by student report.
+
+In interviews of college students on note-taking strategy, respondents reported that the process of creating, rather than passively receiving notes, allowed for better retention through meaningful grouping and connection-making (Van Meter, Yokoi, & Pressley, 1994). Admittedly, student reports are not an objective indicator of the actual effectiveness of note-taking method, but the reports are congruent with empirical findings on the generative effect.
+Encoding of notes
+
+      DiVesta and Gray (1972) examined note-taking and hypothesized two cognitive functions that are responsible for its effects on retention: encoding and storage. The encoding function of note-taking is proposed to enhance retention through the process of
+
+recording notes and works by transferring information from sensory registers to short and long-term memory. The storage function is proposed to enhance retention through reviewing notes, and works by transferring information from long-term memory back into working memory. As posited by Divesta and Gray (1972), the storage function, through review, facilitates consolidation of noted information and either holds off the natural process of forgetting or encourages learners to relearn forgotten information.
+      The storage function of note-taking has been demonstrated to improve retention. In an empirical study of the effect of the storage function on retention (Kiewra, 1989), participants listened to a lecture and took notes. Students who were permitted to review their notes had higher achievements on various subsequent performance tests than those who were not permitted to review their notes. Among studies comparing the encoding and storage functions, the storage function has demonstrated clearer effects on improved retention (Carter & van Matre, 1975; Fisher & Harris, 1973; Kiewra, 1985).
+      The positive effect of note-taking on encoding has also gathered support (Kiewra, 1989). A study of college students found that note-taking activities, through encoding, encourage increased attention and more elaborative processing of specific ideas, and/or support greater organization of lecture material by students (Einstein et al., 1985).
+Additionally, other studies found that the encoding function requires the learner to prioritize and paraphrase information, engages the learner's attention, and transitions the information from short-term to long-term memory (DiVesta & Gray, 1972; Katayama & Crooks, 2003). These studies controlled for review of the material by preventing the review of notes before testing retention and therefore addressed the encoding function and not the storage function.
+
+      Surprisingly, the encoding function of note-taking has also been demonstrated to hinder retention in a minority of cases. In an analysis of cognitive strategies in reading and language, Cook and Mayer (1983) put forth that the encoding function of note-taking may hinder initial retention in a reading context because of an individual's divided attention between reading and note-taking. The analysis held that attentional resources are devoted to note-taking and thereby leave fewer cognitive resources to devote to the initial understanding of the information presented in a reading context. Another study by Mulligan (2000) examining divided attention on item-specific note-taking and relational encoding found mixed results for the encoding function. In immediate recall, both item- specific retention and relational retention were reduced by perceptual interference (divided attention) on note-taking; in contrast, in delayed recall, perceptual interference enhanced encoding for item-specific information. Because there has been some discrepancy in empirical findings on the encoding function of note-taking, one of the aims of this study will be to add to the literature on the encoding function of note-taking. Typing and transcription
+      Typing notes promotes greater transcription fluency, a component of the encoding process, and may reduce cognitive overload and enhance retention in a lecture context in which information is presented rapidly. It has been posited that the primary obstacle to taking good-quality notes is the amount of cognitive overload experienced by students (Katayama & Robinson, 2000). Transcription fluency is the ease/speed with which one can encode information and for the purpose of note-taking analysis has been measured by the number of letters a person can print/type in a minute. In a study comparing transcription fluency of typing versus handwriting notes during note-taking, Karat,
+
+Halverson, Horn, and Karat (1999) found that the average typist can produce 33 words- per-minute (WPM) while the average hand writer has a WPM count of only 19. Taking this into account, it seems that typing notes would allow for greater transcription fluency and in turn would promote retention in a lecture context.
+      Note-taking is a cognitively demanding process that requires the skills of listening, cognitive processing, and recording content in text form (Maydosz & Raver, 2010; Peverely Ramaswamy, Brown, Sumowski, Alidoost, Garner, 2007); it uses both working memory and executive functions (Katayama & Robinson, 2000) that are important to transcription fluency. In a study on predictors of skill in note-taking, Peverely et al. (2007) examined the effect of working memory and executive functioning on note-taking quality, specifically examining transcription fluency, listening span, visual-spatial memory, and set shifting (executive functioning). Participants were asked to watch a video-lecture and take notes and then complete a number of cognitive measures. Results indicated that visual working memory capacity and set shifting were correlated with transcription fluency and also correlated with note-quality. Despite the correlational nature of the study, Perverely et al. (2007) suggested that working memory as demonstrated by visual working memory tasks and executive function as demonstrated by set-shifting tasks, were together responsible for better transcription fluency, note- taking quality, and better retention. As suggested by the study, because there are individual differences in working memory, those with better working memory should have better transcription fluency and better note-taking quality and retention.
+      Although individual differences in working memory may be an important determinant in note-taking quality (Einstein et al., 1985; Peverely et al. 2007), it can be
+
+conjectured that note-taking method may be able to mitigate the variance in individual differences of working memory by using a note-taking method that promotes greater transcription fluency. As found by Graham, Berninger, Abbott, Abbott, and Whitaker (1997) and Jones and Christensen (1999), students who were able to write out their notes more efficiently (faster words-per-minute (WPM)/transcription fluency) were able to reduce cognitive overload and enhance retention. Taking together the evidence from studies on cognitive overload and transcription fluency, it can be seen that typing notes may be better for retention in contexts in which information is presented rapidly.
+Conclusion and hypothesis
+
+       In conclusion, there is evidence that typing notes may improve note-taking in a lecture context in which information is presented rapidly. In addition, both typing and handwriting have been demonstrated to improve retention relative to not taking notes. Because typing and handwriting are different techniques for note-taking, each method of note-taking may influence retention better in different contexts. In an academic setting, lectures and textbooks are two commonly used methods to transmit information. Most research has examined the effects of note-taking on retention in a lecture-context, providing limited information on the effects of note-taking on retention in a textbook- reading context.
+        In the present study, I examined the effects on memory retention of method of note-taking (handwriting versus typing) in lecture and textbook-reading contexts. My goal was to evaluate which method of note-taking more positively influences memory retention. I predicted that there would be an interaction between note-taking method and learning context, such that typing notes would be more effective in a lecture context than
+
+handwriting due to greater transcription fluency that would facilitate faster encoding in a context in which information is presented rapidly, while method of note-taking would not influence retention in the textbook reading context due to the reader's ability to control the pace of information presented. It was difficult to predict whether there would be a main effect for typing versus hand-writing notes, as there is a lack of literature comparing the two methods of note-taking. In addition, it was difficult to predict whether there would be a main effect for learning context as most research on note-taking and retention has neglected to study learning within a textbook-reading context.
+Method
+
+Participants
+
+      Pitzer College and Scripps College students, ages 18 to 23 years old, were recruited using Facebook, student e-mail, and classroom recruitment. The sample size was 72 participants, with 17 participants in the typing/lecture condition, 17 participants in the handwriting/lecture condition, 18 participants in the typing/textbook-reading condition, and 20 participants in the handwriting/textbook-reading condition. Participants were randomly placed into their condition based on the testing time-slots provided by the principal investigator. All participants reported dexterity in both handwriting notes and typing notes, English was all participants' first language, and they had no diagnosed learning disabilities. Participants were compensated with entry into a raffle and (if applicable) research participation credit.
+Materials
+
+      Stimuli. Pages 137 to 144 of chapter 7 in the textbook Memory by Baddeley, Eysenck, and Anderson (2008) were used as a stimulus to assess participants' memory
+
+retention in the textbook-reading context (see appendix A). In addition, a filmed lecture, mirroring the content used in the textbook context, was used as a stimulus to assess participants' memory retention in the lecture context. The content supplied in the filmed lecture was extracted almost directly from the textbook stimulus, with appropriate transitions added to promote a fluid lecture. The filmed lecture script can be found in appendix B. The filmed lecture was created by the principal investigator and consisted of a male lecturer at a podium in front of a neutral background.
+      Distracter tasks. Three distracter tasks were used, each lasting five minutes, to counter a possible recency effect in retention when taking the retention test. The CLAREMONT distracter task required participants to generate as many words as possible using the letters in the word "CLAREMONT." The second and third distracter tasks were both word searches, which required participants to find as many words within a letter-grid as possible.
+      Retention Test. A 14 point test of retention was created by the principal investigator and consisted of eleven multiple-choice questions and two fill-in-the-blank questions based on the information presented in the stimuli (textbook or film-lecture). The retention test and answer key are found in appendix C.
+      Writing tools. Participants who were randomly assigned to the handwritten notes condition were presented a pencil and lined paper to complete notes. Participants who were randomly assigned to the typed notes condition were presented a computer and used Microsoft Word version 2010 for note-taking.
+
+      Questionnaire to assess relevant subject variables. Participants were given a post- questionnaire to report year in college, gender, number of psychology classes taken, and preferred method of note-taking.
+Procedure
+
+       Participants were randomly assigned to either read a section of a textbook and instructed to finish within 20 minutes (those who did not finish were not penalized and were allowed to finish the text), or listen to a 16-and-a-half-minute filmed lecture, and were randomly assigned to either handwrite notes or type notes on the material provided. The time cap for the textbook book condition was determined by prior investigation of the time needed to complete the text, while the time length of the filmed lecture was determined by the time it takes a lecturer to read the prepared material (based off the text). Participants were asked to take notes as they went and were not allowed to review the material or their own notes. After the participants finished taking notes, they were asked to do the three distracter tasks in order to eliminate possible recency effects that could influence retention test results. Participants then took the retention test on the textbook/film-lecture to assess memory retention of the material. Participant notes were saved for possible post-hoc analyses.
+Results
+
+It was hypothesized that typing notes would be more effective in a lecture context.
+
+In addition, a prediction was not made for a main effect for method of note-taking, as there was a lack of literature comparing handwriting and typing notes. A prediction was also not made for a main effect for context, as there was a lack of literature comparing lecture and textbook reading contexts.
+
+      A 2 X 2 ANOVA, using ? = .05, was conducted to evaluate the effects of method of note-taking and context on memory retention as operationally defined by scores on a test. The means and standard deviations for retention as a function of the two factors are presented in Table 1 and in Figure 1. The ANOVA indicated a significant main effect for method of note-taking, such that typing notes (M = 11.84) yielded higher retention scores than handwriting notes (M = 10.51), F(1, 72) = .280, p = .004, ?p� = .132. The ANOVA also indicated a significant interaction between method of note-taking and context such that the lowest scores were achieved in the condition in which participants handwrote notes during a lecture, F(1, 70) = 5.162, p = .026, ?p� = .071.
+      An independent samples t-test, ? = .05, was conducted to directly compare handwriting notes and typing notes within the lecture context. The test was significant t(32) = -4.028 p < .001, as typists in the lecture condition scored higher on average (M = 12.12, SD = 1.41) than did hand-writers in the lecture condition (M = 9.76, SD = 1.96). The 95% confidence interval ranged from -3.548 to -1.158 points.
+       In an effort to characterize participants on relevant variables, questionnaires were administered after the experiment. The data showed that the sample included 9 Freshman, 3 Sophomores, 17 Juniors, and 43 Seniors. Forty-nine participants reported that their preferred method of note-taking was handwriting, in contrast to 11 who preferred typing and 12 who preferred an equal mix of handwriting and typing. Looking at gender, there were 17 males and 55 females. When asked the number of psychology classes taken, results showed that 39 participants had taken fewer than six psychology classes and 33 participants had taken six or more psychology classes.
+
+      A number of additional analyses were conducted to examine possible differences in a number of subject variables that were represented in the study. A one-way analysis of variance, ? = .05, was conducted to evaluate the relationship between year in college and retention test score. The means and standard deviations as a function of year in college are presented in Table 2. The independent variable, year in college, included four levels: Freshman, Sophomore, Junior, Senior. The dependent variable was the score on the retention test. The ANOVA was not significant, F(3,72) = .862, ?p� = .048.
+      A one-way analysis of variance, ? = .05, was conducted to evaluate the relationship between preferred method of note-taking and retention test score. The means and standard deviations as a function of preferred method of note-taking are presented in Table 3. The independent variable, preferred method of note-taking, included three levels: Handwriting, typing, and an equal mix of handwriting and typing. The dependent variable was the score on the retention test. The ANOVA was not significant, F(2, 72) = 1.312, ?p� = .037.
+      An independent-samples t-test, ? = .05, was conducted to evaluate the relationship between gender and retention test score. The test was not significant, t(70) =
+-.504; males scored M = 10.94 (SD = .52) and females scored M = 11.22 (SD = .26) on the retention test. The 95% confidence interval for the difference in means was not very wide, ranging from -1.373 points to .819 points.
+      Another independent-samples t-test, ? = .05, was conducted to evaluate the relationship between psychology classes taken (six or more versus less than six) and retention test score. The test was not significant, t(70) = -.593. Overall, participants who took six or more classes in psychology scored M = 11.30 (SD = 1.79) on the retention test
+
+while participants who took less than six classes in psychology scored M = 11.03 (SD = 2.12). The 95% confidence interval for the difference in means was not very wide, ranging from -1.211 points to .656 points.
+Discussion
+
+      The object of this study was to examine the effects of method of note-taking and context on memory retention. It was hypothesized that there would be an interaction between method of note-taking and learning context, such that typing notes would be more effective in a lecture context due to greater transcription fluency offered by typing. No main effects were predicted on the basis of a lack of prior literature comparing handwriting and typing and comparing a lecture context and a textbook reading context in regards to memory retention.
+      A main effect for typing was found such that memory retention was better for those typing than handwriting notes. Although a main effect for typing was not predicted, the result was not necessarily surprising because of research that indicates that typing notes promotes a high degree of transcription fluency (Karat et al., 1999; Graham, et al., 1997; & Jones and Christensen, 1999) that can reduce cognitive load, permitting more time for the encoding of current information while note-taking. This finding was remarkable in that the majority of participants reported handwriting (n = 49) as their preferred method of note-taking over typing (n = 11) or an equal mix of handwriting and typing (n = 12). This finding may have implications for future student note-taking behavior such that typing will become the preferred method of note-taking and established as the better method of note-taking compared to handwriting, particularly in a lecture context. Furthermore, the finding that typing notes may be more effective for
+
+memory retention may promote the use and exploration of further technological tools to support memory retention and information processing.
+      There was also an interaction found between method of note-taking and learning context such that the lowest scores were achieved in the condition in which participants handwrote notes during the lecture context. This finding supported with the hypothesis that typing notes would be more effective than handwriting notes in a lecture context as typing notes has been demonstrated to promote greater transcription fluency and more greatly reduce cognitive overload than handwriting notes (Katayama & Robinson, 2000), which would have been particularly important in a lecture context in which information is presented rapidly.
+      In addition, it was anticipated that perhaps there would be a main effect for textbook reading context over lecture context due to the discrepancies in allotted encoding time. Participants randomly assigned to the textbook reading context were instructed to finish reading in 20 minutes (although they were not penalized if they needed longer) while the lecture group was allotted 16-and-a-half minutes (the length of the video lecture). This allowed the textbook reading group as much as two-and-a-half minutes if not more, of encoding time than the lecture group. Interestingly, although the participants in the typing conditions did score higher on the retention test there was no significant difference between contexts such that participants in the lecture and textbook reading conditions performed alike. This may imply that either the time allowed for encoding does not have an impact on retention in the short term, or perhaps that lecture style may be a more efficient way to receive information.
+
+      To further investigate the results, a number of additional analyses were conducted to assess relevant subject variables. The statistical tests compared the retention test scores of individuals in various years in college, of individuals with different preferred methods of note-taking, of male and female participants, and of individuals who had taken six or more classes in psychology versus fewer than six classes in psychology.
+None of these analyses produced results or patterns that influenced the study. It was notable, however, that participants who had taken six or more psychology courses did not demonstrate higher scores on the retention test than participants who had taken fewer than six psychology courses. Because the test was designed as an assessment of retention and not a test of knowledge of psychology, this result was not relevant to the purposes of the study.
+      Although the scores were significantly differentiated by method of note-taking, such that participants in the typing conditions scored higher than participants in the handwriting conditions, those who typed only scored 1.32 points better on the retention test on average than those in the handwriting condition. Because the average difference was so small, it is conceivable that individual differences in note-taking may have a greater influence on memory retention than method overall. This posited, it may be advisable that students type notes, particularly in lecture contexts, although due to the small difference in average retention test scores, students who feel adverse toward typing should perhaps continue to handwrite notes.
+      One threat to internal validity was that participants were assigned to conditions by convenience. Participants chose experiment time slots that fit their schedules. Each time slot provided was associated with a particular condition. Although participants were
+
+blind to their condition, the process was not entirely randomized. In addition, because participants chose their own time slots, some time slots (and associated conditions) had more participants than other time slots based on the convenience of that particular time slot. Another concern was that the test used in the study was not previously established as a valid measure of retention; nevertheless it had face validity.
+      One threat to external validity was that of convenience sampling. Students from Pitzer College and Scripps College were recruited to participate in the study using student e-mail, Facebook.com, and classroom recruitment, and in turn were not randomly selected from the entire Pitzer College and Scripps College population. Senior students and women students largely represented the study sample, and female participants were overrepresented in a ratio of more than three to one (female to male). Although females are more represented than males within the populations of Pitzer College and Scripps College (which is female only) - and the ratio may be representative of the gender distribution at the colleges - it may not be representative of the gender distribution at most colleges. Additionally, the sample was not evenly distributed in relation to participants' year-in-college. Seniors were most greatly represented (n = 43), while Sophomores were represented by only three participants. Although neither year in college nor gender had a significant effect on retention test scores, these imbalances were present in the sample.
+      In a future study, it would be important to equalize the number of participants in each time slot (condition) to hold the number of participants tested at one time constant and totally randomize the conditions in which participants are placed. In addition, a future study may want to look at the completeness of notes, as several studies have found
+
+that the completeness of recorded notes is positively correlated with test performance (Fisher & Harris, 1974; Kiewra & Fletcher, 1984). Participant notes were saved to analyze completeness and quality of notes in relation to retention scores, but these analyses were not carried out due to the small size of the sample.
+      Lastly, a future study may want to compare method of note-taking to instructor provided notes. Although the generation of notes (using typing and handwriting) has been demonstrated to improve retention, instructor-provided notes have been demonstrated to improve memory retention as well. It has been proposed that instructor- provided notes allow students to focus their cognitive energy on understanding material, instead of dividing attention between listening and note-taking. By providing notes, students have reduced cognitive overload and develop a fuller understanding of the material (Maydosz & Raver, 2010). In support, a study exploring the effects of instructor-provided notes, Kiewra (1985) found that students who reviewed instructor- provided notes achieved significantly higher scores on a delayed exam than students who reviewed their self-generated notes.
+      Moving forward, it is important to consider the method of note-taking that we choose to implement. One must be reminded that this study specifically examined the encoding function of note-taking and did not examine the review of notes, a valuable aspect of the note-taking processes for most students. It will be important to examine the review function in another study to have a more complete understanding of the memory retention in regards to note-taking. Nevertheless, given the significant findings of this study, it can be recommended to type notes, particularly in while in a lecture.
+
+Table 1
+
+Means and standard deviations for retention test score as a function of method of note- taking and context (out of fourteen points)
+
+MethodContextMSDHandwritingLecture9.77.44Textbook11.15.41Total10.46.31TypingLecture12.12.44Textbook11.56.44Total11.84.30TotalLecture10.94.31Textbook11.35.30Total11.15.1.97
+Table 2
+
+Means and standard deviations for retention test score as a function of year in college (out of fourteen points)
+
+College YearMSDFreshman11.00.65Sophomore13.001.13Junior11.412.48Senior10.962.99
+Table 3
+
+Means and standard deviations for retention test score as a function of preferred method of note-taking (out of fourteen points)
+
+Preferred MethodMSDHandwriting11.41.28Typing10.55.59Equal Mix10.67.57
+Figure 1.
+
+
+References
+
+Baddeley, A., Eysenck, M. W., & Anderson M. C. (2009). Memory. London, England: Taylor and Francis.
+Brazeau, G. (2006). Handouts in the classroom: Is note-taking a lost skill? American Journal of Pharmaceutical Education, 70, 1-2.
+Burns, D. J. (2006). Assessing distinctiveness: Measures of item-specific and relational processing. In R. R. Hunt & J. B. Worthen (Eds.), Distinctiveness and memory, (pp. 109-130). New York: Oxford University Press.
+Carter, J. F., and Van Matre, N. H. (1975). Notetaking versus note having. Journal of Educational Psychology. 67, 900-904.
+Castello, M., & Monereo, C. (2005). Students' note-taking as a knowledge-construction tool. Educational Studies in Language and Literature, 5, 265-285.
+Cook, L. K., and Mayer, R. E. (1983). Reading strategies training for meaningful learning from prose. In M. Pressley, and J. R. Levin, (eds.), Cognitive Strategy Research: Educational Applications, (pp. 87-126). Springer-Verlag, New York.
+DiVesta, F. J., and Gray, G. S. (1972). Listening and note-taking. Journal of Educational Psychology, 63, 8-14.
+Einstein, G. O., Morris, J., & Smith, S. (1985). Note-taking, individual differences, and memory for lecture information. Journal of Educational Psychology, 77, 522-532. doi:10.1037/0022-0663.77.5.522
+Fisher, J. L., & Harris, M. B. (1973). Effect of note-taking preference and type of notes taken on memory. Psychological Reports, 35, 384-386.
+
+Graham, S., Berninger, V. M., Abbott, R. D., Abbott, S. P., & Whitaker, D. (1997). Role of mechanics in composing of elementary school students: A new methodological approach. Journal of Educational Psychology, 89, 170-182.
+Hartley, J., & Marshall, S. (1974). On notes and notetaking. University Quarterly, 28,
+
+225-235.
+
+Igo, B., Bruning, R. & McCrudden, M. (2004, April). Exploring differences in students' copy-and-paste decision-making and processing: A mixed methods study. Paper presented at the annual meeting of the American Educational Research Association, San Diego, CA.
+Jones, D., & Christensen, C. A. (1999). Relationship between automaticity in handwriting and students' ability to generate text. Journal of Educational Psychology, 91, 44- 49.
+Karat, C.M., Halverson, C., Horn, D. and Karat, J. (1999). Patterns of entry and correction in large vocabulary continuous speech recognition systems. CHI 99 Conference Proceedings, 568-575.
+Katayama, A. D., & Crooks, S. M. (2003). Online notes: Differential effects of studying complete or partial graphically organized notes. Journal of Experimental Education, 71, 293-312.
+Katayama, A. & Robinson, D. (2000). Getting students "partially" involved in note- taking using graphic organizers. Journal of Experimental Education, 68, 119-135.
+Kiewra, K. A. (1985). The examination of the encoding and external storage functions of notetaking for factual and higher-order performance. College Student Journal, 394-397.
+
+Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. Educational Psychology Review, 147-172.
+Kiewra, K. A., & Fletcher, H. J. (1984). The relationship between notetaking variables and achievement measures. Human Learning, 3, 273-280.
+Kintsch, W. (1974). The representation of meaning in memory. Potomac, MD: Erlbaum.
+
+Maydosz, A., & Raver, S. A. (2010). Note-taking and university students with learning difficulties: What supports are needed? Journal of Diversity in Higher Education, 3(3), 177-186. doi:10.1037/a0020297
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81-97. doi:10.1037/h0043158
+Mulligan, N. W. (2000). Perceptual interference at encoding enhances item-specific encoding and disrupts relational encoding: Evidence from multiple recall tests. Memory & Cognition, 28, 539-546.
+
+Peper, R. J., & Mayer, R. E. (1986). Generative effects of note-taking during science lectures. Journal of Educational Psychology, 78, 34-38.
+Peper, R. J., & Mayer, R. E. (1978). Note taking as a generative activity. Journal of Educational Psychology, 70, 514-522. doi:10.1037/0022-0663.70.4.514
+Peverely, S. T., Ramaswamy, V., Brown, C., Sumowski, J., Alidoost, M., & Garner, J. (2007). What predicts skill in lecture note-taking? Journal of Educational Psychology, 99, 167-180. doi:10.1037/0022-0663.99.1.167
+Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive effort during note-taking.
+
+Applied Cognitive Psychology, 19, 291-312. doi:10.1002/acp.1086
+
+Reimer, Y., Brimhall, E., Cao, C., & O'Reilly, K. (2009). Empirical user studies inform the design of an e-notetaking and information assimilation system for students in higher education. Computers & Education, 52, 893-913. doi:10.1016/j.compedu.2008.12.013
+Roediger, H. L. III, Gallo, D. A., & Garcia, L. (2002). Processing approaches to cognition: The impetus from the levels-of-processing framework. Memory, 10, 319-332.
+Washull, S. B. (2001). The online delivery of psychology courses: Attrition, performance, and evaluation. Teaching of Psychology, 28, 143-147.
+Van Meter, P., Yokoi, L., & Pressley, M. (1994). College students' theory of note-taking derived from their perceptions of note-taking. Journal of Educational Psychology, 86, 323-338. doi:10.1037/0022-0663.86.3.323
+
+Appendix A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix B (textbook-reading stimulus attached to back)
+
+                   Lecture Script: Autobiographical Memory This lecture is about the psychology of autobiographical memory.
+Can you remember your first day at school? The names of your teachers? Your friends? An incident, pleasant or unpleasant?
+
+To answer these questions you need autobiographical memory. Autobiographical memory refers to the memories that we hold regarding ourselves and our relations with the word around us. Is it important? Certainly.
+
+In today's lecture, we will begin by discussing the function of autobiographical memory and why it is important, leading on to the thorny question of how to study it. The problem here is that, unlike most of the research in memory, in this case the experimenter has no control over the learning situation, which makes it difficult to analyze the process involved in either the acquisition or forgetting of autobiographical memories.
+
+Moving on, one might ask, "Why do we need autobiographical memory?"
+
+Research by Williams, Conway, and Cohen propose four functions of autobiographical memory. These include directive functions, for example what happened the last time you tried to change a car tire, and a more social function. --Sharing autobiographical memories can be a very pleasant and socially supportive activity. In my own case, hearing my friends reminisce about old times is an example. Conversely, when autobiographical memory is disrupted by amnesia or dementia, this can be one factor that impairs relationships.
+
+Autobiographical memories can also play an important role in creating and maintaining our self-representation, hence the value of reminiscence therapy, a process whereby elderly patients with memory problems are encouraged to build up a set of reminders of their earlier life based on photographs and personal mementos.
+
+Finally, autobiographical recollection can be used to help us cope with adversity. One of the problems of depression is that patients find it difficult to recollect positive life experiences when depressed, whereas negative recollections are more readily available, a retrieval effect known as mood-congruent memory.
+
+To describe mood-congruent memory more clearly: It is the bias in the recall of memories such that negative mood makes negative memories more readily available than positive, and vice versa. Unlike mood dependency, it does not affect the recall of neutral memories.
+
+However, although these functions might be plausible, they are largely speculative. In an attempt to obtain empirical evidence on this matter, researchers Hyman and Faries
+
+questioned people about memories they frequently talked about, and the situations in which they were discussed. There were very few reports of autobiographical memory being used directively to solve problems, with the sharing of experience and passing on of advice being more common.
+
+In a subsequent study, they used cue words, finding a distinction between memories that were used internally for self-related functions and those used in interacting with others, but again little evidence of directive use of autobiographical memory was found.
+
+Buck, Alea, Habermas, and Rubin devised the "Thinking About Life Experiences (TALE) questionnaire, specifying particular situations and then categorizing the resulting reports as directive, self-related, nurturing existing social relationships, or developing new social relationships. The factor analysis of the results found considerable overlap between the directive function, the self-related function, and those related to nurturing and developing relationships.
+
+Hence although it remains plausible that autobiographical memory has a number of different functions, it is doubtful that they are clearly separable into different categories in actual practice.
+
+One weakness with the research described so far is the problem of adequate methodology. The studies assume, for example that participants are aware of the function of their autobiographical memories and can remember their autobiographical memories and the situations that evoked them in sufficient detail to categorize them.
+
+In an area as complex as autobiographical memory, there is clearly a need for the development of a range of methods of study. We will discuss this the methods of study now.
+
+One method of tackling this problem is to use diaries in which participants record events and subsequently try to remember them. This is a useful approach but one that places great demands on the participants. A second approach is to probe memory, for example, asking for a memory associated with a cue word such as river, then analyze the nature of the responses. A third method is to ask for memories associated with either a specific time period, or major public event from what happens when autobiographical memory breaks down, as the result either of brain damage or emotional stress.
+
+Now I will talk about these methods more in depth, starting with diaries.
+
+One problem in studying autobiographical memory is that of knowing what was initially experienced, and one solution to this is to record events in a diary that allows later memories to be objectively checked. A researcher by the name of Linton used this method to study her own autobiographical memory. She kept a diary for over 5 years, recording 2 events per day, each being briefly described and written on an index card.
+She tested herself each month by randomly picking out two index cards and deciding whether she could remember the order in which incidents occurred and the date. Because
+
+she chose cards at random and then replaced them, she would sometimes test herself on the same incident on several occasions. Her research demonstrated a powerful effect: The more often an event was probed, the better it was retained. This provided further evidence for the value of spaced retrieval on long-term learning
+
+Moving on, a classical diary study was carried out by the Dutch psychologist Willem Wagenaar, who kept a diary for over 6 years, on each day recording two events, together with four features or cues to that event. In his diary he recorded who was involved, what the event was, where it occurred, and when. He also rated the incident for its saliency and whether it was something that happened frequently or was rather unusual, in addition, to recording the degree of emotional involvement and whether this was pleasant or unpleasant. He recorded a total of 2400 incidents. He then tested his memory by selecting an incident at random and cueing himself with one, two, or three retrieval cues, randomizing the order in which the who, what, where, and when cues were presented.
+Wagenaar found that the 'who', 'what', and 'where' cues tended to be equally good at evoking a memory, whereas the when cue, which simply provided the date, was much less efficient. This is perhaps not surprising. Can you remember where you were on July 19th of last year? ...Neither can I!
+
+Wagenaar reports that he found the task to be surprisingly difficult and unpleasant, but that given sufficient cues he could recollect most of the incidents eventually. In a number of cases, he could not remember anything, despite all his recorded cues. However, in those cases where another person was involved, they would typically be able to evoke a recollection, which could be verified by his providing additional information. Does that mean then that we never forget anything? Almost certainly not!
+
+Wagenaar selected events that were most likely to be highly memorable; the process of selection would in itself involve retrieval, and in effect a rehearsal, while the process of deciding on his who, where, what, and when cues would involve a relatively deep level of processing. This degree of selection and implicit rehearsal is a problem for diary studies, because they result in memories that are atypically well encoded.
+
+Another researcher, Brewer, tried to avoid the biased selection problem in a study that sampled events at random. His ten participants were each given a beeper and a tape recorder. The beeper went off at random intervals, at which point participants were to say what they were doing, where, what the significance of their activity was, its goal directedness, and their emotional state. The incidents were tested at delays ranging from 0 to 46 days, using one or other their ratings are a cue. A total of 414 events were recorded, of which 26% were correctly recalled, 28% were wrong, and 46% evoked a blank. It is likely that, given more cues, more would be recalled but it seems unlikely that all of the 74% failed memories would be recollected by any means.
+
+A more detailed analysis of the nature of the items recalled was made by Conway, Collins, Gathercole, and Anderson, in a study involving two participants who kept diaries over a period of months, recording both events and thoughts. These were then mixed with plausibly invented alternatives and recognition was required. This was followed by
+
+a categorization as to whether the item was "remembered," accompanied by a feeling of recollecting the initial experience, or simply "known". True events were more likely to evoke a remember response than foils, with events being twice as likely to evoke recollection as entries than were thoughts.
+
+To conclude here, diary studies have been useful in giving some idea of the richness of autobiographical memory, and of the relative importance of different types of events recorded, together with a tendency for the encoding process itself to result in the enhanced learning of the events selected. Finally the method requires considerable perseverance from the diarists, who are likely to be a small and atypical sample.
+
+Moving on, I will now talk about another method called the memory probe method.
+
+The memory probe method is an alternative to the diary method. In an experiment using this method, the researchers Crovitz and Shiffman, gave their participants a word and asked them to recollect an autobiographical memory associated with that word. For example, given the cue word "horse", this might evoke a memory of the first time you rode a horse.
+
+The method has also been adapted to probe for memories from a given time period such as childhood, or of a particular type of incident, for example a happy memory. Despite its simplicity and relative lack of control, this method has been used widely, and productively.
+
+A prominent feature of probed autobiographical memories is their distribution across the lifespan. When left free to recall memories from any period in their life, all healthy participants, whether young or old, tend to recall few autobiographical memories from the first 5 years of life, a term called infantile amnesia. The textbook has defined infantile amnesia as the "tendency for people to have few autobiographical memories from below the age of five".
+
+They also tend to produce plenty of memories from the most recent period. Those over the age of 40, however, also show a marked increase of memories from the period between the ages of 15 and 30, the so-called reminiscence bump. The textbook has defined the reminiscence bump as a tendency for people over 40 to show a high rate of recollecting personal experiences from their late teens and early 20s.
+
+A cross-cultural study shows a similar pattern across participants from China, Japan, Bangladesh, England, and the US. However, there are cultural differences in the average date for the first memory, which occurs at an average age of 3.8 for US and 5.4 for Chinese participants. This might reflect differences in the way that mothers talk to their children, with the US interaction tending to be more elaborate, emotionally oriented, and focused on the past than occurs in Chinese culture. This might also account for a tendency for US recollections of early memories to be longer, more elaborate, and more emotionally toned and self-focused than occurs with Chinese respondents, whose recollections tend to be briefer and to have a stronger collective than individual emphasis.
+
+
+There have been a number of attempts to explain the pattern of autobiographical memory across the lifespan. It probably reflects both a recency effect and at least two other processes, one accounting for infantile amnesia-- the lack of memories from the first 1 or 2 years of life and the other concerned with the high rate of recalling episodes from the teens and 20s. A number of interpretations of infantile amnesia have been proposed.
+These include Freudian repression, the late development of hippocampus, and the undeveloped nature during infancy of a coherent self, something that is gradually built up on the basis of memories and experiences.
+
+Most interpretations of the reminiscence bump tend to focus on the fact that this is a period when many important things in our lives tend to happen. Research by Berntsen and Rubin asked participants to rate a number of important life events, finding that the average age for first falling in love was 16 years, college memories tended to be a rather later 22 years, marriage at an average age of 27, and children at 28. All fell within the period of the bump, making this an important period within what is sometimes known as the life narrative. This represents a coherent account that we create for ourselves as we progress through life-the story of who we are and how we got to this point in our life. Events that influence this are likely to be important to us, to be more likely to be retrieved, and to be more deeply encoded. Furthermore, such events as beginning college, making new friends, and falling in love are all likely to be relatively emotionally intense, a factor that increases the accessibility of memories when they are positive and occur in young adulthood.
+
+Gluck and Buck further elaborate the life narrative hypothesis. They collected a total of 3,541 life events from 659 participants aged between 50 and 90 years. Participants were asked to rate the memories on their emotional valence, on a negative to positive scale, their personal importance, and the extent to which the rememberer felt that they had control over events. A reminiscence bump was found, but only for positive events over which participants felt that they had a high degree of control, a result that they interpret as consistent with the importance of autobiographical memory in creating a positive life narrative.
+
+An intriguing exception to the observation of a reminiscence bump in a person's early 20s occurs when memories are cued by smell. Despite an initial report by Rubin, Groth, and Goldsmith of equivalence across verbal, visual, and olfactory cues, researchers Chu and Downes found that memories evoked by smell peaked at an earlier age (6-10 years) than the typical verbally cued reminiscence bump. Willander and Larsson replicated this using a sample of 93 volunteers ranging in age from 65 to 80 years. They cued with item that could not only be represented as a word, but also as a picture or a smell (e.g. violent, tobacco, soap, whiskey). Like Chu and Downes, they found a district tendency for smells to evoke memories that are rated by their participants as earlier than visually or verbally cued events.
+
+How could we explain this? Are odor induced memories more emotional? No! Larsen et al. found that the visual cues gave rise to more emotional memories. Perhaps odor cues are less easily rehearsed and hence become less tied to our developing life narrative.
+
+It is, of course, the case that the probe studies described all depend to some extent on the accuracy with which participants can date events. As we saw from Wagenaar's diary study, memory for dating of an incident was the weakest of all the cues. This also presents a practical problem for the many practically oriented survey studies that are retrospective in nature, requiring respondents to remember, for example, when they last went to the doctor. A study by Means, Mingay, Nigam, and Zarrow asked patients who had made at least four medical visits in the last year to recall and report hem, subsequently checking against the doctor's records. Performance was poor, particularly for visits that had clustered (25% correct versus 60% for more isolated occasions).
+People tend to date events indirectly, either by recollecting incidental features such as the weather, "the trees were bare," or by linking it to some other event that can itself be dated, such a holiday in or the eruption of Mount St. Helens. These in turn are likely to be located within the broader context of a life narrative.
+
+This concludes today's lecture on the psychology of autobiographical memory. Thank you.
+
+Appendix C
+
+Multiple-Choice
+
+Please circle the best answer for the following questions. (1 point each)
+
+1) Autobiographical memory is:
+
+a) Memory for specific events
+b) Memory for self-related information
+c) Both a & b
+d) Neither a nor b
+
+2) What are the function(s) of autobiographical memory?
+
+a) Directive function
+b) Social function
+c) Self-representation function
+d) All of the above
+
+3) What definition best defines infantile amnesia?
+
+a) Tendency for people to have vivid images from their childhood.
+b) Tendency for people to have few autobiographical memories from before the age of five.
+c) Tendency for people to forget facial characteristics of infants.
+d) Term to describe the critical period in which people are likely to naturally develop amnesia.
+
+4) What is a life narrative?
+
+a) A coherent and integrated account of one's life that is claimed to form the basis of autobiographical memory.
+b) The subjective way in which a person interprets and narrates their life.
+c) The subjective way in which a person narrates the lives of those around him/her.
+d) Falling in love, going to college, marriage, having children.
+
+5) What definition best defines mood-congruent memory?
+
+a) Our mood on the way we perceive memories.
+b) Tendency for a bias against the encoding of negative memories.
+c) Bias in the recall of memories such that negative mood makes negative memories more readily available than positive and vice-versa.
+d) None of the above.
+
+6) In an experiment testing autobiographical memory cues, which memory cue was the least effective in evoking memory?
+
+Memory cues involving:
+
+a) Who (who was involved)
+b) What (what the event was)
+c) Where (where the event occurred)
+d) When (when the event occurred/date of event)
+
+7) As discovered by Larsen et al., what type of memory cue gave rise to more emotional memories?
+
+a) Temporal (sound)
+b) Smell
+c) Visual
+d) Tactile (touch)
+
+8) As found by Chu and Downes, what type of memory cue peaked at the early age of 6-10 years?
+
+a) Temporal (sound)
+b) Smell
+c) Visual
+d) Tactile (touch)
+
+9) The reminiscence bump has shown similar patterns across cultures.
+
+a) True
+b) False
+
+10) As found by Gluck and Buck, a reminiscence bump was found for only
+
+a) Positive events
+b) Negative events
+c) Positive events for which the participant felt high levels of control
+d) Negative events for which the participant felt high level of control
+
+11) What is/are the proposed theory/theories for why infantile amnesia occurs?
+
+a) Freudian repression
+b) The late development of the hippocampus
+c) The undeveloped nature during infancy of a coherent self
+d) All of the above
+
+Fill in the blank
+
+1) Two methods of studying autobiographical memory explained were the
+
+	method and the 	method.  [2 points]
+
+2) In relation to the reminiscence bump, older people show a higher rate of recollecting memories from their 	. (what age range). [1 point]
+
+
+Answer Key
+
+Multiple-Choice
+
+1. C
+2. D
+3. B
+4. A
+5. C
+6. D
+7. C
+8. B
+9. A
+10. C
+11. D
+
+Fill-in-the-blank
+
+1. Diary, [memory]; probe (2 points)
+2. late teens/20s
+
+
+
+

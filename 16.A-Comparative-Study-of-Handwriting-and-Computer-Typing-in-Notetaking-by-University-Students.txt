@@ -1,0 +1,471 @@
+Received: 2015-11-18                                                           RECYT Code: 41117
+Reviewed: 2016-01-04                                                           Preprint: 2016-05-15
+Accepted: 2016-02-22                                                   Final Publication: 2016-07-01
+                              DOI: http://dx.doi.org/10.3916/C48-2016-10
+
+
+   A Comparative Study of Handwriting and Computer Typing in Note-
+                    taking by University Students
+           Análisis comparativo entre escritura manual y electrónica en la toma
+                        de apuntes de estudiantes universitarios
+
+
+
+                                Dra. Estívaliz Aragón-Mendizábal
+        Associate Professor in the Department of Psychology at University of Cadiz (Spain)
+                (estivaliz.aragon@uca.es) (http://orcid.org/0000-0002-0440-5705)
+
+                                  Dra. Cándida Delgado-Casas
+        Associate Professor in the Department of Psychology at University of Cadiz (Spain)
+                (candida.delgado@uca.es) (http://orcid.org/0000-0003-1012-8676)
+
+                                    Dr. José-I. Navarro-Guzmán
+            Full Professor in the Department of Psychology at University of Cadiz (Spain)
+                    (jose.navarro@uca.es) (http://orcid.org/0000-0002-0738-2641)
+
+                               Dra. Inmaculada Menacho-Jiménez
+        Assistant Professor in the Department of Psychology at University of Cadiz (Spain)
+             (inmaculada.menacho@uca.es) (http://orcid.org/0000-0002-0337-0993)
+
+                                   Dr. Manuel-F. Romero-Oliva
+ Assistant Professor in the Department of Language Didactic and Literature at University of Cadiz
+   (Spain) (manuelfrancisco.romero@uca.es) (http://orcid.org/0000-0002-6854-0682)@uca.es)
+                              (http://orcid.org/0000-0002-6854-0682)
+
+
+Abstract
+Taking notes is a common strategy among higher education students, and has been found to affect their
+academic performance. Nowadays, however, the use of computers is replacing the traditional pencil-and-
+paper methodology. The present study aims to identify the advantages and disadvantages associated with
+the use of computer (typing) and pencil-and-paper (handwriting) for taking notes by college students. A total
+of 251 social and health science students participated in the study. Two experimental conditions were
+chosen: taking notes by hand (n=211), and taking notes by computer (n=40). Those that used computer-
+written notes performed better on tasks based on reproducing the alphabet, writing sentences, and
+recognizing words (p<.05). However, those using handwritten notes performed better on free recall tasks
+(p<.05). Differences between the two conditions were statistically significant rejecting the hypothesis of
+equality between groups (X2=60.98; p<.0001). In addition, the discriminant analysis confirmed that 77.3% of
+students were correctly classified by the experimental conditions. Although the computer allowed for greater
+velocity when taking notes, handwriting enhanced students’ grades when performing memory tasks.
+Resumen
+La toma de apuntes es una estrategia generalizada del alumnado de Educación Superior y se ha constatado
+su influencia en el rendimiento académico. El uso del ordenador está desplazando al método tradicional de
+lápiz y papel. El presente estudio pretende arrojar luz en base a las ventajas y los inconvenientes derivados
+del uso de uno u otro método en la toma de apuntes en las aulas universitarias. Un total de 251 estudiantes
+universitarios de ciencias sociales y ciencias de la salud participaron en el estudio. Se plantearon dos
+condiciones experimentales, toma de notas de forma manual (n=211) y de manera electrónica (n=40). Se
+hallaron diferencias a favor del grupo que usó el ordenador en las tareas basadas en completar el
+abecedario, escribir frases y reconocer palabras anotadas previamente (p<.05). Sin embargo, en la tarea de
+recuerdo libre los resultados reflejaron un mejor desempeño del grupo que tomó notas manualmente
+(p<.05). Se rechazó la hipótesis de igualdad entre los grupos (X2=60.98; p<.0001). Además, el análisis
+discriminante confirmó que el 77,3% de los alumnos fueron clasificados correctamente según su condición
+experimental. El uso del ordenador resultó muy útil cuando se trataba de anotar datos con rapidez; sin
+embargo, en las tareas de recuerdo los alumnos de escritura manual obtuvieron mejores puntuaciones que
+los de escritura electrónica.
+
+Keywords / Palabras clave
+Note-taking, handwriting, computer-writing, short-term memory, levels of processing, higher education.
+Tomar notas, escritura manual, escritura electrónica, memoria a corto plazo, niveles de procesamiento,
+educación superior.
+
+
+
+
+1. Introduction
+
+Traditional handwriting is becoming increasingly uncommon as the use of electronic devices
+increases. Computers are part of the work routines of a large number of professions, and
+electronic devices are used at all stages of the education cycle as learning tools for academic
+purposes (to study, to complete assignments, to take classroom notes and to search for
+information) (Sevillano-García, Quicios-García, & González-García, 2016). Many people record
+their thoughts by typing in multiple digital settings (blogs, websites, twitter messages, comments on
+social networks etc.). In fact, it is not uncommon to associate progress and innovation in the
+teaching and learning process with the use of computerised systems. It seems that in some
+schools in the USA and Germany, handwriting is no longer part of the curriculum. Students learn
+the alphabet as it appears on a computer keyboard (Paschek, 2013: 19). In short, handwriting is
+becoming less common due to the use of computers and smartphones.
+Some studies have been very persistent in emphasising the advantages of keyboard typing over
+handwriting (Rogers & Case-Smith, 2002). This enthusiasm is not new: throughout history, whe-
+never new technological tools have appeared, in one way or another they have moved into the field
+of education. This was the case, for example, with the now obsolete typewriter, whose educative
+values were highlighted in several publications of the time (Conard, 1935).
+Recently there has been renewed interest in verifying the advantages or disadvantages of writing
+by hand or with a keyboard. However, results are far from being conclusive (Longcamp, Zerbato-
+Poudou, & Velay, 2005; Sülzenbrück, Hegele, Rinkenauer, & Heuer, 2011).
+Some of these studies have been done with schoolchildren, emphasizing the superiority of
+handwriting with regard to both the reproduction of letters of the alphabet and the quality of written
+composition (Berninger, Abbott, Augsburger, & Garcia, 2009; Connelly, Gee, & Walsh, 2007).
+Others have highlighted the cognitive processes associated with digital writing, such as working
+memory (Bui & Myerson, 2014; Smoker, Murphy, & Rockwell, 2009), and the «qwerty» effect
+(Jasmin & Casasanto, 2012). The «qwerty» effect refers to the influence of the position of letters
+on the keyboard and the meaning of words. What we do know, however, is that taking notes in the
+classroom facilitates learning. It seems that a positive correlation exists between the amount of
+classroom notes taken and the amount of information encoded during the class (Bui, Myerson, &
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                                  DOI: 10.3916/C48-2016-10
+Hale, 2013). This advantage can be explained by the word generation effect (Rabinowitz & Craik,
+1986), which indicates that when information is re-elaborated by a student it is more easily
+remembered than when it is only heard or read. However, quality of notes can be much more
+important than quantity, and this is consistent with the levels of processing theoretical framework
+(Craik & Lockhart, 1972). Extensive literature exists about this topic, mainly based on studies using
+handwriting (see meta-analysis in Kobayashi, 2005). As stated by Bui & al. (2013), it is possible
+that taking notes in class using digital devices changes the balance between quantity and quality.
+However, more empirical research on its effects on learning is needed.
+Nowadays, considering the expansion of new technologies, the number of students taking notes
+with a computer or tablet is significantly increasing (Cassany, 2012; Weaver & Nilson, 2005), and
+the old fashioned pen-and-paper method is decreasing. Some studies encourage the use of
+electronic devices as aids for learning strategies (Hyden, 2005; Tront, 2007), whereas other
+researchers argue exactly the opposite claiming that these resources hinder and diminish students’
+academic performance (Fried, 2008; Kay & Lauricella, 2011; Ragan, Jennings, Massey, & Doo-
+little, 2014).
+Bui & al. (2013) designed several experiments to study the relationship between remembering
+information and different strategies for taking classroom notes. In one experiment, some
+participants took notes using laptops and others by hand. Those using computers obtained better
+results in short-term memory tasks, and the conclusion was that participants who used laptops to
+take classroom notes wrote more content and recalled more information in free short-term recall
+tasks. Recently, Beck (2014) tried to replicate and expand the experiment by Bui & al. (2013), but
+obtained considerably different results. He studied the differences between both short-term and
+long-term memory tasks. Beck’s (2014) study found that the computer was a powerful tool for
+registering quantitative information. Although university students taking notes with a laptop
+recorded significantly higher amounts of information, they did not reach significant differences in
+short-term or long-term memory tasks. However, students taking handwritten notes scored higher
+in memory tasks.
+The lack of conclusive research about the advantages and disadvantages of using different
+approaches to taking classroom notes in different behavioral areas is noticeable, and it motivated
+us to study the consequences of several learning processes in higher education. Since it is
+increasingly common to see university students using computers (or tablets) as writing tools for
+taking classroom notes, writing assignments, and so on, the aim of our research was to discover
+the differences in the amount and quality of recalled information according to the notetaking
+procedure used: traditional handwriting or computer writing. Consequently, particular attention was
+paid to analysing the effects of information coding and recording methods on memory, in the
+framework of levels of processing (Cermak & Craik, 2104; Craik & Lockhart, 1972; Lockhart &
+Craik, 1990). This approach argues that tasks requiring only superficial processing result in lower
+recall performance than tasks requiring deeper processing. Thus, a hypothesis was formulated
+stating that the use of a computer, as it allows for a higher speed of notetaking, increases the
+quantity of classroom notes, but that the lower amount of time that computer-typing students spend
+processing is detrimental to the memory trace of the information.
+
+2. Method
+
+2.1. Participants
+
+A total of 251 students of the University of Cadiz were evaluated. The students came from social
+and health science programmes (Psychology n=134; Pre-school Teacher Education programme,
+n=57; and Primary School Teacher Education programme, n=60). A total of 54 students were men
+and 197 women, and their average age was 19.2, SD=1.2. They voluntarily participated in the
+study. All students were Spanish speakers, 9% were left-handed and 91% right-handed.
+Participants were distributed into two groups: (1) those who regularly took classroom notes using
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                           DOI: 10.3916/C48-2016-10
+computer devices (n=40); and (2) those who regularly took handwritten classroom notes (n=211).
+The size of the groups reflects the sociological reality of students’ routine use of computers (or
+tablets) when taking classroom notes in the university.
+
+2.2. Material and procedure
+
+Participants completed all tasks in groups of approximately 40 students, using their own laptops or
+pen and paper. All students received information about his/her participation in a general psy-
+chology experiment, but they initially did not receive further explanation about the purpose of the
+study. The experiment was conducted during normal class time. The students participated
+voluntarily in the experiment, and they did not receive extra credits or any other academic
+compensation. At least two researchers were present during the experimental sessions in order to
+supervise students’ activities. Three different tasks were administered:
+- Task 1. Repetitive surface processing task: write the letters of the alphabet in alphabetical order
+as many times as you can in 30 seconds. When the time was up, the examiner stopped the
+stopwatch and said loudly, «Time’s up», and all participants had to stop writing. Participants who
+were taking classroom notes by hand were provided with a sheet of paper. Students who used
+computers were asked to open a new word document, save it as a «.doc» file, and then submit it
+immediately to an e-mail address provided. The specific verbal instruction for this task was: «Write
+the letters of the alphabet in alphabetical order as many times as possible». Responses scored
+one point for each alphabet completed in the correct alphabetical order.
+- Task 2. Verbal fluency repetitive task: write all the sentences you can in 2 minutes. The first
+sentence should start with the verb «write» (for handwriting participants) or with the verb «read»
+(for computer writing participants). Handwriting students received the following instruction: «Please
+write as many sentences as you can in the time given. The first sentence must start with «write»
+or, in the case of computer writing students, «to read»; all the others can be anything you like».
+Each correctly written and consistent sentence scored one point. Sentences considered illegible,
+misspelt, incorrect and/or inconsistent scored zero.
+- Task 3. Memory Task. A list of 35 common words was presented. Words were written in the left
+column of a piece of paper or on the computer screen. Handwriting participants had to copy them
+in the right column of the paper, and computer typing participants had to copy the list on the right
+side of the word document. When the task was finished, all assignments were collected, and a
+«distracting task» was administered on a new piece of paper or document. The distracting task
+consisted of solving as many 5-figure multiplications as possible during 5 minutes. Immediately
+after the distracting task, participants were given 5 minutes to write all the words they could recall
+from the original word list that they had previously copied on a sheet of paper or on the computer
+(memory task). Next, a 5 minute break was provided. Finally, a word recognition task was
+administered, which consisted of a list of 40 words (35 true and 5 false) presented on a sheet of
+paper or on the computer screen. Participants had to indicate which words corresponded to the
+stimulus words that had originally been presented.
+All tasks were administered in one 40-minute experimental session, during the 2014-15 and 2015-
+16 academic years. Tasks 1 and 2 were designed based on methodology used by Berninger & al.
+(2009). Task 3 was designed following methodology used by Smoker & al. (2009). Sessions were
+held in university classrooms where participants usually received their regular teaching. The
+lighting and sound conditions were acceptable and the students’ collaboration was satisfactory.
+Reliability between two observers was calculated for all students’ responses (reliability average
+was 95.8%).
+
+3. Results
+
+In order to analyse the differences between students’ scores on the three tasks proposed, a
+statistical descriptive analysis was carried out (table 1).
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                            DOI: 10.3916/C48-2016-10
+                    Table 1. Descriptive statistics and effect size for different tasks and
+                       experimental conditions (Handwriting and Computer writing)
+                                                   Computer writing    Handwriting
+                                                       M (SD)            M (SD)              d       r
+                Alphabet rate                             2.00 (.14)    1.39 (.04)         5.92     .94
+                Correct sentences                        11.10 (.99)    8.23 (.28)         3.94     .89
+                Incorrect sentences                        .52 (.13)     .32 (.04)         2.07     .72
+                Recognition correct                      31.52 (.64)   29.97 (.33)         3.04     .83
+                Recognition errors                        8.47 (.64)   10.71 (.34)        -4.37    -.90
+                Recall correct                            7.22 (.38)    8.71 (.25)        -4.63    -.91
+                Recall errors                             1.40 (.36)     .95 (.11)         1.69     .64
+
+Table 1 shows that the group that worked with a computer wrote the alphabet a greater number of
+times and achieved a higher number of correct sentences. Moreover, their performance was higher
+in the recognition task. However, the results were the opposite in the recall task in which
+participants who were using handwriting obtained better results. The differences between both
+groups are considerable considering the effect size.
+To compare whether the differences between the two groups were statistically significant, a one-
+way analysis of variance was calculated. In order to do this, the necessary quantitative principles
+were compared. The Kolmogorov-Smirnov (p<.05) comparison indicated that the sample was not
+normally distributed. Therefore, the ANOVA calculation as a procedure for hypothesis testing was
+not appropriate. Consequently, we chose the non-parametric Mann Whitney U test to check the
+null hypothesis: the differences between the two groups in the three tasks were not significant
+(table 2).
+
+                               Table 2. Results of the Mann Whitney U test
+                            comparing computer writing and handwriting groups
+                                                                            Z         p
+                           Alphabet Rate                                  -4.65      .000*
+                           Correct Sentences                              -2.66      .008*
+                           Incorrect Sentences                            -1.75      .080
+                           Recognition Correct                            -3.16      .002*
+                           Recognition Errors                             -2.82      .005*
+                           Recall Correct                                 -2.31      .021*
+                           Recall Errors                                   -.89      .371
+                           *p<.05
+
+As can be seen in table 2, the differences between computer writing and handwriting
+experimental conditions were significant for several tasks. As was expected, students who took
+classroom notes by computer wrote the alphabet a higher number of times than those who used
+handwriting (p<.0001). In addition, the number of correct sentences written by the students was
+higher in the computer writing group (p<.008). Similarly, the number of incorrect phrases was also
+higher for this group, although non-significant differences between groups were found (p>.05).
+With regard to the short-term memory tasks -the recognition and recall tasks- the differences were
+in function of the experimental conditions (computer writing and handwriting). In the recognition
+task participants using computer writing scored higher than those using handwriting. Differences
+were statistically significant for correct answers and errors. Students who used the computer got a
+higher number of correct responses on recognition tasks (p<.002), while handwriting students
+obtained a statistically significant higher number of errors (p<.005).
+In the free recall task, the handwriting group achieved a better result. The number of recalled
+words was higher and statistically more significant for this group than for the computer writing
+group (p<0.021). The handwriting group made fewer errors, but the differences were not
+statistically significant (p>.05).
+
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                                            DOI: 10.3916/C48-2016-10
+In addition, a discriminant analysis was performed between the two experimental conditions in
+order to obtain a mathematical function to classify students according to the discriminating
+variables, namely their scores in the three tasks. This technique provided a supervised statistical
+analysis data-vector classification procedure of the two categories (handwriting and computer
+writing conditions). The analysis was based on a mathematical decision-boundary-hyperplane able
+to statistically categorise both groups of participants, reducing the probability of misclassification.
+This distribution was compared to the data obtained in the experiment and a scattering matrix was
+constructed. This matrix was able to corroborate a diagonal line with the total proportion of
+correctly-classified participants. Moreover, the extra-diagonal data points represented the false
+positive and false negative classification process (table 3).
+
+                Table 3. Results of discriminant analysis to predict in which experimental
+                conditions (Computer writing and Handwriting) participants were grouped
+                                                          Predicted group membership (*)
+                                                        Computer writing       Handwriting     Total
+             Frequency      Computer writing                         33.0               7.0             40
+                            Handwriting                              50.0             161.0            211
+                  %         Computer writing                         82.5              17.5            100
+                            Handwriting                              23.7              76.3            100
+            (*) 77.3% original grouped cases correctly classified.
+
+According to the discriminant analysis, 82.5% of participants from the condition «computer writing»
+were correctly classified. In addition, 76.3% were classified as belonging to the condition
+«handwriting». As a result, the data suggested that there was a characteristic pattern addressing
+the differences in the memory task achievement as a function of the information-recording
+approach. Because the number of participants in both conditions was dissimilar, it was concluded
+that a total of 77.3% of the original groups were correctly classified by the discriminant analysis.
+At the same time, an equal group contrast using the Wilks’ Lambda test statistic was carried out.
+Then the result was calculated by Chi-square estimation. This multivariate analysis of variance
+rejected the equality between groups hypothesis (Wilks' Lambda =.780; X2=60.98; p<0.0001).
+Consequently, it was concluded that the differences between participants of both experimental
+conditions were statistically significant, supporting the results shown in table 3.
+
+4. Discussion and conclusions
+
+This paper analyses how taking classroom notes by hand or computer is related to academic
+performance and immediate recall. Nowadays, digital keyboarding is very common in university
+classrooms, and there is a huge variety in the way that university students take notes and in what
+devices they use. Therefore, studies are being carried out to establish which procedures may
+increase significant information recall, and how students interpret content.
+The activity in which higher education students usually spend most of the time during traditional
+lectures is taking notes (Moin, Magiera, & Zigmond, 2009). According to some studies, this activity
+involves cognitive processing and offers a higher probability for later recovery of content than when
+students only pay attention to the lecturer’s information without taking notes (Dunlosky, Rawson,
+Marsh, Nathan & Willingham, 2013). Notetaking is a multidimensional process because the
+students must pay attention to the explanation, select the relevant information and then translate it
+into specific phrases (Steimle, Brdiczka, & Mühlhäuser, 2009; Stefanou, Hoffman, & Vielee, 2008).
+Several higher order cognitive processes are involved in taking classroom notes, such as attention
+and memory. Considering the memory process, it seems that taking notes facilitates recall of
+information both qualitatively and quantitatively (Einstein, Morris & Smith, 1985; Fisher & Harris,
+1973). This is one of the reasons why taking classroom notes is a very common student activity.
+The results of this experiment suggest that the computer is an efficient tool for recording
+information because students using the computer could write the alphabet a greater number of
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                                         DOI: 10.3916/C48-2016-10
+times than those writing by hand. This data coincides with Beck’s (2014) study, which also found
+an improvement in the quantitative registration of information. Computer writing users also wrote
+more sentences than handwriting students did, which could be because these types of surface
+processing tasks can be enhanced by new technologies. However, the results we found in memory
+tasks significantly differed from those obtained by Bui & al. (2013), and are coincident with the data
+found by Beck (2014) in that handwriting students performed statistically significantly better than
+computer writing participants in the short-term free recall task. However, in the recognition task,
+computer writing students scored significantly higher results.
+How can we explain these results? One possible explanation can be found in the levels of
+processing framework (Cermak & Craik, 2014; Craik, 2002). Performing a task that involves
+considering words as objects or sets of letters, as happens in taking classroom notes using
+computer devices, leads to very superficial processing. This kind of processing consequently
+affects the encoding and recall of content. The superficial processing may be successful in tasks
+that do not require deep processing, such as a recognition task involving short-term memory
+encoding. This explanation would support some results of our experiment. However, when a task
+involves processing words as semantic units, processing at a deeper level of analysis is required,
+making it more likely that the words will be remembered and that students will obtain better results
+in a free recall task. Using the computer as a tool for notetaking involves an initial advantage by
+increasing the amount of information recorded, as can be seen in the results for Tasks 1 and 2, but
+this efficiency is lower when the task demands a deeper coding level: this is more efficiently
+achieved using handwriting. The computer writing achievement is higher in those tasks where the
+retrieval of information requires a lower level of processing, whereas handwriting students'
+performance is higher when the task requires a deeper encoding (Mueller & Oppenheimer, 2014;
+Treisman, 2014). When the information input needs to be «translated» to specialised codes, it
+leads to the formation of more complex mnemonic representations. For example, listening to a
+lecture requires a phonological processing, but writing the ideas heard also requires their
+«translation» into orthographic processing, which can facilitate information recall. The advantage of
+computer writing is clear as to the amount of notes that can be taken; however, this is not
+automatically transferred to the quality of the information collected. We can process information
+more deeply when we can organise it more significantly, and this can lead to longer-term learning
+(Bui & al., 2013).
+There is still extensive room for research in this area, but it is possible that to progress from an
+automatic repetition of letters or words (Tasks 1 and 2 of our experiment) to writing full semantic
+and grammatically meaningful sentences (as happens when taking classroom notes in university
+settings) can be more efficiently done by hand. This way of taking notes increases memory
+processing because it appears to encourage more complex and stable memory links (Smoker &
+al., 2009). The Spanish writer Rafael Sánchez Ferlosio said that «in order to struggle against the
+secondary effects of amphetamine abuse, I spent a lot of time practising calligraphic tasks» (El
+País Semanal, 25-10-2015: 62). There is no data to support his intuition. However, in the face of
+current controversy, teachers could be making a mistake in suppressing handwriting from the
+school curriculum (Clayton, 2015): «Those who are skilled at handwriting will always have an
+advantage over those that just use computer writing as the only means of written communication.
+Technological advances could progress backwards and it is not unlikely that handwriting will
+replace keyboards in the future as the best way to interact with computers» (Clayton, 2015: 65).
+The current study suggests a research topic, linking the way university students take classroom
+notes to levels of information processing, and the possibilities of semantically coding the
+information. The differences that exist between handwriting and computer writing registering
+procedures should be analysed for tasks that require deeper levels of processing than simple
+transcription. Similarly, both short-term and long-term recall differences should be assessed.
+
+
+
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                            DOI: 10.3916/C48-2016-10
+References
+
+Berninger, V.W., Abbott, R.D., Augsburger, A., & Garcia, N. (2009). Comparison of Pen and Keyboard
+Transcription Modes in Children with and without Learning Disabilities. Learning Disability Quarterly, 32, 123-
+141. doi: http://dx.doi.org/10.2307/27740364
+Beck, K.M. (2014). Note Taking Effectiveness in the Modern Classroom. The Compass, 1(1). (http://goo.-
+gl/7k4TOj) (2015-09-05).
+Bui, D.C., & Myerson, J. (2014). The Role of Working Memory Abilities in Lecture Note-taking. Learning and
+Individual Differences, 33, 12-22. doi: http://dx.doi.org/10.1016/j.lindif.2014.05.002
+Bui, D.C., Myerson, J., & Hale, S. (2013). Note-taking with Computers: Exploring Alternative Strategies for
+Improved Recall. Journal of Educational Psychology, 105(2), 299-309. doi: http://dx.doi.org/10.1037/a0030-
+367
+Cassany, D. (2012). En línea. Leer y escribir en la Red. [On line. Reading and Writing on the Web]. Bar-
+celona: Anagrama.
+Cermak, L.S., & Craik, F.I. (2014). Levels of Processing in Human Memory (PLE: Memory) (Vol. 5). New
+York, NY: Psychology Press.
+Clayton, E. (2015). La historia de la escritura. [The History of Writing]. Madrid: Siruela.
+Connelly, V., Gee, D., & Walsh, E. (2007). A Comparison of Keyboarded and Handwritten Compositions and
+the Relationship with Transcription Speed. British Journal of Educational Psychology, 77(2), 479-492. doi:
+http://dx.doi.org/10.1348/000709906X116768
+Conard, E.U. (1935). A Study of the Influence of Manuscript Writing and of Typewriting on Children’s
+Development. The Journal of Educational Research, 29(4), 254-265. doi: 10.1080/00220671.1935.10880582
+Craik, F.I. (2002). Levels of Processing: Past, Present... and Future? Memory, 10(5-6), 305-318. doi:
+http://dx.doi.org/0.1080/096582102440001
+Craik, F. I. M. & Lockhart, R. S. (1972). Levels of Processing: A Framework for Memory Research. Journal of
+Verbal Learning and Verbal Behavior, 11, 671- 684. doi: 10.1016/S0022-5371(72)80001-X
+Dunlosky, J., Rawson, K.A., Marsh, E.J., Nathan, M.J., & Willingham, D.T. (2013). Improving Students’
+Learning with Effective Learning Techniques: Promising Directions from Cognitive and Educational
+Psychology. Psychological Science in the Public Interest, 14(1), 4-58. doi: http://dx.doi.org/10.1177/1529-
+100612453266
+Einstein, G.O., Morris, J., & Smith, S. (1985). Note-taking, Individual Differences and Memory for Lecture In-
+formation. Journal of Educational Psychology, 77(5), 522-532. doi: http://dx.doi.org/10.1037/00220663.-
+77.5.522
+Fisher, J.L., & Harris, M.B. (1973). Effect of Note Taking and Review on Recall. Journal of Educational
+Psychology, 65(3), 321-325. doi: http://dx.doi.org/10.1037/h0035640
+Fried, C.B. (2008). In-class Laptop Use and its Effects on Student Learning. Computers & Education 50(3),
+906-914. doi: http://dx.doi.org/10.1016/j.compedu.2006.09.006
+Hyden, P. (2005). Teaching Statistics by Taking Advantage of the Laptop’s Ubiquity. New Directions for
+Teaching and Learning, 101, 37-42. doi: http://dx.doi.org/10.1002/tl.184
+Jasmin, K., & Casasanto, D. (2012). The Qwerty Effect: How Typing Shapes the Meanings of Words.
+Psychonomic Bulletin & Review, 19(3), 499-504. doi: 10.3758/s13423-012-0229-7
+Kay, R., & Lauricella, S. (2011). Exploring the Benefits and Challenges of Using Laptop Computers in Higher
+Education Classrooms: A Formative Analysis. Canadian Journal of Learning and Technology, 37(1), 1-18.
+(http://goo.gl/qh3Wjw) (2015-11-07).
+Kobayashi, K. (2005). What Limits the Encoding Effect of Note-taking? A Meta-analytic Examination.
+Contemporary Educational Psychology, 30, 242–262. doi: http://dx.doi.org/10.1016/j.cedpsych.2004.10.001
+Lockhart, R.S., & Craik, F.I.M. (1990). Levels of Processing: A Retrospective Commentary on a Framework
+for Memory Research. Canadian Journal of Psychology, 44(1), 87-112. doi: http://dx.doi.org/10.1037/h008-
+4237
+Longcamp, M., Zerbato-Poudou, M.T., & Velay, J.L. (2005). The Influence of Writing Practice on Letter
+Recognition in Preschool Children: A Comparison between Handwriting and Typing. Acta Psychologica,
+119(1), 67-79. doi: http://dx.doi.org/10.1016/j.actpsy.2004.10.019
+Mueller, P.A., & Oppenheimer, D. M. (2014). The Pen is Mightier than the Keyboard. Advantages of
+Longhand over Laptop Note Taking. Psychological Science, 25, 1159-1168. doi: http://dx.doi.org/10.1177/-
+0956797614524581
+
+
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                                   DOI: 10.3916/C48-2016-10
+Moin, L., Magiera, K., & Zigmond, N. (2009). Instructional Activities and Group Work in the U.S. Inclusive
+High School Co-taught Science Class. International Journal of Science and Mathematics Education, 7, 677-
+697. doi: http://dx.doi.org/10.1007/s10763-008-9133-z
+Paschek, G. (2013). Las ventajas de escribir a mano. [Advantages of Handwriting]. Mente y Cerebro, 62, 18-
+21.
+Rabinowitz, J.C., & Craik, F.I. (1986). Specific Enhancement Effects Associated with Word Generation.
+Journal of Memory and Language, 25, 226-237. doi: http://dx.doi.org/10.1016/0749-596X(86)90031-8
+Ragan, E.D., Jennings, S.R., Massey, J.D., & Doolittle, P.E. (2014). Unregulated Use of Laptops over Time
+in Large Lecture Classes. Computers & Education, 78, 78-86. doi:10.1016/j.compedu.2014.05.002
+Rogers, J., & Case-Smith, J. (2002). Relationships between Handwriting and Keyboarding Performance of
+Sixth-grade Students. American Journal of Occupational Therapy, 56(1), 34-39. doi:10.5014/ajot.56.1.34
+Smoker, T.J., Murphy, C.E., & Rockwell, A.K. (2009). Comparing Memory for Handwriting versus Typing. In
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 53(22), 1.744-1.747. Sage
+Publications. doi: http://dx.doi.org/10.1177/154193120905302218
+Sevillano, M.L., Quicios, M.P., & González-García, J.L. (2016). Posibilidades ubicuas del ordenador portátil:
+percepción de estudiantes universitarios españoles [The Ubiquitous Possibilities of the Laptop: Spanish
+University Students’ Perceptions]. Comunicar, 46(24), 87-95. doi: http://dx.doi.org/10.3916/C46-2016-09
+Stefanou, C., Hoffman, L., & Vielee N. (2008). Note Taking in the College Classroom as Evidence of Ge-
+nerative Learning. Learning Environments Research, 11, 1-17. doi: http://dx.doi.org/10.1007/s10984-00790-
+33-0
+Steimle, J., Brdiczka, O., & Mühlhäuser, M. (2009). Collaborative Paper-based Annotation of Lecture Slides.
+Educational Technology & Society, 12, 125-137. doi: http://dx.doi.org/10.1109/TLT.2009.27
+Sülzenbrück, S., Hegele, M., Rinkenauer, G., & Heuer, H. (2011). The Death of Handwriting: Secondary
+Effects of Frequent Computer Use on Basic Motor Skills. Journal of Motor Behavior, 43(3), 247-251. doi:
+http://dx.doi.org/10.1080/00222895.2011.571727
+Treisman, A. (2014). The Psychological Reality of Levels of Processing. In L.S. Cermak & F.I. Craik (Eds.),
+Levels of Processing in Human Memory (pp. 301-330). New York, NY: Psychology Press.
+Tront, J.G. (2007). Facilitating Pedagogical Practices through a Large-scale Tablet PC Development. IEEE
+Computer 40(9), 62-68. doi: http://dx.doi.org/10.1109/MC.2007.310
+Weaver, B.E., & Nilson, L.B. (2005). Laptops in Class: What are they good for? What can you do with them?
+New Directions in Teaching and Learning, 101, 3-13. doi: http://dx.doi.org/10.1002/tl.181
+
+
+
+
+© COMUNICAR, 48 (2016-3); e-ISSN: 1988-3293; Preprint                                  DOI: 10.3916/C48-2016-10
+

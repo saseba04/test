@@ -1,0 +1,1273 @@
+1 Taking class notes by hand compared to typing: effects on children's recall and
+
+2 understanding
+
+3 Simon R. Horbury and Caroline J. Edmonds
+
+4 University of East London
+
+5
+
+6 Author Note
+
+7 Simon R Horbury and Caroline J Edmonds, School of Psychology, University of East
+
+8 London, UK.
+
+9
+
+10 Correspondence concerning this article should be addressed to Prof. Caroline J
+
+11 Edmonds, School of Psychology, University of East London, Water Lane, Stratford, E15 4LZ,
+
+12 UK. Email. c.edmonds@uel.ac.uk
+
+13 Caroline Edmonds - Orcid ID: 35291928800
+
+14 There was no external funding for this work.
+
+15 No potential conflict of interest was reported by the authors
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21 Abstract
+
+22 The increasing adoption of educational technology in school classrooms has resulted
+
+23 in greater use of electronic devices to take lesson notes. Recent research comparing
+
+24 performance of adult students who recorded lecture notes using computer keyboards or by
+
+25 handwriting reports somewhat conflicting findings on their factual recall and conceptual
+
+26 understanding. There is very little, if any, research in children on the effect of mode of note-
+
+27 taking on recall and understanding. The present study compared the recall and understanding
+
+28 of children taking handwritten notes or typing their notes. Twenty-six boys aged 10-11 years
+
+29 old participated in the study. Factual recall and understanding of a history and a biology
+
+30 lesson were assessed using multiple choice questions (MCQ). MCQ tests were carried out
+
+31 both immediately after each lesson and one week later. Factual recall was not affected by the
+
+32 mode of note-taking but, in both lessons, children who handwrote notes had greater
+
+33 conceptual understanding one week after viewing their lesson, compared to those who typed
+
+34 notes. This is the first study to assess the effect of mode of note-taking on children's
+
+35 understanding and our findings have implications for educational policy on the use of
+
+36 keyboards to take notes.
+
+37 Keywords: handwriting, typing, understanding, recall, children
+
+38
+
+39
+
+40 Introduction
+
+41 Note-taking is a commonly observed classroom behaviour and plays an important role
+
+42 in student learning (Palmatier & Bennet, 1974). Many adult learners take notes using
+
+43 educational technology such as laptops (Morehead, Dunlosky, Rawson, Blasiman, & Hollis,
+
+44 2019). There is some debate about the benefits provided by educational technology in the
+
+45 lecture room or school classroom, but it must be applied usefully and appropriately to impact
+
+46 positively on learning (Bouygues, 2019). In the case of children in schools, around the world
+
+47 areas are implementing policies that phase out handwriting and encourage children to keyboard
+
+48 instead (Russell, 2015; Shapiro, 2013). Some recent studies in adults have found that the mode
+
+49 of note-taking - by keyboard or by hand - can impact on learning (Morehead, Dunlosky, &
+
+50 Rawson, 2019; Mueller & Oppenheimer, 2014, 2018). However, no studies to date have
+
+51 considered how children's learning is affected when they keyboard or handwrite their notes.
+
+52 The aim of our studies was to investigate the effect that different modes of note-taking have on
+
+53 children's learning about facts and concepts, both immediately after learning and after a delay.
+
+54 Note-taking has been a common classroom behaviour for many years (Palmatier &
+
+55 Bennet, 1974). A recent survey reported that students today still take notes during classes, a
+
+56 process which they believe is important for their own effective learning (Morehead,
+
+57 Dunlosky, Rawson, et al., 2019). In contrast to the traditional mode of note-taking that used
+
+58 notebooks to record notes by hand, many of today's students engage with educational
+
+59 technology to record notes, using for example, laptop computers (Morehead, Dunlosky,
+
+60 Rawson, et al., 2019). The use of educational technology in university lecture halls and
+
+61 school classrooms has been growing over recent years. Around the world, there has been an
+
+62 increasing move to embed educational technology in schools for children to use while
+
+63 learning through the early years before further and higher education. In the USA, the National
+
+64 Educational Technology plan details policies for learning enabled by technology (US
+
+65 Department of Education, 2017). Recently in the UK, there has been a call for new
+
+66 technology to spearhead a classroom revolution (Department for Education, 2018).
+
+67 In order that educational technology, such as laptops and other devices, to be a
+
+68 success in the classroom in that it supports students learning, it is important that it is applied
+
+69 appropriately (Luckin et al., 2012). Just introducing technology into classrooms, without
+
+70 thought to how it will be used, may not result in positive impacts on learning. One reason for
+
+71 this is that computers can be distracting as they allow access to off-task activities such as
+
+72 games, email and/or social media (Glass & Kang, 2018; Hembrooke & Gay, 2003). For
+
+73 example, one study found that students who used laptops for lecture note-taking were off task
+
+74 for nearly two thirds of the time (Ragan, Jennings, Massey, & Doolittle, 2014), and others
+
+75 have reported that students using computers in university classrooms is associated with lower
+
+76 grades (Carter, Greenberg, & Walker, 2017; Patterson & Patterson, 2017). Simply being able
+
+77 to see the screen of a multi-tasking student can negatively affect test performance (Sana,
+
+78 Weston, & Cepeda, 2013). However, Luckin et al ( 2012) argue that it is the way in which
+
+79 educational technology is used that influences the question of whether it will positively
+
+80 impact learning. For example, the use of interactive whiteboards can support learning by
+
+81 incorporating digital materials and encouraging discussion between teachers and learners
+
+82 (Hennessy, 2011); using innovative online games to practice mathematical principles such as
+
+83 division and multiplication (Habgood & Ainsworth, 2011); and learning about animal
+
+84 behaviour via a computer game (Facer et al., 2004).
+
+85 The question of whether the use of educational technology in the classroom, such as
+
+86 laptop computers, results in gains in student learning is complex. An analysis of international
+
+87 data is possible by analysing the performance of students on the Programme for International
+
+88 Student Assessment (PISA) in 30 countries, alongside national computer-to-student ratios
+
+89 and reports of student internet use (Bouygues, 2019). The results showed a complex
+
+90 relationship between these variables. For example, while an increase in the number of
+
+91 computers available in schools is associated with poorer PISA scores, this relationship is not
+
+92 linear and a low-to-moderate use of school computers is linked to the best PISA test
+
+93 performance. Internet use was also related to PISA results; for example, in French
+
+94 schoolchildren, less than 30 minutes per day was linked to better scores compared to children
+
+95 who did not use the internet, but in contrast, excessive internet use (more than 6 hours a day)
+
+96 was linked to poorer PISA scores. Bouygues (2019) suggest that if not applied in a useful and
+
+97 appropriate way, educational technology may not result in richer forms of learning, and
+
+98 teachers should deploy it carefully in the classroom.
+
+99 One application of educational technology in schools that is pertinent to the present
+
+100 studies is the increased use of computers in the classroom, with children keyboarding where
+
+101 traditionally they may have handwritten their notes. Some educational systems have
+
+102 encouraged this to the extent that they are phasing out the teaching of handwriting in favour
+
+103 of developing keyboarding skills. In many US states, cursive writing is no longer taught
+
+104 because it is not compulsory under the US Common Core Standards for schools. Instead,
+
+105 once printed writing is introduced, schools promote the use of keyboards (Shapiro, 2013).
+
+106 Similarly, in Finland, cursive writing is no longer taught and pupils are taught how to use
+
+107 keyboards instead (Russell, 2015). In contrast, in the UK, developing handwriting skills
+
+108 remains a key part of the national curriculum (Department for Education, 2013).
+
+109 While the introduction into classrooms of laptop computers for note-taking may be a
+
+110 growing trend across age groups, the impact of taking notes either by hand or by keyboard on
+
+111 learning has recently been considered. Mueller and Oppenheimer (2014) compared the
+
+112 performance of university students who took notes by hand with those who made notes on a
+
+113 laptop (also see Mueller & Oppenheimer, 2018). They found that both handwriting and
+
+114 keyboarding students performed equally well when tested on factual recall of the lecture after
+
+115 an "immediate" test (that occurred after a 30 minute break), but the group who took
+
+116 handwritten notes performed significantly better when tested on their conceptual
+
+117 understanding. When tested one week later using the same questions, students who made
+
+118 handwritten notes performed better at both factual recall and conceptual understanding. A
+
+119 replication of Mueller and Oppenheimer's study found slightly different results. Morehead,
+
+120 Dunlosky, and Rawson (2019) reported a handwriting advantage for factual recall at an
+
+121 immediate test (after 30 minutes, where Muller & Oppenheimer found no difference), and no
+
+122 differences in mode of note-taking when conceptual understanding was assessed after 30
+
+123 minutes (in which Mueller & Oppenheimer found an advantage for handwriting). After 2
+
+124 days delay, Morehead, Dunlosky, and Rawson (2019) found no difference in factual or
+
+125 conceptual understanding by mode of note-taking, in contrast to Mueller and Oppenheimer
+
+126 who, after a delay of one week, found an advantage for handwriting in both factual and
+
+127 conceptual understanding, when participants were given the opportunity to review their notes
+
+128 What could explain the differences in results between these two studies? While the
+
+129 methods might at first glance appear to be very similar, there was one major differences in
+
+130 the procedures that might explain the differences in results. The length of the delay between
+
+131 the immediate and delayed test was not the same in the two studies; in the case of Mueller &
+
+132 Oppenheimer the delay was one week, but in the case of Morehead et al the delay was 2 days.
+
+133 These differences in study timings could have impacted on learning across the delay, that
+
+134 might vary by the note-taking condition in which participants took part. It is plausible that a
+
+135 shorter delay offers less opportunity to review notes. If handwriting were particularly likely
+
+136 to be associated with improved learning over time, differences in the interval between
+
+137 learning and test could explain why the study with the longer delay found a handwriting
+
+138 advantage (Mueller & Oppenheimer, 2014), while the study with the shorter delay found no
+
+139 such advantage (Morehead, Dunlosky, Rawson, et al., 2019).
+
+140 Why might handwriting result in improved learning compared to keyboarding,
+
+141 particularly with regards to conceptual learning? One suggestion is that this is related to the
+
+142 quality and quantity of notes taken under the two note-taking regimes. Adults record more
+
+143 notes when using laptops and these tend to be more verbatim in style, compared to notes
+
+144 taken when handwriting (Luo, Kiewra, Flanigan, & Peteranetz, 2018). Verbatim note-taking
+
+145 is indicative of more shallow processing, and as a consequence, is less likely to be
+
+146 remembered (Craik & Lockhart, 1972; Kiewra, 1985). In contrast, handwritten notes often
+
+147 include generative, non-linear notes, such as concept maps, which require a selective and
+
+148 thoughtful approach to their creation (Piolat, Olive, & Kellogg, 2005). However, there is not
+
+149 consensus on the benefit of concept mapping, with some studies showing it is inferior to
+
+150 retrieval practice for recall of material (Karpicke & Blunt, 2011; Lechuga, Ortega-Tudela, &
+
+151 Gómez-Ariza, 2015), but this is also influenced by prior training in concept mapping
+
+152 (Lechuga et al., 2015).
+
+153 Rationale of the present studies
+
+154 While there is a clear drive to increase the use of educational technology, including
+
+155 laptops, in schools, there is limited research examining how making notes using different
+
+156 methods might affect children's understanding. The effect of taking classroom notes either by
+
+157 keyboarding or handwriting on understanding has been examined in adults and has suggested
+
+158 some advantages for handwriting, although the findings are mixed. It is of note that, to date,
+
+159 the effect of mode of note-taking on children's understanding has not been explored. The
+
+160 present studies broadly replicate the procedure outlined by Mueller & Oppenheimer (2014);
+
+161 children used either keyboards or handwriting to take notes, and factual and conceptual
+
+162 understanding was assessed immediately after the lesson and after a delay of one week. There
+
+163 are two notable differences in the present studies. Firstly, instead of testing in the lab using
+
+164 TED talks, in the present studies, material usually used in teaching was presented to the
+
+165 children. Secondly, the teaching and testing took place in the children's regular classroom, and
+
+166 they were instructed by their regular classroom teacher.
+
+167 Study 1 examined mode of note-taking in a History lesson and Study 2 was based in a
+
+168 Biology lesson that took place one month later. Participants used one note-taking method in
+
+169 Study 1 and switched to the other method in Study 2.
+
+170 As studies examining immediate recall (after 30 minutes) show inconsistent findings
+
+171 concerning whether or not handwriting notes leads to better factual and conceptual
+
+172 understanding, there is no consensus about the likely direction of the effect of mode of note-
+
+173 taking at immediate test. Instead, our results will add to the body of evidence. However, we
+
+174 can make directional predictions for the delayed test. Our delayed condition took place after
+
+175 one week, and thus consistent with Mueller and Oppenheimer, we expect to show a
+
+176 handwriting superiority effect at one week post lesson, for both factual and conceptual
+
+177 understanding. Previous studies reported that adults made more notes when typing, we
+
+178 predict that is it likely that a similar finding will be observed in children.
+
+179 Method
+
+180 Participants
+
+181 Twenty-six participants took part in Study 1 and 23 participated in Study 2: this
+
+182 reduced number was a result of absence from lessons. All participants were boys aged
+
+183 between 10 and 11 years of age. Participants had undertaken basic touch typing training at
+
+184 school when they were aged 8 and 9 years old. This allowed them to know the position of
+
+185 letters on a standard QWERTY keyboard, but they had not had formal touch typing training
+
+186 at the school for at least one academic year. None of the boys had been identified as having a
+
+187 special educational need or disability. Informed consent was obtained from all
+
+188 parents/caregivers and informed assent was obtained from all children. Full ethical approval
+
+189 for this study was granted by the School of Psychology UEL ethics committee.
+
+190 Materials and Procedure
+
+191 Lesson materials. The three videos were selected from those already in use in the
+
+192 school's curriculum. For the History lesson, two videos about the Black Death plague were
+
+193 presented, which were 18 minutes and 12 minutes long (CwnEnvironment, 2012; RonRbc,
+
+194 2011). For the Biology lesson, a single video about cells was shown, which was 19 minutes
+
+195 in duration (Lammas Science, 2012).
+
+196 Multiple-choice questionnaires were prepared for the History and Biology lessons by
+
+197 the children's regular history and science teachers. Questions were designed to ensure recall
+
+198 of important facts (e.g. Where is it thought that the Black Death started?) and understanding
+
+199 of their importance and relevance (e.g. Why were the wealthy less likely to be afflicted by
+
+200 plague?). These were not standardised tests and thus the actual scores are not directly
+
+201 comparable, which is why data for history (Study 1) and biology (Study 2) are presented
+
+202 separately.
+
+203 The history study used 28 questions with four possible answer options. Of these
+
+204 questions, 18 were designed to test factual recall of the material and 10 to test conceptual
+
+205 understanding. These questions were inter-mingled.
+
+206 The biology study used 25 questions with four possible answer options. Of these
+
+207 questions, 17 tested factual recall of the material and 8 tested conceptual understanding; they
+
+208 were intermingled.
+
+209 The varying number of questions between the history lesson assessment and the
+
+210 biology lesson assessment reflected the longer video material that was shown to the
+
+211 participants in the history lesson. The larger number of factual questions compared to
+
+212 understanding questions reflected the content of the videos and the skills required for learning
+
+213 at this stage of the participants' schooling.
+
+214 All pupils were provided with Chrome Book laptop computers on which they
+
+215 recorded lesson notes in the keyboarding condition. Notes were taken using the Google Docs
+
+216 application.
+
+217
+
+218 Procedure
+
+219 For Study One: History, the participants were randomly allocated into conditions by
+
+220 class (group n=13) and both watched two videos on the "Black Death". One group recorded
+
+221 notes about the lesson using pen and paper. The other took their notes using laptop
+
+222 computers. The handwriting and keyboarding groups were assessed in separate rooms. In line
+
+223 with normal lesson procedure, no advice was given to the participants as to the amount of
+
+224 detail or structure required in the notes. They were informed that there would be a test
+
+225 immediately after the lesson. All participants watched the lesson in their normal classroom
+
+226 environment.
+
+227 Immediately after the video lesson, participants completed a multiple-choice
+
+228 questionnaire to test their knowledge and understanding. No feedback was given. Participants
+
+229 were allowed to take either their handwritten notes or a printed copy of their laptop notes
+
+230 away with them after the lesson for revision purposes. Thus, they were told that they could
+
+231 revise but were not instructed to do so - all participants in each condition and study were
+
+232 given the same information about revision.
+
+233 The second test took place one week later, prior to which, pupils were encouraged,
+
+234 though not required, to review the notes that they had made. All children received the same
+
+235instructions about reviewing notes. They were retested using the same questions. At the end236of the second test, participants' notes were collected to monitor the length of notes in words.237Study Two: Biology took place one month later. The same children took part in Study2382 and the note-taking mode was swapped. Due to pupil absence, the group sizes were slightly239smaller (Keyboard, n=12; Handwriting, n=11). The same procedure regarding240questionnaires, feedback, re-testing and collection of notes was used as that adopted in Study241
+
+2421.
+243
+Statistical Analysis244In order to assess participants' understanding, a series of mixed model Analyses of245Variances (ANOVAs) were conducted: Mode of note-taking (handwriting, keyboarding) was246a between subjects factor, and time of test (immediate, delayed) was a within subjects factor.247Four such mixed model ANOVAs were conducted; assessing factual understanding in Study2481 and Study 2, and conceptual understanding in Study 1 and Study 2. Planned comparisons249compared handwriting and note-taking at each timepoint and the Bonferroni correction for250multiple tests was employed with an alpha level of 0.025 (0.05/2 comparisons). Note quantity251under the two conditions was compared by summing the number of words recorded and252conducting independent samples t-tests.253254Results255Study One: History256Mean scores and standard deviations for factual and conceptual understanding in the257two note-taking conditions are shown in Table 1.
+
+258
+
+259	[Table 1 near here]
+
+260
+
+261 History: Factual understanding. Visual inspection of the means suggests that scores
+
+262 were very similar across mode of note-taking conditions and time of test. These impressions
+
+263 were supported by the analysis. There was no effect of time of test, F (1,24) = 0.933, p =
+
+264 0.344, ?p2 = 0.037, no effect of mode of note-taking, F(1,24) = 0.532, p = 0.473, ?p2 =
+
+265 0.022, and the interaction was not significant, F(1,24) = 2.31, p = 0.142, ?p2 = 0.088.
+
+266 History: Conceptual understanding. In contrast, looking at the mean scores for
+
+267 conceptual understanding, it would seem that higher scores were obtained when handwriting,
+
+268 and that scores in the handwriting condition improved after a week. These interpretations
+
+269 were supported by the analysis, with a significant main effect of mode of note-taking, F(1,24)
+
+270	= 7.70, p = 0.011, ?p2 = 0.243, with higher scores under conditions of handwriting compared
+
+271 to keyboarding. This main effect should be interpreted in the light of the significant
+
+272 interaction, F(1,24) = 11.542, p = 0.002, ?p2 = 0.325. Follow up tests showed no difference
+
+273 between note-taking groups immediately after the lesson, t(24) = 0.75, p = 0.461, but the
+
+274 handwriting group significantly outperformed the typewriting group one week later, t(24) =
+
+275 3.99, p = 0.001. The main effect of time of test was not significant, F(1,24) = 0.196, p =
+
+276 0.662, ?p2 = 0.008
+
+277 History: Word Count. The mean word count in the handwriting condition was 201.92
+
+278 words (SD = 66.52) and in the keyboarding condition, the mean word count was 223.31
+
+279 words (SD = 70.72). Although the mean word count is slightly higher in the keyboarding
+
+280 condition, the difference was not statistically significant, t(24) = 0.79, p = 0.436.
+
+
+281282Study Two: Biology283The mean scores for the factual and conceptual understanding scores under the two284note-taking conditions are shown in Table 2.285Biology: Factual understanding. Visual inspection of the data presented in Table 2286suggests that scores improved after one week compared to immediate test in both note-taking287conditions, and that scores were higher for children who handwrote notes. These impressions288were supported by the analyses, with significantly higher scores at the second test, one week289after the lesson, F(1,21) = 24.83, p < 0.001, ?p2 = 0.542. The difference between mode of290note-taking was marginal, F(1,21) = 4.15, p = 0.054, ?p2, and the interaction was not291significant, F(1,21) = 3.59, p = 0.072, ?p2 = 0.146.292Biology: Conceptual understanding. Examining the conceptual understanding scores293for the biology lesson suggests that notes taken when handwriting result in higher scores.294Furthermore, there appears to be an increase over time for the handwriting group, while the295keyboarding groups' scores do not change over time. The analyses supported these296impressions. The handwriting group outperformed the keyboarding group on conceptual297understanding scores, F(1,21) = 8.18, p = 0.009, ?p2 = 0.280. The main effect of time of test298was not statistically significant, F(1,21) = 1.06, p = 0.316, ?p2 = 0.048. The interaction299between time of test and mode of note-taking was not significant, F(1,21) 4.23, p = 0.052,300?p2 = 0.168. Visual inspection of data presented in Table 2 suggests an advantage for301handwriting over keyboarding in the delayed test, thus we completed planned comparisons to302fully explore the data. Immediately after the lesson, there was no significant difference in303conceptual understanding between the two note-taking groups, t(21) = 1.32, p = 0.203.304However, one week later, the handwriting group understood had significantly higher305conceptual understanding scores compared to the keyboarding group, t(21) = 3.26, p = 0.004.
+306 Biology: Word Count. The mean word count for those who took notes by handwriting
+
+307 was 224.82 words (SD = 31.57) and for the keyboarding group, the mean word count was
+
+308 213.25 words (SD = 37.42). There was no statistically significant difference in word count
+
+309 between conditions, t(21) = 0.80, p = 0.434.
+
+310
+
+311 Post-hoc cross-study comparison. While the actual scores achieved on the two tests are not
+
+312 directly comparable, having slightly different numbers of factual and conceptual questions,
+
+313 and examining quite different material, it is interesting to informally consider whether mode
+
+314 of note-taking and time of test affected performance in a similar manner for both subjects. To
+
+315 summarise, our results did not show a significant effect of mode of note-taking on factual
+
+316 understanding in either the history or the biology lesson. In contrast, conceptual
+
+317 understanding, was better in children who handwrote notes compared to typing, in both
+
+318 history and biology lessons, when tested one week after the lesson. In order to make a fair
+
+319 cross-study comparison of the effect of note-taking on conceptual understanding scores at one
+
+320 week post-lesson, we calculated effect sizes (Cohen's d) for this comparison in each study.
+
+321 Thus, we can compare the effect sizes across studies without directly comparing the scores.
+
+322 The effect size for this comparison in the history lesson was 1.597, while in the biology
+
+323 lesson it was 1.346. Both of these Cohen's d values can be categorised as "very large"
+
+324 (Sawilowsky, 2009). This suggests that children's conceptual understanding was similarly
+
+325 affected by the model of note-taking, regardless of the material that was taught (history or
+
+326 biology), with children have higher conceptual understanding when handwriting notes
+
+327 compared to keyboarding notes in both lessons.
+
+328 It is possible that there are differences in difficulty in the history and science lessons,
+
+329 in either the teaching or questions, or both. While these are not directly comparable, it can be
+
+330 considered by comparing the percentage correct means across for factual and conceptual
+
+331 understanding in both lessons, collapsing across conditions. For the history lesson (Study 1),
+
+332 82.3% of factual questions and 67.5% of conceptual questions were answered correctly
+
+333 overall. For the biology lesson (Study 2), 71.6% of factual questions and 76.6% of conceptual
+
+334 questions were answered correctly overall. These data could be interpreted as showing that
+
+335 the children found the history factual questions easier to answer than the biology factual
+
+336 questions, with the reverse pattern for conceptual understanding questions. Importantly, there
+
+337 is no evidence of a ceiling effect for either subject.
+
+338 Discussion
+
+339 Our study adds to the growing literature concerning the effects on learning of taking
+
+340 notes either by typing or by handwriting. It extends research on this topic by examining the
+
+341 effect of modes of note-taking on schoolchildren's understanding, using their regular learning
+
+342 materials, and in their own classrooms. Our results show that there were significant
+
+343 differences in children's conceptual understanding when different modes of note-taking were
+
+344 used when tested after a one week delay. At one week after history and science lessons,
+
+345 children who had made notes by handwriting had better conceptual understanding than
+
+346 children who made notes using a laptop computer. Calculating effect sizes revealed that there
+
+347 was a large effect size of mode of handwriting on conceptual understanding, regardless of
+
+348 lesson content. There were no differences in mode of note-taking on conceptual
+
+349 understanding when tested immediately after the lesson. In contrast, there was some
+
+350 indication that the effect of mode of note-taking on factual understanding was dependent on
+
+351 the lesson. Note-taking method did not affect factual understanding of the history lesson, but
+
+352 for the science lesson, children had better recall of facts when tested one week following the
+
+353 lesson compared to the immediate test. In addition, there was a marginally significant
+
+354 advantage in factual understanding in the science lesson in the case of children who
+
+355 handwrote notes.
+
+356 The results of our study broadly support the findings of similar studies in adults
+
+357 (Morehead, Dunlosky, & Rawson, 2019; Mueller & Oppenheimer, 2014, 2018). Firstly, we
+
+358 consider how our findings at the immediate test fit with the literature. We found no strong
+
+359 differences in factual or conceptual understanding by mode of note-taking at immediate test
+
+360 (outside of the marginally significant effect observed in the biology lesson). As the literature
+
+361 reports inconsistent findings at immediate test, we did not predict a directional hypothesis and
+
+362 our findings add to the body of evidence. For factual understanding, our findings are in line
+
+363 with Mueller and Oppenheimer's (2014) study (who also found no such effect), but not with
+
+364 Morehead, Dunlosky and Rawson's (2019) results (who found a handwriting advantage for
+
+365 immediate test of facts). In contrast, the lack of a handwriting superiority effect on conceptual
+
+366 understanding is in line with Morehead, Dunlosky and Rawson's study (who also found no
+
+367 such effect), but not with Mueller and Oppenheimer (who did find a handwriting advantage
+
+368 for immediate conceptual understanding). The differences between published studies were
+
+369 considered by Morehead, Dunlosky and Rawson (2019) as minor discrepancies. We agree
+
+370 that, in a small but growing literature, replication is necessary to establish effects, and minor
+
+371 methodological differences such as the interval between teaching and test, test materials, the
+
+372 age group assessed, all could potentially impact on the results. The small differences in the
+
+373 pattern of results for History and Biology lessons could occur as a result of different learning
+
+374 materials, but there are few differences between lessons and it may be an artefact of our
+
+375 study. The difference in findings between our study and previously published work could be
+
+376 explained by differences in the timing of the immediate test compared to published studies.
+
+377 While both Mueller and Oppenheimer's and Morehead, Dunlosky and Rawson's
+
+378 "immediate" test took place after a 30 minute delay, ours directly followed the lesson. It is
+
+379 possible that this minor difference in procedure may have impacted on the results, and we
+
+380 suggest that the effect of time of test is systematically evaluated in future work
+
+381 Now we consider our results in the delayed condition, which provide more consensus
+
+382 with the study to which they are most directly comparable. In line with data reported by
+
+383 Mueller and Oppenheimer (2014, 2018), we found that conceptual understanding was better
+
+384 than when children handwrote their notes than when they typed them. While Morehead,
+
+385 Dunlosky and Rawson (2019) did not find this longhand superiority effect at their delayed
+
+386 test, one methodological difference that could explain this is the difference in the length of
+
+387 the delay, which was shorter at 2 days, rather than one week. Why might conceptual
+
+388 understanding be heightened after one week and not two days? It could be that this is related
+
+389 to the increased amount of time available to revise, which may combine with differences in
+
+390 the quality of notes, to lead to handwriting superiority. In support of this argument, Luo,
+
+391 Kiewra, Flanigan and Peteranetz (2018) reported that students who handwrote notes
+
+392 performed better than those who typed notes in a condition in which they were asked to
+
+393 review their notes before taking the test. The interaction between mode of note-taking and
+
+394 revision should be systematically evaluated by future studies that manipulate the availability
+
+395 of notes for revision.
+
+396 Considering now the length of notes, in contrast to published studies (Morehead,
+
+397 Dunlosky, & Rawson, 2019; Mueller & Oppenheimer, 2014), we found no difference in the
+
+398 length of notes generated by hand or by keyboard, and we suggest that this is likely to be a
+
+399 result of the age of our participants. Previous studies suggest that adults write more when
+
+400 typing and this is likely to be a result of skilled touch typing. In contrast, the children in the
+
+401 current study were less likely to be expert or fluent touch typists and we did not formally
+
+402 assess their skill. Lacking this automaticity would be expected to slow the rate of note-taking,
+
+403 which may explain the similarity in note lengths between our two conditions. It is striking
+
+404 that, in our study, the two modes of note-taking had such different effects on understanding
+
+405 when the same amount of notes were recorded under both conditions. If the effect of mode of
+
+406 note-taking we observed was primarily a result of the children's lower familiarity with
+
+407 typing, we might have expected to observe an effect of mode of note-taking on factual
+
+408 understanding as well as conceptual understanding. Touch typing skill could be formally
+
+409 assessed in future studies, in both adults and children, in order to consider whether or not this
+
+410 mediates the relation between mode of note-taking and type of understanding.
+
+411 What is going on under different conditions of note-taking that might explain the
+
+412 reported differences in factual and conceptual understanding? A range of factors have been
+
+413 considered. In adults, it has been proposed that typing notes encourages verbatim recording
+
+414 and less active processing (Luo et al., 2018). This reduces the amount of encoding that takes
+
+415 place during the lesson, with the result that conceptual understanding is lessened (Kiewra,
+
+416 1985). It has been reported that the type of notes taken varies by the medium by which notes
+
+417 are recorded. For example, Luo, Kiewra, Flanigan, & Peteranetz (2018) found that adults who
+
+418 recorded notes by hand recorded more visual notes (such as arrows and images) than those
+
+419 using a laptop, while laptop note takers recorded a greater quantity of notes and verbatim
+
+420 notes than those who handwrote. They concluded that the type of material being taught, and
+
+421 whether or not notes are reviewed, impact on the success rate of different modes of note-
+
+422 taking. In particular, handwritten notes resulted in better test performance than typed notes
+
+423 when reviewing was encouraged (Luo et al., 2018). Morehead, Dunlosky, and Rawson (2019)
+
+424 also suggest that future research should consider whether the note-taking method encourages
+
+425 student to include the important material in their notes that will form part of the subsequent
+
+426 test; in their comparison of taking notes by computer or by hand, one of the best predictors of
+
+427 test performance was whether students included in their notes material that was relevant to
+
+428 the factual or conceptual test questions. Furthermore, the relative merit of handwriting and
+
+429 typing may be affected by factors related to the timing of test and ability to revise. One study
+
+430 that compared the taking of strategic, organised notes, with transcription and handwriting,
+
+431 found that performance on test varied according to whether the test was immediate or
+
+432 delayed, and whether or not students were allowed to study their notes (Bui, Myerson, &
+
+433 Hale, 2013). In addition, the way in which different types of notes are reorganised while
+
+434 revising affects how much is recalled after a delay (Kiewra, 1983).
+
+435 In children, who as we have reported here, showed poorer conceptual understanding
+
+436 under keyboarding, this may occur for the same reasons as those identified in adults (e.g.
+
+437 related to active processing, or types of information recorded) or it could occur because they
+
+438 are less skilled typists and need to use greater cognitive capacity to enter information via the
+
+439 keyboard. This in turn may reduce opportunities for deeper encoding of information into
+
+440 long-term memory. We cannot distinguish between these two candidate explanations. The
+
+441 children in our study had received some training in touch typing, but in line with other studies
+
+442 (e.g. Mueller & Oppenheimer, 2014), we did not assess typing speed or accuracy. This
+
+443 limitation should be addressed in future studies. Thus, the route to understanding under
+
+444 conditions of typing and handwriting may be different for adults and children. However, we
+
+445 suggest that typing skill cannot fully explain the effect of the manipulation; if that were the
+
+446 case, we might have expected to see the note-taking differences observed for conceptual
+
+447 understanding, also observed for factual understanding. One limitation of our study is that we
+
+448 were not able to analyse the quality of notes produced by each mode of note-taking. An
+
+449 assessment of note quality would allow us to evaluate the type and structure of information
+
+450 recorded under different conditions, and should be included in future studies.
+
+451 One of the strengths of our study was that it utilised course-related material that was
+
+452 presented in a manner that was conventional (for our participants), by their own classroom
+
+453 teachers, who also designed the assessment. The lessons and assessments that we employed
+
+454 were designed by the children's classroom teachers who teach and assess material regularly
+
+455 taught in the classroom. Children were also both taught and assessed in their regular
+
+456 classroom. These factors heighten the ecological validity of the study as it directly assesses
+
+457 the impact of our manipulations on everyday educational practice. While examining the
+
+458 effect of mode of note-taking on different lesson topics extends the literature, our measures
+
+459 were not standardised assessments (in line with the two studies on which our study was
+
+460 modelled) and, as our results suggest, may differ in difficulty. Data presented in Tables 1 and
+
+461 2 shows that the scores for factual understanding were higher at both immediate and delayed
+
+462 test for History compared to Science. In contrast, scores for conceptual understanding were
+
+463 more similar over the two topics when the respective study cells are compared. Thus, our
+
+464 data suggest that the children may have found the history facts easier than the biology facts,
+
+465 and it could be that this rendered their factual understanding of the history lesson less
+
+466 susceptible to the manipulation. It is a strength of this study that similar effect sizes were
+
+467 observed in the two studies, despite these differences.
+
+468
+
+469 Limitations and future directions
+
+470 The sample size in the present study is relatively small, but the effect sizes are large
+
+471 and aided by the within subject study design. As the present study included only boys, the
+
+472 results may not generalise to a sample of girls, or a mixed gender sample, thus, future work
+
+473 should replicate the study, but in a larger, and more representative sample. In adults, there is
+
+474 some evidence that the note-taking skills of males and females differs. Studies have shown
+
+475 that female undergraduate students, when recording notes by hand, recorded more
+
+476 information and better quality notes (Reddington, Peverly, & Block, 2015), than male
+
+477 students. Little research appears to have been carried out on gender differences in note-taking
+
+478 using keyboard devices, and while Mueller and Oppenheimer's (2014) set of studies on the
+
+479 effects of keyboarding and handwriting on understanding included mixed gender groups of
+
+480 participants, they did not examine any effect of gender. Morehead, Dunlosky, Rawson, et al.,
+
+481 (2019) found that female students were more likely than males to revise notes. In addition to
+
+482 potential gender differences in note-taking skills, there may be gender differences in the type
+
+483 of computer-related distractibility. In a sample of secondary school students, although the
+
+484 majority of pupils reported that they remained on task when using electronic devices in the
+
+485 classroom, there were differences in the type of off task behaviour in which they engaged;
+
+486 females were found to engage in off task social media, while males engaged in gaming (Kay,
+
+487 Benzimra, & Li, 2017). In university students, similar findings are reported (Barker &
+
+488 Aspray, 2006; Sanders, 2006). With regards to children, there is evidence that the type of
+
+489 computer-related activities in which children engage differs by gender (Colley & Comber,
+
+490 2010). Questions about gender differences in note-taking, and in computer engagement and
+
+491 skills, remain empirical questions that should be addressed by future research.
+
+492 In the present studies, the same set of questions were used at immediate and delayed
+
+493 test. This was consistent with the key studies being replicated (Morehead, Dunlosky, &
+
+494 Rawson, 2019; Mueller & Oppenheimer, 2014, 2018). However, it is important to note that
+
+495 testing and retesting of material can influence learning. The "testing effect" describes how
+
+496 performance is improved by taking a test on the material (Roediger & Karpicke, 2006).
+
+497 Studies examining this phenomenon have compared performance under different learning
+
+498 conditions, such as repeated testing and repeated studying (Roediger & Karpicke, 2018). For
+
+499 example, after a one week delay, adults who had more retrieval practice (repeated testing)
+
+500 and less studying, outperformed those who simply studied (Karpicke & Roediger, 2008). This
+
+501 testing effect has been shown in adults and children (Roediger & Karpicke, 2018). We did
+
+502 not show a straightforward testing effect, because performance was impacted by the mode of
+
+503 note-taking. However, it is possible that note-taking method may interact with the testing
+
+504 effect. In our study, we offered the children the opportunity to use their notes for revision, but
+
+505 did not formally record their participation in revision. Children in our handwriting condition
+
+506 may have revised more than those who keyboarded their notes. The effect of revision and re-
+
+507 testing under different note-taking conditions should be formally evaluated in future work.
+
+508 Our findings could present a start off point for many additional follow up studies. For
+
+509 example, alongside the question of how revision and re-testing impacts on learning under
+
+510 different modes of note-taking, familiarity with different types of note-taking could be
+
+511 explored. This familiarity may affect the impact of note-taking methods and may differ across
+
+512 geographical location, the age of the children and/or gender. Lesson topic may also influence
+
+513 how model of note-taking affects learning, with some topics perhaps particularly suited to
+
+514 more visual notes. The type and number of factual and conceptual questions might also
+
+515 impact on learning. Importantly, as suggested above, future work should also consider note
+
+516 quality, both in terms of systematically exploring the effect of encouraging children to take
+
+517 different types of notes, and analysing the type of notes that they make. All of these factors
+
+518 could be explored in children across all years of school education, in order to fully examine
+
+519 the developmental progression, and to be able to make appropriate recommendations for
+
+520 policy and practice.
+
+521 Educational Implications
+
+522 There are educational implications that follow from this study for the inclusion in the
+
+523 classroom of technology such as laptops for note-taking. As outlined earlier, educational
+
+524 technology must be employed in a manner that supports students' learning (Luckin et al.,
+
+525 2012). Part of preparing children for the workplace, and/or the demands of further study, is to
+
+526 offer students touch typing training and clear advice on the best way to produce notes. Since
+
+527 these areas are not always explicitly included in official guidelines, such as the National
+
+528 Curriculum in the UK (Department for Education, 2013), individual schools will need to
+
+529 consider individually their policies about introducing touch typing and reducing handwriting.
+
+530
+
+531 Conclusions
+
+532 In conclusion, our study found that conceptual understanding was significantly better
+
+533 after a delay of one week in schoolchildren who handwrote their lesson notes, compared to
+
+534 those who typed them on a laptop. We assessed their performance in the children's usual
+
+535 classroom, with their usual class teacher and teaching materials, thus reproducing the normal
+
+536 day-to-day school environment. Previous studies have examined the influence of mode of
+
+537 note-taking on understanding in university students and, to the knowledge of the authors, this
+
+538 is the first time that a study comparing the effects of type of note-taking equipment on the
+
+539 performance of schoolchildren has been carried out. While there are some limitations in our
+
+540 study design, this paper contributes to the debate on the manner by which children should
+
+541 take notes in class. The optimal note-taking strategy may depend on skill with keyboards,
+
+542 mode of presentation, and time between learning and test, amongst other factors. All of these
+
+543 should be systematically explored by future work.
+
+544
+545
+References546Barker, L. J., & Aspray, W. (2006). The state of research on girls and IT. In J. M. Cohoon &547W. Aspray (Eds.), Women and Information Technology (pp. 3-54). Cambridge, MA.: The548MIT Press.549Bouygues, H. L. (2019). Does Educational Technology Help Students Learn? An analysis of
+550 the	connection	between	digital	devices	and	learning.
+
+551 https://doi.org/10.1080/00461520.2011.611369
+
+552 Bui, D. C., Myerson, J., & Hale, S. (2013). Note-taking with computers: Exploring alternative
+
+553 strategies for improved recall. Journal of Educational Psychology, 105(2), 299-309.
+
+554 https://doi.org/10.1037/a0030367
+
+555 Carter, S. P., Greenberg, K., & Walker, M. S. (2017). The impact of computer usage on
+
+556 academic performance : Evidence from a randomized trial at the United States Military
+
+557 Academy	R.	Economics	of	Education	Review,	56,	118-132.
+
+558 https://doi.org/10.1016/j.econedurev.2016.12.005
+
+559 Colley, A., & Comber, C. (2010). Age and gender differences in computer use and attitudes
+
+560 among secondary school students: what has changed? Educational Research, 45(2), 155-
+
+561 165.
+
+562 Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory
+
+563 research.  Journal  of  Verbal  Learning  and  Verbal  Behavior,  11(6),  671-684.
+
+564 https://doi.org/10.1016/S0022-5371(72)80001-X
+
+565 CwnEnvironment. (2012). The Black Death - Worst plague in history. Retrieved March 1,
+
+566 2019, from https://www.youtube.com/watch?v=kScxc9DPrnY
+
+567 Department	for	Education.	The	national	curriculum	in	England.	(2013).
+
+568	https://doi.org/10.1080/09571739185200191
+
+569 Department for Education. (2018). New technology to spearhead classroom revolution.
+
+570 Retrieved	February	1,	2019,	from	https://www.gov.uk/government/news/new-
+
+571 technology-to-spearhead-classroom-revolution
+
+572 Facer, K., Joiner, R., Stanton, D., Reid, J., Hull, R., & Kirk, D. (2004). Savannah: mobile
+
+573 gaming and learning? Journal of Computer Assisted Learning, 20(6), 399-409.
+
+574 https://doi.org/10.1111/j.1365-2729.2004.00105.x
+
+575 Glass, A. L., & Kang, M. (2018). Dividing attention in the classroom reduces exam
+
+576 performance. Educational Psychology. https://doi.org/10.1080/01443410.2018.1489046
+
+577 Habgood, M. P., & Ainsworth, S. E. (2011). Motivating children to learn effectively: Exploring
+
+578 the value of intrinsic integration in educational games. Journal of the Learning Sciences,
+
+579 20(2), 169-206. https://doi.org/10.1080/10508406.2010.508029
+
+580 Hembrooke, H., & Gay, G. (2003). The laptop and the lecture: The effects of multitasking in
+
+581 learning environments. Journal of Computing in Higher Education, 15(1), 46-64.
+
+582 https://doi.org/10.1007/BF02940852
+
+583 Hennessy, S. (2011). The role of digital artefacts on the interactive whiteboard in supporting
+
+584 classroom  dialogue.  Journal  of  Computer  Assisted  Learning,  27(6),  463-489.
+
+585 https://doi.org/10.1111/j.1365-2729.2011.00416.x
+
+586 Karpicke, J. D., & Blunt, J. R. (2011). Retrieval Practice Produces More Learning than
+
+587 Elaborative	Studying	with	Concept	Mapping.	Science,	331(6018),	772-775.
+
+588 https://doi.org/10.1126/science.1199327
+
+589 Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning.
+
+590	Science, 319(5865), 966-968. https://doi.org/10.1126/science.1152408
+
+591	Kay, R., Benzimra, D., & Li, J. (2017). Exploring Factors That Influence Technology-Based
+
+592	Distractions in Bring Your Own Device Classrooms. Journal of Educational Computing
+
+593	Research, 55(7), 974-995. https://doi.org/10.1177/0735633117690004
+
+594	Kiewra, K. (1983). The process of review: A levels of processing approach. Contemporary
+
+595	Educational Psychology, 8(4), 366-374. https://doi.org/10.1016/0361-476X(83)90023-1
+
+596	Kiewra, K. (1985). Investigating notetaking and review: A depth of processing alternative.
+
+597	Educational Psychologist, 20(1), 23-32. https://doi.org/10.1207/s15326985ep2001_4
+
+598 Lammas Science. (2012). Science in Action Cells S108LS03. Retrieved March 1, 2019, from
+
+599 https://www.youtube.com/watch?v=UD6G1OOIabo
+
+600 Lechuga, M. T., Ortega-Tudela, J. M., & Gómez-Ariza, C. J. (2015). Further evidence that
+
+601 concept mapping is not better than repeated retrieval as a tool for learning from texts.
+
+602 Learning and Instruction, 40, 61-68. https://doi.org/10.1016/j.learninstruc.2015.08.002
+
+603 Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., & Noss, R. (2012). Decoding
+
+604 Learning: The proof, promise and potential of digital education. London, UK. Retrieved
+
+605 from https:media.nesta.org.uk/documents/decoding_learning_report.pdf
+
+606 Luo, L., Kiewra, K., Flanigan, A. E., & Peteranetz, M. S. (2018). Laptop versus longhand note
+
+607 taking: effects on lecture notes and achievement. Instructional Science, 46(6), 947-971.
+
+608 https://doi.org/10.1007/s11251-018-9458-0
+
+609 Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How Much Mightier Is the Pen than the
+
+610 Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer
+
+611 (2014). Educational Psychology Review, 31(3), 753-780. https://doi.org/10.1007/s10648-
+
+612 019-09468-2
+
+613 Morehead, K., Dunlosky, J., Rawson, K. A., Blasiman, R., & Hollis, R. B. (2019). Note-taking
+
+614 habits of 21st Century college students: implications for student learning, memory, and
+
+615 achievement. Memory, 27(6), 807-819. https://doi.org/10.1080/09658211.2019.1569694
+
+616 Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard:
+
+617 Advantages of longhand over laptop note taking. Psychological Science, 25(6), 1159-
+
+618 1168. https://doi.org/10.1177/0956797614524581
+
+619 Mueller, P. A., & Oppenheimer, D. M. (2018). Corrigendum to: The Pen Is Mightier Than the
+
+620 Keyboard: Advantages of Longhand Over Laptop Note Taking (Psychological Science,
+
+621 (2014), 25, 6, (1159-1168), 10.1177/0956797614524581). Psychological Science, 29(9),
+
+622 1565-1568. https://doi.org/10.1177/0956797618781773
+
+623 Palmatier, R. A., & Bennet, J. M. (1974). Notetaking habits of college students. Journal of
+
+624	Reading, 18, 215-218.
+
+625 Patterson, R. W., & Patterson, R. M. (2017). Computers and productivity: Evidence from
+
+626 laptop use in the college classroom. Economics of Education Review, 57, 66-79.
+
+627 Piolat, A., Olive, T., & Kellogg, R. T. (2005). Cognitive effort during note taking. Applied
+
+628 Cognitive Psychology, 19(3), 291-312. https://doi.org/10.1002/acp.1086
+
+629 Ragan, E., Jennings, S. R., Massey, J. D., & Doolittle, P. E. (2014). Unregulated use of laptops
+
+630 over time in large lecture classes. Computers and Education, 78, 78-86.
+
+631 Reddington, L. (2013). Gender difference variables predicting expertise in lecture note-taking.
+
+632 Columbia University. Retrieved from http://ir.obihiro.ac.jp/dspace/handle/10322/3933
+
+633 Reddington, L., Peverly, S. T., & Block, C. J. (2015). An examination of some of the cognitive
+
+634 and motivation variables related to gender differences in lecture note-taking. Reading and
+
+635 Writing, 28(8), 1155-1185. https://doi.org/10.1007/s11145-015-9566-z
+
+636 Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and
+
+637 Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181-
+
+638 210. https://doi.org/10.1111/j.1745-6916.2006.00012.x
+
+639 Roediger, H. L., & Karpicke, J. D. (2018). Reflections on the Resurgence of Interest in the
+
+640 Testing	Effect.	Perspectives	on	Psychological	Science,	13(2),	236-241.
+
+641 https://doi.org/10.1177/1745691617718873
+
+642 RonRbc. (2011). Teacher Resource - The Black Death. Retrieved March 1, 2019, from
+
+643 https://www.youtube.com/watch?v=AJfVmGQNM5Y)
+
+644 Russell, H. (2015). Signing Off: Finnish schools phase out handwriting classes. Retrieved
+
+645 March 1, 2019, from https://www.theguardian.com/world/2015/jul/31/finnish-schools-
+
+646 phase-out-handwriting-classes-keyboard-skills-finland
+
+647 Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning
+
+648 for	both	users	and	nearby	peers.	Computers	and	Education,	62,	24-31.
+
+649 https://doi.org/10.1016/j.compedu.2012.10.003
+
+650 Sanders, J. (2006). Gender and technology: A research review. In C. Skelton, B. Francis, & L.
+
+651 Smulyan (Eds.), Handbook of gender and education (pp. 1-40). Thousand Oaks, CA.:
+
+652 Sage Publications.
+
+653 Shapiro, T. R. (2013). Cursive handwriting is disappearing from public schools. Retrieved
+
+654 March	1,	2019,	from	https://www.washingtonpost.com/local/education/cursive-
+
+655 handwriting-disappearing-from-public-schools/2013/04/04/215862e0-7d23-11e2-a044-
+
+656 676856536b40_story.html
+
+657 US Department of Education. (2017). Reimagining the role of technology in education: 2017
+
+658 National Education Technology Plan Update. Office of Educational Technology.
+
+659 https://doi.org/10.1080/09637498108430973
+
+660
+
+661	Table 1: Mean factual and conceptual understanding scores, and standard deviations, in the
+
+662	history lesson by mode of note-taking and time of test.
+
+663
+
+
+
+
+Time of testMode of
+Note- taking
+
+
+n
+Factual Understanding
+Conceptual UnderstandingMeanSDMeanSDImmediately
+
+post-lessonKeyboard1315.21.076.61.33Hand1314.22.527.01.29One week
+
+post-lessonKeyboard1315.001.535.61.56Hand1314.92.107.81.17
+664
+
+665
+
+666	Table 2: Mean factual and conceptual understanding scores, and standard deviations, in the
+
+667	biology lesson by mode of note-taking and time of test.
+
+668
+
+
+
+
+
+Time of testMode of Note-
+taking
+
+
+n
+Factual Understanding
+Conceptual UnderstandingMeanSDMeanSDImmediately
+
+post-lessonKeyboard129.92.075.61.44Hand1112.42.986.31.01One week
+
+post-lessonKeyboard1212.81.495.31.91Hand1113.62.067.30.79
+669
+
+670
+
+671

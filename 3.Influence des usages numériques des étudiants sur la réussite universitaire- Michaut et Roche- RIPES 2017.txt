@@ -1,0 +1,1306 @@
+L’influence des usages numériques des étudiants sur la
+réussite universitaire
+Christophe Michaut, Marine Roche
+
+To cite this version:
+Christophe Michaut, Marine Roche. L’influence des usages numériques des étudiants sur la réussite universitaire. Revue internationale de pédagogie de l’enseignement supérieur, 2017, 33 (1),
+�10.4000/ripes.1171�. �halshs-01505806�
+
+HAL Id: halshs-01505806
+https://shs.hal.science/halshs-01505806v1
+Submitted on 11 Apr 2017
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+HAL Authorization
+
+L’influence des usages numériques des étudiants sur la réussite
+universitaire
+Christophe Michaut, Centre de recherche en éducation de Nantes, Université de Nantes.
+christophe.michaut@univ-nantes.fr
+Marine Roche, Centre de recherche en éducation de Nantes, Université de Nantes.
+marine.roche1@univ-nantes.fr
+Résumé
+Beaucoup d’études décrivent les usages et les pratiques numériques des étudiants sans
+nécessairement évaluer les effets qu’ils produisent sur les apprentissages et sur la réussite
+universitaire. L’article explore la place qu’occupe désormais le numérique dans les manières
+d’étudier et ses effets sur les résultats aux examens. Il s’appuie sur une enquête quantitative menée
+auprès de 625 étudiants français inscrits en premier cycle universitaire dans l’un des trois domaines
+de formation suivants : Santé, Sciences et techniques, Lettres et Sciences humaines et sociales.
+L’enquête vise d’une part à mesurer l’intensité des activités numériques académiques :
+téléchargement ou non des supports déposés par les enseignants sur une plateforme, interactions
+à distance entre les étudiants, prise de notes ou non avec un ordinateur, temps passé sur Internet
+pour étudier, etc. Elle cherche d’autre part à déterminer l’influence de ces activités sur la moyenne
+semestrielle, tout en contrôlant les déterminants avérés de la réussite universitaire que sont la
+scolarité antérieure et les stratégies d’apprentissage. Les analyses montrent que les étudiants
+s’emparent assez peu des outils numériques pour étudier en profondeur et que lorsqu’ils les
+utilisent, c’est essentiellement dans une visée instrumentale. Par ailleurs, les modélisations
+statistiques révèlent l’absence d’effet significatif des activités numériques des étudiants sur les
+résultats aux examens.
+
+Summary
+Many studies describe digital uses and practices of students without estimating the effects they
+produce on learning processes and academic success at a university level. This article explores how
+digital technology impacts the ways people study and how well they do in their exams. It is based
+on a quantitative survey of 625 French students registered in undergraduate university in different
+fields: Health, Sciences and Technology, as well as Literature, Humanities and Social Sciences. First
+of all, the survey seeks to measure the intensity of academic digital activities: downloading (or not)
+of files put online by teachers; interactions at a distance between students; taking notes with a
+computer or a pen; time spent studying on the Internet, etc. Furthermore, it tries to determine the
+level of influence of the digital activities on the average grades during the first semester. The effects
+of determining factors – educational background and learning strategies – were controlled.
+Analyses indicate that students make little use of digital tools to study and when they use them, it
+is mainly in an instrumental way. Besides, statistical models reveal absence of significant effect of
+digital activities of the students on exam results.
+Mots-clés
+étudiants, Internet, manières d’étudier, réussite universitaire, usages numériques
+
+2
+
+1. Introduction
+Ordinateurs, tablettes, smartphones, Internet, applications numériques envahissent peu à peu les
+amphithéâtres et les salles d’enseignement sans que l’on sache pleinement comment les étudiants
+les utilisent et les effets qu’ils produisent. Si, sur le plan pédagogique, le caractère prétendu innovant
+de ces outils fait l’objet de débats passionnés dans le corps enseignant entre les « technophiles » et
+les « papurophiles » (Harlé & Lanéelle, 2016), la question de l’amélioration des apprentissages est
+en définitive moins souvent posée. Autrement dit, le numérique change-t-il les «manières d’étudier»
+(Lahire, 1997), c’est-à-dire les façons qu’ont les étudiants d’organiser leur travail universitaire et de
+s’approprier les ressources offertes par les établissements d’enseignement supérieur ? Par ailleurs,
+les étudiants qui utilisent fréquemment les outils numériques obtiennent-ils de meilleurs résultats
+aux examens que ceux qui ne les emploient pas ? Pour apporter des éléments de réponse à ces
+questions, il convient d’identifier les matériels, les outils et les services numériques proposés par les
+universités. Il faut également s’assurer, au-delà de la seule mise à disposition de ces ressources, que
+les étudiants les utilisent et que les enseignants s’en emparent effectivement dans le cadre de leurs
+activités pédagogiques. Sur ce dernier point, la récente thèse de Duguet (2014) sur les pratiques
+pédagogiques des universitaires montre que ces pratiques demeurent très «traditionnelles» et que
+les enseignants entrent, avec beaucoup de réserve, dans «l’ère numérique» tant souhaitée par
+Geneviève Fioraso. Béjean et Monthubert (2015) défendent la même orientation et proposent dans
+leur rapport sur la stratégie nationale de l’enseignement supérieur de «soutenir la transformation
+pédagogique pour mieux faire réussir les étudiants et les préparer à la société apprenante et au
+numérique» (p. 103) par «l’usage systématique du numérique dans la formation et l’évaluation des
+étudiants» (p. 104). Cette nécessité d’entrer dans le numérique n’est finalement pas véritablement
+interrogée, ni totalement justifiée, comme si cette impérieuse nécessité se suffisait à elle-même.
+Certes, le numérique offre des possibilités d’étudier différentes : suivre un cours à distance, accéder
+à des productions scientifiques ou des bases de données, télécharger des logiciels libres, travailler
+en collaboration, etc. Mais la multiplicité des matériels connectés (ordinateur, smartphone, tablette,
+etc.) et des ressources numériques peut conduire les étudiants à adopter des usages différents de
+ceux prescrits par l’institution ou par les enseignants : se servir d’un smartphone comme calculatrice
+ou pour envoyer des messages textes (SMS), télécharger les cours produits par d’autres étudiants
+plutôt que prendre des notes durant les enseignements ou encore plagier des documents (Guibert
+& Michaut, 2011). L’appréhension d’un potentiel «effet numérique» sur les manières d’étudier
+propices à la réussite est donc délicate. Autre difficulté : les conditions d’études, les pratiques
+3
+
+d’évaluation des enseignants et les facteurs de réussite varient selon les contextes de formation
+(Michaut, 2000). Certaines activités numériques pourraient donc être profitables aux apprentissages
+dans certaines disciplines académiques et néfastes dans d’autres. En définitive, il faudrait, pour
+véritablement mesurer cet «effet numérique» sur les performances académiques, lister l’ensemble
+des usages numériques (y compris ludiques) des étudiants, tout en contrôlant leurs caractéristiques
+scolaires et les contextes d’enseignement (organisation pédagogique des formations, pratiques
+pédagogiques des enseignants) dans lesquels ils étudient.
+A défaut de pouvoir saisir toutes ces dimensions, nous avons réalisé une recherche exploratoire
+(Roche, 2015) auprès de 625 étudiants inscrits dans quelques disciplines appartenant aux domaines
+de la Santé, des Sciences et techniques, des Lettres et des Sciences humaines et sociales (cf.
+méthodologie). La recherche vise, d’une part, à identifier les caractéristiques sociodémographiques
+et scolaires des étudiants ayant recours ou non à certaines activités numériques estudiantines
+(téléchargement ou non des supports numériques déposés par les enseignants sur une plateforme,
+interactions à distance entre les étudiants, prise de notes ou non avec un ordinateur, temps passé
+sur Internet pour étudier, etc.), et d’autre part, à évaluer l’effet de ces différentes activités sur les
+résultats des étudiants aux examens («les partiels») du premier semestre, tout en contrôlant les
+caractéristiques scolaires des étudiants, notamment leur scolarité antérieure.
+Pour établir cette relation, il convient de rappeler dans un premier temps les principaux facteurs
+«classiques» d’échec et de réussite universitaire identifiés par les recherches avant de présenter
+quelques études qui ont tenté de mesurer l’effet de certains usages numériques sur les résultats aux
+examens.
+
+2. Recherches sur la réussite universitaire et effets du numérique
+2.1. Facteurs d’échec et de réussite universitaire
+Dans la conclusion de leur ouvrage sur la réussite, l’échec et l’abandon dans l’enseignement
+supérieur (Romainville & Michaut, 2012), les auteurs ont synthétisé les principaux facteurs
+individuels et contextuels associés aux parcours des étudiants (cf. Figure 1). Sans revenir en détail
+sur l’ensemble des facteurs, rappelons quelques résultats essentiels : le passé scolaire, notamment
+la série et la mention du baccalauréat, est déterminant (Michaut, 2012 ; Morlaix & Suchaut, 2012,
+2015).
+
+4
+
+Figure 1. Synthèse des principaux facteurs de réussite et d’échec (Romainville et Michaut, 2012, p. 257).
+
+Parmi les caractéristiques psychologiques favorables à la réussite, la motivation des étudiants
+apparait essentielle. Cette dernière est influencée par différents facteurs psychologiques : valeur du
+but, attente de réussite, sentiment de contrôle sur la situation d’apprentissage et sentiment d’être
+compétent dans le domaine (Amadieu & Tricot, 2015). Il convient toutefois de préciser que les
+facteurs motivationnels sont corrélés aux capacités cognitives des étudiants et qu’ils sont d’un poids
+moins prédominant que celui de la scolarité antérieure en début de parcours universitaire (LambertLe Mener, 2012).
+Les caractéristiques sociodémographiques exercent un rôle plus mesuré que les deux dimensions
+précédentes. La plupart des recherches récentes montrent que, toutes choses égales par ailleurs, les
+étudiants d’origine modeste n’obtiennent pas de moins bons résultats aux examens que les
+étudiants provenant des classes sociales favorisées (Michaut, 2012). Par contre, les étudiantes ont
+un parcours plus linéaire et valident plus souvent leurs années d’études que les étudiants. C’est
+notamment parce qu’elles ont des pratiques plus studieuses (assiduité, gestion rigoureuse de
+l’emploi du temps) et qu’elles s’accordent moins de divertissements que les filles obtiennent
+généralement de meilleurs résultats que les garçons (Frickey & Primon, 2002).
+
+5
+
+Une dernière dimension concerne les activités propres au «métier d’étudiant» (Coulon, 1997) : le
+temps de travail personnel et l’assiduité sont des éléments fréquemment associés à la réussite. Plus
+généralement, adopter des stratégies d’apprentissage en «profondeur» (lectures complémentaires,
+réalisation de synthèse, de résumé, etc.) apparaît en général plus profitable que les stratégies
+«superficielles» (relecture des notes).
+
+2.2. Impact du numérique sur les résultats aux examens
+Avant d’examiner les recherches sur l’efficacité du numérique, un détour par la perception qu’en
+ont les étudiants fournit des indications sur la manière dont ils peuvent ou non s’en emparer dans
+le cadre de leurs études. Ainsi, des chercheurs (Karsenti, Villeneuve, Raby, Weiss Lambrou &
+Meunier, 2007) ont interrogé 10 213 étudiants québécois afin d’obtenir leur avis sur les avantages
+et les inconvénients que présente, selon eux, le numérique. Parmi les usages considérés comme
+avantageux figure la possibilité de collaborer avec les autres étudiants, de communiquer plus
+facilement avec les enseignants ou encore d’approfondir des contenus vus en classe. Toutefois,
+l’enquête de Fusaro et Couture (2012), réalisée auprès de 15 020 étudiants et 2 640 enseignants, a
+révélé que les étudiants et les enseignants utilisaient peu les outils « collaboratifs » (wiki, blog,
+journal de bord, etc.) et qu’ils se contentaient des outils technologiques « standard » (courrier
+électronique, traitement de texte, diaporama).
+Dahmani et Ragni (2009) ont cherché, de leur côté, à mesurer les effets des technologies de
+l’information et de la communication sur les performances des étudiants. Plus précisément, les
+auteurs tentent d’expliquer les performances d’un échantillon de 146 étudiants de Licence
+d’économie par leur degré d’habileté des technologies, leurs usages du numérique et leur statut
+socio-économique. En ce qui concerne spécifiquement le numérique, ils montrent, toutes choses
+égales par ailleurs, que l’usage d’Internet a une influence contrastée sur les résultats aux examens :
+naviguer sur Internet ou aller sur des forums de discussion entraînent de moindre performances
+dans les trois enseignements majeurs. A l’inverse, se servir d’une encyclopédie en ligne ou des
+ressources mises à disposition par les enseignants sur Internet permet aux étudiants d’obtenir de
+meilleurs résultats. Qu’en est-il des effets des pratiques des étudiants durant les enseignements?
+Gaudreau, Miranda et Gareau (2014) se sont focalisés sur les façons d’utiliser les ordinateurs
+portables durant les cours magistraux et les travaux dirigés. A partir d’une enquête conduite auprès
+de 1 129 étudiants (en Lettres, Santé, Sciences et Sciences humaines et sociales) d’une université
+canadienne, ils concluent que l’utilisation d’un ordinateur pour la prise de note ou pour chercher
+un supplément d’informations sur Internet n’est pas significativement corrélée aux résultats
+académiques. De surcroît, certains comportements (naviguer sur Internet pour se distraire ou pour
+6
+
+échanger sur les réseaux sociaux, envoyer des messages textes durant les cours) sont préjudiciables
+aux résultats des étudiants. Ils rappellent plusieurs hypothèses susceptibles d’expliquer les
+«mésusages» des étudiants : difficultés à s’autoréguler, absence de motivation, dépendance à
+Internet, incapacité à organiser ses apprentissages et «désenchantement académique» (ennui,
+anxiété, épuisement). Pour leur part, les auteurs soutiennent plutôt l’hypothèse que l’accès à
+Internet sur les campus a, certes, stimulé les apprentissages des étudiants en leur offrant de
+nouveaux moyens d’enrichir les contenus des cours, mais a aussi considérablement augmenté les
+sources de distraction qui pourraient compromettre leur concentration et les échanges avec les
+professeurs.
+L’étude de Junco (2012) nuance les effets néfastes des activités numériques conduites en parallèle
+des pratiques studieuses. Il montre que réaliser des activités multitâches avec certaines technologies
+(Facebook et messages textes) affectent négativement la moyenne semestrielle alors que d’autres
+(courrier électronique, recherche sur Internet, chat) sont sans effet. Il est toutefois difficile
+d’interpréter les écarts de réussite selon les technologies employées dans la mesure où l’on ignore
+si Facebook et les messages textes sont surtout utilisés pour se distraire et communiquer, et si
+l’envoi d’un courrier électronique et la recherche sur Internet sont surtout employés à des fins
+académiques.
+A l’issue de cette brève revue de littérature, il est difficile de statuer sur les effets du numérique.
+Certaines ressources semblent accroître les résultats, d’autres s’avèrent sans conséquence, voire
+entraînent de moindres performances.
+
+2.3. Objectifs de recherche
+Notre recherche s’inscrit dans le prolongement des études cherchant à identifier l’influence des
+caractéristiques individuelles et contextuelles sur la réussite universitaire. L’attention est portée ici
+sur quelques usages numériques standard, qu’ils soient ou non en rapport avec les études (temps
+passé sur Internet ou sur les réseaux sociaux) et sur l’utilisation de certaines ressources numérique
+proposées par l’université (messagerie électronique, catalogue en ligne de la bibliothèque
+universitaire, etc.). Il s’agit plus particulièrement d’étudier, d’une part, l’importance qu’occupe
+désormais le numérique dans les manières d’étudier, d’autre part de mesurer les effets de l’utilisation
+ou non de certains outils numériques sur les résultats aux examens, en contrôlant la scolarité
+antérieure des étudiants et leur engagement dans les études (travail personnel et assiduité). Nous
+ferons l’hypothèse que les activités numériques affectent les résultats aux examens à la marge sans
+remettre en cause les déterminants traditionnels de la réussite universitaire.
+7
+
+3. Méthodologie de recherche
+3.1. Population interrogée
+Le terrain de recherche est une université publique française pluridisciplinaire composée de 12
+Unités de formation et de recherche (UFR)1. A la rentrée 2014-2015, 14 624 étudiants étaient
+inscrits en première, deuxième ou troisième année de Licence générale. Trois UFR ont été
+sollicitées dans cette recherche : Santé (Première année commune des études de Santé (PACES),
+Maïeutique, Médecine, Pharmacie, Odontologie), Sciences et techniques (Maths, Physique,
+Informatique, Chimie, Génie civil, Sciences pour l’ingénieur, Sciences de la vie et/ou de la terre) et
+Lettres et langages (Lettres, Philosophie, Sciences de l’éducation). Ces trois composantes ont
+l’avantage de regrouper une variété de situation. En effet, le public accueilli, les contenus
+d’enseignement et les méthodes de travail sont divers et variés. Cette multiplicité de situations
+permet d’étudier l’influence du numérique sur la réussite universitaire dans des contextes différents.
+Un questionnaire2 a été adressé en ligne aux étudiants via leur adresse électronique universitaire,
+entre le 6 mars et le 8 avril 2015. Parmi les 4 725 inscrits dans l’une des trois UFR, 625 étudiants
+ont répondu au questionnaire. La diffusion de ce dernier n’est pas sans poser de problèmes de
+représentativité. D’une part, sont exclus de facto les étudiants qui ne consultent jamais leur
+messagerie. D’autre part, les étudiants inscrits dans les formations qui diffusent peu d’informations
+par ce canal vont probablement consulter ponctuellement leur messagerie et les services
+numériques offerts par l’université. Néanmoins, faute de ressources financières et humaines
+suffisantes pour collecter des données à grande échelle, la diffusion du questionnaire par messagerie
+électronique a été retenue. Elle présente néanmoins l’avantage de pouvoir contacter les étudiants
+qui ne suivent pas les enseignements.
+Un premier examen des réponses révèle de très faibles taux de retour dans certaines filières, en
+particulier en Lettres et Philosophie. Ce faible retour peut s’expliquer, entre autres, par une
+utilisation très rare de la messagerie chez les étudiants de ce domaine de formation. Nous avons
+donc choisi d’exclure de l’analyse de la réussite toutes les formations insuffisamment représentées
+(effectifs répondants inférieurs à 30). Au final, l’échantillon retenu est composé de 135 étudiants
+
+Dans la mesure où l’identification de cette université n’est pas nécessaire à la compréhension des usages
+numériques des étudiants, nous avons décidé de conserver son anonymat.
+1
+
+2
+
+Celui-ci est présenté en annexe.
+
+8
+
+de Santé (PACES), de 321 étudiants de Sciences et techniques (Licence 1, 2 et 3) et de 69 étudiants
+de Sciences de l’éducation (Licence 3), soit un total de 525 étudiants.
+
+3.2. Représentativité de l’échantillon
+Le taux de réponse de 11,1% (34,3% en Sciences de l’éducation, 10,7% en Sciences, 8,9% en Santé)
+peut paraître faible et entacher la fiabilité des réponses. C’est pourquoi nous avons comparé, dans
+le tableau 1, les caractéristiques sociales et les résultats aux examens de l’échantillon des répondants
+aux caractéristiques de la population interrogée transmises par les services de la scolarité de chaque
+composante.
+Tableau 1. Caractéristiques des étudiants et résultats aux examens de l’échantillon et de la population
+
+Sciences
+
+Santé (PACES)
+
+Sciences de l’éducation
+
+Population Echantillon Population Echantillon Population Echantillon
+% Filles
+
+39.6
+
+57.1
+
+68.4
+
+78.5
+
+85.6
+
+95.7
+
+% Boursiers
+
+44.3
+
+51.1
+
+(1)
+
+37.8
+
+56.2
+
+56.1
+
+57.3
+
+78.5
+
+48.7
+
+54.5
+
+75.6
+
+89.6
+
+9.99
+
+11.89
+
+10.0
+
+11.45
+
+11.06
+
+12.64
+
+% ayant
+validé leur
+premier
+semestre
+Moyenne du
+premier
+semestre
+(1) Données non transmises par l’administration de la composante universitaire
+
+Le tableau indique que les filles sont plus nombreuses dans les trois filières à avoir renseigné le
+questionnaire, dont un écart conséquent en Sciences. Les écarts sont également importants pour la
+validation du semestre en Sciences et en Sciences de l’éducation, les moyennes semestrielles étant
+plus élevées pour les étudiants qui ont répondu au questionnaire. Les biais de représentativité ne
+sont pas spécifiques à la présente étude. Dans les enquêtes diffusées en ligne, les filles ont un taux
+de participation plus élevé, tout comme les étudiants issus des classes sociales favorisées et ceux
+qui ont de «bons résultats» (Sylvestre, 2008). Notre échantillon ne peut être considéré comme
+représentatif de la population. Toutefois, l’objectif de cette recherche n’est pas d’établir des
+statistiques des usages numériques, mais de mesurer leur impact sur la réussite universitaire. Dans
+la mesure où les usages et les pratiques sont suffisamment contrastés, il est possible d’exploiter ces
+données à partir d’analyses multivariées.
+
+9
+
+3.3. Thématiques du questionnaire
+Le questionnaire est composé de neuf parties. Les quatre premières s’intéressent plus
+particulièrement à l’environnement numérique des étudiants : possession ou non d’appareils
+numériques, niveau de compétences auto-déclaré de certaines applications, fréquence d’utilisation
+dans le cadre des activités universitaires et des activités extra-universitaires au cours du premier
+semestre d’études. Seuls les applications et les activités numériques les plus fréquentes ont été
+retenues : utilisation d’Internet et des logiciels de bureautique, recours ou non aux applications
+mises à disposition par l’université, etc. Les deux parties suivantes interrogent les étudiants sur leurs
+manières d’étudier et leurs stratégies d’apprentissage avec ou sans outils numériques. L’appréciation
+de la réussite s’appuie sur les résultats aux examens du premier semestre auto-déclarés par les
+étudiants. Dans la mesure où le recueil des résultats annuels était matériellement impossible, la
+moyenne obtenue au premier semestre servira d’indicateur de la réussite universitaire sachant que
+la moyenne semestrielle est fortement corrélée à la moyenne annuelle (Michaut, 2012). Enfin, les
+deux dernières parties portent sur les caractéristiques scolaires (série et mention du baccalauréat,
+nombre de redoublements) et sociodémographiques (genre, âge, profession et niveau d’études des
+parents).
+
+4. Résultats et discussion
+Avant d’évaluer les effets des usages numériques sur la réussite universitaire, il convient de décrire
+les usages des étudiants en fonction de leurs caractéristiques et du contexte dans lequel ils étudient.
+Possèdent-ils tous un ordinateur ? Utilisent-ils les services offerts par l’université ? Plus
+généralement, s’emparent-ils du numérique pour étudier ?
+
+4.1. Usages numériques des étudiants
+4.1.1. Des étudiants bien équipés
+Les étudiants interrogés sont bien pourvus en matériel numérique. La plupart (90,6%) possèdent
+un ordinateur portable avec une connexion à Internet et plus des trois quarts ont un smartphone
+avec connexion à Internet. C’est d’ailleurs l’outil qu’ils utilisent le plus au quotidien, y compris pour
+des activités académiques durant les enseignements (calculatrice, recherche documentaire). Enfin,
+23,7% ont une tablette qu’ils utilisent surtout pour la prise de note ou la recherche d’informations
+sur Internet. Ces résultats concordent avec l’étude du Centre de recherche pour l’étude et
+l’observation des conditions de vie (Bigot & Croutte, 2014), indiquant que 97% de la catégorie
+socioprofessionnelle élève-étudiant dispose d’au moins un ordinateur à domicile. Autant dire que
+10
+
+la «fracture numérique», dans son sens originel, est désormais obsolète pour cette classe d’âge. La
+possession d’un smartphone, d’un ordinateur ou d’une tablette n’est pas significativement
+différente entre les filles et les garçons, entre les «littéraires» et les «scientifiques», ou encore entre
+les boursiers et les non boursiers. C’est davantage dans les usages que les différences sont
+manifestes.
+4.1.2. Utilisation des services numériques offerts par l’université
+L’accès à un intranet ou à un environnement numérique de travail est apprécié par les étudiants
+(Raby, Karsenti, Meunier & Villeneuve, 2011), notamment pour favoriser l’accès aux informations
+(notes, emploi du temps, documents de cours, etc.). L’université étudiée propose plusieurs services
+numériques communs à toutes ses composantes : wifi, messagerie universitaire, emploi du temps
+en ligne, bibliothèque numérique ou encore plateforme de dépôt et d’échange de documents entre
+les enseignants et les étudiants (supports de cours, exercices, annales, etc.). Parmi ces services, la
+plateforme en ligne mérite une attention particulière : 93% des étudiants la trouvent utile pour leurs
+études et 55% s’y rendent une ou plusieurs fois par jour. Toutefois, la fréquentation de cette
+plateforme varie fortement selon les domaines de formation. Ainsi, 83,8% des étudiants en Santé
+la consultent au moins une fois par jour alors que seuls 6,2% des étudiants de Sciences de
+l’éducation s’y rendent quotidiennement. Cette faible fréquentation s’explique essentiellement par
+le peu de supports déposés par les enseignants de Sciences de l’éducation alors que les cours, les
+exercices et les diaporamas sont pratiquement tous accessibles en Santé. Outre les différences
+d’origine disciplinaires, les données montrent que les étudiants assidus qui travaillent régulièrement
+et intensément consultent plus souvent la plateforme que les autres.
+4.1.3. Usages durant les enseignements
+Nous constatons que 24,3% des étudiants interrogés utilisent un ordinateur ou une tablette pour
+prendre des notes en cours. Les étudiants de Lettres les utilisent davantage que les étudiants de
+Sciences ou de Santé, ce qui peut s’expliquer par la nature des enseignements. En effet, il est plus
+difficile de prendre en note une formule ou un schéma avec un clavier qu’avec un stylo. Ordinateur,
+tablette ou smartphone ne servent pas uniquement à étudier, ils permettent également de se
+distraire et de communiquer discrètement durant les enseignements : par exemple, 47,9% des
+étudiants déclarent envoyer assez souvent des messages textes durant les heures de cours et 15%
+surfent sur Internet sans lien avec le cours.
+
+11
+
+4.1.4. Travailler avec ou sans Internet
+Ce sont 52,2% des étudiants qui déclarent un temps d’études avec Internet inférieur à 30 minutes
+par jour. Rapporté au temps de travail personnel total (hors enseignements), la durée de travail avec
+Internet ne dépasse pas en moyenne un tiers du temps. Un examen plus approfondi des utilisateurs
+révèle que ce sont davantage les garçons, scolairement les plus faibles, les moins assidus et
+travaillant irrégulièrement qui utilisent le plus Internet pour travailler. A noter également que les
+étudiants en Santé font un usage moins important d’Internet pour étudier. Il faut dire que ces
+étudiants sont soumis à une forte pression liée au numerus clausus de la première année. En moyenne,
+les étudiants de Santé étudient 26 heures par semaine en dehors des heures de cours, contre
+respectivement 13 et 14 heures en Sciences et Sciences de l’éducation. Ils doivent par conséquent
+concentrer leurs efforts sur les points essentiels d’un programme très dense.
+4.1.5. Collaborer à distance
+Les étudiants n’attendent pas que l’université leur propose des services ou des activités en ligne, ils
+les créent eux-mêmes en constituant, par exemple, des groupes numériques de travail, plus
+communément appelés «groupes Facebook». Pour Roland (2013), le recours à ces groupes est lié à
+un décalage entre les attentes des étudiants et les outils fournis par les institutions. A travers ces
+groupes, les apprenants cherchent, par exemple, à interagir sur les contenus d’enseignement ou à
+centraliser des informations institutionnelles. Le groupe numérique de travail est assez répandu :
+84% des étudiants déclarent en avoir un. Parmi eux, 38,8% se contentent de consulter les
+informations, 38% participent aux échanges et 23,2% déposent des notes de cours. Ce sont les
+étudiants en Santé qui déclarent le moins participer à ce type de dispositif. Cette moindre
+participation peut s’expliquer par l’importante concurrence présente en première année de Santé
+alors que l’entraide (échange des notes de cours, discussion des travaux exigés par les enseignants,
+etc.) entre les étudiants de Sciences ou de Sciences de l’éducation n’aura pas de conséquence a priori
+sur les résultats individuels. La collaboration entre les étudiants est le reflet d’un engagement plus
+fort dans les études. On note par exemple que ceux qui déposent des notes de cours ou des
+documents complémentaires déclarent travailler en moyenne deux heures de plus par semaine que
+ceux qui se contentent de consulter les informations.
+4.1.6. Approfondir avec les cours en ligne
+De plus en plus d’universités proposent des MOOC (Massive Open Online Courses). Il semblait
+intéressant de savoir si les étudiants connaissaient ce type de contenus et s’ils y avaient recours.
+Notons que 70,2% des étudiants ont déclaré ne pas connaître l’existence des MOOC, 24,7% les
+
+12
+
+connaissent mais ne s’y sont jamais inscrits, et seulement 5,1% se sont déjà inscrits. Pour ces
+derniers, le sujet était majoritairement en lien avec leur formation ou leur projet professionnel. Au
+final, seuls trois étudiants ont affirmé avoir terminé un MOOC (soit 0,5%).
+En définitive, le numérique est loin d’avoir supplanté les méthodes traditionnelles d’apprentissage :
+52,2% étudient moins de 30 minutes par jour avec Internet, les notes de cours restent
+majoritairement prisent à l’aide d’un stylo et les MOOC sont encore confidentiels. Certes, les
+services numériques proposés par l’université se développent mais ils sont davantage utilisés par
+les étudiants pour leur praticité que pour approfondir les enseignements. L’intégration du
+numérique reste à un stade superficiel dans les stratégies d’apprentissage des étudiants.
+
+4.2. Analyse de l’influence des usages numériques sur les résultats
+universitaires
+Pour analyser les effets des usages numériques sur la réussite des étudiants, des modèles de
+régression linéaire ont été réalisés, permettant ainsi de connaître, toutes choses égales par ailleurs,
+l’effet d’une variable en contrôlant les autres. Cette méthode est d’autant plus indispensable que les
+usages varient, comme nous l’avons vu, selon les contextes d’études et les caractéristiques
+individuelles des étudiants. Un premier ensemble de modèles a été réalisé en tenant uniquement
+compte des usages numériques standard (fréquence d’utilisation d’ordinateur, temps passé sur les
+réseaux sociaux, etc.), de l’utilisation ou non des services numériques offerts par l’université, et des
+différentes manières d’étudier ou de se distraire durant les enseignements avec les outils
+numériques. Un second ensemble de modèles reprend les variables précédentes en incluant
+quelques caractéristiques sociodémographiques, des éléments caractérisant la scolarité antérieure
+des étudiants et leur engagement dans les études (assiduité, régularité du travail), ces dernières étant
+reconnues pour avoir une forte influence sur la réussite universitaire. La mesure de la variable
+dépendante repose, rappelons-le, sur la moyenne semestrielle déclarée par les étudiants.
+4.2.1. Effet modéré du numérique sur la moyenne semestrielle
+Les résultats du premier modèle, présenté dans le tableau 2, montrent que les notes des étudiants
+dépendent peu des usages numériques. Selon le domaine de formation, le coefficient de
+détermination (R2) est compris entre 3,6% et 6,1%, ce qui traduit un faible pouvoir explicatif des
+variables introduites dans le modèle. Néanmoins, il permet de montrer que selon la nature des
+usages, les effets diffèrent. Par exemple, le fait de d’envoyer des messages textes ou de jouer sur un
+ordinateur ou un téléphone portable durant les cours a des effets négatifs sur les résultats obtenus
+au premier semestre. A l’inverse, consulter régulièrement sa boîte mail a des effets positifs. A noter
+13
+
+également que la part du temps de travail avec Internet affecte négativement les performances des
+étudiants de Sciences et de Santé. Il faut dire que les modalités d’évaluation des étudiants,
+notamment en Santé, reposent essentiellement sur la restitution des connaissances transmises
+durant les enseignements. Toutes les activités réalisées avec Internet sont peu valorisées par les
+enseignants et affectent le temps consacré aux études. En revanche, il est possible que les étudiants
+en Sciences de l’éducation soient invités à utiliser davantage Internet pour effectuer des recherches
+bibliographiques ou préparer un exposé en s’appuyant sur des ressources en ligne.
+
+Tableau 2. Régression linéaire de la note obtenue au premier semestre en fonction des usages numériques
+
+Modèles
+Modalités de référence
+
+Modalités actives
+11.93
+***
+
+Sciences de
+l’éducation
+16.73
+***
+
+0.007
+ns
+-0.05
+ns
+-0.04
+ns
+0.02
+ns
+
+-0.03
+ns
+-0.05
+ns
+-0.09
+*
+0.04
+ns
+
+Sciences
+Constante
+
+Santé
+11.88
+***
+
+Usages numériques
+Temps passé sur Internet hors WE (heures/jour)
+Temps passé à envoyer des SMS hors WE (heures/jour)
+Temps à regarder des vidéos ou la TV hors WE (heures/jour)
+Temps passé sur les réseaux sociaux hors WE (heures/jour)
+
+-0.06
+ns
+-0.19
+*
+0.02
+ns
+0.02
+ns
+
+Utilisation des ressources proposées par l’université au cours du premier semestre
+Consulte
+moins
+d’une
+fois/jour sa boîte mail
+Consulte
+moins
+d’une
+fois/jour son emploi du
+temps
+Consulte
+moins
+d’une
+fois/jour la plateforme
+numérique
+N’a jamais consulté le
+catalogue numérique de la
+BU
+
+Consulte quotidiennement sa
+boîte mail
+
+0.57
+*
+
+0.58
+ns
+
+-0.13
+ns
+
+Consulte
+quotidiennement
+son emploi du temps
+
+0.29
+ns
+
+0.76
+ns
+
+-0.30
+ns
+
+Consulte quotidiennement la
+plateforme numérique
+
+-0.39
+ns
+
+0.002
+ns
+
+0.37
+ns
+
+A consulté le catalogue
+numérique de la BU
+
+0.03
+ns
+
+-0.67
+ns
+
+-0.32
+ns
+
+-1.34
+**
+
+-1.18
+ns
+
+-2.91
+***
+
+Manières d’étudier avec le numérique
+Part du temps de travail personnel avec Internet (en %)
+
+14
+
+Ne participe pas au groupe Participe à un groupe
+numérique de travail
+numérique de travail
+Prise de note avec un
+Prise de note avec un stylo
+ordinateur ou une tablette
+Utilise principalement un
+ordinateur pour Internet
+Utilise principalement un Utilise principalement un
+ordinateur pour les logiciels ordinateur pour la messagerie
+Utilise principalement un
+ordinateur pour imprimer
+Envoi rarement des SMS en Envoi souvent des SMS en
+cours
+cours
+
+0.05
+ns
+-0.14
+ns
+0.09
+ns
+0.61
+ns
+-0.06
+ns
+0.49
+ns
+
+-0.30
+ns
+-0.82
+ns
+-0.19
+ns
+-0.89
+ns
+0.31
+ns
+-0.64
+**
+
+0.17
+ns
+-0.58
+ns
+-0.18
+ns
+-0.02
+ns
+0.11
+ns
+-0.23
+ns
+
+Ne joue pas durant les
+cours
+Ne surfe pas durant les
+cours
+
+-0.46
+*
+-0.03
+ns
+
+-2.67
+ns
+0.79
+*
+
+-0.99
+**
+1.18
+**
+
+3.6%
+
+5.8%
+
+6.1%
+
+Joue durant les cours
+Surfe sur Internet durant les
+cours
+
+R² ajusté (pourcentage de variance expliquée)
+
+Lecture : Les coefficients indiquent la valeur à ajouter ou à soustraire à la moyenne semestrielle. Par exemple, les
+étudiants en Sciences qui consultent quotidiennement leur boîte mail obtiennent toutes choses égales par ailleurs 0.57
+point (sur 20) de plus que ceux qui l’utilisent moins d’une fois par jour.
+La significativité des écarts entre la modalité de référence et la modalité active est indiquée par : ns lorsque l’écart n’est
+pas significatif ; * écart peu significatif (seuil 10%) ; ** écart significatif (seuil 5%) ; *** écart très significatif (seuil 1%).
+
+Ces premiers modèles ne montrent globalement pas d’influence significative des usages numériques
+sur les résultats aux examens. La prise de note à l’ordinateur, la participation au groupe numérique
+de travail, ou l’utilisation régulière des services numériques proposés par l’université n’ont pas
+d’effet significatif sur la moyenne semestrielle. De la même façon, les temps consacrés à surfer sur
+Internet et sur les réseaux sociaux ne sont pas corrélés à la réussite. Néanmoins, avoir un usage
+ludique du numérique, qui ne serait pas tourné vers les études, a un impact négatif sur la réussite
+universitaire. Ce qui rejoint les conclusions de l’enquête de Dahmani et Ragni (2009). Par ailleurs,
+le faible pouvoir explicatif du numérique sur la réussite universitaire relativise la portée de ces
+nouvelles manières d’étudier. Cela interroge également les services proposés par l’université dans
+la mesure où aucun d’entre eux ne produit d’effet significatif. Toutefois, cette absence d’effet
+pourrait résulter des caractéristiques, notamment scolaires, des étudiants inscrits dans ces
+formations. Si le recours aux services numériques est davantage présent chez les «bons» étudiants,
+alors on comprend mieux pourquoi ces services sont sans effet dans la mesure où, qu’ils utilisent
+ou non ces services, ils obtiendront de bons résultats aux examens. C’est pourquoi il convient de
+contrôler ces caractéristiques pour statuer sur la portée du numérique.
+
+15
+
+4.2.2. Scolarité antérieure et réussite universitaire
+Le second modèle (cf. tableau 3) prend en compte les éléments reconnus comme ayant une
+influence sur la réussite universitaire. La moyenne obtenue au baccalauréat explique de manière
+très significative les résultats universitaires. Les étudiants qui ont obtenu un point de plus au
+baccalauréat obtiennent, en moyenne, une note semestrielle supérieure de l’ordre d’un demi-point.
+Posséder un baccalauréat scientifique, travailler régulièrement et être assidu en cours exercent
+également un impact positif sur la moyenne semestrielle. Le passé scolaire reste un élément
+déterminant pour expliquer la réussite universitaire. Malgré tout, à moyenne du baccalauréat
+équivalente, les étudiants qui travaillent tous les jours obtiennent presque deux points de plus en
+Santé. L’assiduité des étudiants améliore les résultats en Sciences mais pas en Sciences de
+l’éducation et en Santé. Enfin, le temps de travail personnel, le genre et le fait d’être boursier
+n’interviennent pas de manière significative dans les modèles étudiés.
+Tableau 3. Régression linéaire de la note obtenue au premier semestre en fonction des usages numériques et des
+caractéristiques sociales et scolaires des étudiants
+
+Modèles
+Modalités de référence
+
+Modalités actives
+Sciences
+1.69
+*
+
+Constante
+
+Sciences de
+l’éducation
+7.80
+***
+
+Santé
+1.77
+ns
+
+Niveau d’études
+-0.48
+ns
+0.12
+ns
+
+Licence 2
+Licence 1
+Licence 3
+
+Sans objet
+
+Sans objet
+
+Sans objet
+
+Sans objet
+
+-0.10
+ns
+-0.12
+ns
+
+-0.12
+ns
+0.20
+ns
+
+-0.44
+ns
+-0.62
+ns
+
+1.59
+***
+0.61
+***
+
+0.81
+*
+0.50
+***
+
+0.76
+***
+0.46
+**
+-0.007
+ns
+
+0.94
+**
+0.27
+ns
+
+Caractéristiques sociodémographiques
+Homme
+
+Femme
+
+Non boursiers
+
+Boursiers
+
+Scolarité antérieure
+Baccalauréat Scientifique
+
+Autre baccalauréat
+
+Moyenne obtenue au baccalauréat sur 20
+
+Sans objet
+0.62
+***
+
+Travail personnel et assiduité
+Travaille irrégulièrement
+
+Travaille tous les jours
+
+N’a pas assisté à tous les cours
+
+A assisté à tous les cours
+
+Temps de travail personnel en heures/semaine (hors WE)
+
+16
+
+0.004
+
+1.97
+**
+0.21
+ns
+-0.05
+ns
+
+Usages numériques
+Temps passé sur Internet hors WE (heures/jour)
+Temps passé à envoyer des SMS hors WE (heures/jour)
+Temps à regarder des vidéos ou la TV hors WE (heures/jour)
+Temps passé sur les réseaux sociaux hors WE (heures/jour)
+
+0.03
+ns
+-0.02
+ns
+-0.01
+ns
+0.005
+ns
+
+-0.44
+ns
+0.02
+ns
+-0.08
+**
+0.05
+ns
+
+-0.001
+ns
+-0.08
+ns
+-0.005
+ns
+0.05
+ns
+
+Utilisation des ressources proposées par l’université au cours du premier semestre
+Consulte
+moins
+d’une
+fois/jour sa boîte mail
+Consulte
+moins
+d’une
+fois/jour son emploi du
+temps
+Consulte
+moins
+d’une
+fois/jour la plateforme
+numérique
+N’a jamais consulté le
+catalogue numérique de la
+BU
+
+Consulte quotidiennement sa
+boîte mail
+
+0.21
+ns
+
+0.34
+ns
+
+0.40
+ns
+
+Consulte
+quotidiennement
+son emploi du temps
+
+-0.10
+ns
+
+0.66
+ns
+
+-0.9
+ns
+
+Consulte quotidiennement la
+plateforme numérique
+
+-0.19
+ns
+
+0.08
+ns
+
+0.05
+ns
+
+A consulté le catalogue
+numérique de la BU
+
+0.06
+ns
+
+-0.40
+ns
+
+-0.53
+ns
+
+Ne participe pas au groupe Participe à un groupe
+numérique de travail
+numérique de travail
+Prise de note avec un
+Prise de note avec un stylo
+ordinateur ou une tablette
+Utilise principalement un
+ordinateur pour Internet
+Utilise principalement un Utilise principalement un
+ordinateur pour les logiciels ordinateur pour la messagerie
+Utilise principalement un
+ordinateur pour imprimer
+Envoi rarement des SMS en Envoi souvent des SMS en
+cours
+cours
+Ne joue pas durant les
+Joue durant les cours sur
+cours
+ordinateur ou téléphone
+Ne surfe pas durant les
+Surfe sur Internet durant les
+cours
+cours
+
+-0.47
+ns
+-0.12
+ns
+0.14
+ns
+0.22
+ns
+0.58
+*
+0.19
+ns
+0.58
+ns
+-0.36
+ns
+0.08
+ns
+
+-0.30
+ns
+-0.04
+ns
+-0.48
+ns
+0.27
+ns
+-0.34
+ns
+0.02
+ns
+-1.04
+ns
+-0.69
+*
+0.52
+ns
+
+-1.22
+ns
+-0.7
+ns
+-0.34
+ns
+-0.02
+ns
+-0.40
+ns
+-0.08
+ns
+0.33
+ns
+-0.99
+***
+0.67
+ns
+
+R² ajusté (pourcentage de variance expliquée)
+
+38.0%
+
+50.9%
+
+31.9%
+
+Manières d’étudier avec le numérique
+Part du temps de travail personnel avec Internet (en %)
+
+17
+
+Les estimations présentées dans le tableau 3 amenuisent encore la portée du numérique : la plupart
+des variables qui avaient un effet significatif dans le premier modèle ne le sont plus dans le second.
+Par exemple, la part du temps de travail avec Internet qui avait un effet significatif dans le premier
+modèle pour les étudiants de Santé et de Sciences est sans effet ici. En réalité, les étudiants qui
+travaillent fréquemment avec Internet sont plutôt des garçons, de faible niveau scolaire et travaillant
+irrégulièrement ; autant de variables qui expliquent les disparités de résultats entre les étudiants.
+Autrement dit, à caractéristiques équivalentes, travailler ou non avec Internet est sans effet notable.
+Par contre, certaines variables conservent une influence négative sur la moyenne semestrielle : jouer
+en cours pour les étudiants de Santé et regarder des vidéos ou la télévision en Sciences de
+l’éducation. Au final, l’introduction des variables dans le second modèle concernant les manières
+d’étudier, les caractéristiques sociodémographique et la scolarité antérieure augmente de manière
+importante le pouvoir explicatif du modèle. Le coefficient de détermination qui était compris, selon
+les filières, entre 3.6% et 6.1% est maintenant compris entre 38.0% et 50.9%. Ce second modèle
+rejoint les conclusions de plusieurs études qui montrent que le passé scolaire reste prégnant dans
+l’explication des disparités de résultats entre les étudiants.
+
+5. Conclusion
+L’objectif de cette recherche était d’appréhender la place occupée par le numérique dans les
+manières d’étudier, d’une part, puis de mesurer les effets de certains usages du numérique sur les
+résultats aux examens, d’autre part. Pour ce dernier point, il paraissait nécessaire de mettre en
+perspective ces usages avec le passé scolaire et les manières d’étudier, ces deux dernières dimensions
+étant reconnues comme ayant une influence avérée sur la réussite universitaire (Romainville et
+Michaut, 2012). Il était tout aussi nécessaire de recueillir des données dans des contextes différents
+dans la mesure où les pratiques pédagogiques et les prescriptions des universitaires peuvent avoir
+des conséquences sur les activités et les résultats des étudiants. Rappelons que les recherches sur le
+sujet sont encore confidentielles et ne font pas consensus. D’un côté, la «No Significant Theory»,
+développée par Russel, cité par Endrizzi (2012) depuis la fin des années 90 aux Etats-Unis, affirme
+qu’il ne peut y avoir d’effet significatif sur les résultats par la simple présence du numérique en
+classe. De l’autre côté, des travaux montrent des impacts positifs sur les performances des étudiants
+(Dahmani et Ragni, 2009).
+Les modèles réalisés dans le cadre de notre recherche fournissent deux conclusions. Le premier
+modèle montre un effet modéré et négatif des usages numériques récréatifs sur la note obtenue aux
+examens, tout comme l’avaient montré Dahmani et Ragni (2009), ainsi que Gaudreau et al. (2014).
+Ce résultat n’a évidemment rien de surprenant. Ce qui l’est davantage, c’est qu’aucun des services
+18
+
+numériques proposés par l’université ne différencient les performances des étudiants. Le second
+modèle, incluant d’autres facteurs comme les manières d’étudier, les caractéristiques
+sociodémographiques et la scolarité antérieure, confirme l’absence d’effet significatif des activités
+numériques. Notons toutefois que les résultats présentés ici sont issus d’une enquête exploratoire
+présentant certaines limites. La première concerne le contexte et plus particulièrement l’échantillon
+sur lequel sont fondées les analyses statistiques. Ce dernier n’a pas la prétention de représenter la
+population de l’université étudiée et encore moins la population des étudiants des universités
+françaises. Il conviendrait de réaliser une recherche similaire auprès des étudiants inscrits dans
+d’autres formations et à d’autres niveaux d’études. La seconde limite tient au choix des variables
+caractérisant les activités numériques. Dans le cadre de cette recherche, les variables quantitatives,
+notamment les temps d’études, ont été privilégiées sans entrer précisément dans les détails. Les
+conclusions seraient peut-être différentes avec une mesure plus fine des activités numériques.
+Comment interpréter cette faible influence des usages numériques sur la réussite universitaire ? Si
+les évaluations sont davantage tournées vers la restitution du cours que vers l’utilisation de
+connaissances cherchées sur Internet ou de compétences acquises via le numérique, on comprend
+mieux pourquoi les étudiants se contentent des supports de cours. Fusaro et Couture (2012) avaient
+déjà formulé cette hypothèse. L’ordinateur est, selon eux, plutôt utilisé pour réaliser des exposés
+ou des textes écrits que pour préparer un examen. Endrizzi et Sibut (2015) le mentionnent
+également : «les technologies ne sont pas identifiées comme un besoin au-delà des facilités de
+communication, d’accès au cours et de recherche d’information» (p. 21-22). Cela peut expliquer
+pourquoi les étudiants ne profitent pas pleinement des possibilités offertes par le numérique pour
+leurs études, puisqu’il reste associé à des tâches ponctuelles. Papi et Glikman (2015) révèlent que
+les étudiants restent attachés aux cours magistraux classiques et peinent à transférer leurs usages
+personnels vers la sphère universitaire, ce qui peut également expliquer ce faible investissement, les
+étudiants ne souhaitant pas que le numérique prenne davantage de place dans leurs manières
+d’étudier. Au vue de ces analyses, il convient de s’interroger sur les intentions des étudiants à utiliser
+ou non les outils numériques, puis de les mettre en lien avec les attentes universitaires. Les
+compétences acquises ou les informations collectées via Internet par les étudiants ne répondent
+probablement pas aux attentes des enseignants ou aux attentes institutionnelles. Il est également
+probable que les étudiants ne souhaitent pas que le numérique soit davantage utilisé durant les
+enseignements. A l’heure où les politiques de formation des universités cherchent à substituer une
+partie des enseignements en présentiel par des supports numériques et un accompagnement à
+distance, on peut légitimement s’interroger sur la pertinence de cette orientation.
+
+19
+
+Références bibliographiques
+Amadieu, F. & Tricot, A. (2015). Les facteurs psychologiques qui ont un effet sur la réussite des
+étudiants. Recherche et pratiques pédagogiques en langues de spécialité, 34(2). doi: 10.4000/apliut.5155
+Béjean, S. & Monthubert, B. (2015). Pour une société apprenante : propositions pour une stratégie
+nationale
+
+de
+
+l’enseignement
+
+supérieur.
+
+Repéré
+
+à http://www.enseignementsup-
+
+recherche.gouv.fr/pid30540/strategie-nationale-de-l-enseignement-superieur-stranes.html
+Bigot, R. & Croutte, P. (2014, novembre). La diffusion des technologies de l’information et de la
+communication
+
+dans
+
+la
+
+société
+
+française.
+
+Collection
+
+des
+
+rapports,
+
+R317.
+
+Repéré
+
+à
+
+http://www.credoc.fr/publications/abstract.php?ref=R317
+Coulon, A. (1997). Le métier d’étudiant. L’entrée dans la vie universitaire. Paris : Presses universitaires de
+France.
+Dahmani, M. & Ragni, L. (2009). L’impact des technologies de l’information et de la
+communication sur les performances des étudiants. Réseaux, 155 (3), 81-110. doi:
+10.3917/res.155.0081
+Duguet, A. (2014). Les pratiques pédagogiques en première année universitaire (Thèse de Doctorat,
+Université de Bourgogne). Repéré à https://halshs.archives-ouvertes.fr/tel-01096748/document
+Endrizzi, L. (2012). Les technologies numériques dans l’enseignement supérieur, entre défis et
+opportunités.
+
+Dossier
+
+d’actualité
+
+Veille
+
+et
+
+Analyses,
+
+78.
+
+Repéré
+
+à
+
+http://ife.ens-
+
+lyon.fr/vst/DA/detailsDossier.php?parent=accueil&dossier=78&lang=fr
+Endrizzi, L. & Sibut, F. (2015). Les nouveaux étudiants, d’hier à aujourd’hui. Dossier de veille de l’IFE,
+106.
+
+Repéré
+
+à
+
+http://ife.ens-
+
+lyon.fr/vst/DA/detailsDossier.php?parent=accueil&dossier=106&lang=fr
+Frickey, A. & Primon, J.-L. (2002). Les manières sexuées d’étudier en première année d’université.
+Société contemporaine, 48, 63-85. doi: 10.3917/soco.048.0063
+
+20
+
+Fusaro, M. & Couture, A. (2012). Etude sur les modalités d’apprentissage et les technologies de l’information
+et de la communication dans l’enseignement. Montréal : CREPUQ.
+Gaudreau, P., Miranda, D. & Gareau, A. (2014). Canadian university students in wireless
+classrooms: What do they do on their laptops and does it really matter? Computers & Education, 70,
+245-255. doi:10.1016/j.compedu.2013.08.019
+Guibert, P. & Michaut, C. (2011). Le plagiat étudiant. Education et sociétés, 28(2), 149-163.doi :
+10.3917/es.028.0149
+Junco, R. (2012). In-class multitasking and academic performance. Computers in Human Behavior,
+28(6), 2236-2243. doi:10.1016/j.chb.2012.06.031
+Harlé, I. & Lanéelle, X. (2016). Disciplines et numérique, des influences réciproques. Dans P.
+Cottier & F. Burban (dir.), Les lycéens en régime numérique. Usages et compositions des acteurs (p. 81-95).
+Toulouse : Octares.
+Karsenti, T., Villeneuve, S., Raby, C., Weiss Lambrou, R. & Meunier, H. (2007). Conditions d’efficacité
+de l’intégration des TIC en pédagogie universitaire pour favoriser la persévérance et la réussite aux études. Montréal,
+QC: CRIFPE, Université de Montréal.
+Lahire, B. (1997). Les manières d’étudier. Paris : La documentation française.
+Lambert-Le Mener, M. (2012). La performance académique des étudiants en première année universitaire:
+influence des capacités cognitives et de la motivation (Thèse de Doctorat, Université de Bourgogne). Repéré
+à https://tel.archives-ouvertes.fr/tel-00780578v1/document
+Michaut, C. (2000). L’influence du contexte universitaire sur la réussite des étudiants (Thèse de doctorat
+inédite). Université de Bourgogne.
+Michaut, C. (2012). Réussite, échec et abandon des études dans l’enseignement supérieur français :
+quarante ans de recherche. Dans M. Romainville et C. Michaut (dir.), Réussite, échec et abandon dans
+l’enseignement supérieur (p. 53-68). Bruxelles : De Boeck.
+
+21
+
+Morlaix, S. & Suchaut, B. (2012). Les déterminants sociaux, scolaires et cognitifs de la réussite en
+première année universitaire. Revue française de pédagogie, 180, 77-94.
+Morlaix, S. & Suchaut, B. (2015). The social, educational and cognitive factors of success in the
+first year of university: A case study. International Review of Education, 60(6), 841-862. doi:
+10.1007/s11159-014-9459-4
+Papi, C. & Glikman, V. (2015). Les étudiants entre cours magistraux et usage des TIC. Distances et
+médiations des savoirs, 9. Repéré à http://dms.revues.org/1012
+Raby, C., Karsenti, T., Meunier, H. & Villeneuve, S. (2011). Usage des TIC en pédagogie
+universitaire : point de vue des étudiants. Revue internationale des technologies en pédagogie universitaire, 8
+(3), 6-19. doi: 10.7202/1006396ar
+Roche, M. (2015). Les étudiants, le numérique et la réussite universitaire (Mémoire de Master, Université
+de Nantes). Repéré à
+http://www.masterscontributions.fr/sites/www.masterscontributions.fr/files/memoire/mariner
+oche/les_etudiants_le_numerique_et_la_reussite_universitaire.pdf
+Roland, N. (2013). Facebook au service de l’apprentissage : regards sur quelques pratiques
+d’étudiants universitaires. Eduquer, 102, 17-19. Repéré à
+http://www.researchgate.net/publication/277914483_Facebook_au_service_de_lapprentissage_
+_Regards_sur_quelques_pratiques_dtudiants_universitaires
+Romainville, M. & Michaut, C. (2012). Réussite, échec et abandon dans l’enseignement supérieur. Bruxelles :
+De Boeck.
+Sylvestre, E. (2008). Améliorer la participation aux enquêtes en ligne. Repéré à
+http://www.cndp.fr/agence-usages-tice/que-dit-la-recherche/ameliorer-la-participation-auxenquetes-en-ligne-31.htm
+
+22
+
+Annexe- Questionnaire
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+

@@ -1,0 +1,867 @@
+   This article was originally published in a journal published by
+   Elsevier, and the attached copy is provided by Elsevier for the
+  author’s benefit and for the benefit of the author’s institution, for
+  non-commercial research and educational use including without
+limitation use in instruction at your institution, sending it to specific
+colleagues that you know, and providing a copy to your institution’s
+                             administrator.
+   All other uses, reproduction and distribution, including without
+limitation commercial reprints, selling or licensing copies or access,
+   or posting on open internet sites, your personal or institution’s
+  website or repository, are prohibited. For exceptions, permission
+ may be sought for such use through Elsevier’s permissions site at:
+
+       http://www.elsevier.com/locate/permissionusematerial
+                            Human Movement Science 25 (2006) 646–656
+                                                                            www.elsevier.com/locate/humov
+
+
+
+
+       Remembering the orientation of newly learned
+
+
+
+
+                                                                              p     y
+        characters depends on the associated writing
+
+
+
+
+                                                                           co
+            knowledge: A comparison between
+                   handwriting and typing
+                    Marieke Longcamp a,b,*, Céline Boucard b,
+                    Jean-Claude Gilhodes b, Jean-Luc Velay b
+ a
+
+
+                                                                 al
+     LAPMA, Université Paul Sabatier, UFR STAPS, 118, route de Narbonne, 31062 Toulouse Cedex 4, France
+                                                        on
+        b
+          Institut de Neurosciences Cognitives de la Méditerranée, UMR CNRS 6193, Marseille, France
+
+                                       Available online 2 October 2006
+                                                  rs
+
+Abstract
+                                            pe
+
+
+   Recent data support the idea that movements play a crucial role in letter representation and sug-
+gest that handwriting knowledge contributes to visual recognition of letters. If so, using diﬀerent
+motor activities while subjects are learning to write should aﬀect their subsequent recognition perfor-
+mances. In order to test this hypothesis, we trained adult participants to write new characters either by
+copying them or by typing them on a keyboard. After three weeks of training we ran a series of tests
+                          's
+
+
+
+
+requiring visual processing of the characters’ orientation. Tests were ran immediately, one week after,
+and three weeks after the end of the training period. Results showed that when the characters had
+been learned by typing, they were more frequently confused with their mirror images than when they
+                        or
+
+
+
+
+had been written by hand. This handwriting advantage did not appear immediately, but mostly three
+weeks after the end of the training. Our results therefore suggest that the stability of the characters’
+representation in memory depends on the nature of the motor activity produced during learning.
+                  th
+
+
+
+
+Ó 2006 Elsevier B.V. All rights reserved.
+          Au
+
+
+
+
+PsycINFO classification: 2343; 2323; 2330
+
+Keywords: Handwriting; Typing; Learning; Letter recognition; Motor–perceptual interactions
+
+
+
+ *
+   Corresponding author. Address: LAPMA, Université Paul Sabatier, UFR STAPS, 118, route de Narbonne,
+31062 Toulouse Cedex 4, France. Tel.: +33 5 61 55 88 64; fax: +33 5 61 55 82 17.
+   E-mail address: longcamp@cict.fr (M. Longcamp).
+
+0167-9457/$ - see front matter Ó 2006 Elsevier B.V. All rights reserved.
+doi:10.1016/j.humov.2006.07.007
+                  M. Longcamp et al. / Human Movement Science 25 (2006) 646–656              647
+
+1. Introduction
+
+    Nowadays, most adults write using a keyboard and computers are being increasingly
+used at school, even at the kindergarten stage, by very young children. This mutation
+of the writing habits raises general questions about the possible contribution of writing
+movements to the development of written language representations. If one happens to
+learn how to write directly with a keyboard, will those representations be aﬀected? In fact,
+some studies indicate that motor–perceptual links contribute to the representation of the
+
+
+
+
+                                                                            y
+very basic units of written language: alphabetic characters, which are usually associated
+
+
+
+
+                                                                    p
+with highly speciﬁc writing movements. In pathology, it has been shown for instance that
+a brain lesion provoking the inability to write (motor agraphia) can also induce deﬁcits in
+
+
+
+
+                                                                 co
+visually identifying letters (Anderson, Damasio, & Damasio, 1990). Conversely, writing
+movements can help patients whose reading abilities are impaired: clinical reports showed
+that patients with pure alexia, who were no longer able to recognize letters, sometimes suc-
+ceeded when they were asked to trace the outline of the letters with their ﬁngers (Bartol-
+omeo, Bachoud-Lévi, Chokron, & Degos, 2002; Déjerine, 1892; Seki, Yajima, & Sugishita,
+
+
+
+                                                       al
+1995). These studies suggest that visual and sensorimotor representations of letter shapes
+are tightly coupled. Handwriting movements may therefore be activated in memory by the
+visual presentation of letters. Longcamp, Anton, Roth, and Velay (2003) investigated this
+                                               on
+question in a functional MRI study and reported that in right-handed participants, the
+simple visual presentation of isolated letters activated a premotor zone in the left hemi-
+sphere although no motor response was required. The same zone was strongly activated
+                                          rs
+
+when the participants were actually writing the letters. Furthermore, the symmetrical area
+in the right hemisphere was activated when left-handed participants were passively watch-
+ing letters, conﬁrming the dependence of this visually induced activation on the writing
+                                   pe
+
+
+hand (Longcamp, Anton, Roth, & Velay, 2005). These various data indicate that the cere-
+bral representation of letters might not be strictly visual, but might be based on a complex
+neural network including a sensorimotor component acquired while learning concomi-
+tantly to read and write. If so, changing the motor conditions during learning by using typ-
+ing instead of handwriting will probably aﬀect the participants’ representation of the
+                     's
+
+
+
+
+letters and hence their subsequent recognition performances. Longcamp, Zerbato-Pou-
+dou, and Velay (2005b) have studied two groups of preschool children who were learning
+                   or
+
+
+
+
+letters either by handwriting or by typing, and compared letter recognition performances
+following training. Results showed that in the older children of the sample, handwriting
+training gave rise to higher letter recognition performances than typing training.
+              th
+
+
+
+
+    Identifying letters requires the ability to recognize their orientation. Indeed, orientation
+is a critical factor when readers have to discriminate between letters, since ‘d’ diﬀers in its
+orientation from ‘b’, as does ‘p’ from ‘q’. In fact, confusions between letters and their mir-
+      Au
+
+
+
+
+ror images are among the most frequent errors made by young children and ‘poor readers’
+(Adams, 1990; Terepocki, Kruk, & Willows, 2002). Writing movements may contribute to
+memorizing the orientation of characters. The aim of the present experiment was to inves-
+tigate this question, by teaching adult participants new characters, either by copying them
+with a pen or by typing them on a predesigned keyboard. Following this training, we
+tested the performance in explicitly recognizing the orientation of the characters (mir-
+ror–normal judgment tests). In addition, we also ran control tests requiring visual discrim-
+ination of the characters, but no explicit recognition (same–diﬀerent tests) in order to
+question the possible eﬀect of the learning modalities at more basic levels of processing.
+648                 M. Longcamp et al. / Human Movement Science 25 (2006) 646–656
+
+Please note that we will refer to ‘writing’ (or ‘handwriting’) and ‘typing’ to designate the
+two learning modalities. However those terms should be understood in their basic form,
+i.e., as motor activities, since the characters learned did not have any phonological or lin-
+guistic valence.
+
+2. Methods
+
+2.1. Participants
+
+
+
+
+                                                                             p      y
+   Twelve participants, 7 males and 5 females, with a mean age of 25 years, participated in
+the experiment. All were right-handed. Manual laterality was assessed using the Edin-
+
+
+
+
+                                                                          co
+burgh Handedness Inventory (Oldﬁeld, 1971).
+
+2.2. Procedure
+
+   Two distinct sets of 10 unknown characters (modiﬁed from the Bengali and Gujarati
+
+
+
+                                                              al
+alphabets) were learned (Fig. 1). Six of the participants learned the ﬁrst set by typing it
+and the other set by writing it and the reverse for the six other participants. The experi-
+ment was run in two phases: ﬁrst, a ‘learning’ phase and then a ‘testing’ phase.
+                                                      on
+2.2.1. Learning
+   The learning period lasted for three weeks, and consisted of one hour session per week.
+                                               rs
+
+The two learning modes were ran sequentially in the same session, in an order counterbal-
+anced between participants and between sessions. The visual presentation of the characters
+was rigorously identical in both learning methods. The participants were seated, facing a
+                                       pe
+
+
+computer monitor on which 3 cm high characters were displayed for 5 s. Each character
+of both sets was written (or typed) 20 times a session. For each set, the 200 presentations were
+divided in 4 blocks of 50 with 5 min rest between. The characters were presented in a random
+order.
+                        's
+
+
+
+
+2.2.1.1. Typing training. Participants were required to ﬁnd the appropriate character on the
+keyboard, and to type it. No instruction was given relative to the ﬁnger to be used, and
+                      or
+
+
+
+
+most participants spontaneously used their index ﬁngers to type the characters. No con-
+straints were imposed regarding the speed but participants had to type the character within
+the 5 s it was presented. After the 5 s, a sound signalled the beginning of a new trial. Two
+                 th
+
+
+
+
+keyboards had been previously adapted for the purpose of the study: all the keys except 10
+were removed. The 10 remaining keys were in the central part of the keyboard, and the
+new characters were designed on the keys by means of adhesive labels. In function of
+       Au
+
+
+
+
+the set they had to learn, participants used one or the other keyboard.
+
+
+
+
+                         Fig. 1. The two sets of 10 characters used for learning.
+                  M. Longcamp et al. / Human Movement Science 25 (2006) 646–656             649
+
+2.2.1.2. Handwriting training. Participants were required to write the characters on a paper
+sheet, which was ﬁxed on a tablet. Four sheets on which 50 squares were designed were
+prepared in advance. The paper was changed between each block. No constraints were
+imposed regarding the speed but participants had to write the character within the 5 s it
+was presented. After the 5 s, a sound signalled the beginning of a new trial. If the character
+was not completely written when the following was displayed, participants had to stop
+writing it and to look at the monitor for the following character.
+
+
+
+
+                                                                            y
+2.2.2. Tests
+
+
+
+
+                                                                    p
+   During the tests, participants were seated at a distance of 57 cm from the computer
+monitor with their head in a chin and forehead restraint and their eyes at the level of
+
+
+
+
+                                                                 co
+the screen center. Stimuli were displayed for 100 ms. Responses were recorded on the
+stimulus-control computer. If no response was made within 2 s, the trial was coded as
+an error.
+
+2.2.2.1. Post-learning recognition tests. The recognition tests were based on a mirror–
+
+
+
+                                                       al
+normal judgment task. The characters were presented either in normal or in mirror-
+reversed form and participants were instructed to respond as quickly and precisely as
+possible whether the character displayed was normally oriented (right-hand press) or
+                                               on
+mirror-reversed (left-hand press). To perform the task, participants had to explicitly recall
+the shape of the characters from memory. The characters were displayed at the center of
+the screen. They subtended a vertical visual angle of 3°.
+                                          rs
+
+   Overall, there were 40 characters (20 normal and 20 mirrored), which were presented 3
+times each, in a random order, for a total of 120 trials. A ﬁrst test was run immediately at
+the end of the last learning session (W0) and repeated twice: one week (W1) and 3 weeks
+                                   pe
+
+
+(W3) later. Before the ﬁrst test, 64 trials were displayed with digits to make the partici-
+pants familiar with the task requirements.
+
+2.2.2.2. Discrimination tests. The discrimination tests were based on a ‘same–diﬀerent’ task
+(Posner & Mitchell, 1967). To perform this task, participants could rely on a visual analysis
+                     's
+
+
+
+
+of the display that did not require explicit recall and thus any previous knowledge of the
+characters. This feature allowed us to check the discrimination performance before learning
+                   or
+
+
+
+
+the two sets of characters and, in addition to these two sets, to use a supplementary set of 10
+control characters (complexity matched with the learned characters). Such a control condi-
+tion could not be implemented in the recognition test. Two images of the same character
+              th
+
+
+
+
+were presented simultaneously on each side of the central ﬁxation cross, and the partici-
+pants were instructed to respond as quickly and precisely as possible whether the two char-
+acters were identically oriented or not. The two characters were either both normally
+      Au
+
+
+
+
+oriented (response ‘yes’), or both mirror-oriented (response ‘yes’), or one normal- and
+one mirror-oriented (response ‘no’). One hundred and twenty trials were run per test (half
+with response ‘yes’ and half with response ‘no’). The eccentricity of the characters relative
+to the central cross was calculated so that the display could be perceived easily in central
+vision. Discrimination performances were tested four times: – before the beginning of the
+training (pretest), – immediately after the last learning session (W0), – one week later
+(W1), – 3 weeks later (W3). Unfortunately, data from 6 out of the 12 participants could
+not be recorded at W3, due to a technical problem. We will therefore present data for
+the 12 participants at pretest, W0 and W1, and data for only 6 participants at W3.
+650                    M. Longcamp et al. / Human Movement Science 25 (2006) 646–656
+
+   Before the ﬁrst test, 64 trials were displayed with digits to make the participants familiar
+with the task requirements.
+
+3. Results
+
+3.1. Recognition tests
+
+   Response times and accuracy were separately subjected to a two (learning mode: hand-
+
+
+
+
+                                                                                          y
+writing vs. typing) by three (time: W0, W1, W3) ANOVA. Since we used a repeated mea-
+
+
+
+
+                                                                                 p
+sures ANOVA, the tests were adjusted for non-sphericity using the Greenhouse–Geisser
+adjustment factor.
+
+
+
+
+                                                                              co
+3.1.1. Correct responses
+   The mean ratios of correct responses are plotted in Fig. 2. The number of correct
+responses was greater for the handwritten than for the typed characters (F(1, 11) = 5.27,
+p < .05).
+
+
+
+                                                                   al
+   In addition, the number of correct responses decreased with time of testing, but the
+decrease did not reach the level of signiﬁcance (F(1.6, 17.9) = 3.45, p < .07). The ‘learning
+mode’ by ‘time’ interaction was signiﬁcant (F(1.5, 16.7) = 4.99, p < .03): the number of
+                                                          on
+correct responses decreased for the typed but not for the handwritten characters. For
+handwritten characters, the correct responses did not vary with time (F(1.6, 17.9) < 1,
+n.s.) whereas correct responses decreased for typed characters (F(1.6, 17.9) = 9.49,
+                                                    rs
+
+p < .007).
+                                            pe
+                            's
+                          or
+                    th
+           Au
+
+
+
+
+      Fig. 2. Mean correct responses rates for typed and handwritten characters, for the 3 recognition tests.
+                   M. Longcamp et al. / Human Movement Science 25 (2006) 646–656                       651
+
+3.2. Reaction times
+
+   Mean reaction times are plotted in Fig. 3. None of the eﬀects reached the signiﬁcance
+level.
+
+3.3. Discrimination tests
+
+   Response times and accuracy were separately subjected to a three (condition: control,
+
+
+
+
+                                                                                    y
+handwriting, or typing) by three (time: pretest, W0, W1) ANOVA. Since we used a
+
+
+
+
+                                                                           p
+repeated measures ANOVA, the tests were adjusted for non-sphericity using the Green-
+house–Geisser adjustment factor. Response times and accuracy for W3 (data available
+
+
+
+
+                                                                        co
+for 6 participants only) were analyzed separately with an adapted non-parametric
+ANOVA (Friedman’s ranks ANOVA).
+
+3.3.1. Correct responses
+3.3.1.1. ANOVA results (pretest, W0, W1). There was a signiﬁcant increase in perfor-
+
+
+
+                                                             al
+mance after training (time eﬀect, F(1.1, 12.3) = 4.94, p < .05; see Fig. 4). However, this
+increase was the same for the 3 conditions (F(1.5, 16.7) = 0.78, n.s. for the condition eﬀect
+and F(2.6, 28.3) = 0.82, n.s. for the time by condition interaction).
+                                                    on
+3.3.1.2. Results for W3. At W3, and for the 6 available participants, the correct responses
+ratios did not diﬀer between the 3 types of characters ðChi2F ¼ 3:36; n:s:Þ.
+                                              rs
+                                      pe
+                      's
+                    or
+              th
+      Au
+
+
+
+
+      Fig. 3. Mean reaction times for typed and handwritten characters, for the 3 recognition tests.
+652                   M. Longcamp et al. / Human Movement Science 25 (2006) 646–656
+
+
+
+
+                                                                                p        y
+                                                                             co
+                                                                 al
+                                                         on
+                                                   rs
+
+Fig. 4. Mean correct responses rates for control, typed and handwritten characters, for the ﬁrst 3 discrimination
+tests (12 participants (a)) and for the last discrimination test (6 participants (b)).
+                                           pe
+
+
+3.3.2. Reaction times
+3.3.2.1. ANOVA results (pretest, W0, W1). There was a signiﬁcant increase in perfor-
+mance after training (time eﬀect, F(2, 22) = 11.29, p < .001; see Fig. 5), which did not diﬀer
+between the 3 conditions (F(2, 22) = 0.34 for the condition eﬀect and F(4, 44) = 0.37, n.s.,
+for the time by condition interaction).
+                          's
+
+
+
+
+3.3.2.2. Results for W3. At W3, and for the 6 available participants, the reaction times did
+not diﬀer between the 3 types of characters ðChi2F ¼ 1:33; n:s:Þ.
+                        or
+
+
+
+
+4. Discussion
+                  th
+
+
+
+
+   The main result of this study was that learning the characters by handwriting facilitated
+their subsequent recognition. This result is in agreement with previous investigations in chil-
+         Au
+
+
+
+
+dren (Hulme, 1979; Longcamp, Zerbato-Poudou, et al., 2005b), and in Chinese adult partic-
+ipants reading ideograms (Flores d’Arcais, 1994). It brings further information about the
+functional signiﬁcance of such a motor contribution, by showing that handwriting knowl-
+edge may in particular help the participants to orient the characters correctly in space.
+
+4.1. Handwriting vs. typing
+
+  From the sensori-motor point of view, handwriting and typing are clearly distinct and
+probably rely on diﬀerent central processes even if, in both cases, a hand movement is
+                     M. Longcamp et al. / Human Movement Science 25 (2006) 646–656                         653
+
+
+
+
+                                                                             p        y
+                                                                          co
+                                                               al
+                                                      on
+Fig. 5. Mean reaction times values for control, typed and handwritten characters, for the ﬁrst 3 discrimination
+                                                rs
+
+tests (12 participants (a)) and for the last discrimination test (6 participants (b)).
+                                        pe
+
+
+associated with the visual image of a given character. On the one hand, handwriting
+requires the participant to produce a sequence of movements that completely deﬁnes
+the shape of the character in order to build an internal model of it. Once learning is com-
+pleted, a unique correspondence is created between a character and the corresponding
+movement. On the other hand, typing required the participants to learn the association
+                        's
+
+
+
+
+between an arbitrary cue (the character, deﬁned by its position in space) and a simple
+motor response, and to build up a cognitive map of the keyboard (see for instance, Logan,
+                      or
+
+
+
+
+1999). But since the trajectory of the ﬁnger to a given key depends on its position before it
+starts moving, no speciﬁc relationship between the visual form of a character and a given
+movement can be formed. Moreover, there is nothing in this pointing movement that
+                th
+
+
+
+
+informs about the orientation of the characters. In brief, handwriting provides on-line sig-
+nals from several sources including vision, motor commands and kinaesthetic feedback,
+which are closely linked and simultaneously distributed in time. No such spatio-temporal
+       Au
+
+
+
+
+pattern occurs in typewriting.
+   Due to those diﬀerences, handwriting is associated with more consistent spatial infor-
+mation about a character. The order of the strokes, the direction of the horizontal seg-
+ments and the rotational direction of the movement (clockwise or counter-clockwise)
+are memorized for a given character (Goodnow & Levine, 1973; Meulenbroek &
+Thomassen, 1991). In the present recognition task, the detection of a match or a mismatch
+between the perceived shape and the memorized motor program might contribute to
+the mirror–normal recognition processes and therefore explain the behavioral facilita-
+tion for the characters learned by handwriting. This explanation is strengthened by the
+654               M. Longcamp et al. / Human Movement Science 25 (2006) 646–656
+
+assumption that such a task relies on a mental rotation (Hamm, Johnson, & Corballis,
+2004). Interestingly, several recent studies have already demonstrated that mental rotation
+of 3D meaningless objects is not a purely visual task, but involves a motor component
+(mental simulation of the manual rotation of the objects, Richter et al., 2000; Wexler,
+Kosslyn, & Berthoz, 1998). More generally, motor knowledge is considered important
+to process spatial information from vision (Paillard, 1971, 1991). Our results therefore
+extend this perspective to written language by showing that mental rotation of characters
+is more eﬃcient when they are associated with handwriting memory.
+
+
+
+
+                                                                              y
+   Finally, it could be objected that the observed eﬀects are due to diﬀerences in the com-
+
+
+
+
+                                                                      p
+plexity of the tasks performed during training, rather than in the nature of those tasks. The
+copying task might have required more attention and more time, resulting in more stable
+
+
+
+
+                                                                   co
+representations of the characters. Even if the time during which characters were displayed
+was rigorously the same in copying and typing, this objection cannot be totally ruled out
+because within the 5 s presentation the time spent to write a character was probably longer
+than the time spent to type it. However, those attentional diﬀerences are hardly distin-
+guishable from the underlying motor activity. Furthermore, in typing, participants had
+
+
+
+                                                        al
+more time to observe the characters and thus, to memorize their correct visual shape
+and orientation.
+                                                 on
+4.2. Retention over short vs. longer time intervals
+
+   We observed that performances following handwriting and typing training did not dif-
+                                           rs
+
+fer signiﬁcantly when the test occurred immediately after the learning phase, but that the
+advantage for handwriting emerged 1 week, and mostly 3 weeks later. Recent ﬁndings
+about motor memory help to explain this delayed advantage. With suﬃcient practice,
+                                      pe
+
+
+the internal model of a new motor skill gradually (within a few hours) becomes less fragile
+and this consolidation is accompanied by changes in the neural representation of motor
+memory (Penhune & Doyon, 2002; Shadmehr & Holcomb, 1997). Once it has been thor-
+oughly learned and stabilized, motor memory can last for very long periods of time with-
+out any further practice (Shadmehr & Brashers-Krug, 1997), and some studies even show
+                      's
+
+
+
+
+an improvement of performances after consolidation (Brashers-Krug, Shadmehr, & Bizzi,
+1996). In the ﬁrst test, which was run a few minutes after the third training session, the
+                    or
+
+
+
+
+motor memory was presumably not yet consolidated, and recognition relied mainly on
+the visual memory of the images of the characters. After some time, the motor memory
+stabilized and the internal model might have helped, in addition to visual memory, to dif-
+               th
+
+
+
+
+ferentiate between characters and their mirror images. The contribution of this motor
+memory can occur only if a motor program has actually been built up during practice,
+and this does not seem likely to occur in the case of typing. That might explain why the
+       Au
+
+
+
+
+performances are stable for the handwritten characters whereas they decrease with time
+for the printed characters (following general rules of forgetting) (Wixted & Ebbesen,
+1991).
+
+4.3. Discrimination vs. recognition
+
+   In the same–diﬀerent task (discrimination tests) participants could rely on a simple
+perceptual analysis of the display, whereas they had to explicitly recall the shape of the
+character in memory to be able to judge their orientation (recognition tests). The discrimi-
+                       M. Longcamp et al. / Human Movement Science 25 (2006) 646–656                              655
+
+nation task can be achieved with unknown stimuli (the control characters in the pre-test)
+and the performance did not improve when the characters were learned (the increase in
+discrimination performances after training is probably explained by a habituation to the
+task, since the eﬀect was the same for the control characters which had not been learned).
+The dissociation between a clear modality eﬀect in the recognition task and the lack of
+eﬀect in the discrimination task thus remains to be explained.
+   A ﬁrst tentative explanation for this dissociation involves task features: motor knowl-
+edge would get involved in explicit memory of the character’s orientation (probed in the
+
+
+
+
+                                                                                           y
+recognition task), but not in implicit memory (probed in the discrimination task). Since
+
+
+
+
+                                                                                  p
+implicit memory is thought to be more sensitive to contextual changes between learning
+and test (hyperspeciﬁcity, Jacoby & Dallas, 1981; Srinivas, 1993) it is possible that the dis-
+
+
+
+
+                                                                               co
+crimination task cannot beneﬁt from the transfer of the writing knowledge, contrarily to
+explicit memory. A second possible explanation, that we favor, involves task complexity
+rather than task features. The writing knowledge associated with the shape of the charac-
+ter would be functionally pertinent at higher levels of processing required in the recogni-
+tion test, but not when the task relies on lower levels of immediate visual processing such
+
+
+
+                                                                   al
+as in the discrimination test. Irrespective of the task, when visual processing by itself is not
+suﬃcient to bring decisive information, a higher weight could be put on the motor coding
+acquired during learning. This explanation is in line with clinical observations of patients
+                                                          on
+suﬀering damage in the brain regions involved in the visual processing of letters and
+objects, who spontaneously use motor strategies to solve recognition tasks (see Bartolo-
+meo et al., 2002; Seki et al., 1995; Sirigu, Duhamel, & Poncet, 1991).
+                                                   rs
+
+5. Conclusion
+                                           pe
+
+
+   Our results indicate that the writing movements produced during learning aﬀected the
+participants’ ability to subsequently diﬀerentiate the characters from their mirror images.
+It can be assumed that handwriting movements contribute to characters representation
+and to visual recognition processes.
+                          's
+
+
+
+
+Acknowledgements
+                        or
+
+
+
+
+   This research was founded by the French ministry of research and education. CB was
+supported by a grant from the ‘Cognitique’ program and M. L. was supported by a grant
+                 th
+
+
+
+
+from the Lilly foundation.
+       Au
+
+
+
+
+References
+
+Adams, M. J. (1990). Beginning to read: Thinking and learning about print. Cambridge, MA: MIT press.
+Anderson, S. W., Damasio, A. R., & Damasio, H. (1990). Troubled letters but not numbers: Domain speciﬁc
+    cognitive impairments following focal damage in frontal cortex. Brain, 113, 749–766.
+Bartolomeo, P., Bachoud-Lévi, A.-C., Chokron, S., & Degos, J.-D. (2002). Visually- and motor-based knowledge
+    of letters: Evidence from a pure alexic patient. Neuropsychologia, 40, 1363–1371.
+Brashers-Krug, T., Shadmehr, R., & Bizzi, E. (1996). Consolidation in human motor memory. Nature, 282,
+    252–255.
+Déjerine, J. (1892). Contribution à l’étude anatomo-pathologique et clinique des diﬀérentes variétés de cécité
+    verbale. Mémoires de la Société de Biologie, 4, 61–90.
+656                   M. Longcamp et al. / Human Movement Science 25 (2006) 646–656
+
+Flores d’Arcais, G. B. (1994). Order of strokes writing as a cue for retrieval in reading Chinese characters.
+    European Journal of Cognitive Psychology, 6, 337–355.
+Goodnow, J. J., & Levine, R. A. (1973). ‘‘The grammar of action’’: Sequence and syntax in children’s copying.
+    Cognitive Psychology, 4, 82–98.
+Hamm, J. P., Johnson, B. W., & Corballis, M. C. (2004). One good turn deserves another: An event-related brain
+    potential study of rotated mirror–normal letter discriminations. Neuropsychologia, 42, 810–820.
+Hulme, C. (1979). The interaction of visual and motor memory for graphic forms following tracing. Quarterly
+    Journal of Experimental Psychology, 31, 249–261.
+Jacoby, L. L., & Dallas, M. (1981). On the relationship between autobiographical memory and perceptual
+
+
+
+
+                                                                                          y
+    learning. Journal of Experimental Psychology: General, 110, 306–340.
+Logan, F. A. (1999). Errors in copy typewriting. Journal of Experimental Psychology: Human Perception and
+
+
+
+
+                                                                                 p
+    Performance, 25, 1760–1773.
+Longcamp, M., Anton, J. L., Roth, M., & Velay, J. L. (2003). Visual presentation of single letters activates a
+
+
+
+
+                                                                              co
+    premotor area involved in writing. NeuroImage, 19, 1492–1500.
+Longcamp, M., Anton, J. L., Roth, M., & Velay, J. L. (2005). Premotor activations in response to visually
+    presented single letters depend on the hand used to write: A study in left-handers. Neuropsychologia, 43,
+    1699–1846.
+Longcamp, M., Zerbato-Poudou, M. T., & Velay, J. L. (2005b). Writing practice inﬂuences the recognition of
+    letters orientation in preschool children. Acta Psychologica, 119, 67–79.
+
+
+
+
+                                                                  al
+Meulenbroek, R. G. J., & Thomassen, A. J. W. M. (1991). Stroke-direction preferences in drawing and
+    handwriting. Human Movement Science, 10, 247–270.
+Oldﬁeld, R. C. (1971). The assessment and analysis of handedness. Neuropsychologia, 9, 97–113.
+                                                          on
+Paillard, J. (1971). Les déterminants moteurs de l’organisation spatiale. Cahiers de Psychologie, 14, 261–316.
+Paillard, J. (1991). Motor and representational framing of space. In J. Paillard (Ed.), Brain and space
+    (pp. 163–182). Oxford: Oxford University Press.
+Penhune, V. B., & Doyon, J. (2002). Dynamic cortical and subcortical networks in learning and delayed recall of
+                                                   rs
+
+    timed motor sequences. Journal of Neuroscience, 22, 1397–1406.
+Posner, M. I., & Mitchell, R. F. (1967). Chronometric analysis of classiﬁcation. Psychological Review, 74,
+    391–409.
+                                           pe
+
+
+Richter, W., Somorjai, R., Summers, R., Jarmasz, M., Menon, R. S., Gati, J. S., et al. (2000). Motor area activity
+    during mental rotation studied by time-resolved single-trial fMRI. Journal of Cognitive Neuroscience, 12,
+    310–320.
+Seki, K., Yajima, M., & Sugishita, M. (1995). The eﬃcacy of kinesthetic reading treatment for pure alexia.
+    Neuropsychologia, 33, 595–609.
+Shadmehr, R., & Brashers-Krug, T. (1997). Functional stages in the formation of human long-term motor
+    memory. The Journal of Neuroscience, 17, 409–419.
+                           's
+
+
+
+
+Shadmehr, R., & Holcomb, H. H. (1997). Neural correlates of motor memory consolidation. Science, 277,
+    821–825.
+Sirigu, A., Duhamel, J. R., & Poncet, M. (1991). The role of sensorimotor experience in object recognition: A case
+                         or
+
+
+
+
+    of multimodal agnosia. Brain, 114, 2555–2573.
+Srinivas, K. (1993). Perceptual speciﬁcity in nonverbal priming. Journal of Experimental Psychology: Learning,
+    Memory and Cognition, 19, 582–602.
+                  th
+
+
+
+
+Terepocki, M., Kruk, R. S., & Willows, D. M. (2002). The incidence and nature of letter orientation errors in
+    reading disability. Journal of Learning Disabilities, 35, 214–233.
+Wexler, M., Kosslyn, S. M., & Berthoz, A. (1998). Motor processes in mental rotation. Cognition, 68, 77–94.
+         Au
+
+
+
+
+Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. Psychological Science, 2, 409–415.
+

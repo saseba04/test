@@ -1,0 +1,962 @@
+                                                          Contemporary Educational Psychology 68 (2022) 102025
+
+
+                                                                Contents lists available at ScienceDirect
+
+
+                                                Contemporary Educational Psychology
+                                                      journal homepage: www.elsevier.com/locate/cedpsych
+
+
+
+
+The effect of notetaking method on academic performance: A systematic
+review and meta-analysis
+Daniel Voyer *, Scott T. Ronis, Narissa Byers
+Department of Psychology, University of New Brunswick, Canada
+
+
+
+
+A R T I C L E I N F O                                   A B S T R A C T
+
+Keywords:                                               The present meta-analysis aimed to synthesize the extant research on the influence of longhand (written) versus
+Notetaking                                              digital notetaking methods, unconfounded by distractions, on performance, and to identify key potential mod­
+Meta-analysis                                           erators of such effects. After a systematic literature search, we obtained 77 effect sizes from 39 samples in 36
+School achievement
+                                                        articles and conducted a multilevel meta-analysis complemented with robust variance estimation. Overall, re­
+Cognitive performance
+                                                        sults showed a mean effect size (mean estimated g = -0.008, 95% CI: − 0.18, 0.16) that was not significantly
+                                                        different from zero, suggesting no effect of notetaking approach. Moderator analyses, justified by effect sizes with
+                                                        significant heterogeneity, demonstrated only three significant moderators referring to the topic covered, the
+                                                        learning objectives, and the duration of the material. Overall, however, the present results suggest that an
+                                                        apparent advantage of longhand notetaking reported in some previous studies can be explained at least partially
+                                                        by distractions from notetaking by other applications that are present only with digital devices. Nevertheless,
+                                                        more research is required to identify moderators that might account for variability in the findings. Work using
+                                                        large representative samples of all ages is particularly needed.
+
+
+
+
+    From primary school through post-secondary education, students are                    1. Digital notetaking and distraction
+typically expected to attend to lectures, take notes on what they see and
+hear, and study the material for subsequent assignments or examina­                           In what appears to be the only existing meta-analysis on the effect of
+tions. With technology becoming ubiquitous and expansive, instructors                     notetaking method on learning performance, Allen, Lefebvre, Lefebvre,
+have navigated its use in classrooms, particularly for notetaking of lec­                 and Bourhis (2020) aggregated data from 14 studies (24 estimates).
+tures. Indeed, many instructors likely have discouraged broadly the use                   Their results showed poorer performance for digital compared to long­
+of technology because they believe it distracts from class engagement                     hand notetaking (average r = -0.142). However, the Allen et al. meta-
+and student learning. Furthermore, many have questioned the effec­                        analysis did not separate the influence of distraction from the note­
+tiveness of digital notetaking relative to longhand notetaking (i.e., stu­                taking method. Specifically, they acknowledged that digital notetaking
+dents taking notes using pen and paper) on learning and scholastic                        also allows the influence of external distractions (e.g., email, web
+achievement even if we disregard the influence of distraction or other                    browsing) on learning performance. In contrast, longhand notetaking
+factors (e.g., course or lecture topic, learning objectives, duration of                  would only be affected by incidental distractors (e.g., students arriving
+presented material) that may affect the link between notetaking                           late, other students talking, one’s own attention lapses) and, even then,
+methods and learning or achievement (Goodwin, 2018; Kennedy, 2019;                        these factors would similarly affect digital notetaking. Therefore, the
+Mueller & Oppenheimer, 2014). However, other educators and many                           meta-analysis by Allen et al. confounds notetaking method with the
+students perceive that the benefits of digital notetaking outweigh po­                    presence of distractions. In addition, the search parameters that guided
+tential costs (Jansen et al., 2017). Although several studies have been                   the meta-analysis were narrow, focusing exclusively on the classroom
+conducted, empirical research findings to date comparing notetaking                       experience and on college students. Accordingly, there has been no
+approaches have not led to a clear understanding of recommended di­                       systematic meta-analysis comparing performance under longhand or
+rections for educators or students.                                                       digital notetaking that is not contaminated by the influence of distrac­
+                                                                                          tions and including a broad range of testing situations (beyond the
+
+
+
+ * Corresponding author at: Department of Psychology, University of New Brunswick, Box 4400, Fredericton, New Brunswick E3B 5A3, Canada.
+   E-mail address: voyer@unb.ca (D. Voyer).
+
+https://doi.org/10.1016/j.cedpsych.2021.102025
+
+Available online 8 November 2021
+0361-476X/© 2021 Elsevier Inc. All rights reserved.
+D. Voyer et al.                                                                                              Contemporary Educational Psychology 68 (2022) 102025
+
+
+college classroom) and age groups. Our purpose was, therefore, to syn­           better on overall recall tasks (e.g., Aragón-Mendizábal et al., 2016;
+thesize the extant research on the influence of notetaking method in all         Mueller & Oppenheimer, 2014; Olive & Barbier, 2017; Patterson &
+its forms to assess possible positive or negative consequences and to            Patterson, 2017). However, many studies have also found either the
+identify whether there are key potential moderators of these effects. Our        opposite (e.g., Fiorella & Mayer, 2017; Jackson, 2016) or that note­
+hope was that such a meta-analysis might clarify the outcome of relevant         taking was not associated with performance (e.g., Kutta, 2017). An
+studies and promote clearer guidance for instructors.                            explanation for some studies finding different levels of performance may
+                                                                                 center on unique learning strategies that students use in one approach or
+2. Notetaking functions                                                          another (Jansen et al., 2017). For example, students using longhand
+                                                                                 notetaking are more likely to use spatial strategies (e.g., creating maps,
+    In general, there is a robust benefit of notetaking on performance, as       drawing), whereas students using digital notetaking more often use
+it typically serves process-related and product functions (Luo et al.,           verbal strategies (e.g., making lists or outlines) (Fiorella & Mayer,
+2018). Among the process-related functions, researchers have identified          2017). In breaking down recall tasks between short- and long-term tasks,
+the promotion of attention and encoding of presented material as well as         Beck (2014) found that students who take longhand notes scored higher
+the roles of complex cognitive demands in memory and performance. In             on both types of tasks than students who take typed notes.
+particular, after attending to presented material, notetaking involves a
+range of generative (e.g., summarizing, paraphrasing) and non­                   4. Role of depth of processing
+generative (i.e., verbatim transcription of information) approaches
+(Kodaira, 2017; Stefanou et al., 2008). Consistent with the encoding                 One obvious aspect that distinguishes written and digital notetaking
+hypothesis (Di Vesta & Gray, 1972; Kiewra et al., 1991; Tulving &                pertains to mechanistic processes. For example, the two approaches
+Thomson, 1973), researchers have considered that generative ap­                  involve different physical movements, use of physical objects, produc­
+proaches involve more cognitive processing than a nongenerative                  tion of concrete products, freedom to or ease of ability to draw, color,
+approach and, as a result, provide benefits of deeper encoding (for              scale, or work in non-linear fashion. Of course, these mechanistic con­
+efficient recall) and learning material.                                         straints vary also with specific digital platforms and with individual
+    Beyond considering the process of notetaking on learning and aca­            differences. Interestingly, although some researchers have examined
+demic performance, a product is created, usually in a visual, written            mechanistic processing in notetaking (Kodaira, 2017; Piolat, Olive, &
+format (lecture notes), that can generally aid in rehearsal, organization,       Kellogg, 2005), most research has focused on cognitive processes (e.g.,
+and studying material. Indeed, students often review and study their             depth of processing, executive attention, working memory). Consistent
+notes to be able to learn target information (McCann et al., 2019). Ac­          with this literature, we suggest that hypothetical differences between
+cording to the external-storage hypothesis (Di Vesta & Gray, 1972;               longhand notetaking and digital notetaking are due to variations in
+Kiewra et al., 1991), by doing so, what was originally attended to and           cognitive processes. In particular, some researchers have found gener­
+recorded in class is processed again and perhaps in a more complex               ally a positive association between the generative processing associated
+manner. Overall, studying recorded notes does lead to improved short-            with handwriting and performance (e.g., Davis & Hult, 1997) as well as
+term (immediate) recall (through working memory) and increased ac­               a link between deeper processing in working memory with handwritten
+ademic performance relative to not studying (Di Vesta & Gray, 1972).             notes and performance (Bui & Myerson, 2014; Kiewra, 1985; Mueller &
+Furthermore, with more complex processing and application of the                 Oppenheimer, 2018; Peverly et al., 2007). In this context, our purpose to
+material, information may be stored in long-term memory (Lockhart &              consider studies that equalize distractions across notetaking conditions
+Craik, 1990).                                                                    has more to do with encoding (attentional) processes than with freedom
+                                                                                 or constraints of physical movements.
+3. Notetaking approaches                                                             In general, substantial variability in terms of empirical methods and
+                                                                                 results limit our ability to draw definitive conclusions. With this vari­
+    Notetaking typically is completed through either a longhand format           ability in mind and in keeping with best recommended practices in
+or a digital format with computers, tablets, or other technological de­          meta-analysis (Johnson & Hennessey, 2019), we included a limited
+vices. In particular, digital notetaking on laptops or tablets has been          number of pre-specified potential moderators. In addition, still following
+used increasingly, which has engendered questions about the effects of           recommended best practices, the protocol was pre-registered and can be
+this form of notetaking on attention, memory, learning, recall, and              consulted at osf.io/zm8nh (Registration https://doi.org/10.17605/OSF.
+performance. Because individuals generally type notes faster than when           IO/V6GJZ).
+writing (Aragón-Mendizábal et al., 2016), typed notes tend to be non­
+generative and generally more comprehensive. Furthermore, given the              5. Potential moderators
+speed benefit and association in general between the amount of notes
+taken and amount of encoded information (Bui et al., 2013; Fiorella &            5.1. Sample factors
+Mayer, 2017), some researchers (e.g., Bui et al., 2013; Schoen, 2012)
+have suggested that individuals do better on performance tasks with                  In examining longhand and digital notetaking approaches, it is
+digital notetaking. However, there have been inconsistent findings in the        important to consider that some sample factors potentially moderate
+literature, perhaps due to variations in class topics or assessment              effects on academic performance. In particular, demographic informa­
+methods.                                                                         tion (e.g., socioeconomic status, ethnicity) and other sample charac­
+    In comparing the two approaches, it is important to consider what is         teristics (e.g., clinical versus general community sample) are considered
+involved in each. When presented with audiovisual information through            to have important direct or indirect effects on academic performance
+a lecture, students must divide their attention between the presented            (Gurley, 2018; Richards et al., 2016). For sample characteristics,
+information and writing or typing notes. Researchers have generally              although studies comparing different approaches generally use univer­
+found more task switching and divided attention in digital notetaking            sity samples because students often select relatively evenly among the
+than in written notetaking, as students are more prone to distractions (e.       notetaking approaches (Morehead et al., 2019), some studies (e.g., Igo
+g., web surfing, texting) (Mueller & Oppenheimer, 2014; Waite et al.,            et al., 2006; Jackson, 2016; Jiang et al., 2018) have included other age
+2018). Alternatively, because written notetaking has been shown to               groups and level of schooling in examining performance. Therefore, we
+produce greater cognitive load, some researchers have suggested that             included age, which is a proxy for level of schooling, as a moderator.
+with multiple processing involved in notetaking (e.g., listening, sum­
+marizing, paraphrasing), students who take longhand notes perform
+
+                                                                             2
+D. Voyer et al.                                                                                                Contemporary Educational Psychology 68 (2022) 102025
+
+
+5.2. Measurement factors                                                           6. Current meta-analysis
+
+    Design-related factors. Because experimental studies have varied                   The purpose of the present meta-analysis was to fill a gap in the
+based on the methods and tasks that were used, there are potential                 literature by determining whether the method used in notetaking during
+factors that differentially affect learning and academic performance               a course lecture or relevant experimental tasks affects performance. In
+with longhand and digital notetaking (Luo et al., 2018). At the forefront,         addition, we documented potential factors that moderate this effect to
+compared to correlational or quasi-experimental studies, relatively few            guide future basic research as well as classroom applications, following
+studies have employed within-subject or controlled experimental de­                approaches that promoted transparency and reproducibility. To our
+signs (e.g., Artz et al., 2020) to assess method-related explanations (e.g.,       knowledge, aside from the limited analysis conducted by Allen et al.
+longhand versus digital notetaking) while accounting for participant               (2020), there is no comprehensive meta-analysis examining whether
+characteristics (e.g., students selecting one notetaking method over               there is an advantage to taking notes by longhand or by digital means.
+another). In addition, some evidence suggests that congruency between              This is a puzzling omission considering the anecdotal support offered by
+notetaking approach and assessment approach affects performance                    instructors to either ban computers and other means of digital note­
+(Barrett et al., 2014; Olive & Barbier, 2017). Overall, it is essential to         taking in their classroom or to encourage that form of notetaking. It is
+consider the degree of control in research designs when drawing con­               thus quite clear that our meta-analysis fills a gap with crucial practical
+clusions. Accordingly, we coded whether each study was from an                     implications.
+experiment where the notetaking method was manipulated directly, or a                  Our main purpose was to isolate the potential role of distraction in
+quasi-experiment in which it was incidental (i.e., a self-selected method          digital notetaking by considering only studies where this factor was
+for participants).                                                                 equated across conditions, either through experimental manipulations
+    The role of distraction. It is likely that controlling the presence of         or instructions. Therefore, we aimed to find a measure of the role of
+distractions during the notetaking session would affect performance.               notetaking methods where handwritten and digital approaches are
+Indeed, several experimental and quasi-experimental studies have                   equalized on distraction. Although some might argue that we cannot
+identified distractions as negatively affecting the amount of encoded              truly remove distractions from digital methods because they are
+information during notetaking (Allen et al., 2020). Accordingly, we                “inherent” to them, our literature search provided examples of studies
+noted whether or not the study involved distraction and whether the                where this was achieved. It is, therefore, possible to fully control dis­
+distraction was manipulated or incidental (e.g., distractions incidental           tractions in a laboratory setting (e.g., Fiorella & Mayer, 2017; Lin &
+to a regular classroom, such as where students might arrive late, cough,           Bigenho, 2011), whereas the natural classroom environment only allows
+or talk to each other). Inclusion of this moderator addressed directly the         us to equate the notetaking methods to overall level of distraction
+confound of notetaking method and distraction in the Allen et al. (2020)           inherent to the classroom environment. From this perspective, the pre­
+meta-analysis, reflecting a central purpose of the present meta-analysis.          sent meta-analysis examined whether handwritten and digital methods
+    Factors Relevant to Assessment. We would be remiss to present                  produce differential performance when the level of distraction is
+potential moderators of the effect of notetaking method without                    equated across notetaking methods so that digital devices are used as a
+considering the course or lecture topic. Specifically, the topic of the            pure notetaking method, and nothing else (i.e., not devices used to check
+courses likely guides the type of assessment that is applied, with some            one’s email or social media pages).
+areas (e.g., history) lending themselves to a heavy factual memory load,               In many cases, multiple outcome variables or experimental condi­
+whereas text analysis in literature likely calls on a heavy conceptual             tions relevant to our selected moderators came from the same sample of
+load. In addition, different course topics presumably carry distinct               participants. In such cases, the non-independence of effect sizes would
+learning objectives. For example, learning objectives in literature tend to        invalidate results obtained with a classic random-effect meta-analysis. In
+be about themes rather than about rote memory. Accordingly, we coded               contrast, multilevel meta-analysis is designed to deal with the non-
+topics in as fine a grain as possible and categorized the learning objec­          independence of measurement and hierarchical nature of the data
+tives to capture subtle differences.                                               (Raudenbush & Bryk, 2002; Van den Noortgate, López-López, Marín-
+    Although originally disregarded in the pre-registration of this work,          Martínez, & Sánchez-Meca, 2013, 2015). Therefore, by using a multi­
+we discovered as we retrieved the research that the literature afforded            level meta-analytic approach, we preserved all relevant effect sizes
+an investigation of variables relevant to the assessment methods. Spe­             without the need for arbitrary selection or combination of estimates. In
+cifically, we considered test type (recall, recognition, or both) as a po­         addition, to ensure that correlated variance estimates were considered,
+tential moderator because recall tasks might be presumed to show a                 we also applied robust variance estimates. It is worth noting that Allen
+larger effect of notetaking methods relative to recognition tasks given            et al. (2020) did not address non-independence among their effect sizes
+greater inherent difficulty (Cabeza et al., 1997). Although results re­            even though it existed (24 effect sizes from 14 studies). This raises the
+ported by Blankenship (2016) fit with this expectation, as this author             possibility that their overall estimate was inaccurate and that their
+found a greater advantage for handwritten over typed notes for recall              underestimated standard errors increased the risk of Type 1 errors,
+than for recognition, these results were not replicated by Aragón-Men­            especially considering the small number of samples involved (Tipton &
+dizábal et al. (2016) or Smoker et al. (2009). We also included material          Pustejovsky, 2015). Accordingly, with our approach to the meta-
+type (factual/memory, conceptual, or mix) because it has received much             analysis, we made our search more comprehensive than Allen et al.
+attention in replication attempts since its inclusion in the Mueller and           (2020) and addressed statistical limitations in their analysis.
+Oppenheimer (2014) study. This variable essentially reflects a crucial                 We placed no restrictions on the range of years covered by our
+dimension in assessment because it refers to whether comprehension or              search, the language of publication, or on the age of participants to
+applications (conceptual) were considered or if it contained primarily             obtain a comprehensive sample of available research. In addition, we
+rote memory (factual) questions. In their study, Mueller and Oppen­                obtained some unpublished work and contacted researchers to obtain
+heimer found that handwritten notes produced better performance for                relevant information when it was not presented in the retrieved litera­
+conceptual than for factual material. However, replication of this                 ture. Our analysis should therefore provide a valid reflection of the
+finding has been variable (see Table 1). The current meta-analysis                 available data.
+therefore examined more closely the potential role of test type and
+material type in the broad literature.
+
+
+
+
+                                                                               3
+D. Voyer et al.                                                                                          Contemporary Educational Psychology 68 (2022) 102025
+
+
+Table 1
+Studies entered in the meta-analysis.
+  Authors                      Year     Age    NH    ND    Topic   Interval   Material   Design   Study Type    Distr    Duration      Sample       d
+
+  Aragón-Mendizábal et al.   2016     19.2   211   40    Mem     Min        FM         B        Q             Nat      <=10 min      Typical      − 5.57*
+  Aragón-Mendizábal et al.   2016     19.2   211   40    Mem     Min        FM         B        Q             Nat      <=10 min      Typical      − 5.43*
+  Aragón-Mendizábal et al.   2016     19.2   211   40    Mem     Min        FM         B        Q             Nat      <=10 min      Typical      2.58
+  Aragón-Mendizábal et al.   2016     19.2   211   40    Mem     Min        FM         B        Q             Nat      <=10 min      Typical      3.92
+  Artz et al.                  2020     20.0   215   215   SS      Days       Mix        W        E             Nat      Semester      Typical      − 0.12
+  Bennett                      2018     12.5   13    15    Math    Days       Mix        B        Q             Nat      Semester      Typical      0.53
+  Blankenship                  2016     19.5   52    34    SS      Min        Mix        B        E             Nat      <=20 min      Typical      − 0.46
+  Blankenship                  2016     19.5   52    34    SS      Min        Mix        B        E             Nat      <=20 min      Typical      − 0.16
+  Bui et al.                   2013     19.2   40    40    Lec     No         FM         B        E             Nat      <=20 min      Typical      0.32
+  Desselle & Shane             2018     25.0   43    43    OT      Days       Mix        B        Q             Nat      Days          Typical      − 0.44
+  Duran & Frederick            2013     22.0   36    36    SS      No         CC         B        E             Nat      <=20 min      Typical      − 0.67
+  Eason                        2017     19.1   28    29    SS      No         Mix        B        E             Nat      <=30 min      Typical      − 0.35
+  Eason                        2017     19.1   26    26    SS      Week       Mix        B        E             Nat      <=30 min      Typical      0.62
+  Fiorella & Mayer             2017     19.6   32    31    OT      No         FM         B        E             no       <=10 min      Typical      0.40
+  Fiorella & Mayer             2017     19.6   32    31    OT      No         FM         B        E             no       <=10 min      Typical      1.13
+  Fiorella & Mayer             2017     19.6   32    31    OT      No         CC         B        E             no       <=10 min      Typical      1.49
+  Fulton et al.                2011     19.0   18    36    TC      No         NR         B        E             Man      30–60         Typical      − 0.58
+  Hembrooke & Gay              2003     19.0   22    22    Hum     No         NR         B        Q             Nat      30–60         Typical      − 0.67
+  Hembrooke & Gay              2003     19.0   22    22    Hum     No         NR         B        Q             Nat      30–60         Typical      − 0.67
+  Hembrooke & Gay              2003     19.0   22    22    Hum     No         NR         B        Q             Nat      30–60         Typical      − 0.56
+  Hembrooke & Gay              2003     19.0   22    22    Hum     No         NR         B        Q             Nat      30–60         Typical      − 0.50
+  Horwitz                      2017     19.0   12    12    SS      Min        FM         B        E             Nat      <=30 min      Typical      0.78
+  Igo et al.                   2006     13.9   15    15    OT      No         FM         W        E             Nat      <=10 min      Atypical     − 0.39
+  Igo et al.                   2006     13.9   15    15    OT      Days       FM         W        E             Nat      <=10 min      Atypical     − 0.36
+  Igo et al.                   2006     13.9   15    15    OT      No         FM         W        E             Nat      <=10 min      Atypical     − 0.09
+  Jackson                      2015     13.5   59    59    SS      Days       NR         B        Q             Nat      Semester      Typical      0.62
+  Jamet et al.                 2020     19.0   97    90    SS      No         FM         B        Q             Nat      <=30 min      Typical      − 0.32
+  Jamet et al.                 2020     19.0   97    90    SS      No         CC         B        Q             Nat      <=30 min      Typical      0.02
+  Kennedy                      2019     25.0   60    71    OT      Days       NR         B        Q             Nat      Semester      Typical      − 0.33
+  Kirkland                     2016     19.0   52    53    SS      Min        Mix        B        Q             Nat      <=20 min      Typical      0.26
+  Kodaira                      2017     19.4   40    40    Hum     Min        FM         B        E             Nat      <=20 min      Typical      − 0.50
+  Kodaira                      2017     19.4   40    40    Hum     Min        CC         B        E             Nat      <=20 min      Typical      − 0.32
+  Kutta                        2017     19.0   42    42    Math    Week       CC         B        E             NR       <=30 min      Typical      − 0.20
+  Kutta                        2017     19.0   42    42    Math    No         CC         B        E             NR       <=30 min      Typical      − 0.01
+  Kutta                        2017     19.0   38    38    Math    Week       CC         B        E             NR       <=30 min      Typical      0.10
+  Kutta                        2017     19.0   38    38    Math    No         CC         B        E             NR       <=30 min      Typical      0.16
+  Lin & Bigenho                2011     22.0   21    21    Mem     No         FM         W        E             no       <=10 min      Typical      − 0.75
+  Lin & Bigenho                2011     22.0   21    21    Mem     No         FM         W        E             Man      <=10 min      Typical      0.07
+  Lin & Bigenho                2011     22.0   21    21    Mem     No         FM         W        E             Man      <=10 min      Typical      0.15
+  Luo et al.                   2018     21.0   32    34    SS      Min        Mix        B        E             Nat      <=30 min      Typical      − 0.58
+  Luo et al.                   2018     21.0   30    30    SS      Min        Mix        B        E             Nat      <=30 min      Typical      0.36
+  Mitchell & Zheng             2017     19.0   29    29    Math    Min        CC         B        E             Nat      <=20 min      Typical      − 0.35
+  Mitchell & Zheng             2017     19.0   29    29    Math    Min        FM         B        E             Nat      <=20 min      Typical      0.19
+  Morehead et al.              2019     24.0   32    31    Lec     No         FM         B        E             no       <=20 min      Typical      − 0.41
+  Morehead et al.              2019     23.0   31    31    Lec     No         FM         B        E             no       <=20 min      Typical      − 0.32
+  Morehead et al.              2019     24.0   32    31    Lec     No         CC         B        E             no       <=20 min      Typical      − 0.14
+  Morehead et al.              2019     24.0   32    31    Lec     Days       FM         B        E             no       <=20 min      Typical      − 0.09
+  Morehead et al.              2019     24.0   32    31    Lec     Days       CC         B        E             no       <=20 min      Typical      − 0.06
+  Morehead et al.              2019     23.0   61    61    Lec     Days       CC         B        E             no       <=20 min      Typical      0.18
+  Morehead et al.              2019     23.0   61    61    Lec     Days       FM         B        E             no       <=20 min      Typical      0.19
+  Morehead et al.              2019     23.0   31    31    Lec     No         CC         B        E             no       <=20 min      Typical      0.36
+  Mueller & Oppenheimer        2014     19.0   22    22    Lec     Week       FM         B        E             no       <=10 min      Typical      − 0.80
+  Mueller & Oppenheimer        2014     19.0   28    27    Lec     Week       CC         B        E             no       <=10 min      Typical      − 0.80
+  Mueller & Oppenheimer        2014     19.0   22    22    Lec     Min        CC         B        E             no       <=20 min      Typical      − 0.41
+  Mueller & Oppenheimer        2014     19.0   33    34    Lec     Min        CC         B        Q             no       <=20 min      Typical      − 0.34
+  Mueller & Oppenheimer        2014     19.0   33    34    Lec     Min        FM         B        E             no       <=20 min      Typical      − 0.12
+  Mueller & Oppenheimer        2014     19.0   33    34    Lec     Min        FM         B        Q             no       <=20 min      Typical      − 0.06
+  Mueller & Oppenheimer        2014     19.0   26    28    Lec     Week       FM         B        E             no       <=10 min      Typical      − 0.04
+  Mueller & Oppenheimer        2014     19.0   26    28    Lec     Week       CC         B        E             no       <=10 min      Typical      0.18
+  Pettit-O’Malley et al.       2017     21.0   32    60    Hum     Days       CC         B        Q             Nat      Days          Typical      − 0.39
+  Quade et al.                 1995     21.0   17    56    TC      No         Mix        B        Q             Nat      Weeks         Typical      0.59
+  Richards et al.              2016     11.0   8     8     OT      Days       NR         W        E             Nat      Semester      Atypical     − 0.30
+  Schoen                       2012     20.5   20    18    Mem     Min        FM         B        E             NR       Days          Typical      4.52*
+  Smoker et al.                2009     19.3   30    30    Mem     Min        FM         B        E             no       <=10 min      Typical      − 0.57
+  Smoker et al.                2009     19.3   30    30    Mem     Min        FM         B        E             no       <=10 min      Typical      − 0.55
+  Smoker et al.                2009     19.3   30    30    Mem     Min        FM         B        E             no       <=10 min      Typical      − 0.48
+  Smoker et al.                2009     19.3   30    30    Mem     Min        FM         B        E             no       <=10 min      Typical      − 0.17
+  Sun & Li                     2019     17.5   32    40    TC      Days       FM         B        E             Nat      Days          Typical      0.48
+  Sun & Li                     2019     17.5   32    40    TC      Days       FM         B        E             Nat      Days          Typical      0.57
+  Sun & Li                     2019     17.5   32    40    TC      Days       CC         B        E             Nat      Days          Typical      0.64
+  Urry et al.                  2020     20.0   74    68    Lec     Min        FM         B        E             no       <=20 min      Typical      0.05
+  Urry et al.                  2020     20.0   74    68    Lec     Min        CC         B        E             no       <=20 min      Typical      0.19
+  Wei et al.                   2014     21.9   20    15    TC      No         FM         B        E             no       <=20 min      Typical      − 0.64
+  Wei et al.                   2014     21.9   18    27    TC      No         FM         B        E             Man      <=20 min      Typical      0.44
+                                                                                                                                    (continued on next page)
+
+
+
+                                                                          4
+D. Voyer et al.                                                                                                  Contemporary Educational Psychology 68 (2022) 102025
+
+
+Table 1 (continued )
+  Authors                   Year    Age     NH      ND          Topic    Interval   Material    Design    Study Type    Distr    Duration      Sample      d
+
+  Wood et al.               2012    20.1    21      82          SS       No         Mix         B         E             Man      <=30 min      Typical     − 0.35
+  Wood et al.               2012    20.1    21      42          SS       No         Mix         B         E             no       <=30 min      Typical     − 0.01
+  Zyrowski                  2014    16.5    63      63          OT       Days       CC          W         E             Nat      Weeks         Typical     − 0.63
+
+Notes. Multiple entries for the same study reflect non-independent effect sizes although the underlying moderator might not appear in the table. NH = Number of
+participants in the handwritten group; ND = Number of participants in the digital method group; Topic: Mem = Memory, SS = Social Sciences, Lec = General Interest,
+Hum = Humanities, TC = Technology/Computer, OT = Other; Test Type: Reco = Recognition, Reca = Recall; Interval: Min = Minutes; Material: FM = Factual/
+Memory, CC = Comprehension/Conceptual; Design: B = Between, W = Within; Study Type: Q = Quasi-experiment, E = Experiment; Distr = Distraction: Nat = Natural,
+Man = Manipulated. For all categories, NR = Not reported. For Mueller & Oppenheimer (2014), the retrieved data were based on the Mueller & Oppenheimer (2018)
+corrigendum.
+
+
+7. Method                                                                           scholastic OR school OR test) AND (achieve* OR perform* OR outcome* OR
+                                                                                    comprehen* OR marks OR “grade point average” OR GPA OR grades).
+7.1. Study selection                                                                Search terms were selected to be as broad as possible. In addition, a
+                                                                                    proximity search was implemented, reflecting a proximity of two words,
+   The retrieval of studies was performed through searching PsycINFO,               by the addition of “N1”. The option to “include related terms” was also
+ERIC, SCOPUS, Academic Search Premier, PubMED, SocioINDEX, and                      implemented for all searches, and articles in any language were
+Canadian Business and Current Affairs databases in May 2020. The                    included. This search resulted in 8,020 non-overlapping hits.
+search terms incorporated truncation (or equivalent) in different data­                 It is important to note that efforts were made to obtain unpublished
+bases to include all related terms. The terms used were: (“note taking”             records to minimize publication bias through a search of “grey litera­
+OR notetaking OR “tak* notes”) AND (academic OR learning OR student*                ture” on various websites: www.gse.harvard.edu, https://www.eschool
+OR science OR math* OR reading OR exam* OR course OR class* OR                      news.com/, https://www2.gnb.ca/content/gnb/en.html, https://www.
+
+
+
+
+                                             Fig. 1. Flow chart summarizing the data search and inclusion process.
+
+                                                                                5
+D. Voyer et al.                                                                                                 Contemporary Educational Psychology 68 (2022) 102025
+
+
+canada.ca/en.html, https://www.google.ca/advanced_search, Psyarxiv,                coded as a proxy for socio-economic status (reported for only two of the
+and the Open Science Foundation preprint repository. These efforts                 effect sizes in our sample), although it was relevant only in the context
+resulted in data from 2 unpublished manuscripts. Unpublished theses                where a course was examined, as opposed to an experimental task.
+and dissertations were also included (10 records). In the final sample, 18         Originally, ethnic origin/racial identity was also considered, but it
+effect sizes (23.4%) of the total 77 effect sizes came from unpublished            turned out to be either unreported or reported as a mix in most research.
+literature. The search process is summarized in Fig. 1.                            Finally, we identified only two types of samples in the retrieved litera­
+                                                                                   ture: typical and atypical (a mix of samples with learning or reading
+7.2. Selection criteria                                                            disabilities). Year of publication was also an easily available sample-
+                                                                                   level variable and allowed a consideration of possible cohort effects in
+     Selection criteria were applied in the process of study retrieval to          the magnitude of effect sizes.
+decide whether a study should be included in the meta-analysis. As a                   At the measurement level, course or lecture topic (e.g., computer
+starting point for this process, a paid research associate with meta-              science, math, medicine, research methods, psychology, urban planning,
+analysis training and a clear understanding of the selection criteria              various, word list or other) was considered. For learning objectives, we
+described here read the title and abstract for each study to ensure that it        discovered when coding the studies that most of them did not involve
+fit the basic inclusion criteria. When fit was unclear, the paper itself was       actual class material, but rather they were in a laboratory setting for a
+consulted to ensure a valid inclusion decision.                                    one-time study, hence, not a “true” class experience. Therefore, the goal
+     The crucial criterion was that studies had to include a comparison of         of notetaking was often simply for the participant to remember as much
+notetaking methods (by hand, on a computer, on a tablet, etc.) and a               of the material as possible either to be able to recall/recognize it later or
+measure relevant to class performance (course final grade, exam grade,             to use their memory of it to answer conceptual questions. There were a
+etc.) in any course topic or experimental design at any level of schooling.        few exceptions where class grades were at stake (k = 3) or the material
+This criterion underlines the fact that, unlike Allen et al. (2020), we only       was relevant to preparation either for a course or a later exam (k = 3).
+included studies with objective measures of performance, thereby                   Accordingly, we used this rather coarse code (memory, class grade,
+excluding those with subjective teacher ratings. In the end, only 7 of the         preparation) to code learning objectives. Note that this last variable was
+14 studies sampled by Allen et al. warranted inclusion in our meta-                not part of the pre-registration material and was added in response to
+analysis.                                                                          peer reviewer comments.
+     Data from selected samples of individuals (identified as gifted, with             As a further measurement-level moderator, whether a distraction
+serious cognitive impairments, etc.) were included to ensure we maxi­              was present during the notetaking session was coded as no (typically in
+mized our sample size. However, this component was considered as a                 controlled experiments), natural (as in a natural course setting), and
+moderator in preliminary analyses. Studies were also excluded if any               manipulated. The moderator relevant to the research design (experi­
+kind of intervention was applied to the notetaking process, although               ment or quasi experiment) was also coded, although it was related
+non-intervention control group data from such studies were included.               closely to the coded factor of whether participants self-selected in their
+These exclusion criteria distinguish our meta-analysis from the one by             preferred method or if they were assigned randomly to a notetaking
+Allen et al. (2020), as we aimed to obtain a pure estimate of the com­             method, without regard for their preference.
+parison between notetaking media. No other exclusion criteria were
+applied.                                                                           7.4. Coding validity
+     Studies ideally had to include relevant data for calculating effect
+sizes, and the corresponding authors were contacted for studies with                   We ensured the validity of coding by first preparing a coding sheet
+information missing published during or after 2010. The year 2010                  where all relevant variables were listed. Two coders independently
+included a 10-year span from the time when we started data retrieval,              processed 14 articles accounting for 40 effect sizes (57.1% of total) to
+and it was selected as a cutoff in the hope it was recent enough to allow a        assess inter-rater reliability. Coder 1 was a paid research associate with
+reasonable expectation that authors would still have access to the data.           extensive training in the coding process, whereas Coder 2 was an
+Three authors were contacted in this manner, and one provided the                  experienced meta-analyst, with over 25 years of experience in meta-
+information required to include their study.                                       analytic coding (Coder 2 also trained Coder 1). Although not all coded
+     Reference lists from retrieved articles were also examined in case            variables were used as moderators in the data analysis, we made efforts
+some might have been missed in our other searches. Data collection                 to achieve a high level of accuracy in coding. Specifically, there were 27
+through our searches and communication with authors and the appli­                 variables involved in the evaluation of coding validity: year of publi­
+cation of the inclusion/exclusion criteria resulted in a sample of 77 effect       cation, sample id (crucial for multilevel meta-analysis), publication
+sizes from 39 samples in 36 different articles. The studies included in the        status, school grade, mean age, school type (private, public, etc.),
+final sample are listed in Table 1.                                                ethnic/racial origin, socio-economic status, country of testing, number
+                                                                                   of participants in longhand group, number of participants in digital
+7.3. Coding of variables                                                           group, method (experiment or quasi-experiment), measure of perfor­
+                                                                                   mance, whether studying was allowed, delay between learning and
+    Moderator variables, effect sizes, and other information relevant to           testing, delivery method (auditory, visual, etc.), testing method (paper,
+each study entered in the analysis were coded in a systematic fashion.             digital, etc.), scale of measurement (accuracy, grades, exam, etc.), test
+The multilevel nature of the design allowed coding of sample-level and             type (recall, recognition), material (conceptual or factual), design (be­
+measurement-level variables.                                                       tween- or within-subject), whether distractions were present, material
+    At the sample level, age of the sample was coded. It was considered            topic, duration of material, whether participants self-selected into
+both as a continuous variable and a categorical variable to account for            groups, sample (typical, atypical), statistic used to compute the effect
+possible non-linearity in age effects. As a categorical variable, age was          sizes, and effect size.
+classified as younger than 13 years, between 13 and 17 inclusive, 18 to                This coding process produced an overall inter-rater reliability of
+29, 30 to 49, and 50 and above. Although somewhat redundant with age,              98.6% (Kappa = 0.97, 95% CI = 0.96–0.98). Furthermore, among coded
+grade level was coded as elementary, middle school, high school, uni­              variables where at least one disagreement occurred, we found 6 dis­
+versity/college, and graduate.                                                     agreements on the 40 double-coded effect size estimates (Kappa = 0.70
+    Other sample-level moderators were coded to characterize the origin            (95% CI = 0.54–0.86). In the context of study relevance to the inclusion/
+of the sample, although some of them were not published in specific                exclusion criteria (based on the final theses and articles assessed for
+studies. For example, type of school (private vs. public school) was               eligibility; see Fig. 1), there were 5 disagreements on 66 hits (Kappa =
+
+                                                                               6
+D. Voyer et al.                                                                                                 Contemporary Educational Psychology 68 (2022) 102025
+
+
+0.85, 95% CI = 0.76–0.94). For sample ID, number of participants in the             The estimates obtained in this approach reflect precision-weighted es­
+digital group, performance measure, material, and publication status,               timates of effect sizes as in other approaches to meta-analysis (Rau­
+only 1 disagreement occurred over 40 entries, for Kappa = 0.95 (95% CI              denbush & Bryk, 2002).
+= 0.88 – 1.0) in each case. For the remaining variables, Kappa would be                 Categorical independent variables were dummy coded with the use
+1.0 as no disagreements occurred. This high level of inter-rater reli­              of “as.factor()” in R, producing c − 1 dichotomous vectors (c represents
+ability suggests that the coding sheet was generally valid and reflected a          the number of categories). Continuous moderators were mean-centered.
+straightforward process. For the remainder of the coding process, Coder             All significance testing for moderators was based on the omnibus test
+1 coded the remaining papers independently. As a further step to ensure             obtained through examination of robust estimates of standard errors
+data validity, the three authors of this paper (including the two original          computed with the robust procedure available in metafor. In addition,
+coders) held regular meetings to discuss any coding issues or problem­              we implemented the correction for small samples built in the robust
+atic papers. As a result of this multi-step coding process, we are confi­           procedure. Only moderators that contributed significantly to variability
+dent the final data provided a valid reflection of the sampled literature.          with p < .05 are presented.
+
+7.5. Measure of effect size                                                         8. Results
+
+    As we were dealing generally with designs reflecting the comparison             8.1. Preliminary analyses
+of two groups, the standardized mean difference between the perfor­
+mance of each notetaking method group or Cohen’s d (Cohen, 1988) was                    Considering that our sample included within-subject designs for
+the measure of effect size. In our computations, a positive value reflected         which we computed only an approximation of the appropriate effect
+an advantage for digital notetaking. As means and standard deviations               size, we believed it was important to determine whether this factor
+were available either from the articles or after contacting authors for 64          unduly affected the results. Accordingly, we conducted a moderator
+of 77 effect sizes (83.1%), we were able to calculate these effect sizes            analysis with design (between or within) to decide if such studies fit
+with the formula presented by Cohen (1988). In most other cases, an F, t,           within our population of effects. Results of this analysis showed that
+chi square, correlation, or a p value was available, allowing use of the            design accounted for significant variability, F(1, 37) = 5.52, p = .024.
+formula presented by Lipsey and Wilson (2001). It is important to note              This reflected the finding that within-subject designs produced a mean
+that, although 68 of 77 effect sizes (88.3%) were derived from a                    effect size of − 0.29 (95% CI: − 0.47, − 0.11) that was significantly
+between-subject design, the remainder came from a within-subject                    smaller than zero, whereas the mean effect size of 0.01 (95% CI: − 0.17,
+design. Computation of Cohen’s d in such a setting typically requires               0.20) for between-subjects design was not significant. This suggests the
+the standard deviation of the difference as well as the correlation be­             initial conclusion that within-subject designs might need to be excluded
+tween the two scores. However, the first value was not reported in any of           from further analyses, as they do not seem to belong in this population of
+the retrieved papers, and the second one was reported in only one study.            effect sizes.
+Accordingly, as a rudimentary way to adjust these effect sizes, we used                 As a further preliminary analysis, we also considered the comparison
+0.70 as a conservative estimate of correlation and multiplied the                   of typical and atypical samples in a moderator analysis. Results for this
+Cohen’s d obtained from the between-subjects equation by 2*sqrt(1-r)                analysis showed that sample type accounted for significant variability, F
+(see Borenstein et al., 2009, for more details).                                    (1, 37) = 9.40, p = .004. This reflected the finding that atypical samples
+    All effect sizes were computed by means of the calculator created by            had a mean effect size of − 0.28 (95% CI: − 0.28, − 0.27) that was
+David Wilson (http://www.campbellcollaboration.org/escalc/html/                     significantly smaller than zero, whereas the mean effect size of 0.01
+EffectSizeCalculator-Home.php). Furthermore, the Hedges and Becker                  (95% CI: − 0.19, 0.16) for typical samples was not significant. Again, this
+(1986) small samples correction was applied to the effect sizes (nomi­              would suggest it is prudent to exclude atypical samples because they
+nally, Hedges’ g).                                                                  might not belong in our population of effect sizes. However, sample and
+                                                                                    design were confounded in that all atypical samples were from within-
+7.6. Data analysis                                                                  subject designs. We, therefore, re-ran the analysis on design as a
+                                                                                    moderator with the atypical samples excluded, and this showed that it
+    Considering that the sampled studies had multiple measures of per­              no longer accounted for significant variability, F(1, 35) = 3.67, p = .064.
+formance or non-independent effect sizes related to our moderators, we              Accordingly, we conducted all further analyses with atypical samples
+implemented a multilevel model in our data analysis (Raudenbush &                   excluded but with the remaining within-subject designs (k = 5)
+Bryk, 2002; Van den Noortgate et al., 2013, 2015). We also computed                 included.
+robust standard errors in testing moderators to reduce the risk of Type 1               As a final preliminary analysis, we defined outliers as those that
+error while considering within-study sampling variability. Considering              deviate from the overall mean by >3.29, which Tabachnick and Fidell
+that we obtained a relatively small sample of 77 effect sizes, all analyses         (2007) suggest as reasonable because it would exclude scores that have a
+were conducted for the overall sample based on the notion that breaking             probability smaller than 0.001 of belonging in the sample. This
+down into smaller groupings (e.g., by lecture topic) would produce small            approach produced three outliers from two samples. However, con­
+clusters and considerably reduce statistical power.                                 ducting the analyses with and without these outliers did not affect the
+    We also conducted publications bias analyses on two different fronts.           results in terms of significance of the mean effect sizes or in determining
+First, we compared published and unpublished work, with the expec­                  significant moderators. Accordingly, they were preserved in all data
+tation that if a publication bias existed, it would show smaller effect sizes       analyses, although they are starred in Table 1 for interested readers.
+for the latter compared to the former. We also presented a funnel plot              Overall, data analyses proceeded with a final sample of 73 effect sizes
+(effect sizes on the X axis, standard error on the Y axis) and conducted            from 37 samples, reflecting data from 3,120 participants.
+the analysis proposed by Egger, Davey Smith, Schneider, and Minder
+(1997). As proposed by these authors, evidence for a publication bias               8.2. Overall results
+would be shown if regression of the standard normal deviate for the
+effect size on the inverse of the standard error showed an intercept or                 The overall analysis revealed a mean effect size of − 0.008 (95% CI:
+slope significantly different from zero, with p < .10.                              − 0.18, 0.16) that was not significantly different from zero. Therefore,
+    All meta-analytic results were computed by means of the metafor                 overall results suggest no effect of notetaking approach (longhand or
+package in the R statistical software (Viechtbauer, 2010), with effect              digital) in the overall sample. However, we also found that the effect
+sizes treated as random effects and moderators treated as fixed effects.            sizes were heterogeneous, Q(72) = 1351.69, p < .001, I2 = 80.9%. Thus,
+
+                                                                                7
+D. Voyer et al.                                                                                                        Contemporary Educational Psychology 68 (2022) 102025
+
+
+the overall effect size is not representative of the state of affairs in our            other exploratory moderators). Relevant estimates, presented in Table 2,
+data. This also indicates that moderator analysis is warranted to identify              show that only material with a duration between 30 and 60 min pro­
+factors that might account for this variability.                                        duced a mean effect size that differs from zero. Again, it was negative,
+                                                                                        reflecting an advantage for handwritten over digital notetaking in that
+                                                                                        time interval.
+8.3. Moderator analyses                                                                     As a further exploratory analysis, we considered the possibility that
+                                                                                        testing method and material type might interact with each other.
+    Moderator analyses proceeded with a systematic examination of all                   Clearly, the possibility that recall or conceptual questions might produce
+the moderators described in the method section. Two moderators rele­                    a significant advantage for handwritten notetaking did not materialize
+vant to assessment proved significant. Topic was the only pre-specified                 in the relevant main effects. However, the possibility remains that these
+moderator that accounted for significant variability in effect sizes, F(9,              two variables might combine to produce large effects for the recall of
+27) = 749.59, p < .001. Relevant summary data presented in Table 2                      conceptual material presumably due to the depth of processing required
+reveal three categories where effect sizes were significantly different                 to achieve optimal performance under such difficult conditions. Unfor­
+from zero: urban planning and not reported material showed an                           tunately, pursuit of these analyses was undermined by the nature of the
+advantage for handwritten notes, whereas computer science material                      retrieved data. Specifically, as seen in Table 3, many categories had few
+produced an advantage for digital devices. Although no other pre-                       effect sizes, with three cells containing only one. Although this makes a
+specified moderators accounted for significant variability in effect                    test of significance of the interaction invalid, the effect sizes reported in
+sizes (all p’s > 0.52), learning objectives emerged as significant, F(2, 34)            the table suggest large fluctuations as a function of each variable com­
+= 9.98, p < .001, with summary values also presented in Table 2. In this                bination. Even then, some of the estimates cannot be interpreted
+case, results showed a significant advantage for handwritten notetaking                 because they were derived from a single effect size. To somewhat
+when class grades were relevant to the objectives, whereas the confi­                   circumvent this problem, we only considered the clear-cut conditions
+dence intervals for memory or preparation for a course/exam included                    where test type and material type were clearly defined (recall/factual,
+zero. To account for further variability in the effect sizes, we conducted              recall/conceptual, recognition/factual, and recognition/conceptual).
+exploratory moderator analyses with additional variables that we had                    With only these four cells, the smallest cell size was three, and it was
+not pre-specified.                                                                      possible to test the interaction. Results of this analysis showed that the
+    In particular, we considered whether study time was provided and                    interaction was not significant under these circumstances (p = .067).
+the amount of time between the notetaking session and performance as
+potential moderators, as we surmised that study time and a shorter time
+                                                                                        8.4. Publication bias
+interval between learning and testing might reduce the effect of note­
+taking method. Duration of the material (ranging from less than ten
+                                                                                            As a first step, we examined whether publication status (published
+minutes to weeks, when a whole academic term was included in the
+                                                                                        versus unpublished) affected the magnitude of effect sizes. Results of this
+measure of performance) was an additional moderator, although we had
+                                                                                        analysis showed that publication status was not a significant moderator
+no specific prediction for this variable. Delivery method (written,
+                                                                                        of effect sizes, F(1, 35) = 2.25, p = .14. This analysis therefore does not
+auditory, mix) was considered based on the notion that the mix of
+                                                                                        support the presence of a publication bias. As shown in the funnel plot of
+written and auditory presentation found in a typical lecture might
+                                                                                        precision as function of effect size in Fig. 2, effect sizes were symmetric,
+produce a significant memory load, making this situation propitious for
+                                                                                        further supporting the notion that there is no evident publication bias in
+a larger effect of notetaking method.
+                                                                                        the data. In addition, as recommended by Rodgers and Pustejovsky
+    Results of these exploratory analyses showed that, in this set of
+                                                                                        (2020), we used a multilevel extension of the Egger et al. test (Egger
+moderators, only material duration, F(6, 30) = 14.89, p < .001,
+                                                                                        MLMA test) with the modified precision estimate proposed by these
+accounted for significant variability in effect sizes (all p’s > 0.11 for the
+                                                                                        authors as a covariate and effect size as the outcome variable. A sig­
+                                                                                        nificant slope in this method indicates the presence of funnel plot
+Table 2
+                                                                                        asymmetry and is interpreted as evidence of a publication bias. To
+Results for material content and material duration as moderators.
+                                                                                        maximize power, we still applied the recommendation by Egger et al. to
+  Moderator               Categories            k        g (95% CI)                     use a significance level of 0.10. Results of this analysis showed that the
+  Topic                   Computer science      4        0.57 (0.55, 0.59)*             slope (b1 = 1.13, 90% CI: − 1.44, 3.69) was not significant. It therefore
+                          Math                  9        0.02 (− 0.17, 0.22)            appears that based on the three sources we used here, there is no
+                          Medicine              5        0.10 (− 0.80, 0.99)
+                          Research method       3        0.13 (− 0.59, 0.85)
+                          Not reported          5        − 0.58 (− 0.60, − 0.57)*       Table 3
+                          Other                 5        − 0.06 (− 0.34, 0.23)          Results relevant to the interaction between test type and material type.
+                          Psychology            8        0.34 (− 0.37, 1.04)
+                                                                                         Test type             Material type         k            g (95% CI)
+                          Urbanism              3        − 0.52 (− 0.73, − 0.31)*
+                          Various               19       − 0.19 (− 0.46, 0.07)           Recall                Factual               21           − 0.13 (− 0.33, 0.06)
+                          Word list             9        − 0.19 (− 0.46, 0.09)           Recognition           Factual               8            − 0.06 (− 0.36, 0.25)
+  Learning Objectives     Class grades          3        − 0.38 (− 0.44, − 0.33)*        Both                  Factual               3            1.45 (− 1.06, 3.96)
+                          Memory                66       0.02 (− 0.18, 0.23)             Recall                Conceptual            17           0.004 (− 0.27, 0.27)
+                          Preparation           4        0.01 (− 0.31, 0.33)             Recognition           Conceptual            3            − 0.33 (− 0.77, 0.11)
+  Material Duration       <10 min               18       − 0.05 (− 0.54, 0.45)           Both                  Conceptual            1            1.39 (¡0.64, 3.42)
+                          10–20 min             25       − 0.10 (− 0.27, 0.07)           Recall                Mix                   1            ¡0.38 (¡0.53, ¡0.23)
+                          20–30 min             13       0.02 (− 0.18, 0.21)             Recognition           Mix                   11           − 0.05 (− 0.25, 0.16)
+                          30–60 min             5        − 0.58 (− 0.60, − 0.57)*        Both                  Mix                   1            0.59 (0.59, 0.59)
+                          Days                  6        0.49 (− 0.87, 1.84)             Recall                Not reported          2            − 0.24 (− 0.96, 0.49)
+                          Weeks                 2        − 0.07 (− 1.03, 0.89)           Recognition           Not reported          3            0.07 (− 0.94, 1.08)
+                          Full semester         4        0.13 (− 0.33, 0.59)             Both                  Not reported          2            − 0.43 (− 0.64, − 0.22)*
+
+Note. The table presents the number of effect sizes (k) and the mean weighted g         Note. The table presents the number of effect sizes (k) and the mean weighted g
+for each moderator category with the 95% confidence interval (CI) in paren­             for each moderator category with the 95% confidence interval (CI) in paren­
+theses.                                                                                 theses. *The mean weighted effect size is significantly different from zero with p
+*The mean weighted effect size is significantly different from zero with p < .05        < .05 when the 95% CI for g does not include zero. Bolded estimates cannot be
+when the 95% CI for g does not include zero.                                            interpreted because they were derived from a single effect size.
+
+                                                                                    8
+D. Voyer et al.                                                                                                   Contemporary Educational Psychology 68 (2022) 102025
+
+
+
+
+            Fig. 2. Contour enhanced funnel presenting precision (standard error) as a function of Hedge’s g (observed outcome) for the overall sample.
+
+
+evidence of a publication bias in our data.                                          inappropriate to deal with the present results otherwise. Briefly, meta-
+                                                                                     analytic thinking refers to the need to consider a result for a given
+9. Discussion                                                                        study in the context of other existing research, the observed confidence
+                                                                                     intervals, and relevant meta-analytic findings. For the present study,
+    The purpose of the present meta-analysis was to fill a gap in the                meta-analytic thinking refers to the fact that we were mostly concerned
+literature by developing a more definitive understanding of whether                  with establishing the magnitude of the effect and its probable range in
+notetaking method (longhand writing or digital) affected academic                    terms of confidence interval. Although important, whether the true
+performance. We pursued this goal by retrieving literature from as many              value of the effect size is significant is not central to its interpretation.
+sources as possible (published and unpublished) and by integrating                   Based on the premise that we have as comprehensive a sample as
+relevant effect sizes into a multilevel meta-analysis that also took into            possible and used appropriate methods, our results show that when we
+account correlated sampling errors by means of robust variance esti­                 compare longhand and digital notetaking methods equated on distrac­
+mation. In assessing whether the notetaking method itself made a dif­                tions, the true effect is located in a range that includes zero. In practice,
+ference, we excluded additional distractions that might contaminate the              this means that these two methods are not distinguishable in a
+use of some digital methods in the classroom.                                        comprehensive set of the literature. Accordingly, the present results
+                                                                                     should be seen as moving research forward, despite the lack of signifi­
+9.1. Overall results                                                                 cance for the overall effect. The interpretation is straightforward, and it
+                                                                                     reflects the question that guided the purpose of the present meta-
+    Overall, when distractions are not a factor or are equated across                analysis. Essentially, based on the available literature, when longhand
+methods, our findings from a comprehensive set of the relevant litera­               and digital methods are treated as pure notetaking tools (i.e., equated on
+ture demonstrated that notetaking method makes no difference on                      distractions), then the effect of this manipulation on performance is not
+performance. This is in contrast to what was reported in Mueller and                 distinguishable from zero.
+Oppenheimer (2014), the most referenced single paper to date on this
+research question. These authors found that the use of handwritten notes             9.2. Variability and moderator effects
+produced better performance than digital notetaking when the content
+was conceptual rather than factual. They interpreted their results as                    Despite a clear general conclusion, it is very important to point out
+supporting the notion that longhand notetaking promotes deeper pro­                  that the effect sizes in the overall sample were quite variable. In fact, in
+cessing than taking notes on a laptop, in keeping with a level of pro­               interpreting the I2 that we obtained, results showed that 80.9% of the
+cessing interpretation. However, in the current study, even when we                  total variance was accounted for by heterogeneity in the overall sample
+considered content (conceptual or factual), there was no effect on the               of effect sizes (i.e., variance in the true effects), whereas the remaining
+magnitude or direction of the effect sizes. Thus, although individual                19.1% reflects random sampling variance (i.e., chance). This amount of
+studies can produce results supporting one view over another, the cu­                variability can be categorized as substantial (see https://handbook-5-1.
+mulative evidence suggests that notetaking method makes no difference                cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogene
+on performance.                                                                      ity.htm) and makes it rather difficult to interpret the overall effect as it
+    It is important to consider the possibility that some readers might              cannot be considered representative of the state of affairs in the sample
+view the present overall results as amounting to support for the null                (Borenstein et al., 2009). In view of this variability, it made sense to
+hypothesis. However, in the context that most results should be sub­                 conduct moderator analyses to explain at least some of it.
+jected to “meta-analytic thinking” (Thompson, 2002; see also Ritter,                     Even in that context, results of the moderator analyses proved
+2015 for views relevant to educational technology research), it would be             disappointing, with only one of our pre-specified moderators (topic) and
+
+                                                                                 9
+D. Voyer et al.                                                                                                Contemporary Educational Psychology 68 (2022) 102025
+
+
+two exploratory moderators (learning objectives, material duration)                types was used, did not produce a significant interaction. However, even
+accounting for significant heterogeneity among the effect sizes. Never­            then, only three effect sizes reflected recognition for conceptual mate­
+theless, interpretations for these significant moderators offer some               rial, thereby limiting the precision of these estimates and the underlying
+interesting speculations that might guide future work while also offering          statistical power. Nevertheless, findings in Table 3 show that the largest
+potential for pedagogical advice. Specifically, as shown in Table 2,               effects (regardless of direction) were obtained when assessment
+studies where the topic was on urban planning produced a significant               included both recall and recognition test types in a single measure are
+advantage for longhand notetaking, whereas computer science material               intriguing. This suggests that more research that systematically in­
+resulted in improved performance for digital notetaking. Considering               vestigates the potential interaction between test type and material type
+that rote memorization is often a preferred approach in learning and               is needed.
+assessment for some of the sciences (Edmondson & Novak, 1993;                           Overall, our results leave us with the conclusion that, taken as a
+Pabuccu & Erduran, 2017), it is possible that urban planning courses,              whole, the existing literature suggests that the notetaking method has
+relevant to the field of Humanities, might involve more critical thinking          little influence on performance when distractions are equated across
+(Dumitru, 2019) and therefore may emphasize deeper level of process­               methods. The corollary to this conclusion is that findings of better per­
+ing and higher overall cognitive load. This would fit with the notion that         formance under digital compared to longhand notetaking by Allen et al.
+longhand notetaking can preserve this deeper level of processing. In               (2020) are likely fully accounted for by the distraction component that
+contrast, the computer science studies that entered the analysis relied on         was left uncontrolled in their sample for digital methods. Specifically,
+participants who had an existing level of comfort with digital devices (at         email, irrelevant internet browsing, and social media offer many ave­
+least with computers). For example, Quade et al. (1995; contributing               nues for distractions when using digital means of notetaking (Dontre,
+one effect sizes to the computer science category) tested only computer            2020). In an ideal world, one solution to eliminate irrelevant distrac­
+science majors and minors. Similarly, Sun and Li (2019; accounting for             tions for digital notetakers would be to make the internet or the phone
+the three computer science effect sizes here) found a significant effect of        signal unavailable during class. However, this is not practical in most
+notetaking method in favor of the digital approach only for “excellent             cases for technical or safety reasons. Another way to eliminate (or, at
+students” in their samples (compared to mid-level and low-performing               least, reduce) distractions from digital devices takes into account the
+students). Therefore, findings with computer science material in our               fact that, ultimately, the decision rests with the students on whether
+sample might reflect existing level of comfort with computers. Still, it           they will indulge in what has been called cyberslacking (Rana, Slade,
+might be worthwhile examining more closely the role of comfort with                Kitching, & Dwivedi, 2019). Specifically, Rana et al. showed that a large
+computers in explaining differences in performance as a function of                set of factors (i.e., lack of attention, apathy towards course material,
+notetaking method. Of course, we can only speculate on possible causes             distraction by others, attitude toward cyberslacking, subjective norm,
+for the effect of topic on the direction and magnitude of the observed             perceived behavioral control, perceived threat, and escapism) were
+effect sizes considering that only three effect sizes each entered the             significant predictors of intention to indulge in cyberslacking. In reality,
+computer science and urban planning categories. In addition, the “not              factors such as lack of attention, apathy toward course material, and
+reported” category (k = 2) was the other case where a significant                  escapism could be mitigated by providing engaging lecture material to
+longhand notetaking emerged but the fact that the topic is undefined               students. In addition, setting clear rules for class behavior would set the
+makes it difficult to draw solid conclusions on findings in that category.         perceived norm against (rather than in favor) of cyberslacking. Of
+Nevertheless, our findings suggest that researchers should consider                course, these are only speculations, but they emphasize the need for
+closely the topic of the lecture and individual differences in comfort with        instructors to set clear rules about appropriate classroom behavior and
+computer usage.                                                                    maximize student engagement to reduce the influence of distraction on
+    Although coarse, our coding of learning objectives produced the                classroom behavior (including notetaking efficiency).
+interesting finding that only class grades produced a significant advan­                In attempting to explain our results, it is also important to keep in
+tage for handwritten notetaking. When compared with the lack of effect             mind that there is considerable variability in the effect sizes that cannot
+for studies where memory for the items (for factual or conceptual pur­             be explained by the moderators we had pre-specified and those we
+pose) or where preparation for a later event is involved, the significant          explored as a further attempt to account for heterogeneity among the
+effect size for class grades suggests that the notetaking method might             effect sizes. This points to the possibility that many of the observed ef­
+matter only when there is something personal at stake in the evaluation.           fects are affected by sample specific or idiosyncratic components of the
+This raises the possibility that higher depth of processing favors hand­           various studies. It also suggests the presence of noteworthy limitations in
+written notetaking in such a case. However, here as well, we can only              the present meta-analysis, which we will now consider as well as future
+speculate considering that we could only retrieve three effect sizes ob­           directions to address them.
+tained with class grades. This limits our ability to draw definite con­
+clusions, but it suggests strongly that future work using high-stakes              9.3. Limitations & future directions
+situations is required in this domain.
+    For material duration, we found that material with a duration be­                  When considering limitations, the null effect of distractions as a
+tween 30 and 60 min produced a significant advantage for the longhand              moderator is an interesting finding that requires some discussion. Our
+method, whereas we found a medium effect size suggesting some (non-                goal was to get a pure estimate of notetaking method when distractions
+significant) improvements with digital notetaking when material was                were removed or equated across conditions, and our overall results
+spread across days. We could speculate that the 30 to 60 min material              suggest that the two notetaking methods do not differ from each other
+duration would reflect a typical lecture that somehow favored perfor­              when distractions are equated across them. However, the lack of
+mance after longhand notetaking. However, it is difficult to interpret             moderator effects for the presence of distractions is puzzling as, based on
+why that duration should be particularly meaningful in terms of the                the Allen et al. (2020) meta-analysis, one might expect that the presence
+effect of notetaking method on performance, especially when we ex­                 of distractions would favor longhand notetaking. To better understand
+pected larger effects for longer duration material.                                our results, it is important to remember that to remove distraction as a
+    Based on conceptual grounds, we also conducted an exploratory                  confound, unlike Allen et al., we did not include studies where the
+analysis considering a possible interaction between material type                  distraction was only applied to the digital task. In addition, we were only
+(factual, conceptual) and test type (recall, recognition). A clear exami­          able to identify four studies (five effect sizes) where distraction was
+nation of this interaction was hindered by cells that included only one            manipulated, and these studies showed disparate effect sizes (see
+effect size. Limiting the analysis to clear-cut cases, thereby excluding           Table 1), with two negative effects, two positive effects, and one near
+conditions where a mix of material type or a combination of both test              zero. In total, more work should consider manipulation of distractions
+
+                                                                              10
+D. Voyer et al.                                                                                                 Contemporary Educational Psychology 68 (2022) 102025
+
+
+during notetaking under both longhand and digital conditions to                     benefits of the notetaking method might be seen by some as a limitation
+document the relative influence of this factor on performance.                      of our meta-analysis because, in that respect, it has a relatively narrow
+    At a basic level, the purpose of the present meta-analysis relied on            scope in terms understanding positive or negative consequences of the
+comparing conditions where longhand and digital notetaking conditions               method. For example, our focus on performance does not account for the
+were equated on distractions. However, it is important to keep in mind              influence of method on how digital notetaking could distract other
+that none of the research that entered our meta-analysis accounted for              students even when they use longhand notetaking, how it might affect
+and partitioned out variance in outcomes explained by the distraction               student’s engagement or motivation, or how it might influence students’
+imposed by digital notetaking over and above distractions shared across             self-reports on learning outcomes. However, our reasoning was that
+modalities. One way to ensure such control experimentally would be to               performance (i.e., grades) is the most tangible component to be
+implement catch trials of some sort to ensure that attention stays on task.         considered. Therefore, the influence of notetaking method on the other
+However, none of the quasi-experiments that entered the meta-analysis               aforementioned outcomes still remains to be examined
+could account empirically for these sources of variations. In the case of           comprehensively.
+experiments in our meta-analysis, they relied on a basic form of prob­                  The focus on performance measures was also affected by the limits of
+abilistic control, assuming that random assignment would produce                    the performance measures themselves. Specifically, as mentioned pre­
+equivalent groups on all but the manipulated variables (i.e., notetaking            viously, very few of the studies we found included performance mea­
+method). In reality, this lack of partitioning of sources of variability in         sures reflective of “true class” performance. Instead, there were many
+distraction between groups does not change our conclusions because                  relatively simple memory tasks either of a factual or conceptual nature.
+there was some form of control for distraction at least for the experi­             This makes it quite clear that future research examining true class per­
+ments that entered our database. Considering that the type of design                formance measures is required.
+(experiment or quasi-experiment) was not a significant moderator, base                  An additional limitation inherent to the generally simple perfor­
+differences in initial level of distraction between groups are unlikely to          mance measures that have been examined in the existing literature is
+have affected our results. In the context of any research endeavor, group           that results in these studies can only reflect the direct effects of note­
+differences in base distraction propensity could be problematic because             taking method on memory, not the interconnected processes that follow
+in any research that we conduct, there is never a guarantee that a given            from efficient notetaking as one prepares to write an exam for example.
+participant will stay on task. In the classroom context, recent work                From this perspective, notetaking is a necessary but insufficient
+conducted by Kane et al. (2021) suggested that task-unrelated thoughts              component that does not capture the additional aspects of learning in a
+(TUT) can be predicted by factors such as seating location (increasing              class context such as the restudy of notes and the potential enactment of
+amount of TUT from the front to the back), initial interest in a topic,             generative strategies such as retrieval practice, self-explanation, concept
+multi-tasking habits, and initial propensity for mind wandering and                 mapping, rehearsal, and comprehension activities that would promote
+boredom. Thus, although the literature we sampled did not address                   learning (Blasiman et al., 2017; Chew, 2021; Rawson et al., 2018). In
+possible individual differences in distraction propensity, the research by          addition, notetaking in the context of a classroom would be guided by
+Kane et al. suggests possible ways to verify group equivalence in future            learning objectives that might define focal points in the notes. The
+research comparing notetaking methods in the classroom.                             existing literature generally does not capture these important aspects
+    A related issue concerns the argument that distractions are endemic             and filling this gap should be viewed as a priority for future work.
+to digital devices and simply cannot be removed. However, such an                       Effects may change with shifting ways of pedagogical methods (e.g.,
+argument would disregard the possibility to minimize or eliminate dis­              online/virtual instruction, development of notetaking applications). The
+tractions found with digital devices through instructions, reward sys­              constant shift means that it is important to re-examine roles of note­
+tems, or by scrambling internet signals, to name a few options.                     taking. Although performance is an important criterion, it is likely that
+Furthermore, even if one does not have the ability to remove distractions           changes to teaching and learning approaches will occur due to reasons
+found with digital devices, there are many encouraging sources of evi­              that are not necessarily relevant to general pedagogical standards (e.g.,
+dence suggesting that distractions that come from other sources can be              COVID-19 pandemic, administrative mandates, increased globalization,
+equally problematic. For starters, the aforementioned research by Kane              modernization of technology). As such, re-examination will be impor­
+et al. (2021) suggests that many factors other than the selected note­              tant simply due to the reality of changing situations.
+taking device can cause distraction. In addition, Tesch et al. (2011) re­               The finding that we identified few significant moderators could be
+ported that students ranked peers talking and a hard-to-understand                  seen as a limitation of our meta-analysis. However, in reality, it points to
+professor as more distracting than laptop use. Similarly, Blasiman et al.           limitations in the existing pool of studies. Specifically, few of the mod­
+(2018) found that students claimed having a conversation was more                   erators that have been covered in the literature appear to affect the
+distracting than playing a video game when in class. In fact, according to          magnitude of the effect, leaving us with a sense that the effect of note­
+Zeamer and Fox Tree (2013), any sounds incongruent with the lecture                 taking method is quite variable and sample specific. More work is
+can have a negative impact on recall of information. Therefore, even                required to identify potential moderators that account for its variability.
+those who use handwritten notetaking could be subject to distractions of            More importantly, the existing literature also exhibits issues with the
+this type. In fact, mind wandering can happen regardless of notetaking              samples used in attempts to establish robust effects. In particular, the
+method, with estimates ranging from 10 to 40% of the time spent on                  literature we retrieved for our meta-analysis shows that much of the
+mind-wandering (Unsworth & McMillan, 2017; Wammes, 2016). As a                      research is conducted with small samples (median = 65.00; range = 16
+complement to the mind wandering data, Benzimra (2016) and Kay                      to 430, skew = 2.91), with 66 of 77 effect sizes (85.7%) drawn from
+et al. (2017) suggested that students are on task 80% of the time when              university or college students. These are selective samples that are not
+using digital devices, whereas Kane et al. (2021) reported an average               representative of the population and limit our ability to generalize
+rate of task-unrelated thoughts of 24%. Therefore, it would be an                   beyond university students. In fact, the largest sample we found (total N
+exaggeration to state that distractions are endemic only to digital de­             = 430, from Artz et al., 2020) also relied on data from university stu­
+vices. In reality, students can be distracted regardless of their notetaking        dents. This situation strongly suggests that more research with large
+method, but, thankfully, a large majority of them are likely to be on task          representative samples and with children old enough to use digital
+at any given point during a lecture. In this context, experimental                  notetaking is required to fully elucidate the question of whether note­
+research that promotes distractions under the digital-device conditions             taking method affects learning outcomes. From this perspective, the
+when comparing notetaking methods might overestimate the influence                  present meta-analysis should not be seen as the final word on this
+of this factor compared to natural conditions.                                      question but rather as a source of inspiration for more generalizable and
+    Our focus on performance measures rather than on other potential                better controlled work with more diverse samples.
+
+                                                                               11
+D. Voyer et al.                                                                                                                         Contemporary Educational Psychology 68 (2022) 102025
+
+
+    Finally, a meta-analysis that relies primarily on published work al­                                Communication Journal, 85(3), 143–154. https://doi.org/10.1080/
+                                                                                                        1041794X.2020.1764613
+ways has to be concerned with the possibility that a publication bias
+                                                                                                    *Aragón-Mendizábal, E., Delgado-Casas, C., Navarro-Guzmán, J.-I., Menacho-Jiménez, I.,
+might affect its results. In our case, however, our sample involved a                                   & Romero-Oliva, M.-F. (2016). A comparative study of handwriting and computer
+sizeable segment (23.6%) of unpublished studies. Effect sizes for un­                                   typing in note-taking by university students. Comunicar, 24(48), 101–107. https://
+published work did not differ from those obtained with published work.                                  doi.org/10.3916/C48-2016-10
+                                                                                                    *Artz, B., Johnson, M., Robson, D., & Taengnoi, S. (2020). Taking notes in the digital age:
+In addition, effect sizes showed a fairly symmetrical distribution (see                                 Evidence from classroom random control trials. The Journal of Economic Education,
+Fig. 2), and formal statistical tests showed no evidence of a publication                               51, 103–115. https://doi.org/10.1080/00220485.2020.1731386
+bias. Accordingly, we should be confident in stating that our research                              Barrett, M. E., Swan, A. B., Mamikonian, A., Ghajoyan, I., Kramarova, O., &
+                                                                                                        Youmans, R. J. (2014). Technology in note taking and assessment: The effects of
+was influenced minimally by such a bias.                                                                congruence on student performance. International Journal of Instruction, 7, 49–58.
+                                                                                                    Beck, K. M. (2014). Note taking effectiveness in the modern classroom. The Compass, 1,
+10. Conclusions                                                                                         Article 9.
+                                                                                                    *Bennett, J. (2018). Determining the effectiveness of a note-taking intervention in a 1-to-1
+                                                                                                        iPad mathematics classroom [Unpublished Doctoral dissertation]. Robert Morris
+    The purpose of the meta-analysis presented here was to quantify                                     University.
+overall effects of notetaking method, defined as longhand or digital, in                            Benzimra, D. (2016). An examination of laptop-based off-task behaviours in secondary school
+                                                                                                        classrooms Unpublished Masters thesis, Department of Education, University of
+various learning situations and to identify potential moderators of these                               Ontario Institute of Technology. Retrieved from http://hdl.handle.net/10155/665.
+effects. We began this meta-analysis fully expecting to find evidence                               Blasiman, R. N., Dunlosky, J., & Rawson, K. A. (2017). The what, how much, and when of
+favoring the use of longhand notetaking over digital notetaking for                                     study strategies: Comparing intended versus actual study behaviour. Memory, 25(6),
+                                                                                                        784–792. https://doi.org/10.1080/09658211.2016.1221974
+optimal performance. In fact, anecdotally, two of us who are instructors                            Blasiman, R. N., Larabee, D., & Fabry, D. (2018). Distracted students: A comparison of
+often suggested to students at the beginning of each semester that                                      multiple types of distractions on learning in online lectures. Scholarship of Teaching
+longhand notetaking should be favored over digital notetaking. Results                                  and Learning in Psychology, 4(4), 222 230. https://doi.org/10.1037/stl0000122
+                                                                                                    **Blankenship, M. W. (2016). Comparing note taking and test performance in methods and
+showed a null effect of this factor from our comprehensive sample. This
+                                                                                                        modes of note taking conditions [Unpublished doctoral dissertation]. Ball State
+suggests that, in general, instructors should be cautious in recom­                                     University.
+mending that one approach is broadly better than another. In reality, our                           Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. (2009). Introduction to
+                                                                                                        meta-analysis. Chichester, UK: Wiley.
+recommendations to instructors would be: If you think you can remove
+                                                                                                    Bui, D. C., & Myerson, J. (2014). The role of working memory abilities in lecture note-
+distractions on digital devices one way or another, then, in general, the                               taking. Learning and Individual Differences, 33, 12–22. https://doi.org/10.1016/j.
+notetaking method will make no difference. If you cannot control dis­                                   lindif.2014.05.002
+tractions, you might want to discourage the use of digital notetaking.                              Bui, D. C., Myerson, J., & Hale, S. (2013). Note-taking with computers: Exploring
+                                                                                                        alternative strategies for improved recall. Journal of Educational Psychology, 105(2),
+    Mechanistic constraints could be another reason one might have to                                   299–309. https://doi.org/10.1037/a0030367
+discourage the use of digital devices in the classroom, based on the                                Cabeza, R., Kapur, S., Craik, F. I. M., McIntosh, A. R., Houle, S., & Tulving, E. (1997).
+notion that longhand notetaking might afford more flexibility as well as                                Functional neuroanatomy of recall and recognition: A PET study of episodic
+                                                                                                        memory. Journal of Cognitive Neuroscience, 9, 254–265. https://doi.org/10.1162/
+the possible use of generative drawings, for example. However, software                                 jocn.1997.9.2.254
+designers seem to be aware of this potential limitation and have been                               Chew, S. L. (2021). An advance organizer for student learning: Choke points and pitfalls
+developing notetaking applications that attempt to resemble the process                                 in studying. Canadian Psychology [Online Publication Ahead of Print]. 10.1037/
+                                                                                                        cap0000290.
+used for handwritten notes, even providing an ability to include draw­                              Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale,
+ings and diagrams (e.g., Microsoft OneNote, Notability). Still, most ap­                                NJ: Lawrence Erlbaum Associates.
+plications cannot yet compete with the flexibility afforded by                                      Davis, M., & Hult, R. E. (1997). Effects of writing summaries as a generative learning
+                                                                                                        activity during note taking. Teaching of Psychology, 24(1), 47–49. https://doi.org/
+handwritten notetaking. Nevertheless, if students can find an applica­
+                                                                                                        10.1177/009862839702400112
+tion that meets their needs, mechanistic constraints should not be a                                *Desselle, S. P., & Shane, P.A. (2018). Laptop versus longhand note taking in a
+reason to discourage the use of digital devices for notetaking.                                         professional doctoral course: Student performance, attitudes, and behaviors.
+                                                                                                        INNOVATIONS in Pharmacy, 9(3), 1-12. 10.24926/iip.v9i3.1392.
+    Although our moderator analysis did not highlight specific variables,
+                                                                                                    Di Vesta, F. J., & Gray, G. S. (1972). Listening and note taking. Journal of Educational
+we are still convinced that the optimal notetaking approach depends on                                  Psychology, 63, 8–14. https://doi.org/10.1037/h0032243
+a multitude of factors, only some of which have been examined                                       Dontre, A. J. (2020). The influence of technology on academic distraction: A review.
+adequately in the literature. Accordingly, the hunt is still on for factors                             Human Behavior and Emerging Technologies, 1–12. https://doi.org/10.1002/hbe2.229
+                                                                                                    Dumitru, D. (2019). Creating meaning. The importance of Arts, Humanities and Culture
+relevant to the effect of notetaking methods. More research investigating                               for critical thinking development. Studies in Higher Education, 44(5), 870–879.
+new moderators with large representative samples of all reasonable ages                                 https://doi.org/10.1080/03075079.2019.1586345
+is needed for a more thorough examination of this question.                                         Duran, K. S., & Frederick, C. M. (2013). Information comprehension: Handwritten vs.
+                                                                                                        typed notes. Retrieved from Undergraduate Research Journal for the Human Sciences,
+                                                                                                        12(1) https://www.kon.org/urc/urc_research_journal12.html.
+Declaration of Competing Interest                                                                   *Eason, T. (2017). Various methods of note-taking and how they compare in terms of
+                                                                                                        information retention [Unpublished master’s thesis]. East Carolina University.
+                                                                                                    Edmondson, K. M., & Novak, J. D. (1993). The interplay of scientific epistemological
+    The authors declare that they have no known competing financial                                     views, learning strategies, and attitudes of college students. Journal of Research in
+interests or personal relationships that could have appeared to influence                               Science Teaching, 30(6), 547–559. https://doi.org/10.1002/(ISSN)1098-
+                                                                                                        273610.1002/tea.v30:610.1002/tea.3660300604
+the work reported in this paper.                                                                    Egger, M., Smith, G. D., Schneider, M., & Minder, C. (1997). Bias in meta-analysis
+                                                                                                        detected by a simple, graphical test. British Medical Journal, 315(7109), 629–634.
+Acknowledgments                                                                                         https://doi.org/10.1136/bmj.315.7109.629
+                                                                                                    Fiorella, L., & Mayer, R. E. (2017). Spontaneous spatial strategy use in learning from
+                                                                                                        scientific text. Contemporary Educational Psychology, 49, 66–79. https://doi.org/
+   This research was funded by the Teaching and Learning Priority                                       10.1016/j.cedpsych.2017.01.002
+Funds from the University of New Brunswick to S. Ronis and D. Voyer,                                Fulton, S., Schweitzer, D., Scharff, L., & Boleng, J. (2011). Demonstrating the impact of
+                                                                                                        multitasking in the classroom. Frontiers in Education Conference, FIE.. https://doi.org/
+and by a University of New Brunswick University Research Scholar                                        10.1109/FIE.2011.6142991
+Award to D. Voyer.                                                                                  Goodwin, B. (2018). The magic of writing stuff down. Educational Leadership, April 2018,
+                                                                                                        78-79.
+                                                                                                    Gurley, D. L. (2018). The relationship between note-taking method and grade point average
+References                                                                                              when controlling for ACT score and self-regulation. Unpublished doctoral dissertation,
+                                                                                                        Department of Higher Education, University of Mississippi.
+Starred (*) references were included in the meta-analysis.                                          Hedges, L. V., & Becker, B. J. (1986). Statistical methods in the meta-analysis of research
+                                                                                                        on gender differences. In J. Hyde, & M. C. Linn (Eds.), The psychology of gender:
+                                                                                                        Advance through meta-analysis (pp. 14–50). John Hopkins University Press.
+Allen, M., LeFebvre, L., LeFebvre, L., & Bourhis, J. (2020). Is the pencil mightier than the
+    keyboard? A meta-analysis comparing the method of notetaking outcomes. Southern
+
+
+                                                                                               12
+D. Voyer et al.                                                                                                                          Contemporary Educational Psychology 68 (2022) 102025
+
+Hembrooke, H., & Gay, G. (2003). The laptop and the lecture: The effects of multitasking             **Pettit-O’Malley, K. L., Liesz, T. J., & Sisodiya, S. R. (2017). The relative efficacy of
+     in learning environments. Journal of Computing in Higher Education, 15(1), 46–64.                   handwritten versus electronic student classroom notes. Business Education Innovation
+     https://doi.org/10.1007/BF02940852                                                                  Journal, 9(2), 110–197.
+Horwitz, S. M. (2017). Is note-taking more effective with a keyboard or a pen?.                      Peverly, S. T., Ramaswamy, V., Brown, C., Sumowski, J., Alidoost, M., & Garner, J.
+     Unpublished Master’s Thesis. University of Colorado Boulder.                                        (2007). What predicts skill in lecture note taking? Journal of Educational Psychology,
+Igo, L. B., Riccomini, P. J., Bruning, R. H., & Pope, G. G. (2006). How should middle-                   99, 167–180. https://doi.org/10.1037/0022-0663.99.1.167
+     school students with LD approach online note taking? A mixed-methods study.                     Piolat, Annie, Olive, Thierry, & Kellogg, Ronald T. (2005). Cognitive effort during note
+     Learning Disability Quarterly, 29, 89–100. https://doi.org/10.2307/30035537                         taking. Applied Cognitive Psychology, 19(3), 291–312. https://doi.org/10.1002/
+*Jackson, E. (2016). Comparing analog and digital note-taking among middle school students               (ISSN)1099-072010.1002/acp.v19:310.1002/acp.1086
+     [Unpublished Doctoral dissertation]. Northcentral University.                                   *Quade, A. M. (1995). A comparison of on-line and traditional paper and pencil notetaking
+Jamet, E., Gonthier, C., Cojean, S., Colliot, T., & Erhel, S. (2020). Does multitasking in               methods during computer-delivered instruction. [Unpublished report]. Retrieved from
+     the classroom affect learning outcomes? A naturalistic study. Computers in Human                    https://eric.ed.gov/?id=ED383330.
+     Behavior, 106, Article 106264. https://doi.org/10.1016/j.chb.2020.106264                        Rana, N. P., Slade, E., Kitching, S., & Dwivedi, Y. K. (2019). The IT way of loafing in class:
+Jansen, R. S., Lakens, D., & IJsselsteijn, W. A. (2017). An integrative review of the                    Extending the theory of planned behavior (TPB) to understand students’
+     cognitive costs and benefits of note-taking. Educational Research Review, 22, 223-233.              cyberslacking intentions. Computers in Human Behavior, 101, 114–123. https://doi.
+     10.1016/j.edurev.2017.10.001.                                                                       org/10.1016/j.chb.2019.07.022
+Jiang, Y., Clarke-Midura, J., Keller, B., Baker, R. S., Paquette, L., & Ocumpaugh, J.                Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: Applications and data
+     (2018). Note-taking and science inquiry in an open-ended learning environment.                      analysis methods (2nd ed.). Newbury Park, CA: Sage.
+     Contemporary Educational Psychology, 55, 12–29. https://doi.org/10.1016/j.                      Rawson, K. A., Vaughn, K. E., Walsh, M., & Dunlosky, J. (2018). Investigating and
+     cedpych.2018.08.004                                                                                 explaining the effects of successive relearning on long-term retention. Journal of
+Johnson, B. T., & Hennessy, E. A. (2019). Systematic reviews and meta-analyses in the                    Experimental Psychology: Applied, 24(1), 57–71. https://doi.org/10.1037/
+     health sciences: Best practice methods for research syntheses. Social Science &                     xap0000146
+     Medicine, 233, 237–251. https://doi.org/10.1016/j.socscimed.2019.05.035                         *Richards, T., Peverly, S., Wolf, A., Abbott, R., Tanimoto, S., Thompson, R., Nagy, W., &
+Kane, M. J., Carruth, N. P., Lurquin, J. H., Silvia, P. J., Smeekens, B. A., von                         Berninger, V. (2016). Idea units in notes and summaries for read texts by keyboard
+     Bastian, C. C., & Miyake, A. (2021). Individual differences in task-unrelated thought               and pencil in middle childhood students with specific learning disabilities: Cognitive
+     in university classrooms. Memory & Cognition, 49(6), 1247–1266. https://doi.org/                    and brain findings. Trends in Neuroscience and Education, 5(3), 146–155. https://doi.
+     10.3758/s13421-021-01156-3                                                                          org/10.1016/j.tine.2016.07.005
+Kay, R., Benzimra, D., & Li, J. (2017). Exploring factors that influence technology-based            Rodgers, Melissa A., & Pustejovsky, James E. (2020). Evaluating meta-analytic methods
+     distractions in bring your own device classrooms. Journal of Educational Computing                  to detect selective reporting in the presence of dependent effect sizes. Psychological
+     Research, 55(7), 974-995. 10.1177%2F0735633117690004.                                               Methods. Advance online publication., 26(2), 141–160.
+*Kennedy, D. R. (2019). The effect of banning computers on examination performance in                Ritter, N. L. (2015). The need for meta-analytic thinking in educational technology
+     a first-year pathophysiology class. American Journal of Pharmaceutical Education, 83                research. (Doctoral dissertation). Retrieved from https://www.researchgate.net/pro
+     (10), 2080–2084. 10.5688/ajpe7535.                                                                  file/Nicola-Ritter-2/publication/291827867_The_Need_for_Meta-Analytic_Thinkin
+Kiewra, Kenneth A. (1985). Investigating notetaking and review: A depth of processing                    g_in_Educational_Technology/links/597a23ebaca272e8cc0d399c/The-Need-for-Me
+     alternative. Educational Psychologist, 20(1), 23–32. https://doi.org/10.1207/                       ta-Analytic-Thinking-in-Educational-Technology.pdf.
+     s15326985ep2001_4                                                                               *Schoen, I. (2012). Effects of method and context of note-taking on memory:
+Kiewra, K., Dubois, N., Christian, D., McShane, A., Meyerhoffer, M., & Roskelley, D.                     Handwriting versus typing in lecture and textbook-reading contexts [Unpublished
+     (1991). Note-taking functions and techniques. Journal of Educational Psychology, 83,                senior’s thesis]. Pitzer College.
+     240–245. https://doi.org/10.1037/0022-0663.83.2.240                                             *Smoker, T. J., Murphy, C. E., & Rockwell, A. K. (2009). Comparing memory for
+*Kirkland, K. M. (2016). The effect of note taking media and preference on the cognitive                 handwriting versus typing. Proceedings of the Human Factors and Ergonomics Society
+     processes involved in learning. [Undergraduate Honors Theses], University of Colorado               Annual Meeting, 53(22), 1744–1747. 10.1177/154193120905302218.
+     Boulder.                                                                                        Stefanou, Candice, Hoffman, Lynn, & Vielee, Nicolette (2008). Note taking in the college
+*Kodaira, Y. (2017). An investigation of cognitive processes associated with notetaking and              classroom as evidence of generative learning. Learning Environments Research, 11(1),
+     notes-review [Unpublished doctoral dissertation]. Columbia University.                              1–17. https://doi.org/10.1007/s10984-007-9033-0
+*Kutta, T. J. (2017). Note-taking and technology [Unpublished doctoral dissertation]. Florida        Sun, D., & Li, Y. (2019). Effectiveness of digital note-taking on students’ performance in
+     State University.                                                                                   declarative, procedural and conditional knowledge learning. International Journal of
+Lin, L., & Bigenho, C. (2011). Note-Taking and memory in different media environments.                   Emerging Technologies in Learning (iJET), 14(18), 108–119. https://doi.org/10.3991/
+     Computers in the Schools, 28(3), 200–216. https://doi.org/10.1080/                                  ijet.v14i18.10825
+     07380569.2011.594989                                                                            Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). Boston, MA:
+Lipsey, M. W., & Wilson, D. B. (2001). Practical meta-analysis. Sage Publications.                       Allyn & Bacon.
+Lockhart, R. S., & Craik, F. I. (1990). Levels of processing: A retrospective commentary             Tesch, F., Coelho, D., & Drozdenko, R. (2011). We have met the enemy and he is us:
+     on a framework for memory research. Canadian Journal of Psychology, 44, 87–112.                     Relative potencies of classroom distractions. Business Education Innovation Journal, 3
+     https://doi.org/10.1037/h0084237                                                                    (2), 13–19.
+Luo, L., Kiewra, K. A., Flanigan, A. E., & Peteranetz, M. S. (2018). Laptop versus                   Thompson, B. (2002). What future quantitative social science research could look like:
+     longhand note taking: Effects on lecture notes and achievement. Instructional Science,              Confidence intervals for effect sizes. Educational Researcher, 31(3), 25–32. https://
+     46, 947–971. https://doi.org/10.1007/s11251-018-9458-0                                              doi.org/10.3102/0013189X031003025
+McCann, Lee I., Ebert, Alexandria R., Oechsner, Markus, Immel, Kathy R., & Kadah-                    Tipton, E., & Pustejovsky, J. (2015). Small-sample adjustments to multivariate
+     Ammeter, Tammy L. (2019). Studying for introductory psychology: Differences                         hypothesis tests in robust variance estimation in meta-regression. Journal of
+     across technical college, 2-, and 4-year institutions. Teaching of Psychology, 46(4),               Educational and Behavioral Statistics, 40, 604–634. https://doi.org/10.3102/
+     312–318. https://doi.org/10.1177/0098628319872591                                                   1076998615606099
+*Mitchell, A., & Zheng, L. (2017). Examining longhand vs. laptop debate: Evidence from a             Tulving, Endel, & Thomson, Donald M. (1973). Encoding specificity and retrieval
+     replication. [Unpublished report]. Retrieved from https://aisel.aisnet.org/                         processes in episodic memory. Psychological Review, 80(5), 352–373. https://doi.
+     amcis2017/Replication/Presentations/2/.                                                             org/10.1037/h0020071
+Morehead, K., Dunlosky, J., Rawson, K. A., Blasiman, R., & Hollis, R. B. (2019). Note-               Unsworth, N., & McMillan, B. D. (2017). Attentional disengagements in educational
+     taking habits of 21st century college students: Implications for student learning,                  contexts: A diary investigation of everyday mind-wandering and distraction.
+     memory, and achievement. Memory, 27, 807–819. https://doi.org/10.1080/                              Cognitive Research: Principles and Implications, 2(1), 32. https://doi.org/10.1186/
+     09658211.2019.1569694                                                                               s41235-017-0070-7
+Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard:                  *Urry, H. L. et al. (2021). Don’t ditch the laptop just yet: A direct replication of Mueller
+     Advantages of longhand over laptop note taking. Psychological Science, 25,                          and Oppenheimer’s (2014) study 1 plus mini-meta-analyses across similar studies,
+     1159–1168. https://doi.org/10.1177/0956797614524581                                                 Psychological Science, 32, 326-339. 10.31234/osf.io/vqyw6.
+Mueller, P. A., & Oppenheimer, D. M. (2018). “The pen is mightier than the keyboard:                 Van den Noortgate, Wim, López-López, José Antonio, Marín-Martínez, Fulgencio, &
+     Advantages of longhand over laptop note taking”: Corrigendum. Psychological                         Sánchez-Meca, Julio (2013). Three-level meta-analysis of dependent effect sizes.
+     Science, 29(9), 1565–1568. https://doi.org/10.1177/0956797618781773                                 Behavior Research Methods, 45(2), 576–594. https://doi.org/10.3758/s13428-012-
+Olive, Thierry, & Barbier, Marie-Laure (2017). Processing time and cognitive effort of                   0261-6
+     longhand note-taking when reading and summarizing a structured or linear text.                  Van den Noortgate, Wim, López-López, José Antonio, Marín-Martínez, Fulgencio, &
+     Written Communication, 34(2), 224–246. https://doi.org/10.1177/                                     Sánchez-Meca, Julio (2015). Meta-analysis of multiple outcomes: A multilevel
+     0741088317699898                                                                                    approach. Behavior Research Methods, 47(4), 1274–1294. https://doi.org/10.3758/
+Pabuccu, Aybuke, & Erduran, Sibel (2017). Beyond rote learning in organic chemistry:                     s13428-014-0527-2
+     The infusion and impact of argumentation in tertiary education. International Journal           Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. URL
+     of Science Education, 39(9), 1154–1172. https://doi.org/10.1080/                                    Journal of Statistical Software, 36, 1–48 http://www.jstatsoft.org/v36/i03/.
+     09500693.2017.1319988                                                                           Waite, Bradley M., Lindberg, Rachel, Ernst, Brittany, Bowman, Laura L., & Levine, Laura
+Patterson, R. W., & Patterson, R. M. (2017). Computers and productivity: Evidence from                   E. (2018). Off-task multitasking, note-taking and lower- and higher-order classroom
+     laptop use in the college classroom. Economics of Education Review, 57, 66–79.                      learning. Computers and Education, 120, 98–111. https://doi.org/10.1016/j.
+     https://doi.org/10.1016/j.econedurev.2017.02.004                                                    compedu.2018.01.007
+                                                                                                     Wammes, J. D., Boucher, P. O., Seli, P., Cheyne, J. A., & Smilek, D. (2016). Mind
+                                                                                                         wandering during lectures I: Changes in rates across an entire semester. Scholarship
+
+
+                                                                                                13
+D. Voyer et al.                                                                                                                 Contemporary Educational Psychology 68 (2022) 102025
+
+    of Teaching and Learning in Psychology, 2(1), 13–32. https://doi.org/10.1037/                  classroom learning. Computers & Education, 58(1), 365–374. https://doi.org/
+    stl0000053                                                                                     10.1016/j.compedu.2011.08.029
+Wei, F. Y. F., Wang, Y. K., & Fass, W. (2014). An experimental study of online chatting        Zeamer, C., & Fox Tree, J. E. (2013). The process of auditory distraction: Disrupted
+    and notetaking techniques on college students’ cognitive learning from a lecture.              attention and impaired recall in a simulated lecture environment. Journal of
+    Computers in Human Behavior, 34, 148–156. https://doi.org/10.1016/j.                           experimental psychology. Learning, memory, and cognition, 39(5), 1463–1472. https://
+    chb.2014.01.019                                                                                doi.org/10.1037/a0032190
+Wood, E., Zivcakova, L., Gentile, P., Archer, K., De Pasquale, D., & Nosko, A. (2012).         *Zyrowski, M. L. (2014). Digital annotation tools and comprehension [Unpublished
+    Examining the impact of off-task multi-tasking with technology on real-time                    Doctoral dissertation]. Oakland University.
+
+
+
+
+                                                                                          14
+

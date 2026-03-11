@@ -1,0 +1,856 @@
+The Effect of Laptop Note-Taking on Students’ Learning
+Performance, Strategies, and Satisfaction
+Yuxia Shi and Zhonggen Yu
+Beijing Language and Culture University, Beijing, China
+202221198374@stu.blcu.edu.cn
+yuzhonggen@blcu.edu.cn (corresponding author)
+401373742@qq.com
+Abstract: With the pervasiveness of laptops in the classroom setting, the effectiveness of laptop-assisted note-taking has not
+been comprehensively investigated. Many inconsistencies in this area still existed with intense debate towards academic
+performance, learning strategies, and student satisfaction. To fill this missing gap, this study probed the effect of laptop notetaking on the above constructs. The present study applied the comprehensive review by objectively selecting all relative
+literature from online database, with a main focus on learning areas and conducting the objective procedure. This study
+covered the positive, negative, as well as neutral effects of laptop note-taking on learning performance. Reasons behind the
+negative impact and worries were investigated in caution. Tackling the major concerns of distraction and multitasking, this
+study argued that these concerns might not be the main cause of low performance, individual’s characteristics and
+preference for the teaching styles shall be taken into consideration. Based on the above arguments, this study provided
+educators with multiple suggestions on alternative pedagogical approaches to improve teaching practice and student
+learning experience. The satisfaction of courses was probed together with the reasons for low satisfaction which promoted
+relative teaching instruction and teacher training. In this vein, this study contributed to the laptop note-taking areas by
+comprehensively analyzing the effect of laptop note-taking on learning strategies and satisfaction, which were unfortunately
+ignored by previous studies. Moreover, the present study enriches the e-learning knowledge and supports its practice by
+proving the side effects of simply banning laptops in class and suggests educators to integrate laptops into their pedagogical
+designs as well as learn more technology-based teaching strategies. Future research should reinvestigate the effect of laptop
+note-taking in class with more caution and endeavor to enhance the effectiveness of laptop note-taking in the class by
+capturing all possible variables of student learning, especially technology-relative variables.
+Keywords: Laptop note-taking, Longhand note-taking, Learning performance, Strategies, Satisfaction
+
+1.
+
+Introduction
+
+Computers are ubiquitous in universities (Dahlstrom and Bichsel, 2014). Most of the undergraduates in the
+survey use laptops as note-taking mediums for their speed, legibility, and search ability (Fried, 2008; Kim, Turner,
+and Pérez-Quiñones, 2009). With the pervasiveness use of laptop note-taking, recent decades witnessed a great
+transformation of pedagogical approaches to dig out the enormous potential of internet resources and learning
+opportunities. However, the efficiency of laptop note-taking was doubted mainly for its shallow processing,
+additional distraction, and multitasking burden (Sana, Weston, and Cepeda, 2013; Kay and Lauricella, 2014).
+Numerous studies have proved the non-significant effect of laptop note-taking on hindering information
+retention (Eason, 2017), recall comprehension (Wiechmann, et al., 2022), general academic performance
+(Voyer, Ronis, and Byers, 2022), and peer academic achievements (Aguilar-Roca, Williams, and O’Dowd, 2012).
+Several studies even revealed laptop note-taking’s positive impact on searching for class-related resources,
+sharing effective information with peers (Kay and Lauricella, 2014), and even better performance in tests (Sun
+and Li, 2019). Besides, other internal and external variables in the learning process can all entangle with the
+note-taking method to exert an impact on learning performance. Hence, a fine-grained review of laptop notetaking is still needed to uncover the controversies and pursue what affected learners’ learning through laptop
+note taking.
+The relationships between note-taking mediums, learning performance, and strategies have been investigated
+by enormous researchers, yet resulted in no consistency. As for learning performance, learners with different
+note-taking mediums would perform in different ways and lead to diversified outcomes. Some learners might
+be weakened by the verbatim transcription of laptop note-taking for lacking spatial ability (Luo, et al., 2018) and
+impaired memory (Mueller and Oppenheimer, 2014), while others with poor memory can benefit from this
+verbal transcription (Bui, Myerson, and Hale, 2013). As for learning strategies, longhand note takers tended to
+use verbal and spatial strategies to take notes, while laptop note takers were inclined to transcribe verbal notes.
+These different strategies would affect the efficiency of lecture notes (Luo, et al., 2018), learning ability, memory,
+and achievement (Mueller and Oppenheimer, 2014). Furthermore, different note-taking mediums were
+considered vital indicators of learners’ satisfaction. The choice of learning mediums would affect student
+ISSN 1479-4403
+
+78
+
+©The Authors
+
+Reference this paper: Shi, Y. and Yu, Z., 2024. The Effect of Laptop Note-Taking on Students’ Learning Performance,
+Strategies, and Satisfaction, The Electronic Journal of e-Learning, 22(1), pp 78-91, available online at www.ejel.org
+
+Yuxia Shi and Zhonggen Yu
+
+satisfaction, which would further influence learning affect and engagement (Albaker, 2021). Although relative
+studies were growing, there still existed a multitude of inconsistencies which appealed for more exploration;
+hence, the present study deeply and carefully probed the effect of laptop note-taking on students’ learning
+performance, strategies, and satisfaction.
+
+2.
+
+Theoretical Background
+
+2.1 Laptop Note-Taking
+Note-taking was prevalent among students while participating in extensive reading and comprehension
+activities (Erickson, 1996). Notes were considered as an inseparable section of writing practice which
+encouraged students to select appropriate parts, generate notes, and assemble them into different sections
+(Flower, 1990). In this vein, notes promised students’ active engagement with texts and materials, indicating the
+comprehension of knowledge (Slotte and Lonka, 1999). Nowadays, with the huge development of technology,
+laptops were ubiquitous in learning contexts, especially colleges. Hence, laptop note-taking became a hotpot
+among learners for its effectiveness in recording and organizing notes, which greatly shocked the traditional
+note-taking method - longhand note-taking. Longhand note-taking was based on handwriting methods to form
+notes, which was believed to facilitate memorization and retention of knowledge (Mueller and Oppenheimer,
+2014). Therefore, many researchers conducted empirical studies to testify the effect of note-taking medium on
+learning performance, strategies, satisfaction, and so on.
+2.2 Learning Performance
+Learning performance in this study included learning achievements, behaviors, test or course grades,
+effectiveness, completeness, and logical order of notes. Regarding the issue of the longhand note-taking versus
+laptop note-taking methods, numerous inconsistencies existed in research results, whether in replications or
+independent studies; thus, it led to no exact conclusion. Mueller and Oppenheimer (2014) criticized the negative
+effect of laptop note-taking on academic learning, and their critique resonated with other researchers (Patterson
+and Patterson, 2017; Allen, et al., 2020). Later, Voyer, Ronis, and Byers (2022) conducted a meta-analysis,
+excluding the distraction of laptops, and found that note-taking mediums or methods made no difference in
+academic performance. Besides the above missing link, many new moderators have been considered in this
+area, such as visual images (Luo, et al., 2018), encoding, and storage functions (Morehead, et al., 2019), which
+may interfere with the relationship between the note-taking mediums and learning performance. Hence,
+different note-taking methods, especially laptops, were central issues in the study of students’ learning
+performance.
+2.3 Learning Strategies
+Learning strategies were defined as methods or approaches to facilitate the acquisition of new knowledge or
+skills in the whole learning process. It consisted of setting learning goals, choosing preferred techniques, and
+monitoring learning process. Learning strategies were an important research topic in technology-based teaching
+and learning (Yu, Xu, and Sukjairungwattana, 2023). The difference in note-taking contexts might encourage
+different learning strategies, contributing to diversified outcomes (Mueller and Oppenheimer, 2014; Morehead,
+Dunlosky, and Rawson, 2019). Hence, numerous studies have endeavored to discover the effect of note-taking
+mediums on learning strategies. The learning strategy of transcribing with laptop note-taking would boost
+learning performance and benefit students with poor short-term memory (Bui, Myerson, and Hale, 2013).
+Establishing a computer-supported learning environment can develop students’ ability for strategic learning
+(Malmberg, Järvelä, and Kirschner, 2014). On the contrary, inconsistencies among different studies still
+pertained. Digital distraction impeded eleven self-regulation strategies proposed by Parry, le Roux, and Bantjes
+(2020). It was therefore considered necessary to investigate the influence of laptop-assisted note-taking on
+student learning strategies.
+2.4 Satisfaction
+Satisfaction was defined as students’ perceptions of their pleasantness with the quality of the lecturer, lecturing
+styles and speed, lecture content and organization, assessment policies, and overall satisfaction with their
+courses. Satisfaction was positively associated with performance, i.e., higher satisfaction with the lecture could
+result in a better understanding of materials and relatively greater performance (Yu, Chen, and Zhu, 2019).
+Myriad studies have investigated the vitality of student satisfaction in courses through different note-taking
+mediums, while the effects of note-taking methods on students’ satisfaction were not consistent. On the one
+hand, the convenience of laptop note-taking could increase students’ happiness and enjoyment in the courses
+
+www.ejel.org
+
+79
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+(Albaker, 2021). Introducing laptop-needed interactive activities into classrooms could increase student
+satisfaction and enhance the learning experience (Devasagayam, Stark, and Watroba, 2013). On the other hand,
+Wurst, Smarkola, and Gaffney (2008) concluded that students reported less satisfaction with laptop-aided
+courses compared with the longhand group. Hence, it was imperative to probe the effect of laptop note-taking
+on student satisfaction.
+In the whole timespan (2001-2023), learning performance was the locus of laptop researches starting from “the
+laptop initiative” in 2002. From 2001 to 2013, consumer metaphor was prevalent in relative laptop studies;
+therefore, many researchers focused on learners’ satisfaction in this period (Wurst, Smarkola, and Gaffney,
+2008). From 2013 to 2019, technology-based teaching and learning was a hotpot attracting many explorations
+on learning strategies. From 2019 to 2023, the COVID-19 pandemic caused the largest malfunction of education
+systems worldwide, which greatly promoted the spread and usage of computer/laptop technology in online
+learning. Since then, learner’s performance, learning strategies, and satisfaction became the most vital and
+urgent issue. Therefore, seeking to review the above variables comprehensively, the present review was
+noteworthy in the scope of education, especially in teaching pedagogy. Here we listed three research questions:
+RQ1: Could laptop-assisted note-taking improve learning performance?
+RQ2: Could laptop-assisted note-taking improve learning strategies?
+RQ3: Could laptop-assisted note-taking improve student satisfaction?
+
+3.
+
+Research Methods
+
+3.1 Research Design
+The researchers adopt a research design of the comprehensive review by objectively selecting all relative
+literature, with a main focus on learning areas and conducting the objective procedure. Based on inclusion and
+exclusion criteria, the researchers sifted several journal articles and offered a concise summary of the obtained
+literature.
+3.2 Research Corpus
+The data collection process consisted of the following parts: First, the researchers gained much literature by
+searching online databases. Secondly, the researchers removed unrelated literature and clustered them, after
+which they summarized the themes based on clustering results. Various databases were contained, such as
+Current Chemical Reactions (CCR-EXPANDED) and Index Chemicus (IC), which minimized publication bias and
+improved the representativeness of the study. The researchers collected 2725 relative literature on the 16th
+October 2023, by keying (“laptop*” OR “computer*” OR “digital*” OR “online*”) AND (“note taking” OR “notetaking” OR “tak* notes” OR “note*”) AND (“academic” OR “learning” OR “student*” OR “class*” OR “school”)
+AND (“perform*” OR “behave*”OR “outcome*” OR satisfaction OR “strategy*” OR “comprehen*”) as topic in
+online databases such as Science Citation Index Expanded (SCI-EXPANDED), Social Sciences Citation Index (SSCI),
+Arts & Humanities Citation Index (A&HCI), and Emerging Sources Citation Index (ESCI).
+To anchor to a specific research area, the literature was refined into a limited amount and clustered by a
+bibliographic network. Removing the irrelevant literature from other areas, i.e., “Psychology Multidisciplinary”
+“Computer Science Interdisciplinary Applications” “Psychology Experimental” and “Education Scientific
+Disciplines” as well as refining the research scope to “Education and Educational Research” the researchers
+obtained 569 results which were clustered by bibliographic network study through VOSviewer. The minimum
+number of occurrences of a keyword was set as 5 in the VOSviewer. Of the 2529 keywords, 172 meet the
+threshold. The main keywords were students’ performance, strategies, and satisfaction. The keywords with the
+strongest co-occurrence link were selected in Figure 1.
+
+www.ejel.org
+
+80
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+Figure 1: Clustering of Keywords
+3.3 Data Analysis and Credibility
+The researchers also included and excluded the obtained literature relying on STARLITE (Appendix A) (Booth and
+Booth, 2006) and Preferred Reporting Items for Systematic Review and Meta-analysis Protocol (PRISMA-P)
+(Page, et al., 2021) (Figure 2), which were used to describe the essential elements for reporting literature
+searches.
+S: Sampling strategy. A purposive strategy was taken for obtaining relevant literature as soon as possible to
+further refine the results into the scope of the laptop note-taking method effect.
+T: Type of studies. The study reported the study types of qualitative, quantitative, and mixed studies.
+A: Approaches. The researchers obtained data through hand search method. By Boolean search method, the
+researchers selected the keywords “laptop” “notetak* performance” “strateg*” “comprehen*” and satisfaction
+as titles.
+R: Range of years. This study included studies ranging from 2001 to 2023.
+L: Limits. This study is limited to English-written publications instead of other languages, and the publication site
+is open to all countries or areas. The sample is refined into high-quality qualitative, quantitative, or mixed
+studies, including book chapters and excluding reports and unpublished papers.
+I: Inclusion and exclusions. The inclusion criteria contained: (1) The study publication time should range from
+2001 to 2023; (2) The study is properly designed and reach convincing conclusions; (3) The study can offer
+enough relevant information to a comprehensive review; (4) The study shall investigate the effect of the laptop
+note-taking method on at least one of learning performance, strategies, and satisfaction; (5) The study should
+probe at least one element of learning performance, strategies, and satisfaction in the comparison of laptop and
+other note-taking methods (longhand, tablet, smartphone); (6) The research methods of the refined studies shall
+be qualitative, quantitative or mixed. The exclusion criteria containing: (1) duplicates; (2) titles and abstracts
+were irrelevant to the study; (3) topic-irrelevance; (4) out of educational areas; (5) no abstract and reference;
+(6) reports and non-published studies; (7) not enough information after contacting the authors.
+T: Terms used. This study used search terms of laptop note-taking, learning performance, strategies, and
+satisfaction.
+E: Electronic sources. The retrieval of studies was conducted by searching the core collection of Web of Science,
+consisting of Science Citation Index Expanded, Social Sciences Citation Index, Arts & Humanities Citation Index,
+Conference Proceedings Citation Index- Science, Conference Proceedings Citation Index- Social Science &
+Humanities, Emerging Sources Citation Index, Current Chemical Reactions, and Index Chemicus.
+As for the detailed literature selection process, several researchers cooperated to select high-quality studies by
+looking through each section of a study, such as title, abstract, keywords, introduction, literature review,
+methods or methodology, results, discussion, and conclusion. Two researchers independently rated all obtained
+www.ejel.org
+
+81
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+studies to assess high inter-rater reliability (k=0.795) (McHugh, 2012). If both of them cannot reach an
+agreement, a third researcher will join in the discussion of the selection and make final decisions about it (more
+details in Supplementary materials). Based on the bibliographic clustering analysis, STARLITE, and the PRISMAP, the researchers refined the results to a total of 59 articles of high quality and developed their results.
+
+Figure 2: A flow chart of the literature inclusion based on PRISMA-P
+
+4.
+
+Results
+
+4.1 RQ 1: Could Laptop-Assisted Note-Taking Improve Learning Performance?
+
+4.1.1
+
+The positive effect of laptop note-taking
+
+Strands of studies concluded that laptop note-taking could boost student learning performance in the classroom
+setting. Barak, Lipson, and Lerman (2006) found that using wireless laptops could promote learner-centered
+learning exploration and meaningful interaction among students, teachers, and their peers. “Deliberate
+engagement” of the laptop in large classes could improve student attentiveness and engagement (Samson,
+2023). For undergraduate university students, permission for laptop usage could facilitate laptop-based
+academic activities, collaboration with peers, concentration, organization, and efficiency (Kay, Lauricella, and
+Lauricella, 2011). When facing complicated lecture material and continuously provided new information, laptop
+note-taking could enhance learning performance in recognizing words and writing sentences based on its fast
+speed (Aragon-Mendizabal, et al., 2016; Thompson, Corrin, and Lodge, 2022). Digging into learning performance,
+Sun and Li (2019) and Albaker (2021) indicated that laptop note-taking students performed better in declarative,
+procedural, and conditional knowledge learning. Elliott-Dorans (2018) affirmed that laptop note-taking was
+beneficial for students because it produced more notes in limited lecture sessions. Concerning the process
+function and product function of note-taking methods, Luo, et al. (2018) recognized that laptop notes would
+accelerate learning performance in the immediate tests while the longhand notes in delayed tests after review.
+
+4.1.2
+
+No significant effect of laptop-assisted note-taking
+
+A certain number of studies also claimed that laptop note-taking had no significant effect on academic
+performance. Note-taking mediums exerted no effect on immediate and distal information retention and
+associated performance (Wood, et al., 2012). A survey-based observational study suggested that note-taking
+www.ejel.org
+
+82
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+methods (longhand, laptop, tablet) produced no difference in factual or conceptual recall comprehension
+(Wiechmann, et al., 2022). There existed no difference in the effect of mediums on academic achievements
+(Duhon, 2015). Moreover, by conducting a systemic meta-analysis of laptop note-taking mediums, Voyer, Ronis,
+and Byers (2022) concluded that note-taking methods did not affect academic performance after diminishing
+the distraction.
+
+4.1.3
+
+The negative effect of laptop note-taking
+
+Distraction and multitasking
+The effects wrought by technology were not all positive. The major concern of using computers in a classroom
+setting was digital distraction, which contained surfing the web, socially communicating with peers, and
+entertaining themselves by watching videos or playing games (Kay and Lauricella, 2014), which might disrupt
+quality (completeness of idea units) and quantity (total words or idea units) of students’ notes (Flanigan and
+Titsworth, 2020). Longer browsing sessions throughout a course posed decrement in students’ overall class
+grades (Grace-Martin and GayPh, 2001), and Ragan, et al. (2014) confirmed the above worry of laptop use in an
+unrestricted large lecture class, where students spent nearly two-thirds of the time in non-class activities.
+Moreover, some studies pointed out the drawbacks of laptop multitasking. Kraushaar and Novak (2010)
+observed that 42% of the class time was spent on multitasking behaviors and non-class applications. Multitasking
+on a laptop, especially for nonacademic activities, hindered the overall course performance through grades or
+GPA (Carrier, et al., 2015; Ravizza, Uitvlugt, and Fenn, 2017)
+Other worrying disadvantages of laptop note-taking
+On the cognitive side, taking longhand notes needed a deeper level of processing (encoding and storage).
+Mueller and Oppenheimer (2014) criticized laptop note-taking for its great tendency to verbatim overlap with
+lecture content, which would cause low cognitive processing compared with longhand note-taking. Other
+studies supported these findings on factual and conceptual questions (Piolat, Olive, and Kellogg, 2017; Crumb,
+Hildebrandt, and Sutton, 2022). Moreover, Flanigan, et al. (2023) found that during revision longhand note
+takers added three times as many complete thoughts into their notes than laptop note takers, which predicted
+better learning achievement. On the general performance side, computer use in the classroom was argued to
+cause detriment to course performance, especially to male students, final exam performance, and memorization
+of lecture contents (Hembrooke and Gay, 2003; Aguilar-Roca, Williams, and O’Dowd, 2012; Carter, Greenberg,
+and Walker, 2017; Patterson and Patterson, 2017; Allen, et al., 2020). On the individual side, students were
+regarded to understate the frequency of off-task activities during class when self-reporting (Kraushaar and
+Novak, 2010).
+
+4.1.4
+
+Controversies
+
+The major conflict remained whether the verbatim overlap of laptop note-taking would impede learning
+performance. Through three experiments, Mueller and Oppenheimer (2014) and other researchers found that
+longhand note-taking was superior to laptop note-taking in academic performance concerning verbatim
+overlap’s potential detriment to academic learning. On the contrary, Siegel (2023) concluded that verbatim
+overlap and word count did not account for the difference in performance between the two groups although
+they were greatly different in verbatim overlap (Morehead, Dunlosky, and Rawson, 2019). Furthermore, Mitchell
+and Zheng’s (2017) replication study even suggested that laptops may promote academic performance for the
+indirect effect of a greater word count, while the negative influence of verbatim overlap was insignificant.
+Other concerning conflicts relied on distraction and multitasking. Students always overestimated their ability to
+multitask activities of social and educational uses, which indicated that students were unmatured to make
+informed decisions about using digital devices in the classroom (Zahay, Kumar, and Trimble, 2017). Yet, other
+studies on multi-tasking showed that students knew the detriment of multi-tasking to their performance in some
+contexts (Finley, Benjamin, and McCarley, 2014). Some researchers demonstrated that the loss of students’
+concentration sometimes should not all blame on the distraction but also mind wandering (Was, Hollis, and
+Dunlosky, 2019). Some opponents contended that multitasking on a laptop caused a great distraction to not
+only its users but also peers who were directly confronted with laptop screens (Sana, Weston, and Cepeda,
+2013). Similarly, a recent study confirmed that laptop usage was detrimental to peers’ comprehension and
+retention of course content, especially when using laptops for non-class activities (Hall, et al., 2020).
+Nevertheless, Aguilar-Roca, Williams, and O’Dowd (2012) compared laptop-free and laptop-restricted zones to
+see the impact of laptop usage on surrounding peers who wrote their notes, and their study reclaimed that
+laptop use in fact did not hinder their overall performance.
+www.ejel.org
+
+83
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+4.2 RQ 2: Could Laptop-Assisted Note-Taking Improve Learning Strategies?
+
+4.2.1
+
+Pros and cons of strategies
+
+Different techniques for note-taking resulted in diversified learning processes and strategies, while studies
+concerning learning strategies were filled with inconsistencies. The learning strategy of transcribing using a
+laptop, compared with organized handwritten notes on paper, provided effective learning performance,
+especially for students with poor working memory (Bui, Myerson, and Hale, 2013). For elementary school
+students, creating a computer-supported learning environment can develop students’ strategic learning abilities
+(Malmberg, Järvelä, and Kirschner, 2014). On the other side, it is contentious that laptops would allure a
+verbatim typing strategy which encouraged shallow processing and thus hindered academic performance
+(Mueller and Oppenheimer, 2014). And the distraction of laptops failed eleven self-regulation strategies
+proposed by Parry, le Roux, and Bantjes (2020) to erode student academic performance.
+
+4.2.2
+
+Appropriate strategies
+
+The generative learning theory claimed that appropriate learning strategies that selected the most relative
+information from lectures can contribute greatly to meaningful learning (Wittrock, 1989) and even better
+learning behaviors. Fiorella and Mayer (2017) investigated the spontaneous spatial strategies of longhand,
+whiteboard, and laptop-assisted note-taking mediums and concluded that paper and whiteboard groups tended
+to use spatial strategies (e.g., mapping, drawing) while laptop one would use verbal strategies (e.g., words only,
+lists, or outlines). They yielded the viewpoint that laptop users linked their digital notes to a great number of
+legible words and fluent reorganization. The above finding implied that different groups would tend to apply
+diversified note taking habits that were suitable to their cognitive styles; hence, appropriate strategies were
+pivotal to learning and teaching.
+4.3 RQ 3: Could Laptop-Assisted Note-Taking Improve Learning Satisfaction?
+Research concerning laptop-assisted note-taking in class displayed no congruence. Students obtained good
+insights into the learning processes when teachers integrated technology into classes (Milliken and Barnes,
+2002). Recently, Albaker (2021) pointed out that students felt more enjoyable and easier to use laptops for notetaking than pen and pencil. Digital note-taking could, in turn, improve student academic performance at all
+levels, including excellent, intermediate, and underperforming students. On the contrary, students who used
+laptops reported less satisfaction with their education in comparison to longhand ones in the honor program
+(Wurst, Smarkola, and Gaffney, 2008). The lower satisfaction of students in the program, as explained by the
+author, may rely on the original preference of students who habitually took the longhand method while later
+were forced to use laptops.
+
+5.
+
+Discussion
+
+5.1 Difficulty in Determining the Effectiveness of Laptop Note-Taking
+Recent decades witnessed ubiquitous usage of laptops in classrooms and dynamically changed pedagogical
+approaches to integrate technology into multiple disciplines. Nevertheless, it was a tough task to determine the
+efficiency of laptop use based on the limited literature and inconsistencies among quantitative and qualitative
+studies. Numerous criticisms of laptop note-taking still existed for poor academic performance (Patterson and
+Patterson, 2017), digital distraction, and multitasking burden (Kay and Lauricella, 2014). However, due to the
+greater amount of word count, laptops were promising in promoting academic performance (Siegel, 2023).
+Distractions from digital devices can be weakened by the proper intervention of lecturers and more laptopengaged course activities (Griffin, 2014). Additionally, permission for digital note-taking in class can positively
+predict computer-based learning activities, peer collaboration, and strategic learning (Kay, Lauricella, and
+Lauricella, 2011; Malmberg, Järvelä, and Kirschner, 2014). To summarize, considering the advantages and
+disadvantages of laptop note-taking, we still cannot arrive at a definite conclusion about its influence on learning
+performance, strategies, and satisfaction.
+5.2 Concerns on Performance
+Major concerns on performance were laptop distraction and multitasking in classrooms (Sana, Weston, and
+Cepeda, 2013; Ragan, et al., 2014; Ravizza, Uitvlugt, and Fenn, 2017), whose reasons can be classified into
+internal and external ones. As for internal causes, attentional impulsiveness, Internet addiction, habitual
+technology use, boredom (Chen, Nath, and Tang, 2020), mind wandering (Was, Hollis, and Dunlosky, 2019), and
+low self-regulation would increase off-task and nonacademic laptop usage. Concerning external factors,
+
+www.ejel.org
+
+84
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+environmental stimuli such as the availability of technology (Chen, Nath, and Tang, 2020) and laptops’ huge
+capacity (Carrier, et al., 2015) could encourage multitasking activities in class. To solve the problem, educators
+were encouraged to develop relative and diversified pedagogues to tackle both the inner and outer causes. For
+one thing, helping students obtain a better understanding of their technology use patterns can improve their
+self-regulation and self-restriction. Informing students of the side effects of multitasking also enhance their selfcorrection of the laptop overuse and lower their attentional impulsiveness (Chen, Nath, and Tang, 2020; Dontre,
+2021). Educators could include more interactive activities in their lecture designs to decrease students’ boredom
+and mind wandering in class, such as teamwork and peer collaboration.
+For another thing, habitual technology use, the strongest determinant of distraction and multitasking, was
+partially triggered by external stimuli (e.g., the permission to use laptops). Some behaviorist educators would
+just ban the use of laptops in class while others would intervene in the learning process to eliminate distraction
+and irrelevant multitasking. As for the banning reaction, Yamamoto (2007) observed a positive influence on
+student evaluations and academic performance. However, Elliott-Dorans (2018) found that banning instruction
+was more likely to quiz student performance instead of help. Therefore, other educators decided not to deprive
+student’s right to free choice in note-taking methods, yet they would lay down relative intervention rules for
+laptop note-taking, such as setting the social norms of digital device use (Hembrooke and Gay, 2003; Fang, 2009),
+walking around the classroom or teaching from the back to keep students’ alert (Griffin, 2014), and encouraging
+a dedicated education-only device (Dontre, 2021).
+Different from the above behaviorist views, certain educators held the belief in social constructivism. They
+encouraged students to construct meaning from their own obtained knowledge, valued their opinions and
+choices, and highly promoted collaborative learning in class (Williams and Burden, 1997; Jonassen, 2013).
+Moreover, previous studies stated that social-constructivist goals, including student-centered interaction and
+embedded learning, can be achieved in a technology-aided learning environment (Rosen, 2009; Samson, 2010).
+Based on constructionist theories, pedagogical approaches like data collection, location awareness,
+collaboration, and class-related academic Internet use were especially suitable to digital devices (Patten,
+Arnedillo Sánchez, and Tangney, 2006; Chen and Tzeng, 2010). An initial try to introduce laptops into the
+classroom convinced Granberg and Witte (2005) that internet resources could enliven abstract concepts, enlarge
+interaction between students and educators, and encourage self-learning and peer learning in class. Intertwining
+digital content in a one-to-one laptop environment (digital teaching platform, one-to-one laptop support) could
+not only encourage different teaching planning and flexible designs, but also reduce students’ class absences,
+improve their engagement, and enhance learning achievement, and satisfaction (Rosen and Beck-Hill, 2012).
+
+5.2.1
+
+Other important variables influencing performance
+
+There were internal and external variables that greatly impacted learning performance, such as student
+personality, the degree of comfort with laptops, peers, lecture content and styles, and disciplines. On the one
+hand, Artz, et al. (2020) suggested that laptop note-taking had no statistically significant influence on learning
+performance which, instead, depended on the student’s personality. The more neurotic the personality of
+students was, the less acceptance of introducing mobile computing into the classroom they became; the more
+agreeable personality they were, students would be more supportive of the introduction of mobile devices in
+classes (Wergin, Tracy, and DeVee Dykstra, 2011). Students who were prone to accept new things or
+technologies would benefit from laptop note taking applications, while those who refused to try on new things
+stayed in the same place (Palaigeorgiou, et al., 2006). Furthermore, students’ degree of comfort with usage
+(Voyer, Ronis, and Byers, 2022) and their aptitude for using digital devices (Dahlstrom and Bichsel, 2014) would
+affect their fluent operation of laptops and corresponding performance. Regarding different performance levels,
+laptop note-taking may enhance the academic achievement of high-performing students (Sun and Li, 2019) while
+hinder the learning of low-performing students (Patterson and Patterson, 2017).
+Regarding the external cues, on the other hand, students’ behaviors in class, lecture styles, and disciplines would
+prompt distractions. Students’ choices of different note-taking methods also depended on the course material
+and lecture styles, implying that their learning efficacy and achievement did not solely rely on note-taking
+mediums (Morehead, Dunlosky, and Rawson, 2019). Organizer completeness (complete, partial, or no
+organization on PowerPoint-aided lessons) and the contextual congruence of the learning environment and
+testing environment could exert also a huge influence on test results (Colliot, et al., 2022). Moreover, different
+disciplines did initiate different learning outcomes, yet the results of studies were still controversial about which
+kind of discipline preferred a specific type of note-taking method or even a mixed type. Some studies conducted
+that longhand note-taking was superior in beginning courses, natural science courses ( Carter, Greenberg, and
+
+www.ejel.org
+
+85
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+Walker, 2017; Desselle and Shane, 2018; Allen, et al., 2020), and major courses (Patterson and Patterson, 2017).
+On the contrary, laptop note-taking also benefited students in social and health science (Aragon-Mendizabal, et
+al., 2016) and computer science courses (Sun and Li, 2019). Nevertheless, Wiechmann, et al. (2022) found no
+difference in the medical course, which may contradict Desselle and Shane’s (2018) conclusion.
+5.3 Concerns on Strategy
+The main argument on strategy lay in the tendency to transcribe verbatim notes allured by the convenience and
+fast pace of laptop typing. The tendency to take verbatim lecture notes caused a deleterious impact on recall
+despite the superior amount of lecture notes (Mueller and Oppenheimer, 2014). However, for transcribing
+notes, the note quantity was a better predictor of recall performance, which would be friendly to students with
+poor working memory; for organizing notes, the working memory would be the predictor of recall (Bui, Myerson,
+and Hale, 2013). Whether transcribing verbatim notes would exert a negative effect on learning outcomes or
+not shall consider different working memory.
+Hence, what kind of good strategies can result from laptop note-taking? Some studies yielded valuable insights
+into promoting laptop note-taking strategies. Applying a nonlinear association note-taking method could
+develop more meaningful association styles like linking words with the same contexts (Liu, Huang, and Chien,
+2019). Other researchers concentrated on note-taking software or applications. Note-taking applications (e.g.,
+Evernote, SpringPad, OneNote, Memonic, Keeppy, and Ubernote) focused on constructing notes with multiple
+sources and offloading learners’ cognitive pressure (Roy, Brine, and Murasawa, 2016). Palaigeorgiou, et al.
+(2006) developed electronic verbatim notes (eVerNotes) to promote verbatim note-taking and combine multiple
+notes into a hierarchy. Combining information visualization tools with note-taking could offer an overview of
+digital notes with diversified classification and flexible comparison (Willett, Goffin, and Isenberg, 2015), such as
+OneNote. Using multi-platform cloud-based note-taking application (Evernote) can support learners’ mobile
+learning and improve their ability to manage information, organize and record ideas (Schepman, et al., 2012).
+Roy, Brine, and Murasawa (2016) even found that note-taking applications can be applied to learn English as a
+foreign language effectively.
+5.4 Concerns on Satisfaction
+Laptop, with its huge internet resources, convenient input capacity, and easy modification, won students’
+appreciation (Steimle, Gurevych, and Mühlhäuser, 2007), while it was also refused and blamed for various
+reasons, mainly including distraction, inconvenience of equipment, and lack of computer skills. Distraction may
+cause anxiety and worries (Kay, 2008) and less satisfaction with lectures, resonated with previous studies
+(Hembrooke and Gay, 2003; Fried, 2008). Hardware and software problems would lessen students’ satisfaction
+towards courses (Rivera, McAlister, and Rice, 2002), and over 60% of students reported that laptops were too
+heavy to carry to class, diminishing positive learning feelings. From the aspect of lack of computer skills, both
+students’ and faculty’s computer capacity maintained the problems. Undergraduate students were found to be
+less pleased with web-based courses because of their low proficiency in computer skills and knowledge (Rivera,
+McAlister, and Rice, 2002), yet with increasing familiarity with computer skills, students’ worries decreased
+(Saunders and Klemming, 2003) and their happiness increased (Kay, 2008). Teachers with inadequate skills and
+knowledge of technology integration resulted in students’ feelings of frustration and boredom, and increased
+mind wandering in class, which hindered the active application of new learning methods (Newhouse and Rennie,
+2001).
+Therefore, strands of studies investigated solutions to the problem of equipment and computer skills through
+technological and pedagogical alteration. From the perspective of technological alteration, colleges, and
+universities are recommended to plan a proper layout for laptop classrooms to improve conductive academic
+learning while concerning the low visibility of laptop screens due to sun glare (Wurst, Smarkola, and Gaffney,
+2008). Installing more electrical sockets in classrooms could ensure the Internet for a comfortable and diversified
+learning environment (Castillo-Manzano, et al., 2017). In line with pedagogical changes, teachers could
+participate in relative computer training courses to promote their digital skills and introduce more new
+technology like Zoom into their classes to provide multiple learning resources. Moreover, experienced
+information technology leadership shall be called for to guide better strategic use of technology in students’
+digital devices and faculty teaching devices usage (Dahlstrom and Bichsel, 2014).
+
+www.ejel.org
+
+86
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+6.
+
+Conclusion
+
+6.1 Major Findings
+This study investigated the effect of the laptop note-taking method on academic performance, learning
+strategies, and student satisfaction with lectures. Based on a comprehensive analysis, both the negative,
+positive, and non-significant effects of laptop note-taking on learning performance were explored with caution.
+Reasons behind the negative impact and worries were investigated. Tackling the major concerns of distraction
+and multitasking, this study argued that these concerns might not be the main cause of low performance,
+individual’s characteristics and preference for the teaching styles shall be taken into consideration. The
+satisfaction of courses was probed together with the reasons for low satisfaction which promotes relative
+teaching instruction and teacher training. Laptop note-taking applications can tremendously enhance learners’
+ability and offload their cognitive pressure. Hence it was believed that indiscreetly abandoning laptop notetaking is unwise, and further investigation is encouraged to further the research.
+6.2 Limitations
+Although contributing to the current debate on laptop note taking, the present study was still limited due to the
+following reasons: firstly, the online databases that were retrieved for literature cannot include all of the
+relevant resources, which contained literature written in non-English, unpublished works, reports, and so on.
+Secondly, the current study was based on content analysis of other’s studies without the support of statistics,
+which may result in low reliability of the conclusion. Further meta-analysis studies and experimental studies are
+invited to carry on the debate on the effect of laptop note taking. Thirdly, the existing literature did not capture
+all possible student learning variables, which needs further request on this missing link.
+6.3 Future Research Directions
+Based on the aforementioned limitations, future research could, firstly, probe whether the negative effect of
+laptop note-taking (e.g., distraction, multitasking, and low satisfaction) can be diminished through technical
+methods (Castillo-Manzano, et al., 2017) and pedagogical approaches (Kay, Lauricella, and Lauricella, 2011).
+Secondly, more investigation to the adaptability of mixed or simplified note-taking methods on different
+disciplines are invited. Thirdly, other learning variables ranging from the external side (e.g., lecture content and
+material) to the internal side (e.g., student personality and learning styles) are appealed for exploration to
+contribute to flourished researches. Fourthly, different effects of laptop note-taking on different genders shall
+be considered in further studies. Fifthly, studies in this review are mainly conducted in the United States (e.g.,
+Mitchell and Zheng, 2017; Wiechmann, et al., 2022), Malaysia (Albaker, 2021), and Finland (Malmberg, Järvelä,
+and Kirschner, 2014); hence, more cross-sectional studies in other countries are welcomed (e.g., Kusumoto,
+2022; Siegle, 2023). Moreover, as for student demographics, this study covers from elementary school students
+to doctoral students with L1 or L2 English as testing materials (e.g., Rosen and Beck-Hill, 2012; Siegle, 2021).
+Limited to the technology popularization, university students use laptops more than other groups; hence, more
+studies on K12 and higher education are highly recommended.
+The combination of laptop note-taking and educational technologies is a fascinating trend in the future. Online
+collaborative note-taking with discussion forum in flipped learning contexts can greatly promote learners’
+performance (Fanguy, 2023). Future studies can investigate the interaction between collaborative laptop notetaking and online teaching platforms such as Zoom, Tencent Meeting, and MOOCs, which can potentially
+enhance learners’ e-learning ability. In addition, researchers can also explore the effectiveness of laptop notetaking in non-traditional formats like participatory learning (Li, et al., 2024; Yu, 2024). Finally, flipped classrooms
+(Yu and Gao, 2021), collaborative learning, and virtual reality-assisted learning (Yu and Duan, 2024) may be more
+productive in successful multitasking learning in class, which calls for more researchers to probe the relationship
+between multitasking and varieties of instructional formats (May and Elder, 2018). The findings in this study
+could be applied to the daily practice of educators and institutions in promoting learning performance,
+strategies, and satisfaction with laptop note-taking in class.
+We have no conflicts of interest to declare that are relevant to the content of this article
+
+References
+Aguilar-Roca, N.M., Williams, A.E. and O’Dowd, D.K., 2012. The impact of laptop-free zones on student performance and
+attitudes in large lectures. Computers & Education, [e-journal] 59(4), pp. 1300-1308.
+https://doi.org/10.1016/j.compedu.2012.05.002
+
+www.ejel.org
+
+87
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+Albaker, A.B., 2021. Digital versus longhand note-taking effect on students’ knowledge, satisfaction, and academic
+performance among medical students in Majmaah University. Pakistan Journal of Medical and Health Sciences, [ejournal] 15(4), pp. 1509-1513.
+Allen, M., LeFebvre, Luke, LeFebvre, Leah, Bourhis, J., 2020. Is the pencil mightier than the keyboard? A meta-analysis
+comparing the method of notetaking outcomes. Southern Communication Journal, [e-journal] 85(3), pp. 143-154.
+https://doi.org/10.1080/1041794X.2020.1764613
+Aragon-Mendizabal, E., Delgado-Casas, C., Navarro-Guzman, J.-I., Menacho-Jimenez, I., Romero-Oliva, M.-F., 2016. A
+comparative study of handwriting and computer typing in note-taking by university students. Comunicar, [e-journal]
+24(48), pp. 101-107. https://doi.org/10.3916/C48-2016-10
+Artz, B., Johnson, M., Robson, D., Taengnoi, S., 2020. Taking notes in the digital age: Evidence from classroom random
+control trials, Journal of Economic Education. [e-journal] 51(2), pp. 103-115.
+https://doi.org/10.1080/00220485.2020.1731386
+Barak, M., Lipson, A. and Lerman, S., 2006. Wireless laptops as means for promoting active learning in large lecture halls.
+Journal of Research on Technology in Education, [e-journal] 38(3), pp. 245-263.
+https://doi.org/10.1080/15391523.2006.10782459
+Booth, Andrew and Booth, A, 2006. Brimful of STARLITE: toward standards for reporting literature searches. Journal of the
+Medical Library Association, pp. 10.
+Bui, D.C., Myerson, J. and Hale, S., 2013. Note-taking with computers: Exploring alternative strategies for improved recall.
+Journal of Educational Psychology, [e-journal] 105, pp. 299-309. https://doi.org/10.1037/a0030367
+Carrier, L.M., Rosen, L.D., Cheever, N.A., Lim, A.F., 2015. Causes, effects, and practicalities of everyday multitasking.
+Developmental Review, [e-journal] 35, pp. 64-78. https://doi.org/10.1016/j.dr.2014.12.005
+Carter, S.P., Greenberg, K. and Walker, M.S., 2017. The impact of computer usage on academic performance: Evidence
+from a randomized trial at the United States Military Academy. Economics of Education Review, [e-journal] 56, pp.
+118-132. https://doi.org/10.1016/j.econedurev.2016.12.005
+Castillo-Manzano, J.I., Castro-Nuño, M., López-Valpuesta, L., Sanz-Díaz, M.T., Yñiguez, R., 2017. To take or not to take the
+laptop or tablet to classes, that is the question. Computers in Human Behavior, [e-journal] 68, pp. 326-333.
+https://doi.org/10.1016/j.chb.2016.11.017
+Chen, L., Nath, R. and Tang, Z., 2020. Understanding the determinants of digital distraction: An automatic thinking behavior
+perspective. Computers in Human Behavior, [e-journal] 104, pp. 106195. https://doi.org/10.1016/j.chb.2019.106195
+Chen, S.Y. and Tzeng, J.Y., 2010. College female and male heavy internet users’ profiles of practices and their academic
+grades and psychosocial adjustment. Cyberpsychology, Behavior, and Social Networking, [e-journal] 13(3), pp. 257262. https://doi.org/10.1089/cyber.2009.0023
+Colliot, T., Kiewra, K.A., Luo, L., Flanigan, A.E., Lu, J., Kennedy, C., Black, S., 2022. The effects of graphic organizer
+completeness and note-taking medium on computer-based learning. Education and Information Technologies, [ejournal] 27(2), pp. 2435-2456. https://doi.org/10.1007/s10639-021-10693-y
+Crumb, R.M., Hildebrandt, R. and Sutton, T.M., 2022. The value of handwritten notes: A failure to find state-dependent
+effects when using a laptop to take notes and complete a quiz. Teaching of Psychology, [e-journal] 49(1), pp. 7-13.
+https://doi.org/10.1177/0098628320979895
+Dahlstrom, E. and Bichsel, J., 2014. ECAR study of undergraduate students and information technology. 2014, Educause,
+pp. 50.
+Desselle, S.P. and Shane, P. A., 2018. Laptop versus longhand note-taking in a professional doctorate course: student
+performance, attitudes, and behaviors. Innovations in Pharmacy, [e-journal] 9(3), pp. 1-12.
+https://doi.org/10.24926/iip.v9i3.1392
+Devasagayam, P.R., Stark, N. and Watroba, R., 2013. Laptop technology in classrooms: How student perceptions shape
+learning and satisfaction. Atlantic Marketing Journal, 2(3). [online] Available at:
+https://digitalcommons.kennesaw.edu/amj/vol2/iss3/3
+Dontre, A.J., 2021. The influence of technology on academic distraction: A review. Human Behavior and Emerging
+Technologies, [e-journal] 3(3), pp. 379-390. https://doi.org/10.1002/hbe2.229
+Duhon, C., 2015. Effects of traditional versus electronic note taking in a high school biology classroom. LSU Master’s Theses
+[Preprint]. https://doi.org/10.31390/gradschool_theses.4179.
+Eason, T., 2017. Various methods of note-taking and how they compare in terms of information retention. Master’s Theses.
+[online] Available at: https://thescholarship.ecu.edu/handle/10342/6333
+Elliott-Dorans, L.R., 2018. To ban or not to ban? The effect of permissive versus restrictive laptop policies on student
+outcomes and teaching evaluations. Computers & Education, [e-journal] 126, pp. 183-200.
+https://doi.org/10.1016/j.compedu.2018.07.008
+Erickson, T., 1996. The design and long-term use of a personal electronic notebook: a reﬂective analysis. In: Proceedings of
+the SIGCHI Conference on Human Factors in Computing Systems ‘96. Vancouver, British Columbia, Canada, 11-18.
+New York: ACM Press.
+Fang, B., 2009. From distraction to engagement: Wireless devices in the classroom. Educause Quarterly, 32(4), pp. 4-9.
+Fanguy, M., Costley, J., Almusharraf, N., Almusharraf, A., 2023. Online collaborative note-taking and discussion forums in
+flipped learning environments, Australasian Journal of Educational Technology, [e-journal] 39, pp.142-158.
+https://doi.org/10.14742/ajet.8580
+
+www.ejel.org
+
+88
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+Finley, J.R., Benjamin, A.S. and McCarley, J.S., 2014. Metacognition of multitasking: How well do we predict the costs of
+divided attention? Journal of Experimental Psychology: Applied, [e-journal] 20, pp. 158-165.
+https://doi.org/10.1037/xap0000010
+Fiorella, L. and Mayer, R.E., 2017. Spontaneous spatial strategy use in learning from scientific text. Contemporary
+Educational Psychology, [e-journal] 49, pp. 66-79. https://doi.org/10.1016/j.cedpsych.2017.01.002
+Flanigan, A.E., Kiewra, K.A., Lu, J., Dzhuraev, D., 2023. Computer versus longhand note taking: Influence of revision.
+Instructional Science, [e-journal] 51(2), pp. 251-284. https://doi.org/10.1007/s11251-022-09605-5
+Flanigan, A.E. and Titsworth, S., 2020. The impact of digital distraction on lecture note taking and student learning.
+Instructional Science, [e-journal] 48(5), pp. 495-524. https://doi.org/10.1007/s11251-020-09517-2.
+Flower, L., 1990. Negotiating Academic Discourse. New York: Oxford University Press.
+Fried, C.B., 2008. In-class laptop use and its effects on student learning. Computers & Education, [e-journal] 50(3), pp. 906914. https://doi.org/10.1016/j.compedu.2006.09.006.
+Grace-Martin, M.A. and GayPh., D.G., 2001. Web browsing, mobile computing, and academic performance. Journal of
+Educational Technology & Society, 4(3), pp. 95-107.
+Granberg, E. and Witte, J., 2005. Teaching with laptops for the first time: Lessons from a social science classroom. New
+Directions for Teaching and Learning, [e-journal] 2005(101), pp. 51-59. https://doi.org/10.1002/tl.186.
+Griffin, A., 2014. Technology distraction in the learning environment. Technology, 4, pp. 14-2014. [online] Available at:
+https://aisel.aisnet.org/sais2014/10
+Hall, A.C.G., Lineweaver, T.T., Hogan, E.E., O’Brien, S.W., 2020. On or off task: The negative influence of laptops on
+neighboring students” learning depends on how they are used. Computers & Education, [e-journal] 153, pp. 103901.
+https://doi.org/10.1016/j.compedu.2020.103901.
+Hembrooke, H. and Gay, G., 2003. The laptop and the lecture: The effects of multitasking in learning environments. Journal
+of Computing in Higher Education, [e-journal] 15(1), pp. 46-64. https://doi.org/10.1007/BF02940852.
+Jonassen, D.H., 1991. Evaluating constructivistic learning. Educational Technology, 31(9), pp. 28-33. [online] Available at:
+https://www.jstor.org/stable/44401696
+Kay, R., Lauricella, S. and Lauricella, S., 2011. Exploring the benefits and challenges of using laptop computers in higher
+education classrooms: A formative analysis. Canadian Journal of Learning and Technology, [e-journal] 37(1).
+https://doi.org/10.21432/T2S598.
+Kay, R.H., 2008. Exploring the relationship between emotions and the acquisition of computer knowledge. Computers &
+Education, [e-journal] 50(4), pp. 1269-1283. https://doi.org/10.1016/j.compedu.2006.12.002.
+Kay, R.H. and Lauricella, S., 2014. Investigating the Benefits and Challenges of Using Laptop Computers in Higher Education
+Classrooms. Canadian Journal of Learning and Technology, 40(2). [online] Available at:
+https://eric.ed.gov/?id=EJ1030425.
+Kim, K., Turner, S.A. and Pérez-Quiñones, M.A., 2009. Requirements for electronic note taking systems: A field study of
+note taking in university classrooms. Education and Information Technologies, [e-journal] 14(3), pp. 255-283.
+https://doi.org/10.1007/s10639-009-9086-z.
+Kraushaar, J. and Novak, D., 2010. Examining the affects of student multitasking with laptops during the lecture. Journal of
+Information Systems Education, 21(2), pp. 241-252.
+Kusumoto, Y., 2022. A cross-cultural investigation of L2 notetaking: student habits and perspectives. Journal of Multilingual
+and Multicultural Development, [e-journal] 0, pp.1-17. https://doi.org/10.1080/01434632.2022.2036168.
+Li, X., Zhang, F., Duan, P., and Yu, Z., 2024. Teacher Support, Academic Engagement, and Learning Anxiety in Online Foreign
+Language Learning. British Journal of Educational Technology. [e-journal]. https://doi.org/10.1111/bjet.13430
+Liu, M.C., Huang, Y.M. and Chien, Y.C., 2019. Facilitating vocabulary note-taking on computers through the deep processing
+strategy. Journal of Educational Computing Research, [e-journal] 56(8), pp. 1296-1323.
+https://doi.org/10.1177/0735633117739411.
+Luo, L., Kiewra, K.A., Flanigan, A.E., Peteranetz, M.S., 2018. Laptop versus longhand note taking: effects on lecture notes
+and achievement. Instructional Science, [e-journal] 46(6), pp. 947-971. https://doi.org/10.1007/s11251-018-9458-0.
+Malmberg, J., Järvelä, S. and Kirschner, P. A., 2014. Elementary school students’ strategic learning: does task-type matter?
+Metacognition and Learning, [e-journal] 9(2), pp. 113-136. https://doi.org/10.1007/s11409-013-9108-5.
+May, K. E. and Elder, A. D., 2018. Efficient, helpful, or distracting? A literature review of media multitasking in relation to
+academic performance. International Journal of Educational Technology in Higher Education, [e-journal] 15(1), pp. 13.
+https://doi.org/10.1186/s41239-018-0096-z.
+McHugh, M.L., 2012. Interrater reliability: the kappa statistic. Biochem Med (Zagreb), 22, pp. 276-282.
+Milliken, J. and Barnes, L. P., 2002. Teaching and technology in higher education: student perceptions and personal
+reflections. Computers & Education, [e-journal] 39(3), pp. 223-235. https://doi.org/10.1016/S0360-1315(02)00042-8.
+Mitchell, A. and Zheng, L., 2017. Examining longhand vs. laptop debate: Evidence from a replication. AMCIS 2017
+Proceedings. 2. [online] Available at: https://aisel.aisnet.org/amcis2017/Replication/Presentations/2
+Morehead, K., Dunlosky, J., Rawson, K.A., Blasiman, R., Hollis, R.B., 2019. Note-taking habits of 21st Century college
+students: implications for student learning, memory, and achievement. Memory, [e-journal] 27(6), pp. 807-819.
+https://doi.org/10.1080/09658211.2019.1569694.
+Morehead, K., Dunlosky, J. and Rawson, K.A., 2019. How much mightier is the pen than the keyboard for note-taking? A
+replication and extension of Mueller and Oppenheimer (2014). Educational Psychology Review, [e-journal] 31(3), pp.
+753-780. https://doi.org/10.1007/s10648-019-09468-2.
+
+www.ejel.org
+
+89
+
+ISSN 1479-4403
+
+The Electronic Journal of e-Learning Volume 22 Issue 1 2024
+
+Mueller, P.A. and Oppenheimer, D.M., 2014. The pen is mightier than the keyboard: Advantages of longhand over laptop
+note-taking. Psychological Science, [e-journal] 25(6), pp. 1159-1168. https://doi.org/10.1177/0956797614524581.
+Newhouse, P. and Rennie, L., 2001. A longitudinal study of the use of student-owned portable computers in a secondary
+school. Computers & Education, [e-journal] 36(3), pp. 223-243. https://doi.org/10.1016/S0360-1315(00)00065-8.
+Page, M.J., McKenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., Shamseer, L., Tetzlaff, J.M., Akl, E.A.,
+Brennan, S.E., Chou, R., Glanville, J., Grimshaw, J.M., Hróbjartsson, A., Lalu, M.M., Li, T., Loder, E.W., Mayo-Wilson, E.,
+McDonald, S., McGuinness, L.A., Stewart, L.A., Thomas, J., Tricco, A.C., Welch, V.A., Whiting, P., Moher, D., 2021. The
+PRISMA 2020 statement: An updated guideline for reporting systematic reviews. International Journal of Surgery, [ejournal] 88, pp. 105906. https://doi.org/10.1016/j.ijsu.2021.105906.
+Palaigeorgiou, G. e., Despotakis, T. d., Demetriadis, S., Tsoukalas, I. A., 2006. Synergies and barriers with electronic
+verbatim notes (eVerNotes): note taking and report writing with eVerNotes. Journal of Computer Assisted Learning,
+[e-journal] 22(1), pp. 74-85. https://doi.org/10.1111/j.1365-2729.2006.00161.x.
+Parry, D.A., le Roux, D.B. and Bantjes, J.R., 2020. Testing the feasibility of a media multitasking self-regulation intervention
+for students: Behaviour change, attention, and self-perception. Computers in Human Behavior, [e-journal] 104, pp.
+106182. https://doi.org/10.1016/j.chb.2019.106182.
+Patten, B., Arnedillo Sánchez, I. and Tangney, B., 2006. Designing collaborative, constructionist and contextual applications
+for handheld devices. Computers & Education, [e-journal] 46(3), pp. 294-308.
+https://doi.org/10.1016/j.compedu.2005.11.011.
+Patterson, R.W. and Patterson, R.M., 2017. Computers and productivity: Evidence from laptop use in the college classroom.
+Economics of Education Review, [e-journal] 57, pp. 66-79. https://doi.org/10.1016/j.econedurev.2017.02.004.
+Piolat, A., Olive, T. and Kellogg, R.T., 2005. Cognitive effort during note taking. Applied Cognitive Psychology, [e-journal]
+19(3), pp. 291-312. https://doi.org/10.1002/acp.1086.
+Ragan, E.D., Jennings, S.R., Massey, J.D., Doolittle, P.E., 2014. Unregulated use of laptops over time in large lecture classes.
+Computers & Education, [e-journal] 78, pp. 78-86. https://doi.org/10.1016/j.compedu.2014.05.002.
+Ravizza, S.M., Uitvlugt, M.G. and Fenn, K.M., 2017. Logged in and zoned out: How laptop internet use relates to classroom
+learning. Psychological Science, [e-journal] 28(2), pp. 171-180. https://doi.org/10.1177/0956797616677314.
+Rivera, J.C., McAlister, M.K. and Rice, M.L., 2002. A comparison of student outcomes and satisfaction between traditional
+and web-based course offerings. Online Journal of Distance Learning Administration, 5(3), pp. 151-179. [online]
+Available at: https://www.learntechlib.org/p/94888/.
+Rosen, Y., 2009. The effects of an animation-based online learning environment on transfer of knowledge and on
+motivation for science and technology learning. Journal of Educational Computing Research, [e-journal] 40(4), pp.
+451-467. https://doi.org/10.2190/EC.40.4.d.
+Rosen, Y. and Beck-Hill, D., 2012. Intertwining digital content and a one-to-one laptop environment in teaching and
+learning: Lessons from the time to know program. Journal of Research on Technology in Education, [e-journal] 44(3),
+pp. 225-241. https://doi.org/10.1080/15391523.2012.10782588.
+Roy, D., Brine, J., Murasawa, F., 2016. Usability of English note-taking applications in a foreign language learning context.
+Computer Assisted Language Learning, [e-journal] 29, pp.61-87. https://doi.org/10.1080/09588221.2014.889715
+Samson, P., 2010. Effects of laptops in large classes on engagement: Results of three-year study, in. E-Learn: World
+Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education, Association for the
+Advancement of Computing in Education (AACE), pp. 1185-1193. [online] Available at:
+https://www.learntechlib.org/primary/p/35714/.
+Sana, F., Weston, T. and Cepeda, N.J., 2013. Laptop multitasking hinders classroom learning for both users and nearby
+peers. Computers & Education, [e-journal] 62, pp. 24-31. https://doi.org/10.1016/j.compedu.2012.10.003.
+Saunders, G. and Klemming, F., 2003. Integrating technology into a traditional learning environment: Reasons for and risks
+of success. Active Learning in Higher Education, [e-journal] 4(1), pp. 74-86.
+https://doi.org/10.1177/1469787403004001006.
+Schepman, A., Rodway, P., Beattie, C., Lambert, J., 2012. An observational study of undergraduate students’ adoption of
+(mobile) note-taking software. Computers in Human Behavior, [e-journal] 28, pp.308-317.
+https://doi.org/10.1016/j.chb.2011.09.014
+Siegel, J., 2021. Developing Notetaking Skills in a Second Language: Insights from classroom research. Routledge.
+Siegel, J., 2023. Pen and paper or computerized notetaking? L2 English students’ views and habits. Computers and
+Education Open, [e-journal] 4, pp. 100120. https://doi.org/10.1016/j.caeo.2022.100120.
+Slotte, V., Lonka, K., 1999. Review and Process Effects of Spontaneous Note-Taking on Text Comprehension. Contemporary
+Educational Psychology, [e-journal] 24, pp. 1-20. https://doi.org/10.1006/ceps.1998.0980
+Steimle, J., Gurevych, I. and Mühlhäuser, M., 2007. Notetaking in university courses and its implications for elearning
+systems. DeLFI 2007: 5. e-Learning FachtagungInformatik der Gesellschaft für Informatik eV (GI).
+Sun, D. and Li, Y., 2019. Effectiveness of digital note-taking on students’ performance in declarative, procedural and
+conditional knowledge learning. International Journal of Emerging Technologies in Learning, [e-journal] 14(18), pp.
+108-119. https://doi.org/10.3991/ijet.v14i18.10825.
+Thompson, K., Corrin, L. and Lodge, J.M., 2022. Examining the effects of note-taking styles on college students’ learning
+achievement and cognitive load. Australasian Journal of Educational Technology, [e-journal] 38(5), pp. 1-4.
+https://doi.org/10.14742/ajet.6688.
+
+www.ejel.org
+
+90
+
+©The Authors
+
+Yuxia Shi and Zhonggen Yu
+
+Voyer, D., Ronis, S.T. and Byers, N., 2022. The effect of notetaking method on academic performance: A systematic review
+and meta-analysis. Contemporary Educational Psychology, [e-journal] 68, pp. 102025.
+https://doi.org/10.1016/j.cedpsych.2021.102025.
+Was, C.A., Hollis, R.B. and Dunlosky, J., 2019. Do students understand the detrimental effects of mind wandering during
+online learning? Computers & Education, [e-journal] 135, pp. 113-122.
+https://doi.org/10.1016/j.compedu.2019.02.020.
+Wergin, R., Tracy, D.L., and DeVee Dykstra, J.D., 2011. An Investigation into Student Personality and Their Attitudes Toward
+Laptop Use in the Business School Classroom. Learning in Higher Education, 16(1), pp. 6.
+Wiechmann, W., Edwards, R.A., Low, C., Wray, A., Boysen-Osborn, M., Toohey, S.L., 2022. No difference in factual or
+conceptual recall comprehension for tablet, laptop, and handwritten note-taking by medical students in the United
+States: a survey-based observational study. Journal of Educational Evaluation for Health Professions, [e-journal] 19,
+pp. 8. https://doi.org/10.3352/jeehp.2022.19.8.
+Willett, W., Goffin, P. and Isenberg, P., 2015. Understanding digital note-taking practice for visualization. IEEE Computer
+Graphics and Applications, [e-journal] 35(4), pp. 38-51. https://doi.org/10.1109/MCG.2015.52.
+Williams, M. and Burden, R.L., 1997. Psychology for language teachers: A social constructivist approach (Vol. 5). Cambridge
+university press, Cambridge.
+Wittrock, M.C., (1989). Generative processes of comprehension. Educational Psychologist, [e-journal] 24(4), pp. 345-376.
+https://doi.org/10.1207/s15326985ep2404_2.
+Wood, E., Zivcakova, L., Gentile, P., Archer, K., De Pasquale, D., Nosko, A., 2012. Examining the impact of off-task multitasking with technology on real-time classroom learning. Computers & Education, [e-journal] 58(1), pp. 365-374.
+https://doi.org/10.1016/j.compedu.2011.08.029.
+Wurst, C., Smarkola, C. and Gaffney, M.A., 2008. Ubiquitous laptop usage in higher education: Effects on student
+achievement, student satisfaction, and constructivist measures in honors and traditional classrooms. Computers &
+Education, [e-journal] 51(4), pp. 1766-1783. https://doi.org/10.1016/j.compedu.2008.05.006.
+Yamamoto, K., 2007. Banning laptops in the classroom: Is it worth the hassles? Journal of Legal Education, 57(4), pp. 477520.
+Yu, Z., 2024. A systematic review of motivations, attitudes, learning outcomes, and parental involvement in social network
+sites in education across 15 years. Behaviour & Information Technology. [e-journal] pp. 1-16.
+https://doi.org/10.1080/0144929X.2023.2260893
+Yu, Z., Chen, W. and Zhu, Y., 2019. Student satisfaction, learning outcomes, and cognitive loads with a mobile learning
+platform. Computer Assisted Language Learning, [e-journal] 32(4), pp. 323-341.
+https://doi.org/10.1080/09588221.2018.1517093.
+Yu, Z., and Duan, P., 2024. Meta-analyses of anxiety, motivation, performance, satisfaction, and self-efficacy in virtual
+reality-assisted language education. Foreign Language Annals, [e-journal], pp. 1-31.
+https://doi.org/10.1111/flan.12748.
+Yu, Z. and Gao, M., 2022. Effects of video length on a flipped English classroom. SAGE Open, [e-journal] 12(1), pp.
+21582440211068474. https://doi.org/10.1177/21582440211068474.
+Yu, Z., Xu, W. and Sukjairungwattana, P., 2023. Motivation, learning strategies, and outcomes in mobile English language
+learning. The Asia-Pacific Education Researcher, [e-journal] 32(4), pp. 545-560. https://doi.org/10.1007/s40299-02200675-0.
+Zahay, D., Kumar, A. and Trimble, C., 2017. Motivation and active learning to improve student performance: An extended
+abstract, in M. Stieler (ed.) Creating Marketing Magic and Innovative Future Marketing Trends. Cham: Springer
+International Publishing, pp. 1259-1263. [online] Available at: http://link.springer.com/10.1007/978-3-319-455969_231.
+
+Appendix A: The STARLITE Evaluation (Booth, 2006)
+
+www.ejel.org
+
+91
+
+ISSN 1479-4403
+
+
