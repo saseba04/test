@@ -298,7 +298,7 @@
 
 150 retrieval practice for recall of material (Karpicke & Blunt, 2011; Lechuga, Ortega-Tudela, &
 
-151 Gómez-Ariza, 2015), but this is also influenced by prior training in concept mapping
+151 GÃ³mez-Ariza, 2015), but this is also influenced by prior training in concept mapping
 
 152 (Lechuga et al., 2015).
 
@@ -466,11 +466,55 @@
 
 234 though not required, to review the notes that they had made. All children received the same
 
-235instructions about reviewing notes. They were retested using the same questions. At the end236of the second test, participants' notes were collected to monitor the length of notes in words.237Study Two: Biology took place one month later. The same children took part in Study2382 and the note-taking mode was swapped. Due to pupil absence, the group sizes were slightly239smaller (Keyboard, n=12; Handwriting, n=11). The same procedure regarding240questionnaires, feedback, re-testing and collection of notes was used as that adopted in Study241
+235
+instructions about reviewing notes. They were retested using the same questions. At the end
+236
+of the second test, participants' notes were collected to monitor the length of notes in words.
+237
+Study Two: Biology took place one month later. The same children took part in Study
+238
+2 and the note-taking mode was swapped. Due to pupil absence, the group sizes were slightly
+239
+smaller (Keyboard, n=12; Handwriting, n=11). The same procedure regarding
+240
+questionnaires, feedback, re-testing and collection of notes was used as that adopted in Study
+241
 
-2421.
-243
-Statistical Analysis244In order to assess participants' understanding, a series of mixed model Analyses of245Variances (ANOVAs) were conducted: Mode of note-taking (handwriting, keyboarding) was246a between subjects factor, and time of test (immediate, delayed) was a within subjects factor.247Four such mixed model ANOVAs were conducted; assessing factual understanding in Study2481 and Study 2, and conceptual understanding in Study 1 and Study 2. Planned comparisons249compared handwriting and note-taking at each timepoint and the Bonferroni correction for250multiple tests was employed with an alpha level of 0.025 (0.05/2 comparisons). Note quantity251under the two conditions was compared by summing the number of words recorded and252conducting independent samples t-tests.253254Results255Study One: History256Mean scores and standard deviations for factual and conceptual understanding in the257two note-taking conditions are shown in Table 1.
+242
+1.
+
+243
+
+Statistical Analysis
+244
+In order to assess participants' understanding, a series of mixed model Analyses of
+245
+Variances (ANOVAs) were conducted: Mode of note-taking (handwriting, keyboarding) was
+246
+a between subjects factor, and time of test (immediate, delayed) was a within subjects factor.
+247
+Four such mixed model ANOVAs were conducted; assessing factual understanding in Study
+248
+1 and Study 2, and conceptual understanding in Study 1 and Study 2. Planned comparisons
+249
+compared handwriting and note-taking at each timepoint and the Bonferroni correction for
+250
+multiple tests was employed with an alpha level of 0.025 (0.05/2 comparisons). Note quantity
+251
+under the two conditions was compared by summing the number of words recorded and
+252
+conducting independent samples t-tests.
+253
+
+254
+Results
+255
+Study One: History
+256
+Mean scores and standard deviations for factual and conceptual understanding in the
+257
+two note-taking conditions are shown in Table 1.
+
 
 258
 
@@ -519,7 +563,57 @@ Statistical Analysis244In order to assess participants' understanding, a serie
 280 condition, the difference was not statistically significant, t(24) = 0.79, p = 0.436.
 
 
-281282Study Two: Biology283The mean scores for the factual and conceptual understanding scores under the two284note-taking conditions are shown in Table 2.285Biology: Factual understanding. Visual inspection of the data presented in Table 2286suggests that scores improved after one week compared to immediate test in both note-taking287conditions, and that scores were higher for children who handwrote notes. These impressions288were supported by the analyses, with significantly higher scores at the second test, one week289after the lesson, F(1,21) = 24.83, p < 0.001, ?p2 = 0.542. The difference between mode of290note-taking was marginal, F(1,21) = 4.15, p = 0.054, ?p2, and the interaction was not291significant, F(1,21) = 3.59, p = 0.072, ?p2 = 0.146.292Biology: Conceptual understanding. Examining the conceptual understanding scores293for the biology lesson suggests that notes taken when handwriting result in higher scores.294Furthermore, there appears to be an increase over time for the handwriting group, while the295keyboarding groups' scores do not change over time. The analyses supported these296impressions. The handwriting group outperformed the keyboarding group on conceptual297understanding scores, F(1,21) = 8.18, p = 0.009, ?p2 = 0.280. The main effect of time of test298was not statistically significant, F(1,21) = 1.06, p = 0.316, ?p2 = 0.048. The interaction299between time of test and mode of note-taking was not significant, F(1,21) 4.23, p = 0.052,300?p2 = 0.168. Visual inspection of data presented in Table 2 suggests an advantage for301handwriting over keyboarding in the delayed test, thus we completed planned comparisons to302fully explore the data. Immediately after the lesson, there was no significant difference in303conceptual understanding between the two note-taking groups, t(21) = 1.32, p = 0.203.304However, one week later, the handwriting group understood had significantly higher305conceptual understanding scores compared to the keyboarding group, t(21) = 3.26, p = 0.004.
+281
+
+282
+Study Two: Biology
+283
+The mean scores for the factual and conceptual understanding scores under the two
+284
+note-taking conditions are shown in Table 2.
+285
+Biology: Factual understanding. Visual inspection of the data presented in Table 2
+286
+suggests that scores improved after one week compared to immediate test in both note-taking
+287
+conditions, and that scores were higher for children who handwrote notes. These impressions
+288
+were supported by the analyses, with significantly higher scores at the second test, one week
+289
+after the lesson, F(1,21) = 24.83, p < 0.001, ?p2 = 0.542. The difference between mode of
+290
+note-taking was marginal, F(1,21) = 4.15, p = 0.054, ?p2, and the interaction was not
+291
+significant, F(1,21) = 3.59, p = 0.072, ?p2 = 0.146.
+292
+Biology: Conceptual understanding. Examining the conceptual understanding scores
+293
+for the biology lesson suggests that notes taken when handwriting result in higher scores.
+294
+Furthermore, there appears to be an increase over time for the handwriting group, while the
+295
+keyboarding groups' scores do not change over time. The analyses supported these
+296
+impressions. The handwriting group outperformed the keyboarding group on conceptual
+297
+understanding scores, F(1,21) = 8.18, p = 0.009, ?p2 = 0.280. The main effect of time of test
+298
+was not statistically significant, F(1,21) = 1.06, p = 0.316, ?p2 = 0.048. The interaction
+299
+between time of test and mode of note-taking was not significant, F(1,21) 4.23, p = 0.052,
+300
+?p2 = 0.168. Visual inspection of data presented in Table 2 suggests an advantage for
+301
+handwriting over keyboarding in the delayed test, thus we completed planned comparisons to
+302
+fully explore the data. Immediately after the lesson, there was no significant difference in
+303
+conceptual understanding between the two note-taking groups, t(21) = 1.32, p = 0.203.
+304
+However, one week later, the handwriting group understood had significantly higher
+305
+conceptual understanding scores compared to the keyboarding group, t(21) = 3.26, p = 0.004.
+
 306 Biology: Word Count. The mean word count for those who took notes by handwriting
 
 307 was 224.82 words (SD = 31.57) and for the keyboarding group, the mean word count was
@@ -996,9 +1090,21 @@ Statistical Analysis244In order to assess participants' understanding, a serie
 
 543 should be systematically explored by future work.
 
-544
-545
-References546Barker, L. J., & Aspray, W. (2006). The state of research on girls and IT. In J. M. Cohoon &547W. Aspray (Eds.), Women and Information Technology (pp. 3-54). Cambridge, MA.: The548MIT Press.549Bouygues, H. L. (2019). Does Educational Technology Help Students Learn? An analysis of
+544
+
+
+545
+
+References
+546
+Barker, L. J., & Aspray, W. (2006). The state of research on girls and IT. In J. M. Cohoon &
+547
+W. Aspray (Eds.), Women and Information Technology (pp. 3-54). Cambridge, MA.: The
+548
+MIT Press.
+549
+Bouygues, H. L. (2019). Does Educational Technology Help Students Learn? An analysis of
+
 550 the	connection	between	digital	devices	and	learning.
 
 551 https://doi.org/10.1080/00461520.2011.611369
@@ -1099,7 +1205,7 @@ References546Barker, L. J., & Aspray, W. (2006). The state of research on girl
 
 599 https://www.youtube.com/watch?v=UD6G1OOIabo
 
-600 Lechuga, M. T., Ortega-Tudela, J. M., & Gómez-Ariza, C. J. (2015). Further evidence that
+600 Lechuga, M. T., Ortega-Tudela, J. M., & GÃ³mez-Ariza, C. J. (2015). Further evidence that
 
 601 concept mapping is not better than repeated retrieval as a tool for learning from texts.
 
@@ -1230,17 +1336,57 @@ References546Barker, L. J., & Aspray, W. (2006). The state of research on girl
 
 
 
-Time of testMode of
-Note- taking
+Time of test
+Mode of
+Note- taking
 
 
-n
-Factual Understanding
-Conceptual UnderstandingMeanSDMeanSDImmediately
 
-post-lessonKeyboard1315.21.076.61.33Hand1314.22.527.01.29One week
+n
 
-post-lessonKeyboard1315.001.535.61.56Hand1314.92.107.81.17
+Factual Understanding
+
+Conceptual Understanding
+
+
+
+Mean
+SD
+Mean
+SD
+Immediately
+
+post-lesson
+Keyboard
+13
+15.2
+1.07
+6.6
+1.33
+
+Hand
+13
+14.2
+2.52
+7.0
+1.29
+One week
+
+post-lesson
+Keyboard
+13
+15.00
+1.53
+5.6
+1.56
+
+Hand
+13
+14.9
+2.10
+7.8
+1.17
+
 664
 
 665
@@ -1255,17 +1401,57 @@ post-lessonKeyboard1315.001.535.61.56Hand1314.92.107.81.17
 
 
 
-Time of testMode of Note-
-taking
+Time of test
+Mode of Note-
+taking
 
 
-n
-Factual Understanding
-Conceptual UnderstandingMeanSDMeanSDImmediately
 
-post-lessonKeyboard129.92.075.61.44Hand1112.42.986.31.01One week
+n
 
-post-lessonKeyboard1212.81.495.31.91Hand1113.62.067.30.79
+Factual Understanding
+
+Conceptual Understanding
+
+
+
+Mean
+SD
+Mean
+SD
+Immediately
+
+post-lesson
+Keyboard
+12
+9.9
+2.07
+5.6
+1.44
+
+Hand
+11
+12.4
+2.98
+6.3
+1.01
+One week
+
+post-lesson
+Keyboard
+12
+12.8
+1.49
+5.3
+1.91
+
+Hand
+11
+13.6
+2.06
+7.3
+0.79
+
 669
 
 670
